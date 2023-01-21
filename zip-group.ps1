@@ -3,6 +3,9 @@ $outnames = "fidwell.scenery_group.trees_dkso", "fidwell.scenery_group.shrubs_dk
 
 $homepath = Get-Location
 
+$grouptotal = 0
+$groupSuccess = 0
+
 for ($i = 0; $i -lt $scgroups.Length; ++$i) {
     # go home
     Set-Location $homepath
@@ -21,6 +24,8 @@ for ($i = 0; $i -lt $scgroups.Length; ++$i) {
     # get file list
     $Files = @(Get-ChildItem "./" -Recurse -File | Where-Object {$_.name -NotMatch "$scgroup.png"})
     $FullFilenames = $files | ForEach-Object -Process {Write-Output -InputObject $_.FullName}
+
+    $groupTotal += 1
 
     if ($Files.Count -ne 3)
     {
@@ -47,7 +52,11 @@ for ($i = 0; $i -lt $scgroups.Length; ++$i) {
 
     # release zip file
     $zip.Dispose()
+
+    $groupSuccess += 1
 }
 
 # go home
 Set-Location $homepath
+
+Write-Output "Created $groupSuccess out of $groupTotal groups."
