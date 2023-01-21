@@ -1,0 +1,62 @@
+{
+    "id": "fidwell.scenery_group.egyptian_dkso",
+    "authors": ["fidwell"],
+    "version": "2.0",
+    "originalId": "0A188F87|SCGEGYPT|020ADF77",
+    "sourceGame": "custom",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_large.sspx",
+            "rct2.scenery_large.scln",
+            "$DAT:0C58B202|IRESCLNC",
+            "rct2.scenery_large.spyr",
+            "rct2.scenery_small.tes1",
+            "$DAT:00000002|NINSTEG1",
+            "rct2.scenery_small.ten",
+            "$DAT:0C58B301|IRECTENC",
+            "rct2.scenery_small.ters",
+            "$DAT:09F55801|TERSCRBG",
+            "rct2.scenery_small.terb",
+            "$DAT:09F55801|TERBCRBG",
+            "rct2.scenery_small.tep",
+            "$DAT:09F55801|TEP1    ",
+            "rct2.scenery_wall.wew",
+            "$DAT:09F55A03|WEW1    ",
+            "rct2.footpath_item.lamp3",
+            "rct2.footpath_banner.bn4",
+            "rct2.footpath_item.benchstn"
+        ],
+        "priority": 22
+    },
+    "images": [
+        {
+            "path": "images\/0.png"
+        },
+        {
+            "path": "images\/1.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "DKSO Egyptian Theming",
+            "fr-FR": "DKSO Thème égyptien",
+            "de-DE": "DKSO Ägyptisches Thema",
+            "es-ES": "DKSO Temática egipcia",
+            "it-IT": "DKSO Tema egiziano",
+            "nl-NL": "DKSO Egyptisch thema",
+            "sv-SE": "DKSO Egyptiskt tema",
+            "ko-KR": "DKSO 이집트 테마",
+            "zh-CN": "DKSO 埃及主题",
+            "zh-TW": "DKSO 埃及主題區",
+            "pt-BR": "DKSO Temática Egípcia",
+            "cs-CZ": "DKSO Egyptské motivy",
+            "ja-JP": "DKSO エジプト風のテーマ",
+            "pl-PL": "DKSO Wystrój egipski",
+            "ru-RU": "DKSO Египет",
+            "eo-ZZ": "DKSO Egipta Temo",
+            "ca-ES": "DKSO Temàtica egípcia",
+            "fi-FI": "DKSO Egyptiläisteemaus"
+        }
+    }
+}
