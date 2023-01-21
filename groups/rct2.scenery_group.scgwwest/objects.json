@@ -1,0 +1,60 @@
+{
+    "id": "fidwell.scenery_group.wildwest_dkso",
+    "authors": ["fidwell"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_small.wag1",
+            "$DAT:00000002|MTWAG1  ",
+            "rct2.scenery_small.wag2",
+            "$DAT:00000002|MTWAG2  ",
+            "rct2.scenery_wall.wallwdps",
+            "rct2.scenery_large.genstore",
+            "rct2.scenery_large.saloon",
+            "rct2.scenery_large.wwbank",
+            "rct2.scenery_small.hang1",
+            "$DAT:0C58B301|IRHANG1C",
+            "rct2.scenery_small.totem1",
+            "rct2.scenery_small.teepee1",
+            "$DAT:0C58B301|IRTEPE1C",
+            "rct2.footpath_item.litterww"
+        ],
+        "priority": 38,
+        "entertainerCostumes": [
+            "bandit",
+            "sheriff"
+        ]
+    },
+    "images": [
+        {
+            "path": "images\/0.png"
+        },
+        {
+            "path": "images\/1.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "DKSO Wild West Theming",
+            "fr-FR": "DKSO Thème Western",
+            "de-DE": "DKSO Wildwest-Thema",
+            "es-ES": "DKSO Temática salvaje oeste",
+            "it-IT": "DKSO Tema far west",
+            "nl-NL": "DKSO Wildwestthema",
+            "sv-SE": "DKSO Vilda västern-tema",
+            "ko-KR": "DKSO 황량한 서부 테마",
+            "zh-CN": "DKSO 西部荒野主题",
+            "zh-TW": "DKSO 西部荒野主題區",
+            "pt-BR": "DKSO Temática do Velho Oeste",
+            "cs-CZ": "DKSO Kulisy divokého západu",
+            "ja-JP": "DKSO 大西部風テーマ",
+            "pl-PL": "DKSO Wystrój Dzikiego Zachodu",
+            "ru-RU": "DKSO Дикий Запад",
+            "eo-ZZ": "DKSO Sovaĝa-Okcidento-Temo",
+            "ca-ES": "DKSO Temàtica del salvatge oest",
+            "fi-FI": "DKSO Villin lännen teemaus"
+        }
+    }
+}
