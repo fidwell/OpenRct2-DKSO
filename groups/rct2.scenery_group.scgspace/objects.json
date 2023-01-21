@@ -1,0 +1,60 @@
+{
+    "id": "fidwell.scenery_group.space_dkso",
+    "authors": ["fidwell"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_large.ssr",
+            "rct2.scenery_large.sst",
+            "rct2.scenery_large.ssh",
+            "rct2.scenery_small.tscp",
+            "rct2.scenery_small.tsph",
+            "$DAT:0C58B401|IRETSPHC",
+            "rct2.scenery_small.tsc2",
+            "rct2.scenery_small.tsp1",
+            "$DAT:0C58B401|IRETSP1C",
+            "rct2.scenery_small.tsp2",
+            "rct2.scenery_wall.wallsp32",
+            "$DAT:0C58B503|IRWSP32C",
+            "rct2.scenery_small.spcroof1",
+            "$DAT:0C58B301|IRSPCROC"
+            "rct2.footpath_banner.bn9",
+            "rct2.footpath_item.benchspc",
+            "rct2.footpath_item.littersp"
+        ],
+        "priority": 31,
+        "entertainerCostumes": "astronaut"
+    },
+    "images": [
+        {
+            "path": "images\/0.png"
+        },
+        {
+            "path": "images\/1.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "DKSO Space Theming",
+            "fr-FR": "DKSO Thème Espace",
+            "de-DE": "DKSO Weltraumthema",
+            "es-ES": "DKSO Temática espacial",
+            "it-IT": "DKSO Tema spaziale",
+            "nl-NL": "DKSO Ruimtethema",
+            "sv-SE": "DKSO Rymdtema",
+            "ko-KR": "DKSO 우주 테마",
+            "zh-CN": "DKSO 太空世界主题",
+            "zh-TW": "DKSO 太空世界主題區",
+            "pt-BR": "DKSO Temática Espacial",
+            "cs-CZ": "DKSO Vesmírné kulisy",
+            "ja-JP": "DKSO スペース風のテーマ",
+            "pl-PL": "DKSO Wystrój kosmiczny",
+            "ru-RU": "DKSO Космос",
+            "eo-ZZ": "DKSO Kosma Temo",
+            "ca-ES": "DKSO Temàtica espacial",
+            "fi-FI": "DKSO Avaruusteemaus"
+        }
+    }
+}
