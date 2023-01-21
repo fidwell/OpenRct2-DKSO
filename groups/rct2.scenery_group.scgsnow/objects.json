@@ -1,0 +1,80 @@
+{
+    "id": "fidwell.scenery_group.snow_dkso",
+    "authors": ["fidwell"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_large.sip",
+            "rct2.scenery_small.tsm",
+            "rct2.scenery_small.tig",
+            "$DAT:0C58B401|IRETIG1C",
+            "rct2.scenery_small.tsf1",
+            "$DAT:0C58B401|IRETSF1C",
+            "rct2.scenery_small.tsf2",
+            "$DAT:0C58B401|IRETSF2C",
+            "rct2.scenery_small.tsf3",
+            "$DAT:0C58B401|IRETSF3C",
+            "rct2.scenery_small.tsnc",
+            "rct2.scenery_small.tsnb",
+            "$DAT:0C58B401|IRETSNBC",
+            "rct2.scenery_wall.wc16",
+            "$DAT:0C58B503|IREWC16C",
+            "rct2.scenery_wall.wc17",
+            "$DAT:0A188003|ELLWC17C",
+            "rct2.scenery_wall.wc18",
+            "$DAT:0C58B503|IREWC18C",
+            "$DAT:0A188003|ELLWC18C",
+            "rct2.footpath_item.jumpsnw1",
+            "rct2.scenery_small.tcfs",
+            "$DAT:00000002|GWTRCFS ",
+            "rct2.scenery_small.trfs",
+            "$DAT:00000002|GWTRRFS ",
+            "rct2.scenery_small.trf3",
+            "rct2.scenery_small.tnss",
+            "$DAT:00000002|GWTRNSS ",
+            "rct2.footpath_banner.bn8",
+            "rct2.scenery_wall.wallig16",
+            "$DAT:0C58B503|IRWIG16C",
+            "rct2.scenery_wall.wallig24",
+            "$DAT:0C58B503|IRWIG24C",
+            "rct2.scenery_small.igroof",
+            "$DAT:0C58B301|IREIGROC",
+            "rct2.scenery_small.icecube",
+            "$DAT:0C58B301|IRICCUBC"
+        ],
+        "priority": 30,
+        "entertainerCostumes": "snowman"
+    },
+    "images": [
+        {
+            "path": "images\/0.png"
+        },
+        {
+            "path": "images\/1.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "DKSO Snow and Ice Theming",
+            "fr-FR": "DKSO Thème Neige et glace",
+            "de-DE": "DKSO Schnee- und Eisthema",
+            "es-ES": "DKSO Temática de nieve y hielo",
+            "it-IT": "DKSO Tema nevoso/ghiacciato",
+            "nl-NL": "DKSO Sneeuw- en ijsthema",
+            "sv-SE": "DKSO Snö- och istema",
+            "ko-KR": "DKSO 눈과 얼음 테마",
+            "zh-CN": "DKSO 冰雪主题",
+            "zh-TW": "DKSO 冰雪主題區",
+            "pt-BR": "DKSO Temática de Neve e Gelo",
+            "cs-CZ": "DKSO Ledové a sněhové kulisy",
+            "ja-JP": "DKSO 雪と氷のテーマ",
+            "pl-PL": "DKSO Wystrój zimowy",
+            "ru-RU": "DKSO Снег и Лед",
+            "eo-ZZ": "DKSO Temo de Neĝo kaj Glacio",
+            "ca-ES": "DKSO Temàtica de neu i gel",
+            "fi-FI": "DKSO Lumi- ja jääteemaus"
+        }
+    }
+}
