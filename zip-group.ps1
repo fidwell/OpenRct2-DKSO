@@ -6,13 +6,15 @@ $homepath = Get-Location
 $grouptotal = 0
 $groupSuccess = 0
 
+$outdir = "./dist"
+New-Item $outdir -ItemType Directory
+
 for ($i = 0; $i -lt $scgroups.Length; ++$i) {
     # go home
     Set-Location $homepath
 
     $scgroup = $scgroups[$i]
     $outname = $outnames[$i]
-    $outdir = "./dist"
     $outfile = "$homepath/$outdir/$outname.parkobj"
 
     # remove old zip file
