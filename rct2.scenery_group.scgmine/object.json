@@ -1,0 +1,82 @@
+{
+    "id": "fidwell.scenery_group.mine_dkso",
+    "authors": ["fidwell"],
+    "version": "2.0",
+    "originalId": "0A188F87|SCGMINE |BAA04D4E",
+    "sourceGame": "custom",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_large.smh1",
+            "rct2.scenery_large.smh2",
+            "rct2.scenery_large.smn1",
+            "rct2.scenery_small.tbw",
+            "$DAT:0C58B301|IRECTBWC",
+            "rct2.scenery_small.tbr1",
+            "$DAT:0C58B301|IRETBR1C",
+            "rct2.scenery_small.tbr2",
+            "$DAT:0C58B301|IRETBR2C",
+            "rct2.scenery_small.tml",
+            "$DAT:00000001|1KRCLOGS",
+            "rct2.scenery_small.tmw",
+            "$DAT:0C58B401|IRECTMWC",
+            "rct2.scenery_small.tbr3",
+            "$DAT:0C58B301|LMPBRL02",
+            "rct2.scenery_small.tbr4",
+            "$DAT:0C58B301|LMPBRL01",
+            "rct2.scenery_small.tmj",
+            "$DAT:0C58B401|IRETMJ1C",
+            "rct2.footpath_banner.bn5",
+            "rct2.footpath_item.littermn",
+            "rct2.scenery_wall.wallwd8",
+            "rct2.scenery_wall.wallwd16",
+            "rct2.scenery_wall.wallwd32",
+            "$DAT:0C58B503|IRWMN32C",
+            "rct2.scenery_wall.wallwd33",
+            "rct2.scenery_wall.wallmn32",
+            "rct2.scenery_small.wdbase",
+            "$DAT:0A188D01|TOTROMIC",
+            "rct2.scenery_small.minroof1",
+            "$DAT:0A188D01|TOTRO13C",
+            "rct2.scenery_small.roof13",
+            "toontowner.scenery_small.ttrfwd01",
+            "toontowner.scenery_small.ttrfwd02",
+            "toontowner.scenery_small.ttrfwd03",
+            "toontowner.scenery_small.ttrfwd04",
+            "toontowner.scenery_small.ttrfwd06",
+            "toontowner.scenery_small.ttrfwd07",
+            "toontowner.scenery_small.ttrfwd08"
+        ],
+        "priority": 28
+    },
+    "images": [
+        {
+            "path": "images\/0.png"
+        },
+        {
+            "path": "images\/1.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "DKSO Mine Theming",
+            "fr-FR": "DKSO Thème Minier",
+            "de-DE": "DKSO Bergwerksthema",
+            "es-ES": "DKSO Temática minera",
+            "it-IT": "DKSO Tema miniera",
+            "nl-NL": "DKSO Mijnthema",
+            "sv-SE": "DKSO Gruv-tema",
+            "ko-KR": "DKSO 광산 테마",
+            "zh-CN": "DKSO 小人国主题",
+            "zh-TW": "DKSO 小人國",
+            "pt-BR": "DKSO Temática de Mina",
+            "cs-CZ": "DKSO Důlní kulisy",
+            "ja-JP": "DKSO 鉱山風のテーマ",
+            "pl-PL": "DKSO Wystrój górniczy",
+            "ru-RU": "DKSO Рудник",
+            "eo-ZZ": "DKSO Mintemo",
+            "ca-ES": "DKSO Temàtica minera",
+            "fi-FI": "DKSO Kaivosteemaus"
+        }
+    }
+}
