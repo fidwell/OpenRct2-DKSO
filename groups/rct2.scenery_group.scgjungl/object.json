@@ -1,0 +1,82 @@
+{
+    "id": "fidwell.scenery_group.jungle_dkso",
+    "authors": ["fidwell"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_small.tjt1",
+            "$DAT:00000002|GWTRJT1 ",
+            "rct2.scenery_small.tjt2",
+            "$DAT:00000002|GWTRJT2 ",
+            "rct2.scenery_small.tjb1",
+            "$DAT:09F55801|MG-RCT14",
+            "rct2.scenery_small.tjt3",
+            "$DAT:00000002|GWTRJT3 ",
+            "rct2.scenery_small.tjt4",
+            "$DAT:00000002|GWTRJT4 ",
+            "rct2.scenery_small.tjp1",
+            "rct2.scenery_small.tjb2",
+            "$DAT:09F55801|MG-RCT08",
+            "rct2.scenery_small.tjt5",
+            "$DAT:00000002|GWTRJT5 ",
+            "rct2.scenery_small.tjb3",
+            "$DAT:0C58B401|IRETJB3C",
+            "rct2.scenery_small.tjb4",
+            "$DAT:09F55901|SFRCBSH2",
+            "rct2.scenery_small.tjt6",
+            "$DAT:0C58B401|IRETJT6C",
+            "rct2.scenery_small.tjp2",
+            "rct2.scenery_small.tjf",
+            "rct2.scenery_wall.wpw1",
+            "$DAT:0A188003|ELLWPW1C",
+            "rct2.scenery_wall.wpw2",
+            "$DAT:0C58B603|IREWPW2C",
+            "rct2.scenery_wall.wjf",
+            "$DAT:0C58B603|ETHCLR10",
+            "couger.scenery_wall.acwwf32",
+            "couger.scenery_wall.acww33",
+            "rct2.footpath_banner.bn2",
+            "rct2.scenery_wall.walljn32",
+            "$DAT:0C58B503|IRWJN32C",
+            "rct2.scenery_small.jngroof1",
+            "$DAT:0C58B301|TOTJNGRC",
+            "rct2.scenery_small.roof14",
+            "$DAT:0A188D01|TOTRO14C",
+            "rct2.footpath_item.benchlog"
+        ],
+        "priority": 24,
+        "entertainerCostumes": "gorilla"
+    },
+    "images": [
+        {
+            "path": "images\/0.png"
+        },
+        {
+            "path": "images\/1.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "DKSO Jungle Theming",
+            "fr-FR": "DKSO Thème Jungle",
+            "de-DE": "DKSO Dschungelthema",
+            "es-ES": "DKSO Temática de jungla",
+            "it-IT": "DKSO Tema tropicale",
+            "nl-NL": "DKSO Junglethema",
+            "sv-SE": "DKSO Djungeltema",
+            "ko-KR": "DKSO 정글 테마",
+            "zh-CN": "DKSO 丛林主题",
+            "zh-TW": "DKSO 叢林主題區",
+            "pt-BR": "DKSO Temática de Selva",
+            "cs-CZ": "DKSO Jungle kulisy",
+            "ja-JP": "DKSO ジャングル風のテーマ",
+            "pl-PL": "DKSO Wystrój tropikalny",
+            "ru-RU": "DKSO Джунгли",
+            "eo-ZZ": "DKSO Ĝangalo-Temo",
+            "ca-ES": "DKSO Temàtica de la jungla",
+            "fi-FI": "DKSO Viidakkoteemaus"
+        }
+    }
+}
