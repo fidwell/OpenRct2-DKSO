@@ -1,0 +1,84 @@
+{
+    "id": "fidwell.scenery_group.wonderland_dkso",
+    "authors": ["fidwell"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_small.twh1",
+            "rct2.scenery_small.twh2",
+            "rct2.scenery_small.tst1",
+            "rct2.scenery_small.tst2",
+            "rct2.scenery_small.tms1",
+            "rct2.scenery_small.tst3",
+            "rct2.scenery_small.tst4",
+            "rct2.scenery_small.tst5",
+            "rct2.scenery_small.tas1",
+            "rct2.scenery_small.tas2",
+            "rct2.scenery_small.tas3",
+            "rct2.scenery_small.tas4",
+            "rct2.scenery_small.chbbase",
+            "$DAT:0C58B301|IRCHBBAC",
+            "rct2.scenery_small.tp1",
+            "$DAT:0C58B401|IRECTP1C",
+            "rct2.scenery_small.tp2",
+            "$DAT:0C58B401|IRECTP2C",
+            "rct2.scenery_small.tk1",
+            "$DAT:0C58B401|IRECTK1C",
+            "rct2.scenery_small.tk2",
+            "$DAT:0C58B401|IRECTK2C",
+            "rct2.scenery_small.tr1",
+            "$DAT:0C58B401|IRECTR1C",
+            "rct2.scenery_small.tr2",
+            "$DAT:0C58B401|IRECTR2C",
+            "rct2.scenery_small.tq1",
+            "$DAT:0C58B401|IRECTQ1C",
+            "rct2.scenery_small.tq2",
+            "$DAT:0C58B401|IRECTQ2C",
+            "rct2.scenery_small.tb1",
+            "$DAT:0C58B301|IRECTB1C",
+            "rct2.scenery_small.tb2",
+            "$DAT:0C58B301|IRECTB2C",
+            "rct2.scenery_small.tk3",
+            "$DAT:0C58B401|IRECTK3C",
+            "rct2.scenery_small.tk4",
+            "$DAT:0C58B401|IRECTK4C",
+            "rct2.scenery_wall.wcw1",
+            "$DAT:0C58B603|IREWCW1C",
+            "rct2.scenery_wall.wcw2",
+            "$DAT:0C58B603|IREWCW2C"
+        ],
+        "priority": 34
+    },
+    "images": [
+        {
+            "path": "images\/0.png"
+        },
+        {
+            "path": "images\/1.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "DKSO Wonderland Theming",
+            "fr-FR": "DKSO Thème Pays des merveilles",
+            "de-DE": "DKSO Wunderland-Thema",
+            "es-ES": "DKSO Temática fantástica",
+            "it-IT": "DKSO Tema del paese delle meraviglie",
+            "nl-NL": "DKSO Wonderlandthema",
+            "sv-SE": "DKSO Underlandstema",
+            "ko-KR": "DKSO 동화나라 테마",
+            "zh-CN": "DKSO 仙境主题",
+            "zh-TW": "DKSO 仙境主題區",
+            "pt-BR": "DKSO Temática de Fantasia",
+            "cs-CZ": "DKSO Kulisy říše divů",
+            "ja-JP": "DKSO 不思議の国のテーマ",
+            "pl-PL": "DKSO Wystrój Krainy Czarów",
+            "ru-RU": "DKSO Чудесная Тема",
+            "eo-ZZ": "DKSO Mirlando-Temo",
+            "ca-ES": "DKSO Temàtica del món de les meravelles",
+            "fi-FI": "DKSO Ihmemaa-teemaus"
+        }
+    }
+}
