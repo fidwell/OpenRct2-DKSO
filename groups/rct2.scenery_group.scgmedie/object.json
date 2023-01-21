@@ -1,0 +1,96 @@
+{
+    "id": "fidwell.scenery_group.medieval_dkso",
+    "authors": ["fidwell"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_small.tct1",
+            "$DAT:0A188D01|ELLTCT1C",
+            "rct2.scenery_large.stb1",
+            "rct2.scenery_large.stb2",
+            "rct2.scenery_wall.wc1",
+            "$DAT:0A188003|ELLWC1C ",
+            "rct2.scenery_wall.wc4",
+            "$DAT:0A188003|ELLWC4C ",
+            "rct2.scenery_wall.wc5",
+            "$DAT:0A188003|ELLWC5C ",
+            "rct2.scenery_wall.wc6",
+            "$DAT:0A188003|ELLWC6C ",
+            "rct2.scenery_wall.wc7",
+            "$DAT:0A188003|ELLWC7C ",
+            "rct2.scenery_wall.wc8",
+            "$DAT:0A188003|ELLWC8C ",
+            "rct2.scenery_wall.wallcz32",
+            "$DAT:0C58B503|IRWCZ32C",
+            "rct2.scenery_wall.wallcy32",
+            "$DAT:0C58B503|IRWCY32C",
+            "rct2.scenery_small.tct2",
+            "$DAT:0A188D01|ELLTCT2C",
+            "$DAT:0A188D01|ELLTCT2D",
+            "rct2.scenery_large.stg1",
+            "$DAT:0C58B202|IRESTG1C",
+            "rct2.scenery_large.stg2",
+            "$DAT:0C58B202|IRESTG2C",
+            "rct2.scenery_wall.wc2",
+            "$DAT:0A188003|ELLWC2C ",
+            "rct2.scenery_wall.wc9",
+            "$DAT:0A188003|ELLWC9C ",
+            "rct2.scenery_wall.wc10",
+            "$DAT:0A188003|ELLWC10C",
+            "rct2.scenery_wall.wc11",
+            "$DAT:0A188003|ELLWC11C",
+            "rct2.scenery_wall.wc12",
+            "$DAT:0A188003|ELLWC12C",
+            "rct2.scenery_wall.wc13",
+            "$DAT:0A188003|ELLWC13C",
+            "rct2.scenery_wall.wallcw32",
+            "rct2.scenery_wall.wallcx32",
+            "rct2.scenery_small.tcn",
+            "$DAT:0C58B301|IRETCN1C",
+            "rct2.scenery_small.ttg",
+            "$DAT:0C58B401|IRECTTGC",
+            "rct2.scenery_large.sct",
+            "rct2.scenery_large.soh1",
+            "rct2.scenery_large.soh2",
+            "rct2.scenery_large.soh3",
+            "rct2.scenery_wall.wpw3",
+            "$DAT:0A188003|ELLWPW3C"
+            "rct2.scenery_wall.wallcfpc",
+            "rct2.scenery_wall.wallcbpc"
+        ],
+        "priority": 27,
+        "entertainerCostumes": "knight"
+    },
+    "images": [
+        {
+            "path": "images\/0.png"
+        },
+        {
+            "path": "images\/1.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "DKSO Medieval Theming",
+            "fr-FR": "DKSO Thème Médiéval",
+            "de-DE": "DKSO Mittelalterthema",
+            "es-ES": "DKSO Temática medieval",
+            "it-IT": "DKSO Tema medievale",
+            "nl-NL": "DKSO Middeleeuws thema",
+            "sv-SE": "DKSO Medeltidstema",
+            "ko-KR": "DKSO 중세 테마",
+            "zh-CN": "DKSO 中古世纪主题",
+            "zh-TW": "DKSO 中古世紀主題區",
+            "pt-BR": "DKSO Temática Medieval",
+            "cs-CZ": "DKSO Středověké kulisy",
+            "ja-JP": "DKSO 中世風のテーマ",
+            "pl-PL": "DKSO Wystrój średniowieczny",
+            "ru-RU": "DKSO Средневековье",
+            "eo-ZZ": "DKSO Mezepoka Temo",
+            "ca-ES": "DKSO Temàtica medieval",
+            "fi-FI": "DKSO Keskiaikainen teemaus"
+        }
+    }
+}
