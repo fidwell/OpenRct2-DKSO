@@ -1,0 +1,62 @@
+{
+    "id": "rct2.scenery_group.scgjuras",
+    "authors": ["fidwell"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_small.tbn",
+            "$DAT:0C58B301|IRECTBNC",
+            "rct2.scenery_small.tbn1",
+            "$DAT:09F55801|1DINOBN2",
+            "rct2.scenery_small.tdn4",
+            "$DAT:0C58B301|IRETDN4C",
+            "rct2.scenery_small.tdn5",
+            "$DAT:0C58B301|IRETDN5C",
+            "rct2.scenery_large.sdn1",
+            "rct2.scenery_large.sdn2",
+            "rct2.scenery_large.sdn3",
+            "rct2.scenery_wall.wwtw",
+            "$DAT:09F55B03|1KWDTPI2",
+            "rct2.scenery_wall.wmww",
+            "$DAT:0C58B603|IREWMWWC",
+            "rct2.scenery_wall.wwtwa",
+            "$DAT:09F55B03|1KWDTPI ",
+            "rct2.scenery_wall.wbw",
+            "$DAT:0C58B503|IRECWBWC",
+            "rct2.footpath_banner.bn6"
+        ],
+        "priority": 25
+    },
+    "images": [
+        {
+            "path": "images\/0.png"
+        },
+        {
+            "path": "images\/1.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "DKSO Jurassic Theming",
+            "fr-FR": "DKSO Thème Jurassique",
+            "de-DE": "DKSO Jurassic-Thema",
+            "es-ES": "DKSO Temática jurásica",
+            "it-IT": "DKSO Tema giurassico",
+            "nl-NL": "DKSO Jurassisch thema",
+            "sv-SE": "DKSO Dinosaurietema",
+            "ko-KR": "DKSO 쥐라기 테마",
+            "zh-CN": "DKSO 侏罗纪主题",
+            "zh-TW": "DKSO 侏羅紀主題區",
+            "pt-BR": "DKSO Temática Jurássica",
+            "cs-CZ": "DKSO Jurské kulisy",
+            "ja-JP": "DKSO ジュラシック風のテーマ",
+            "pl-PL": "DKSO Wystrój jurajski",
+            "ru-RU": "DKSO Юрский Парк",
+            "eo-ZZ": "DKSO Ĵurasa Temo",
+            "ca-ES": "DKSO Temàtica juràssica",
+            "fi-FI": "DKSO Jurassinen teemaus"
+        }
+    }
+}
