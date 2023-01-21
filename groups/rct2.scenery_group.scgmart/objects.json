@@ -1,0 +1,58 @@
+{
+    "id": "fidwell.scenery_group.martian_dkso",
+    "authors": ["fidwell"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_large.smb",
+            "rct2.scenery_small.tmo1",
+            "rct2.scenery_small.tmo2",
+            "$DAT:0A188E01|TMO2C   ",
+            "$DAT:0C58B401|IRETMO2C",
+            "rct2.scenery_small.tmo3",
+            "$DAT:0C58B401|IRETMO3C",
+            "rct2.scenery_small.tmo4",
+            "rct2.scenery_small.tmo5",
+            "$DAT:0C58B401|IRETMO5C",
+            "rct2.scenery_large.svlc",
+            "$DAT:0C58B202|ETHCLR41",
+            "rct2.scenery_wall.wmw",
+            "$DAT:0C58B603|IRECWMWC",
+            "rct2.footpath_item.lamp4"
+        ],
+        "priority": 26,
+        "entertainerCostumes": "astronaut"
+    },
+    "images": [
+        {
+            "path": "images\/0.png"
+        },
+        {
+            "path": "images\/1.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "DKSO Martian Theming",
+            "fr-FR": "DKSO Thème Alien",
+            "de-DE": "DKSO Mars-Thema",
+            "es-ES": "DKSO Temática marciana",
+            "it-IT": "DKSO Tema marziano",
+            "nl-NL": "DKSO Marsthema",
+            "sv-SE": "DKSO Mars-tema",
+            "ko-KR": "DKSO 화성 테마",
+            "zh-CN": "DKSO 火星主题",
+            "zh-TW": "DKSO 火星人主題區",
+            "pt-BR": "DKSO Temática Marciana",
+            "cs-CZ": "DKSO Marťanské kulisy",
+            "ja-JP": "DKSO 火星人風のテーマ",
+            "pl-PL": "DKSO Wystrój marsjański",
+            "ru-RU": "DKSO Марс",
+            "eo-ZZ": "DKSO Marsa Temo",
+            "ca-ES": "DKSO Temàtica marciana",
+            "fi-FI": "DKSO Marsilainen teemaus"
+        }
+    }
+}
