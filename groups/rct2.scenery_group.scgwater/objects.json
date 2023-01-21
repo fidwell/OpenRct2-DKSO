@@ -1,0 +1,55 @@
+{
+    "id": "fidwell.scenery_group.water_dkso",
+    "authors": ["fidwell"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_wall.wallwf32",
+            "$DAT:09F55A03|WALLWF33",
+            "rct2.scenery_small.whoriz",
+            "$DAT:0A188F01|CWJET   ",
+            "rct2.footpath_item.jumpfnt1",
+            "rct2.scenery_small.wspout",
+            "$DAT:09F55901|CCSPOUT ",
+            "rct2.scenery_small.icecube",
+            "$DAT:0C58B301|IRICCUBC",
+            "rct2.scenery_small.wdiag",
+            "$DAT:0A188F01|WDIAGC  ",
+            "rct2.scenery_small.ttf",
+            "$DAT:00000001|CFOUNTAI"
+        ],
+        "priority": 35
+    },
+    "images": [
+        {
+            "path": "images\/0.png"
+        },
+        {
+            "path": "images\/1.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "DKSO Water Feature Theming",
+            "fr-FR": "DKSO Thème Aquatique",
+            "de-DE": "DKSO Wasserthema",
+            "es-ES": "DKSO Temática acuática",
+            "it-IT": "DKSO Tema acquatico",
+            "nl-NL": "DKSO Waterthema",
+            "sv-SE": "DKSO Vattentema",
+            "ko-KR": "DKSO 인공 폭포 테마",
+            "zh-CN": "DKSO 水世界主题",
+            "zh-TW": "DKSO 水世界",
+            "pt-BR": "DKSO Temática Aquática",
+            "cs-CZ": "DKSO Vodní kulisy",
+            "ja-JP": "DKSO 水を使用したテーマ",
+            "pl-PL": "DKSO Wystrój wodny",
+            "ru-RU": "DKSO Водная Тема",
+            "eo-ZZ": "DKSO Akva Temo",
+            "ca-ES": "DKSO Temàtica aquàtica",
+            "fi-FI": "DKSO Suihkulähdeteemaus"
+        }
+    }
+}

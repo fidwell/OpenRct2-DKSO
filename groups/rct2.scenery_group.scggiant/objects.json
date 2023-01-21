@@ -34,24 +34,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "Giant Garden Theming",
-            "fr-FR": "Thème Jardin géant",
-            "de-DE": "Riesengarten-Thema",
-            "es-ES": "Temática jardín gigante",
-            "it-IT": "Tema giardino gigante",
-            "nl-NL": "Gigantische-tuin-thema",
-            "sv-SE": "Gigantisk trädgård-tema",
-            "ko-KR": "대형 정원 테마",
-            "zh-CN": "巨大花园主题",
-            "zh-TW": "巨大花園主題區",
-            "pt-BR": "Temática de Jardim Gigante",
-            "cs-CZ": "Kulisy obrovských zahrad",
-            "ja-JP": "巨大花壇風のテーマ",
-            "pl-PL": "Wystrój ogrodu olbrzymów",
-            "ru-RU": "Гигантский Сад",
-            "eo-ZZ": "Temo de Giganta Ĝardeno",
-            "ca-ES": "Temàtica de jardí gegant",
-            "fi-FI": "Jättipuutarhateemaus"
+            "en-GB": "DKSO Giant Garden Theming",
+            "fr-FR": "DKSO Thème Jardin géant",
+            "de-DE": "DKSO Riesengarten-Thema",
+            "es-ES": "DKSO Temática jardín gigante",
+            "it-IT": "DKSO Tema giardino gigante",
+            "nl-NL": "DKSO Gigantische-tuin-thema",
+            "sv-SE": "DKSO Gigantisk trädgård-tema",
+            "ko-KR": "DKSO 대형 정원 테마",
+            "zh-CN": "DKSO 巨大花园主题",
+            "zh-TW": "DKSO 巨大花園主題區",
+            "pt-BR": "DKSO Temática de Jardim Gigante",
+            "cs-CZ": "DKSO Kulisy obrovských zahrad",
+            "ja-JP": "DKSO 巨大花壇風のテーマ",
+            "pl-PL": "DKSO Wystrój ogrodu olbrzymów",
+            "ru-RU": "DKSO Гигантский Сад",
+            "eo-ZZ": "DKSO Temo de Giganta Ĝardeno",
+            "ca-ES": "DKSO Temàtica de jardí gegant",
+            "fi-FI": "DKSO Jättipuutarhateemaus"
         }
     }
 }
