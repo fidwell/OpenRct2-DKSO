@@ -1,0 +1,73 @@
+{
+    "id": "fidwell.scenery_group.fences_dkso",
+    "authors": ["fidwell"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_wall.wmf",
+            "$DAT:09F55B03|1KFNCCMF",
+            "rct2.scenery_wall.wmfg",
+            "$DAT:09F55B03|1KC28WMF",
+            "rct2.scenery_wall.wsw",
+            "$DAT:00000003|RBFENC02",
+            "rct2.scenery_wall.wswg",
+            "$DAT:00000003|RBFENG02",
+            "rct2.scenery_wall.wfw1",
+            "rct2.scenery_wall.wfwg",
+            "rct2.scenery_wall.wpf",
+            "$DAT:09F55B03|1KROPEW2",
+            "rct2.scenery_wall.wpfg",
+            "$DAT:09F55B03|1KRFWPFG",
+            "rct2.scenery_wall.wsw1",
+            "$DAT:09F55B03|1KRALBB2",
+            "$DAT:00000003|RBFENC04",
+            "rct2.scenery_wall.wsw2",
+            "$DAT:00000003|RBFENG04",
+            "rct2.scenery_wall.wbr1",
+            "$DAT:0C58B503|IREWBR1C",
+            "rct2.scenery_wall.wbrg",
+            "$DAT:0C58B503|IREWBRGC",
+            "rct2.scenery_wall.wbr2",
+            "$DAT:0C58B503|IREWBR2C",
+            "rct2.scenery_wall.wbr3",
+            "$DAT:0C58B503|IREWBR3C",
+            "rct2.scenery_wall.wallmm16",
+            "$DAT:09F55A03|HALLFEN2",
+            "rct2.scenery_wall.wallmm17",
+            "$DAT:09F55A03|HALLFEN1"
+        ],
+        "priority": 4
+    },
+    "images": [
+        {
+            "path": "images\/0.png"
+        },
+        {
+            "path": "images\/1.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "DKSO Fences and Walls",
+            "fr-FR": "DKSO Clôtures et façades",
+            "de-DE": "DKSO Zäune und Mauern",
+            "es-ES": "DKSO Vallas y paredes",
+            "it-IT": "DKSO Recinti e muri",
+            "nl-NL": "DKSO Hekken en muren",
+            "sv-SE": "DKSO Staket och murar",
+            "ko-KR": "DKSO 울타리와 벽",
+            "zh-CN": "DKSO 栅栏和墙",
+            "zh-TW": "DKSO 柵欄和牆",
+            "pt-BR": "DKSO Cercas e Muros",
+            "cs-CZ": "DKSO Ploty a stěny",
+            "ja-JP": "DKSO フェンスと壁",
+            "pl-PL": "DKSO Płoty i ściany",
+            "ru-RU": "DKSO Ограды и стены",
+            "eo-ZZ": "DKSO Bariloj kaj Muroj",
+            "ca-ES": "DKSO Tanques i parets",
+            "fi-FI": "DKSO Aidat ja seinät"
+        }
+    }
+}
