@@ -1,0 +1,73 @@
+{
+    "id": "fidwell.scenery_group.gcandy_dkso",
+    "authors": ["fidwell"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGCANDY|C645A8BC",
+    "sourceGame": "custom",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_small.jelbab1",
+            "rct2.scenery_small.mint1",
+            "$DAT:09F55701|MG-CDY18",
+            "rct2.scenery_small.lolly1",
+            "$DAT:0C58B301|IRLOLLYC",
+            "rct2.scenery_small.jbean1",
+            "rct2.scenery_wall.walljb16",
+            "rct2.scenery_small.cndyrk1",
+            "rct2.scenery_small.jeldrop1",
+            "rct2.scenery_small.jeldrop2",
+            "rct2.scenery_small.colagum",
+            "$DAT:0A188D01|ELLCLGMC",
+            "rct2.scenery_small.chocroof",
+            "$DAT:0C58B301|IRCHOCRC",
+            "rct2.scenery_small.mallow1",
+            "$DAT:0A188D01|ELLMLW1C",
+            "rct2.scenery_small.mallow2",
+            "rct2.scenery_small.tas1",
+            "$DAT:0A188D01|ELLTAS1C",
+            "rct2.scenery_small.tas2",
+            "$DAT:0A188D01|ELLTAS2C",
+            "rct2.scenery_small.tas3",
+            "$DAT:0A188D01|ELLTAS3C",
+            "rct2.scenery_small.tas4",
+            "$DAT:0A188D01|ELLTAS4C",
+            "$DAT:0A188D01|ELLTAS4D",
+            "rct2.scenery_small.allsort1",
+            "$DAT:0A188C01|ELLAST1C",
+            "rct2.scenery_small.allsort2",
+            "$DAT:0A188C01|ELLAST2C"
+        ],
+        "priority": 35
+    },
+    "images": [
+        {
+            "path": "images\/0.png"
+        },
+        {
+            "path": "images\/1.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "DKSO Giant Candy Theming",
+            "fr-FR": "DKSO Thème Bonbon",
+            "de-DE": "DKSO Süßwarenland-Thema",
+            "es-ES": "DKSO Temática caramelolandia",
+            "it-IT": "DKSO Tema paese dei dolci",
+            "nl-NL": "DKSO Gigantisch-snoep-thema",
+            "sv-SE": "DKSO Godislandstema",
+            "ko-KR": "DKSO 대형 사탕 테마",
+            "zh-CN": "DKSO 巨大糖果屋主题",
+            "zh-TW": "DKSO 糖果屋主題",
+            "pt-BR": "DKSO Temática de Terra dos Doces",
+            "cs-CZ": "DKSO Kulisy obrovského cukroví",
+            "ja-JP": "DKSO 巨大キャンディーのテーマ",
+            "pl-PL": "DKSO Wystrój cukierkowy",
+            "ru-RU": "DKSO Конфета",
+            "eo-ZZ": "DKSO Temo de Giganta Dolĉaĵo",
+            "ca-ES": "DKSO Temàtica de dolços gegants",
+            "fi-FI": "DKSO Jättikarkkiteemaus"
+        }
+    }
+}
