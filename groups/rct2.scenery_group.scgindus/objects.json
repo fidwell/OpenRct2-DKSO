@@ -1,0 +1,68 @@
+{
+    "id": "fidwell.scenery_group.mechanical_dkso",
+    "authors": ["fidwell"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_small.cog1",
+            "rct2.scenery_small.cog1r",
+            "rct2.scenery_small.cog1u",
+            "rct2.scenery_small.cog1ur",
+            "rct2.scenery_small.cog2",
+            "rct2.scenery_small.cog2r",
+            "rct2.scenery_small.cog2u",
+            "rct2.scenery_small.cog2ur",
+            "rct2.scenery_small.fire1",
+            "$DAT:0C58B301|IRFIRE1C",
+            "rct2.scenery_small.pipe8",
+            "$DAT:0C58B301|IRPIPE8C",
+            "rct2.scenery_small.pipe32",
+            "$DAT:0C58B301|IRPIP32C",
+            "rct2.scenery_small.pipe32j",
+            "$DAT:0C58B301|IRPIP32J"
+            "rct2.scenery_wall.wallst8",
+            "rct2.scenery_wall.wallst16",
+            "rct2.scenery_wall.wallstwn",
+            "rct2.scenery_wall.wallst32",
+            "rct2.scenery_small.stbase",
+            "rct2.scenery_small.stldw",
+            "rct2.scenery_small.stldw2",
+            "rct2.scenery_small.stlbaset",
+            "rct2.scenery_wall.wallsc16",
+            "rct2.scenery_wall.wallstfn"
+        ],
+        "priority": 35
+    },
+    "images": [
+        {
+            "path": "images\/0.png"
+        },
+        {
+            "path": "images\/1.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "DKSO Mechanical Theming",
+            "fr-FR": "DKSO Thème Mécanique",
+            "de-DE": "DKSO Maschinenthema",
+            "es-ES": "DKSO Temática mecánica",
+            "it-IT": "DKSO Tema meccanico",
+            "nl-NL": "DKSO Mechanisch thema",
+            "sv-SE": "DKSO Mekaniktema",
+            "ko-KR": "DKSO 기계 테마",
+            "zh-CN": "DKSO 机械主题",
+            "zh-TW": "DKSO 機械主題區",
+            "pt-BR": "DKSO Temática Mecânica",
+            "cs-CZ": "DKSO Mechanické kulisy",
+            "ja-JP": "DKSO 機械風のテーマ",
+            "pl-PL": "DKSO Wystrój mechaniczny",
+            "ru-RU": "DKSO Техника",
+            "eo-ZZ": "DKSO Mekanika Temo",
+            "ca-ES": "DKSO Temàtica mecànica",
+            "fi-FI": "DKSO Mekaaninen teemaus"
+        }
+    }
+}
