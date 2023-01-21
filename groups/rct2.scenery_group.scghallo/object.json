@@ -1,0 +1,70 @@
+{
+    "id": "fidwell.scenery_group.creepy_dkso",
+    "authors": ["fidwell"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_small.tcd",
+            "$DAT:0A188D01|X97CAULC",
+            "rct2.scenery_small.tsg",
+            "rct2.scenery_small.tsk",
+            "rct2.scenery_small.tgh1",
+            "rct2.scenery_small.tgh2",
+            "rct2.scenery_small.tsmp",
+            "rct2.scenery_large.sgp",
+            "rct2.scenery_wall.wc14",
+            "$DAT:0C58B503|TOTWC14 ",
+            "rct2.scenery_wall.wc15",
+            "$DAT:0C58B503|TOTWC15 ",
+            "rct2.scenery_small.tl0",
+            "$DAT:00000002|GWTRL0  ",
+            "rct2.scenery_small.tl1",
+            "$DAT:00000002|GWTRL1  ",
+            "rct2.scenery_small.tl2",
+            "$DAT:00000002|GWTRL2  ",
+            "rct2.scenery_small.tl3",
+            "$DAT:00000002|GWTRL3  ",
+            "rct2.scenery_small.tm0",
+            "$DAT:00000002|GWTRM0  ",
+            "rct2.scenery_small.tm1",
+            "$DAT:00000002|GWTRM1  ",
+            "rct2.scenery_small.tm2",
+            "rct2.scenery_small.tm3",
+            "$DAT:00000002|GWTRM2  ",
+            "$DAT:00000002|GWTRM3  "
+        ],
+        "priority": 23
+    },
+    "images": [
+        {
+            "path": "images\/0.png"
+        },
+        {
+            "path": "images\/1.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "DKSO Creepy Theming",
+            "fr-FR": "DKSO Thème Terreur",
+            "de-DE": "DKSO Gruselthema",
+            "es-ES": "DKSO Temática horripilante",
+            "it-IT": "DKSO Tema spaventoso",
+            "nl-NL": "DKSO Eng thema",
+            "sv-SE": "DKSO Kräldjurstema",
+            "ko-KR": "DKSO 오싹한 테마",
+            "zh-CN": "DKSO 战栗主题",
+            "zh-TW": "DKSO 戰慄主題區",
+            "pt-BR": "DKSO Temática Assustadora",
+            "cs-CZ": "DKSO Strašidelné kulisy",
+            "ja-JP": "DKSO 不気味なテーマ",
+            "pl-PL": "DKSO Wystrój niesamowity",
+            "ru-RU": "DKSO Страшилки",
+            "eo-ZZ": "DKSO Timigeta Temo",
+            "ca-ES": "DKSO Temàtica de por",
+            "fi-FI": "DKSO Värisyttävä teemaus"
+        }
+    }
+}
