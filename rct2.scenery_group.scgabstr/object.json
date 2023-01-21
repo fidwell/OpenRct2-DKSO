@@ -1,0 +1,61 @@
+{
+    "id": "fidwell.scenery_group.abstract_dkso",
+    "authors": ["fidwell"],
+    "version": "1.0",
+    "originalId": "0A188F87|SCGABSTR|FC2ADB99",
+    "sourceGame": "custom",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_small.tge1",
+            "rct2.scenery_small.tge2",
+            "rct2.scenery_small.tge3",
+            "rct2.scenery_small.tge4",
+            "rct2.scenery_small.tge5",
+            "rct2.scenery_small.tgc1",
+            "$DAT:0C58B401|IRETGC1C",
+            "rct2.scenery_small.tgc2",
+            "$DAT:0C58B401|IRETGC2C",
+            "rct2.scenery_wall.wallgl8",
+            "rct2.scenery_wall.wallgl16",
+            "rct2.scenery_wall.wallgl32",
+            "rct2.scenery_small.georoof1",
+            "rct2.scenery_wall.wgw2",
+            "toontowner.scenery_small.ttrfgl01",
+            "toontowner.scenery_small.ttrfgl02",
+            "rct2.scenery_small.georoof2",
+            "toontowner.scenery_small.ttrfgl03"
+        ],
+        "priority": 20
+    },
+    "images": [
+        {
+            "path": "images\/0.png"
+        },
+        {
+            "path": "images\/1.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "DKSO Abstract Theming",
+            "fr-FR": "DKSO Thème abstrait",
+            "de-DE": "DKSO Abstraktes Thema",
+            "es-ES": "DKSO Temática abstracta",
+            "it-IT": "DKSO Tema astratto",
+            "nl-NL": "DKSO Abstract thema",
+            "sv-SE": "DKSO Abstrakt tema",
+            "ko-KR": "DKSO 추상적인 테마",
+            "zh-CN": "DKSO 现代抽象主题",
+            "zh-TW": "DKSO 現代抽象主題區",
+            "pt-BR": "DKSO Temática Abstrata",
+            "cs-CZ": "DKSO Abstraktní kulisy",
+            "ja-JP": "DKSO 抽象派風のテーマ",
+            "pl-PL": "DKSO Wystrój abstrakcyjny",
+            "ru-RU": "DKSO Абстракция",
+            "eo-ZZ": "DKSO Abstrakta Temo",
+            "ca-ES": "DKSO Temàtica abstracta",
+            "fi-FI": "DKSO Abstrakti teemaus"
+        }
+    }
+}
