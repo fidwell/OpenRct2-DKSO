@@ -1,0 +1,82 @@
+{
+    "id": "fidwell.scenery_group.gardens_dkso",
+    "authors": ["fidwell"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_small.tck",
+            "$DAT:0C58B301|IRETCK1C",
+            "rct2.scenery_small.tg1",
+            "$DAT:0A188D01|ELLTG1C ",
+            "$DAT:0A188D01|ELLTG1D ",
+            "$DAT:0A188D01|ELLTG1E ",
+            "rct2.scenery_small.tg2",
+            "$DAT:0A188E01|ELLTG2D ",
+            "$DAT:0A188E01|ELLTG2E ",
+            "rct2.scenery_small.tg3",
+            "$DAT:0A188E01|ELLTG3C ",
+            "$DAT:0A188E01|ELLTG3D ",
+            "$DAT:0A188E01|ELLTG3E ",
+            "rct2.scenery_small.tg4",
+            "$DAT:0A188E01|ELLTG4C ",
+            "rct2.scenery_small.tg5",
+            "rct2.scenery_small.tg6",
+            "$DAT:0A188E01|ELLTG6C ",
+            "rct2.scenery_small.tg7",
+            "rct2.scenery_small.tg8",
+            "rct2.scenery_small.tg9",
+            "$DAT:0A188E01|ELLTG9C ",
+            "$DAT:0A188E01|ELLTG9D ",
+            "$DAT:0A188E01|ELLTG9E ",
+            "rct2.scenery_small.tg10",
+            "rct2.scenery_small.tg11",
+            "rct2.scenery_small.tg12",
+            "rct2.scenery_small.tg13",
+            "$DAT:0A188E01|ELLTG13C",
+            "rct2.scenery_small.tg14",
+            "rct2.scenery_small.tg15",
+            "rct2.scenery_small.tg16",
+            "rct2.scenery_small.tg17",
+            "rct2.scenery_small.tg18",
+            "$DAT:09F55801|MG-RCT65",
+            "rct2.scenery_small.tg19",
+            "rct2.scenery_small.tg20",
+            "$DAT:09F55801|MG-RCT66",
+            "rct2.scenery_small.tg21",
+            "$DAT:0C58B401|IRETG21C"
+        ],
+        "priority": 3
+    },
+    "images": [
+        {
+            "path": "images\/0.png"
+        },
+        {
+            "path": "images\/1.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "DSKO Gardens",
+            "fr-FR": "DSKO Jardins",
+            "de-DE": "DSKO Beete",
+            "es-ES": "DSKO Jardines",
+            "it-IT": "DSKO Giardini",
+            "nl-NL": "DSKO Bloemen",
+            "sv-SE": "DSKO Rabatter",
+            "ko-KR": "DSKO 정원",
+            "zh-CN": "DSKO 花园",
+            "zh-TW": "DSKO 花園",
+            "pt-BR": "DSKO Jardins",
+            "cs-CZ": "DSKO Zahrady",
+            "ja-JP": "DSKO 花壇",
+            "pl-PL": "DSKO Ogrody",
+            "ru-RU": "DSKO Клумба",
+            "eo-ZZ": "DSKO Ĝardenoj",
+            "ca-ES": "DSKO Jardins",
+            "fi-FI": "DSKO Kukkapenkit"
+        }
+    }
+}
