@@ -16,7 +16,7 @@ for ($i = 0; $i -lt $scgroups.Length; ++$i) {
     if (Test-Path $outfile) { Remove-Item $outfile -ErrorAction Stop }
 
     # go inside subdirectory
-    Set-Location $scgroup
+    Set-Location "groups/$scgroup"
 
     # get file list
     $Files = @(Get-ChildItem "./" -Recurse -File | Where-Object {$_.name -NotMatch "$scgroup.png"})
