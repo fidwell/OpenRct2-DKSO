@@ -1,0 +1,65 @@
+{
+    "id": "fidwell.scenery_group.classical_dkso",
+    "authors": ["fidwell"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_large.scol",
+            "$DAT:0C58B202|IRESCOLC",
+            "rct2.scenery_small.tt1",
+            "$DAT:0C58B401|IRECTT1C",
+            "rct2.scenery_small.trms",
+            "$DAT:0C58B401|IRETRMSC",
+            "rct2.scenery_small.trws",
+            "$DAT:0C58B401|IRETRWSC",
+            "rct2.scenery_small.trc",
+            "$DAT:09F55901|TRC1    ",
+            "rct2.scenery_small.tqf",
+            "$DAT:0A188003|LMPWALL3",
+            "rct2.scenery_wall.wrw",
+            "$DAT:0C58B603|IRROWRWC",
+            "rct2.scenery_wall.wrwa",
+            "rct2.scenery_small.romroof2",
+            "$DAT:0C58B301|IRROMROC",
+            "rct2.scenery_wall.wc3",
+            "$DAT:0C58B603|FIDCWC3C",
+            "rct2.scenery_small.romroof1",
+            "$DAT:00000001|IRROMRO1",
+            "rct2.footpath_banner.bn3"
+        ],
+        "priority": 21,
+        "entertainerCostumes": "roman"
+    },
+    "images": [
+        {
+            "path": "images\/0.png"
+        },
+        {
+            "path": "images\/1.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "DKSO Classical/Roman Theming",
+            "fr-FR": "DKSO Thème classique/romain",
+            "de-DE": "DKSO Klassisches/römisches Thema",
+            "es-ES": "DKSO Temática clásica/romana",
+            "it-IT": "DKSO Tema romano/classico",
+            "nl-NL": "DKSO Klassiek/Romeins thema",
+            "sv-SE": "DKSO Klassiskt/romerskt tema",
+            "ko-KR": "DKSO 클래식/로마 테마",
+            "zh-CN": "DKSO 古典/古罗马主题",
+            "zh-TW": "DKSO 古典/古羅馬主題區",
+            "pt-BR": "DKSO Temática Clássica/Romana",
+            "cs-CZ": "DKSO Klasické/Římské kulisy",
+            "ja-JP": "DKSO クラシック/ローマ風のテーマ",
+            "pl-PL": "DKSO Wystrój klasyczny/rzymski",
+            "ru-RU": "DKSO Рим",
+            "eo-ZZ": "DKSO Klasika / Roma Temo",
+            "ca-ES": "DKSO Temàtica clàssica i romana",
+            "fi-FI": "DKSO Klassinen/roomalainen teemaus"
+        }
+    }
+}
