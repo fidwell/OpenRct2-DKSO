@@ -36,7 +36,8 @@
             "rct2.scenery_wall.wallmm16",
             "$DAT:09F55A03|HALLFEN2",
             "rct2.scenery_wall.wallmm17",
-            "$DAT:09F55A03|HALLFEN1"
+            "$DAT:09F55A03|HALLFEN1",
+            "rct1.scenery_wall.wooden_fence_red"
         ],
         "priority": 4
     },
