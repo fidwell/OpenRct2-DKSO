@@ -59,24 +59,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DSKO Gardens",
-            "fr-FR": "DSKO Jardins",
-            "de-DE": "DSKO Beete",
-            "es-ES": "DSKO Jardines",
-            "it-IT": "DSKO Giardini",
-            "nl-NL": "DSKO Bloemen",
-            "sv-SE": "DSKO Rabatter",
-            "ko-KR": "DSKO 정원",
-            "zh-CN": "DSKO 花园",
-            "zh-TW": "DSKO 花園",
-            "pt-BR": "DSKO Jardins",
-            "cs-CZ": "DSKO Zahrady",
-            "ja-JP": "DSKO 花壇",
-            "pl-PL": "DSKO Ogrody",
-            "ru-RU": "DSKO Клумба",
-            "eo-ZZ": "DSKO Ĝardenoj",
-            "ca-ES": "DSKO Jardins",
-            "fi-FI": "DSKO Kukkapenkit"
+            "en-GB": "DKSO Gardens",
+            "fr-FR": "DKSO Jardins",
+            "de-DE": "DKSO Beete",
+            "es-ES": "DKSO Jardines",
+            "it-IT": "DKSO Giardini",
+            "nl-NL": "DKSO Bloemen",
+            "sv-SE": "DKSO Rabatter",
+            "ko-KR": "DKSO 정원",
+            "zh-CN": "DKSO 花园",
+            "zh-TW": "DKSO 花園",
+            "pt-BR": "DKSO Jardins",
+            "cs-CZ": "DKSO Zahrady",
+            "ja-JP": "DKSO 花壇",
+            "pl-PL": "DKSO Ogrody",
+            "ru-RU": "DKSO Клумба",
+            "eo-ZZ": "DKSO Ĝardenoj",
+            "ca-ES": "DKSO Jardins",
+            "fi-FI": "DKSO Kukkapenkit"
         }
     }
 }
