@@ -2,6 +2,7 @@
     "id": "fidwell.scenery_group.mine_dkso",
     "authors": ["fidwell"],
     "version": "2.0",
+    "originalId": "00000000|TABMINES|00000000",
     "sourceGame": "custom",
     "objectType": "scenery_group",
     "properties": {
