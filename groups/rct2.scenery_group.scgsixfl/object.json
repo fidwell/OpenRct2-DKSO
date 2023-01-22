@@ -1,0 +1,52 @@
+{
+    "id": "fidwell.scenery_group.sixflags_dkso",
+    "authors": ["fidwell"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2.scenery_large.glthent",
+            "rct2.scenery_large.mdsaent",
+            "$DAT:0C58B202|IRMDSAC ",
+            "rct2.scenery_large.nitroent",
+            "$DAT:0C58B202|IRNITROC",
+            "rct2.scenery_wall.walltxgt",
+            "$DAT:00000003|IRTEXSN1",
+            "rct2.scenery_small.mment1",
+            "rct2.scenery_small.mment2",
+            "rct2.scenery_small.mment3"
+        ],
+        "priority": 255
+    },
+    "images": [
+        {
+            "path": "images\/0.png"
+        },
+        {
+            "path": "images\/1.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "DKSO Six Flags Theming",
+            "fr-FR": "DKSO Thème Six Flags",
+            "de-DE": "DKSO Six-Flags-Thema",
+            "es-ES": "DKSO Temática six flags",
+            "it-IT": "DKSO Tema Six Flags",
+            "nl-NL": "DKSO Six Flags-thema",
+            "sv-SE": "DKSO Six Flags-tema",
+            "ko-KR": "DKSO 식스 플래그 테마",
+            "zh-CN": "DKSO 六旗游乐园主题",
+            "zh-TW": "DKSO 六旗主題區",
+            "pt-BR": "DKSO Temática Six Flags",
+            "cs-CZ": "DKSO Six Flags kulisy",
+            "ja-JP": "DKSO シックスフラッグスのテーマ",
+            "pl-PL": "DKSO Wystrój Sześciu Flag",
+            "ru-RU": "DKSO Шесть Флагов",
+            "eo-ZZ": "DKSO Temo de Six Flags",
+            "ca-ES": "DKSO Temàtica Six Flags",
+            "fi-FI": "DKSO Six Flags -teemaus"
+        }
+    }
+}

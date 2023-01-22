@@ -1,0 +1,45 @@
+{
+    "id": "rct2dlc.scenery_group.scgpanda",
+    "authors": ["fidwell"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_group",
+    "properties": {
+        "entries": [
+            "rct2dlc.scenery_small.bigpanda",
+            "rct2dlc.scenery_small.pandagr",
+            "$DAT:09F8EC01|1KPANDGR",
+            "rct2dlc.footpath_item.litterpa"
+        ],
+        "priority": 40
+    },
+    "images": [
+        {
+            "path": "images\/0.png"
+        },
+        {
+            "path": "images\/1.png"
+        }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "DKSO Panda Theming",
+            "fr-FR": "DKSO Thème Panda",
+            "de-DE": "DKSO Pandathema",
+            "es-ES": "DKSO Temática Panda",
+            "it-IT": "DKSO Tema panda",
+            "nl-NL": "DKSO Pandathema",
+            "sv-SE": "DKSO Pandatema",
+            "ko-KR": "DKSO 판다 테마",
+            "zh-TW": "DKSO 熊貓主題區",
+            "pt-BR": "DKSO Temática Panda",
+            "ar_EG": "DKSO ثيم الباندا",
+            "ja-JP": "DKSO パンダのテーマ",
+            "pl-PL": "DKSO Wystrój pandowy",
+            "eo-ZZ": "DKSO Pando-Temo",
+            "ca-ES": "DKSO Temàtica amb óssos panda",
+            "fi-FI": "DKSO Pandateemaus",
+            "zh-CN": "DKSO 熊猫主题"
+        }
+    }
+}
