@@ -1,6 +1,8 @@
 # OpenRCT2 DKSO Groups
 
-DKMP recolorable scenery groups for OpenRCT2
+_Recolorable non-custom scenery groups for OpenRCT2_
+
+![image](https://user-images.githubusercontent.com/5436387/213924683-63c2e5a0-5769-4177-8560-487cbd68c1c0.png)
 
 ## What is this?
 
