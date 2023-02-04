@@ -1,6 +1,8 @@
 # OpenRCT2 DKSO Groups
 
-DKMP recolorable scenery groups for OpenRCT2
+_Recolorable non-custom scenery groups for OpenRCT2_
+
+![image](https://user-images.githubusercontent.com/5436387/213924683-63c2e5a0-5769-4177-8560-487cbd68c1c0.png)
 
 ## What is this?
 
@@ -24,6 +26,6 @@ Please let me know by [filing an issue](https://github.com/fidwell/OpenRct2-DKSO
 
 ## Can I edit the groups for personal use?
 
-Sure. You can open any .parkobj file with a zip program like 7-Zip. The .json file inside will list all objects in the group. Simply edit the .json file and re-add it to the .parkobj. Then restart your game.
+Sure. You can open any .parkobj file with a zip program like [7-Zip](https://www.7-zip.org/). The .json file inside will list all objects in the group. Simply edit the .json file and re-add it to the .parkobj. Then restart your game.
 
 Special thanks to Iretont for creating the original DKSO workbench and spreadsheet, and most of the custom objects included in it.
