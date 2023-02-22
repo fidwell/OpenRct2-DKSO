@@ -1,7 +1,7 @@
 {
     "id": "fidwell.scenery_group.antarctic_dkso",
     "authors": ["fidwell"],
-    "version": "1.0",
+    "version": "2.0",
     "originalId": "00000000|TABANTAR|00000000",
     "sourceGame": "custom",
     "objectType": "scenery_group",
@@ -12,6 +12,7 @@
             "rct2ww.scenery_small.roofig03",
             "rct2ww.scenery_small.roofig04",
             "rct2ww.scenery_small.roofig06",
+            "$DAT:0CBD0101|IGLRFGRN",
             "rct2ww.scenery_wall.wigloo1",
             "$DAT:0CBD0103|IRWIGL1C",
             "rct2ww.scenery_wall.wigloo2",
