@@ -175,6 +175,7 @@
             "rct2ww.scenery_small.sballoon",
             "rct2ww.scenery_large.easerlnd",
             "rct2ww.scenery_large.1x2glama",
+            "$DAT:0CC31D02|FDGLLAMA",
             "rct2ww.scenery_small.g1dancer",
             "rct2ww.scenery_small.g2dancer",
             "rct2ww.scenery_small.1x1jugt2",
@@ -182,7 +183,9 @@
             "rct2ww.scenery_large.3x3mantr",
             "rct2ww.scenery_large.largeju1",
             "rct2ww.scenery_large.gdstaue1",
-            "rct2ww.scenery_large.gdstaue2"
+            "$DAT:0CC31D02|FGDSTAT1",
+            "rct2ww.scenery_large.gdstaue2",
+            "$DAT:0CC31D02|FGDSTAT2"
         ],
         "priority": 36
     },
