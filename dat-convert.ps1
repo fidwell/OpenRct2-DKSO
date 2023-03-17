@@ -73,6 +73,7 @@ function EditJson(
 }
 
 function ConvertDat(
+    [string]$groupId,
     [string]$rctIdentifier,
     [string]$openRct2Identifier,
     [string]$customIdentifier
@@ -84,7 +85,7 @@ function ConvertDat(
     $objectName = $identifiers[2]
 
     $newIdentifier = "$($namespace).$($objectType).$($objectName)"
-    $objectPath = ".\objects\$($newIdentifier)"
+    $objectPath = ".\objects\$($groupId)\$($newIdentifier)"
     $imagePath = "$($objectPath)\images"
     $objectJson = "$($objectPath)\object.json"
 
@@ -96,18 +97,18 @@ function ConvertDat(
 }
 
 $objects = @(`
-[System.Tuple]::Create("TIC", "rct2.scenery_small.tic", "GWTRIC"), `
-[System.Tuple]::Create("TLC", "rct2.scenery_small.tlc", "GWTRLC"), `
-[System.Tuple]::Create("TMC", "rct2.scenery_small.tmc", "GWTRMC"), `
-[System.Tuple]::Create("TMP", "rct2.scenery_small.tmp", "GWTRMP"), `
-[System.Tuple]::Create("TITC", "rct2.scenery_small.titc", "GWTRITC"), `
-[System.Tuple]::Create("TGHC", "rct2.scenery_small.tghc", "GWTRGHC"), `
-[System.Tuple]::Create("TAC", "rct2.scenery_small.tac", "GWTRAC"), `
-[System.Tuple]::Create("TGHC2", "rct2.scenery_small.tghc2", "GWTRHT"))
+[System.Tuple]::Create("trees", "TIC", "rct2.scenery_small.tic", "GWTRIC"), `
+[System.Tuple]::Create("trees", "TLC", "rct2.scenery_small.tlc", "GWTRLC"), `
+[System.Tuple]::Create("trees", "TMC", "rct2.scenery_small.tmc", "GWTRMC"), `
+[System.Tuple]::Create("trees", "TMP", "rct2.scenery_small.tmp", "GWTRMP"), `
+[System.Tuple]::Create("trees", "TITC", "rct2.scenery_small.titc", "GWTRITC"), `
+[System.Tuple]::Create("trees", "TGHC", "rct2.scenery_small.tghc", "GWTRGHC"), `
+[System.Tuple]::Create("trees", "TAC", "rct2.scenery_small.tac", "GWTRAC"), `
+[System.Tuple]::Create("trees", "TGHC2", "rct2.scenery_small.tghc2", "GWTRHT"))
 
 Write-Host "Converting $($objects.length) objects..."
 
 for ($i = 0; $i -lt $objects.length; $i++)
 {
-    ConvertDat $objects[$i].Item1 $objects[$i].Item2 $objects[$i].Item3
+    ConvertDat $objects[$i].Item1 $objects[$i].Item2 $objects[$i].Item3 $objects[$i].Item4
 }
