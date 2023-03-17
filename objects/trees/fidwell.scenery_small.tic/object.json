@@ -2,7 +2,7 @@
     "id": "fidwell.scenery_small.tic",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "00000002|GWTRIC  |5FF46AEF",
+    "originalId": "",
     "sourceGame": ["custom"],
     "objectType": "scenery_small",
     "properties": {
@@ -15,12 +15,7 @@
         "isTree": true,
         "shape": "4/4"
     },
-    "images": [
-      { "path": "images/0.png", "x": -16, "y": -139 },
-      { "path": "images/1.png", "x": -16, "y": -135 },
-      { "path": "images/2.png", "x": -16, "y": -139 },
-      { "path": "images/3.png", "x": -16, "y": -134 }
-    ],
+    "images": ["$RCT2:OBJDATA/TIC.DAT[0..3]"],
     "strings": {
         "name": {
             "en-GB": "Incense Cedar Tree",
