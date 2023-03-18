@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.tas",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "00000002|GWTRAS  |AC09E3DC",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 11,
+        "removalPrice": 5,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 66,
+        "isTree": true,
+        "shape": "4/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -19, "y": -66 },
+      { "path": "images/1.png", "x": -20, "y": -66 },
+      { "path": "images/2.png", "x": -20, "y": -61 },
+      { "path": "images/3.png", "x": -19, "y": -66 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Aspen Tree",
+            "fr-FR": "Peuplier",
+            "de-DE": "Espe",
+            "es-ES": "Árbol de Aspen",
+            "it-IT": "Pioppo",
+            "nl-NL": "Espenboom",
+            "sv-SE": "Asp",
+            "ko-KR": "사시나무",
+            "zh-CN": "山杨树",
+            "zh-TW": "山楊樹",
+            "pt-BR": "Árvore Aspen",
+            "cs-CZ": "Osika",
+            "ja-JP": "ヤマナラシ",
+            "pl-PL": "Osika",
+            "ru-RU": "Тополь",
+            "eo-ZZ": "Tremoloarbo",
+            "ca-ES": "Arbre d’Aspen",
+            "fi-FI": "Metsähaapa"
+        }
+    }
+}

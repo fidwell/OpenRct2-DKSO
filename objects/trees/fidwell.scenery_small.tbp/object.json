@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.tbp",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "00000002|GWTRBP  |01C03470",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": 10,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 80,
+        "isTree": true,
+        "shape": "4/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -79 },
+      { "path": "images/1.png", "x": -32, "y": -79 },
+      { "path": "images/2.png", "x": -32, "y": -79 },
+      { "path": "images/3.png", "x": -32, "y": -79 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Black Poplar Tree",
+            "fr-FR": "Peuplier noir",
+            "de-DE": "Schwarze Pappel",
+            "es-ES": "Álamo negro",
+            "it-IT": "Pioppo nero",
+            "nl-NL": "Zwarte populier",
+            "sv-SE": "Svart poppel",
+            "ko-KR": "흑양목",
+            "zh-CN": "黯淡白杨树",
+            "zh-TW": "黯淡白楊樹",
+            "pt-BR": "Árvore Álamo-preto",
+            "cs-CZ": "Topol",
+            "ja-JP": "黒ポプラ",
+            "pl-PL": "Czarna topola",
+            "ru-RU": "Чёрный тополь",
+            "eo-ZZ": "Nigra Poploarbo",
+            "ca-ES": "Pollancre negre",
+            "fi-FI": "Mustapoppeli"
+        }
+    }
+}

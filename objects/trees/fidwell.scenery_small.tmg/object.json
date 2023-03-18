@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.tmg",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "00000002|GWTRMG  |290A087D",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 12,
+        "removalPrice": 5,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 48,
+        "isTree": true,
+        "shape": "4/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -30, "y": -48 },
+      { "path": "images/1.png", "x": -27, "y": -48 },
+      { "path": "images/2.png", "x": -30, "y": -48 },
+      { "path": "images/3.png", "x": -30, "y": -50 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Magnolia Tree",
+            "fr-FR": "Magnolia",
+            "de-DE": "Magnolie",
+            "es-ES": "Magnolio",
+            "it-IT": "Magnolia",
+            "nl-NL": "Magnolia",
+            "sv-SE": "Magnolia",
+            "ko-KR": "목련",
+            "zh-CN": "木兰花树",
+            "zh-TW": "木蘭花樹",
+            "pt-BR": "Árvore Magnólia",
+            "cs-CZ": "Mongolský strom",
+            "ja-JP": "モクレン",
+            "pl-PL": "Magnolia",
+            "ru-RU": "Магнолия",
+            "eo-ZZ": "Magnolioarbo",
+            "ca-ES": "Magnòlia",
+            "fi-FI": "Kuningasmagnolia"
+        }
+    }
+}
