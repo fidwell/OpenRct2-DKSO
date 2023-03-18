@@ -98,7 +98,7 @@
             "rct2.scenery_small.suppleg1",
             "rct2.scenery_small.suppleg2",
             "rct2.scenery_small.sumrf",
-            "$DAT:0A188C01|COLROOF6",
+            "fidwell.scenery_small.sumrf",
             "rct2.scenery_wall.wallrh32"
         ],
         "priority": 5
