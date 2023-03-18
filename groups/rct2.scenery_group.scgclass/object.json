@@ -25,7 +25,7 @@
             "rct2.scenery_small.romroof2",
             "$DAT:0C58B301|IRROMROC",
             "rct2.scenery_wall.wc3",
-            "$DAT:0C58B603|FIDCWC3C",
+            "fidwell.scenery_wall.wc3",
             "rct2.scenery_small.romroof1",
             "$DAT:00000001|IRROMRO1",
             "rct2.footpath_banner.bn3"
