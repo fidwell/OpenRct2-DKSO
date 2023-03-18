@@ -17,10 +17,10 @@
         "hasSecondaryColour": true
     },
     "images": [
-      { "path": "./objects/temp/0.png", "x": -32, "y": -167 },
-      { "path": "./objects/temp/1.png", "x": -32, "y": -167 },
-      { "path": "./objects/temp/2.png", "x": -32, "y": -167 },
-      { "path": "./objects/temp/3.png", "x": -32, "y": -167 }
+      { "path": "images/0.png", "x": -32, "y": -167 },
+      { "path": "images/1.png", "x": -32, "y": -167 },
+      { "path": "images/2.png", "x": -32, "y": -167 },
+      { "path": "images/3.png", "x": -32, "y": -167 }
     ],
     "strings": {
         "name": {

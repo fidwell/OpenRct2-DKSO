@@ -12,14 +12,14 @@
         "height": 112,
         "isTree": true,
         "shape": "1/4",
-        "hasPrimaryColour": true
+        "hasPrimaryColour": true,
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true
     },
     "images": [
-      { "path": "./objects/temp/0.png", "x": -16, "y": -114 },
-      { "path": "./objects/temp/1.png", "x": -16, "y": -109 },
-      { "path": "./objects/temp/2.png", "x": -15, "y": -112 },
-      { "path": "./objects/temp/3.png", "x": -16, "y": -108 }
+      { "path": "images/0.png", "x": -16, "y": -114 },
+      { "path": "images/1.png", "x": -16, "y": -109 },
+      { "path": "images/2.png", "x": -15, "y": -112 },
+      { "path": "images/3.png", "x": -16, "y": -108 }
     ],
     "strings": {
         "name": {

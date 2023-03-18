@@ -16,10 +16,10 @@
         "hasSecondaryColour": true
     },
     "images": [
-      { "path": "./objects/temp/0.png", "x": -24, "y": -117 },
-      { "path": "./objects/temp/1.png", "x": -25, "y": -108 },
-      { "path": "./objects/temp/2.png", "x": -24, "y": -117 },
-      { "path": "./objects/temp/3.png", "x": -25, "y": -111 }
+      { "path": "images/0.png", "x": -24, "y": -117 },
+      { "path": "images/1.png", "x": -25, "y": -108 },
+      { "path": "images/2.png", "x": -24, "y": -117 },
+      { "path": "images/3.png", "x": -25, "y": -111 }
     ],
     "strings": {
         "name": {
