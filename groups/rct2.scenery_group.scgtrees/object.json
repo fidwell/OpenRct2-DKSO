@@ -8,7 +8,7 @@
     "properties": {
         "entries": [
             "rct2.scenery_small.tic",
-            "$DAT:00000002|GWTRIC  ",
+            "fidwell.scenery_small.tic",
             "rct2.scenery_small.tlc",
             "$DAT:00000002|GWTRLC  ",
             "rct2.scenery_small.tmc",

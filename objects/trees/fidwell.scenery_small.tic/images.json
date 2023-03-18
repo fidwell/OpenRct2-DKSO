@@ -1,9 +1,0 @@
-[31mObject conflict: 'C:\Users\Andrew\Documents\OpenRct2\bin\data\object\rct2\audio\rct2.audio.base.json'[0m
-[31m               : 'C:\Users\Andrew\Documents\OpenRct2\bin\data\object\rct2\audio\rct2.audio.base.rctc.json'[0m
-[31mObject conflict: 'C:\Users\Andrew\Documents\OpenRCT2\object\fidwell.scenery_small.tic.parkobj'[0m
-[31m               : 'C:\Users\Andrew\Documents\OpenRCT2\object\GWTRIC.DAT'[0m
-[31m2 object conflicts found.[0m
-{ "path": "./objects/fidwell.scenery_small.tic/images/0.png", "x": -16, "y": -139 },
-{ "path": "./objects/fidwell.scenery_small.tic/images/1.png", "x": -16, "y": -135 },
-{ "path": "./objects/fidwell.scenery_small.tic/images/2.png", "x": -16, "y": -139 },
-{ "path": "./objects/fidwell.scenery_small.tic/images/3.png", "x": -16, "y": -134 },
