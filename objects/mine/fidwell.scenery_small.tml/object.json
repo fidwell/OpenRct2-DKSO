@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.scenery_small.tml",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": ["custom"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 4,
+        "removalPrice": -3,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -12, "y": -13 },
+      { "path": "images/1.png", "x": -11, "y": -12 },
+      { "path": "images/2.png", "x": -12, "y": -12 },
+      { "path": "images/3.png", "x": -11, "y": -13 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Logs",
+            "fr-FR": "Rondins",
+            "de-DE": "Baumstämme",
+            "es-ES": "Troncos",
+            "it-IT": "Tronchi",
+            "nl-NL": "Palen",
+            "sv-SE": "Stockar",
+            "ko-KR": "나무",
+            "zh-CN": "原木",
+            "zh-TW": "原木",
+            "pt-BR": "Troncos",
+            "cs-CZ": "Polena",
+            "ja-JP": "丸太",
+            "pl-PL": "Pnie",
+            "ru-RU": "Лага",
+            "eo-ZZ": "Ŝtipoj",
+            "ca-ES": "Troncs",
+            "fi-FI": "Tukit"
+        }
+    }
+}
