@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.scenery_small.tghc",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "00000002|GWTRGHC |62380AE7",
+    "sourceGame": ["custom"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": 10,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 84,
+        "isTree": true,
+        "shape": "4/4",
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -31, "y": -88 },
+      { "path": "images/1.png", "x": -30, "y": -83 },
+      { "path": "images/2.png", "x": -31, "y": -91 },
+      { "path": "images/3.png", "x": -30, "y": -86 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Golden Hinoki Cypress Tree",
+            "fr-FR": "Cyprès doré d’Hinoki",
+            "de-DE": "Goldene Hinoki-Zypresse",
+            "es-ES": "Ciprés dorado Hinoki",
+            "it-IT": "Cipresso d’oro di Hinoki",
+            "nl-NL": "Gouden hinokicipres",
+            "sv-SE": "Gyllene Hinoki-cypress",
+            "ko-KR": "골든 노송나무",
+            "zh-CN": "金丝柏树",
+            "zh-TW": "黃金扁柏樹",
+            "pt-BR": "Árvore Cipreste Hinoki Dourado",
+            "cs-CZ": "Hinoki cypřiš",
+            "ja-JP": "ゴールデンヒノキ",
+            "pl-PL": "Złoty cyprys hinoki",
+            "ru-RU": "Золотой кипарис",
+            "eo-ZZ": "Ora Japana Cipresarbo",
+            "ca-ES": "Xiprer daurat Hinoki",
+            "fi-FI": "Japaninsypressi"
+        }
+    }
+}
