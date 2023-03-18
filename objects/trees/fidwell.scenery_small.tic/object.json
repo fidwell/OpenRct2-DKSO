@@ -16,10 +16,10 @@
         "shape": "4/4"
     },
     "images": [
-      { "path": "images/0.png", "x": -16, "y": -143 },
-      { "path": "images/1.png", "x": -16, "y": -139 },
-      { "path": "images/2.png", "x": -16, "y": -143 },
-      { "path": "images/3.png", "x": -16, "y": -138 }
+      { "path": "images/0.png", "x": -16, "y": -139 },
+      { "path": "images/1.png", "x": -16, "y": -135 },
+      { "path": "images/2.png", "x": -16, "y": -139 },
+      { "path": "images/3.png", "x": -16, "y": -134 }
     ],
     "strings": {
         "name": {
