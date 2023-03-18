@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.tvl",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "00000002|GWTRVL  |DAE9B79A",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": 10,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 76,
+        "isTree": true,
+        "shape": "4/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -26, "y": -74 },
+      { "path": "images/1.png", "x": -25, "y": -80 },
+      { "path": "images/2.png", "x": -24, "y": -80 },
+      { "path": "images/3.png", "x": -26, "y": -76 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Voss’s Laburnam Tree",
+            "fr-FR": "Arbre de Voss Laburnam",
+            "de-DE": "Voss’ Goldregenbaum",
+            "es-ES": "Labiérnago de Voss",
+            "it-IT": "Laburno di Voss",
+            "nl-NL": "Goudenregenboom",
+            "sv-SE": "Voss gullregn",
+            "ko-KR": "나도싸리",
+            "zh-CN": "金链花树",
+            "zh-TW": "金鏈花樹",
+            "pt-BR": "Árvore Laburnam de Voss",
+            "cs-CZ": "Štědřenec",
+            "ja-JP": "ボスキングサリ",
+            "pl-PL": "Złotokap",
+            "ru-RU": "Ракита",
+            "eo-ZZ": "Arbo de Laburnam de Voss",
+            "ca-ES": "Laburn de Voss",
+            "fi-FI": "Kultasade",
+            "tr-TR": "Voss’s Laburnam Tree"
+        }
+    }
+}

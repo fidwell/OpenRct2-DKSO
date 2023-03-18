@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.tce",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "00000002|GWTRCE  |83800FC2",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 15,
+        "removalPrice": 8,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 56,
+        "isTree": true,
+        "shape": "4/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -29, "y": -52 },
+      { "path": "images/1.png", "x": -26, "y": -52 },
+      { "path": "images/2.png", "x": -29, "y": -52 },
+      { "path": "images/3.png", "x": -29, "y": -52 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Camperdown Elm Tree",
+            "fr-FR": "Orme",
+            "de-DE": "Camperdown-Ulme",
+            "es-ES": "Olmo de Camperdown",
+            "it-IT": "Olmo di Camperdown",
+            "nl-NL": "Camperdowniep",
+            "sv-SE": "Camperdown-alm",
+            "ko-KR": "캠퍼다운 느릅나무",
+            "zh-CN": "榆树",
+            "zh-TW": "榆樹",
+            "pt-BR": "Árvore Olmo-de-Camperdown",
+            "cs-CZ": "Jilm",
+            "ja-JP": "セイヨウハルニレの木",
+            "pl-PL": "Wiąz",
+            "ru-RU": "Ильм",
+            "eo-ZZ": "Arbo de Ulmus Glabra",
+            "ca-ES": "Om de Camperdown",
+            "fi-FI": "Sateenvarjojalava"
+        }
+    }
+}

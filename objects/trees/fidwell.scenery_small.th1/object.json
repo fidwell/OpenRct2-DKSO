@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.th1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "00000002|GWTRH1  |C5A19C5D",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": 10,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 76,
+        "isTree": true,
+        "shape": "4/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -27, "y": -79 },
+      { "path": "images/1.png", "x": -26, "y": -78 },
+      { "path": "images/2.png", "x": -27, "y": -78 },
+      { "path": "images/3.png", "x": -27, "y": -79 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Canary Palm Tree",
+            "fr-FR": "Palmier des Canaries",
+            "de-DE": "Kanarische Palme",
+            "es-ES": "Palmera canaria",
+            "it-IT": "Palma delle Canarie",
+            "nl-NL": "Canarische dadelpalm",
+            "sv-SE": "Kanariepalm",
+            "ko-KR": "카나리아 야자수",
+            "zh-CN": "加那利岛棕榈树",
+            "zh-TW": "加那利島棕櫚樹",
+            "pt-BR": "Árvore Palmeira-das-Canárias",
+            "cs-CZ": "Palma",
+            "ja-JP": "カナリアヤシの木",
+            "pl-PL": "Palma kanaryjska",
+            "ru-RU": "Канарская пальма",
+            "eo-ZZ": "Kanaria Palmarbo",
+            "ca-ES": "Palmera canària",
+            "fi-FI": "Kanariantaateli"
+        }
+    }
+}

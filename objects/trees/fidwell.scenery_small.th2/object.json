@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.th2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "00000002|GWTRH2  |E2BD8D1E",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 21,
+        "removalPrice": 10,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 152,
+        "isTree": true,
+        "shape": "4/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -29, "y": -151 },
+      { "path": "images/1.png", "x": -28, "y": -146 },
+      { "path": "images/2.png", "x": -29, "y": -151 },
+      { "path": "images/3.png", "x": -28, "y": -145 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Palm Tree",
+            "fr-FR": "Palmier",
+            "de-DE": "Palme",
+            "es-ES": "Palmera",
+            "it-IT": "Palma",
+            "nl-NL": "Palmboom",
+            "sv-SE": "Palm",
+            "ko-KR": "야자수",
+            "zh-CN": "棕榈树",
+            "zh-TW": "棕櫚樹",
+            "pt-BR": "Árvore Palmeira",
+            "cs-CZ": "Palma",
+            "ja-JP": "ヤシの木",
+            "pl-PL": "Palma",
+            "ru-RU": "Пальма",
+            "eo-ZZ": "Palmarbo",
+            "ca-ES": "Palmera",
+            "fi-FI": "Palmu"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.tns",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "00000002|GWTRNS  |4734B466",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": 10,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 132,
+        "isTree": true,
+        "shape": "4/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -23, "y": -131 },
+      { "path": "images/1.png", "x": -21, "y": -131 },
+      { "path": "images/2.png", "x": -23, "y": -129 },
+      { "path": "images/3.png", "x": -24, "y": -129 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Norway Spruce Tree",
+            "fr-FR": "Epicéa de Norvège",
+            "de-DE": "Norwegische Fichte",
+            "es-ES": "Abeto de Noruega",
+            "it-IT": "Abete norvegese",
+            "nl-NL": "Noorse spar",
+            "sv-SE": "Norsk gran",
+            "ko-KR": "노르웨이 가문비나무",
+            "zh-CN": "挪威杉木",
+            "zh-TW": "挪威杉木",
+            "pt-BR": "Abeto-Norueguês",
+            "cs-CZ": "Smrk ztepilý",
+            "ja-JP": "ドイツトウヒ",
+            "pl-PL": "Świerk norweski",
+            "ru-RU": "Норвежская ель",
+            "eo-ZZ": "Abipiceoarbo",
+            "ca-ES": "Pícea roja",
+            "fi-FI": "Metsäkuusi"
+        }
+    }
+}

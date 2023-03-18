@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.tct",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "00000002|GWTRCT  |C011A8EF",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": 10,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 80,
+        "isTree": true,
+        "shape": "4/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -25, "y": -80 },
+      { "path": "images/1.png", "x": -25, "y": -81 },
+      { "path": "images/2.png", "x": -26, "y": -81 },
+      { "path": "images/3.png", "x": -24, "y": -84 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Cabbage Tree",
+            "fr-FR": "Palmiste",
+            "de-DE": "Rote Angelin",
+            "es-ES": "Árbol repollo",
+            "it-IT": "Albero dei cavoli",
+            "nl-NL": "Koolpalm",
+            "sv-SE": "Kålträd",
+            "ko-KR": "캐비지 야자",
+            "zh-CN": "甘蓝树",
+            "zh-TW": "甘藍樹",
+            "pt-BR": "Árvore Palmeira",
+            "cs-CZ": "Zelný strom",
+            "ja-JP": "食用ヤシ",
+            "pl-PL": "Drzewo kapuściane",
+            "ru-RU": "Дерево",
+            "eo-ZZ": "Arbo de Andira Inermis",
+            "ca-ES": "Palmera Dracena",
+            "fi-FI": "Viherliljapuu"
+        }
+    }
+}

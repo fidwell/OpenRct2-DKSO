@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.scenery_small.tco",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "09F55801|HALLTCO4|74D5F514",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 25,
+        "removalPrice": 18,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 112,
+        "isTree": true,
+        "shape": "4/4",
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -113 },
+      { "path": "images/1.png", "x": -30, "y": -112 },
+      { "path": "images/2.png", "x": -32, "y": -113 },
+      { "path": "images/3.png", "x": -32, "y": -112 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Common Oak Tree",
+            "fr-FR": "Chêne",
+            "de-DE": "Eiche",
+            "es-ES": "Roble común",
+            "it-IT": "Quercia comune",
+            "nl-NL": "Gewone eik",
+            "sv-SE": "Vanlig ek",
+            "ko-KR": "참나무",
+            "zh-CN": "一般橡树",
+            "zh-TW": "一般橡樹",
+            "pt-BR": "Árvore Carvalho Comum",
+            "cs-CZ": "Dub",
+            "ja-JP": "普通のカシの木",
+            "pl-PL": "Dąb",
+            "ru-RU": "яДуб",
+            "eo-ZZ": "Tigfrukta Kverkoarbo",
+            "ca-ES": "Roure",
+            "fi-FI": "Metsätammi"
+        }
+    }
+}
