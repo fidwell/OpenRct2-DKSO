@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.scenery_small.1x1atre2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "rct2ww",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 160,
+        "sceneryGroup": "rct2.scenery_group.scgtrees",
+        "isTree": true,
+        "shape": "4/4",
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -148 },
+      { "path": "images/1.png", "x": -32, "y": -152 },
+      { "path": "images/2.png", "x": -32, "y": -148 },
+      { "path": "images/3.png", "x": -32, "y": -149 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Vine Tree",
+            "fr-FR": "Arbre avec lianes",
+            "de-DE": "Lianenbaum",
+            "es-ES": "Árbol trepador",
+            "it-IT": "Vite",
+            "nl-NL": "Lianenboom",
+            "sv-SE": "Träd med lianer",
+            "zh-CN": "树藤",
+            "cs-CZ": "Vinná réva",
+            "ko-KR": "덩굴",
+            "pl-PL": "Drzewo z lianami",
+            "ru-RU": "Дерево",
+            "pt-BR": "Videira",
+            "ja-JP": "つるの木",
+            "eo-ZZ": "Vitoarbo",
+            "ca-ES": "Planta enfiladissa",
+            "fi-FI": "Köynnöspuu"
+        }
+    }
+}
