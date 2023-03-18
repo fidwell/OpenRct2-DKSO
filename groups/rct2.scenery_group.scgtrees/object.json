@@ -1,7 +1,7 @@
 {
     "id": "fidwell.scenery_group.trees_dkso",
     "authors": ["fidwell"],
-    "version": "2.0",
+    "version": "3.0",
     "originalId": "0C58B507|TABTREES|96FFA2FE",
     "sourceGame": "custom",
     "objectType": "scenery_group",
@@ -86,9 +86,7 @@
             "rct2.scenery_small.th2",
             "$DAT:00000002|GWTRH2  ",
             "rct2.scenery_small.tpm",
-            "$DAT:00000002|GWTRPM  ",
-            "rct2.scenery_small.tropt1",
-            "$DAT:00000002|GWTROPT1"
+            "rct2.scenery_small.tropt1"
         ],
         "priority": 1,
         "entertainerCostumes": [
