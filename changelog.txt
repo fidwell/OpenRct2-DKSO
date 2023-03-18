@@ -13,6 +13,7 @@
 - New object: Dinosaur (rct2.scenery_large.sdn3)
 - Fixed object: Incense Cedar Tree (rct2.scenery_small.tic)
 - Fixed object: Lawson Cypress Tree (rct2.scenery_small.tlc)
+- Fixed object: Monterey Cypress Tree (rct2.scenery_small.tmc)
 - Fixed object: Arizona Cypress Tree (rct2.scenery_small.tac)
 - Fixed object: Bush (rct2.scenery_small.tsh0)
 - Fixed object: Roman Column Wall (rct2.scenery_wall.wc3)
