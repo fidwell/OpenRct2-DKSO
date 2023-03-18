@@ -1,0 +1,65 @@
+{
+    "id": "fidwell.scenery_large.sdn2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": ["custom"],
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 25,
+        "removalPrice": -20,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "hasPrimaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 64,
+                "hasSupports": true,
+                "walls": 7
+            },
+            {
+                "x": 0,
+                "y": -32,
+                "clearance": 64,
+                "hasSupports": true,
+                "walls": 13
+            }
+        ]
+    },
+    "images": [
+      { "path": "images/00.png", "x": -26, "y": 6 },
+      { "path": "images/01.png", "x": -27, "y": 21 },
+      { "path": "images/02.png", "x": -25, "y": 9 },
+      { "path": "images/03.png", "x": -32, "y": 8 },
+      { "path": "images/04.png", "x": -32, "y": -57 },
+      { "path": "images/05.png", "x": -32, "y": -63 },
+      { "path": "images/06.png", "x": -32, "y": -71 },
+      { "path": "images/07.png", "x": -32, "y": -60 },
+      { "path": "images/08.png", "x": -32, "y": -29 },
+      { "path": "images/09.png", "x": -32, "y": -24 },
+      { "path": "images/10.png", "x": -32, "y": -86 },
+      { "path": "images/11.png", "x": -32, "y": -74 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Dinosaur",
+            "fr-FR": "Dinosaure",
+            "de-DE": "Dinosaurier",
+            "es-ES": "Dinosaurio",
+            "it-IT": "Dinosauro",
+            "nl-NL": "Dinosaurus",
+            "sv-SE": "Dinosaurie",
+            "ko-KR": "공룡",
+            "zh-CN": "恐龙",
+            "zh-TW": "恐龍",
+            "pt-BR": "Dinossauro",
+            "cs-CZ": "Dinosaurus",
+            "ja-JP": "恐竜",
+            "pl-PL": "Dinozaur",
+            "ru-RU": "Динозавр",
+            "eo-ZZ": "Dinosaŭro",
+            "ca-ES": "Dinosaure",
+            "fi-FI": "Dinosaurus"
+        }
+    }
+}
