@@ -111,26 +111,9 @@ function ConvertDat(
     Write-Host "Done"
 }
 
-$objects = @(`
-[System.Tuple]::Create("trees", "TIC", "rct2.scenery_small.tic", "GWTRIC"), `
-[System.Tuple]::Create("trees", "TLC", "rct2.scenery_small.tlc", "GWTRLC"), `
-[System.Tuple]::Create("trees", "TMC", "rct2.scenery_small.tmc", "GWTRMC"), `
-[System.Tuple]::Create("trees", "TMP", "rct2.scenery_small.tmp", "GWTRMP"), `
-[System.Tuple]::Create("trees", "TITC", "rct2.scenery_small.titc", "GWTRITC"), `
-[System.Tuple]::Create("trees", "TGHC", "rct2.scenery_small.tghc", "GWTRGHC"), `
-[System.Tuple]::Create("trees", "TAC", "rct2.scenery_small.tac", "GWTRAC"), `
-[System.Tuple]::Create("trees", "TGHC2", "rct2.scenery_small.tghc2", "GWTRHT"))
-
 if ($args.length -gt 2) {
     Write-Host "Converting a single object..."
     ConvertDat $args[0] $args[1] $args[2] $args[3]
-} elseif ($args.length -gt 0) {
-    Write-Host "Usage: dat-convert groupId rctIdentifier openRct2Identifier [customIdentifier]"
 } else {
-    Write-Host "Converting $($objects.length) objects..."
-
-    for ($i = 0; $i -lt $objects.length; $i++)
-    {
-        ConvertDat $objects[$i].Item1 $objects[$i].Item2 $objects[$i].Item3 $objects[$i].Item4
-    }
+    Write-Host "Usage: dat-convert groupId rctIdentifier openRct2Identifier [customIdentifier]"
 }
