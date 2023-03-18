@@ -92,6 +92,7 @@ function EditJson(
     
     # Update images.json for manual editing
     (Get-Content $imagesJson) -replace "./objects/$($groupId)/$($newIdentifier)/", "" | Set-Content $imagesJson
+    (Get-Content $imagesJson) -replace "./objects/temp", "images" | Set-Content $imagesJson
 }
 
 function ConvertDat(

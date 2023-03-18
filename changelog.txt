@@ -23,6 +23,8 @@
 - Fixed object: Golden Hinoki Cypress Tree (rct2.scenery_small.tghc)
 - Fixed object: Meyer's Blue Juniper Tree (rct2.scenery_small.tmbj)
 - Fixed object: Cedar of Lebanon Tree (rct2.scenery_small.tcl)
+- Fixed object: European Larch Tree (rct2.scenery_small.tel)
+- Fixed object: Aleppo Pine Tree (rct2.scenery_small.tap)
 - Fixed object: Bush (rct2.scenery_small.tsh0)
 - Fixed object: Roman Column Wall (rct2.scenery_wall.wc3)
 - Fixed object: Egyptian Statue (rct2.scenery_small.tes1)
