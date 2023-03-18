@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.scenery_small.trc",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "09F55901|TRC1    |5AFB42EE",
+    "sourceGame": ["custom"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 11,
+        "removalPrice": -10,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "hasPrimaryColour": true,
+        "height": 48,
+        "shape": "1/4",
+        "isStackable": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -8, "y": -51 },
+        { "path": "images/1.png", "x": -8, "y": -51 },
+        { "path": "images/2.png", "x": -8, "y": -51 },
+        { "path": "images/3.png", "x": -8, "y": -51 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Roman Column",
+            "fr-FR": "Colonne romaine",
+            "de-DE": "Römische Säule",
+            "es-ES": "Columna romana",
+            "it-IT": "Colonna romana",
+            "nl-NL": "Romeinse Zuil",
+            "sv-SE": "Romersk pelare",
+            "ko-KR": "로마식 기둥",
+            "zh-CN": "罗马柱廊",
+            "zh-TW": "羅馬柱廊",
+            "pt-BR": "Coluna Romana",
+            "cs-CZ": "Římský sloup",
+            "ja-JP": "ローマの柱",
+            "pl-PL": "Rzymska kolumna",
+            "ru-RU": "Колонна",
+            "eo-ZZ": "Roma Kolono",
+            "ca-ES": "Columna romana",
+            "fi-FI": "Roomalainen pylväs"
+        }
+    }
+}

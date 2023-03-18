@@ -1,15 +1,17 @@
 {
     "id": "fidwell.scenery_group.egyptian_dkso",
     "authors": ["fidwell"],
-    "version": "2.0",
+    "version": "3.0",
     "sourceGame": "custom",
     "objectType": "scenery_group",
     "properties": {
         "entries": [
             "rct2.scenery_large.sspx",
+            "fidwell.scenery_large.sspx",
             "rct2.scenery_large.scln",
             "$DAT:0C58B202|IRESCLNC",
             "rct2.scenery_large.spyr",
+            "fidwell.scenery_large.spyr",
             "rct2.scenery_small.tes1",
             "$DAT:00000002|NINSTEG1",
             "rct2.scenery_small.ten",
