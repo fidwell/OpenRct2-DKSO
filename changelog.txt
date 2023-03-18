@@ -1,0 +1,47 @@
+3.0 (in development)
+------------------------------------------------------------------------
+- New script: Generate object JSON data from vanilla game or DAT object
+- New script: Recolor any compatible PNG files with recolorable color 1
+- New script: Zip all object files in the repo
+- New script: Zip and install all parkobj files in the repo
+- New object: Sphinx (rct2.scenery_large.sspx)
+- New object: Pyramid (rct2.scenery_large.spyr)
+- New object: Wooden Post Wall (couger.scenery_wall.acwwf32)
+- New object: Wooden Post Wall (couger.scenery_wall.acww33)
+- New object: Dinosaur (rct2.scenery_large.sdn1)
+- New object: Dinosaur (rct2.scenery_large.sdn2)
+- New object: Dinosaur (rct2.scenery_large.sdn3)
+- Fixed object: Incense Cedar Tree (rct2.scenery_small.tic)
+- Fixed object: Egyptian Statue (rct2.scenery_small.tes1)
+- Fixed object: Sandstone Skyscraper Walkway (rct2tt.scenery_small.futsky01)
+- Updated object: Roman Column (rct2.scenery_small.trc)
+- Removed: Some redundant custom objects
+
+2.0 (2023-02-26)
+------------------------------------------------------------------------
+- Fixed: Scenery groups did not properly override old DAT versions.
+- New object: Candy Tree (rct2.scenery_small.tas1)
+- New object: Candy Tree (rct2.scenery_small.tas2)
+- New object: Candy Tree (rct2.scenery_small.tas3)
+- New object: Candy (rct2.scenery_small.tas4)
+- New object: Toadstool (rct2.scenery_small.tms1)
+- New object: Red Meteor Crater Corner (rct2tt.scenery_large.rdmeto01)
+- New object: Red Meteor Crater Corner (rct2tt.scenery_large.rdmeto02)
+- New object: Red Meteor Crater Wall (rct2tt.scenery_small.rdmeto03)
+- New object: Red Meteor Crater Inverted Corner (rct2tt.scenery_small.rdmeto04)
+- New object: Meteor Crater Corner (rct2tt.scenery_large.metoan01)
+- New object: Meteor Crater Inverted Corner (rct2tt.scenery_large.metoan02)
+- New object: Large Meteor Crater (rct2tt.scenery_large.cratr4x4)
+- New object: Igloo Wall (rct2ww.scenery_small.roofig01)
+- New object: Igloo Wall (rct2ww.scenery_small.roofig02)
+- New object: Igloo Wall (rct2ww.scenery_small.roofig03)
+- New object: Igloo Wall (rct2ww.scenery_small.roofig04)
+- New object: Small Geosphere (rct2ww.scenery_small.smallgeo)
+- New object: Cabana Porch (rct2ww.scenery_small.sb2palm1)
+- New object: Gold Llama (rct2ww.scenery_large.1x2glama)
+- New object: Gold Statue 1 (rct2ww.scenery_large.gdstaue1)
+- New object: Gold Statue 2 (rct2ww.scenery_large.gdstaue2)
+
+1.0 (2023-01-22)
+------------------------------------------------------------------------
+- Initial parkobj / json versions of all scenery groups
