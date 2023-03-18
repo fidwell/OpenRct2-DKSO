@@ -23,6 +23,7 @@
 - Fixed object: Barrel (fidwell.scenery_small.tbr3)
 - Fixed object: Barrel (fidwell.scenery_small.tbr4)
 - Fixed object: Sandstone Skyscraper Walkway (rct2tt.scenery_small.futsky01)
+- Updated object: Giraffe Statue (rct2.scenery_small.tgs)
 - Updated object: Roman Colosseum (rct2.scenery_large.scol)
 - Updated object: Roman Column (rct2.scenery_small.trc)
 - Updated object: Colonnade (rct2.scenery_large.scln)
