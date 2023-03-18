@@ -1,7 +1,7 @@
 {
     "id": "fidwell.scenery_group.future_dkso",
     "authors": ["fidwell"],
-    "version": "2.0",
+    "version": "3.0",
     "originalId": "0C58B507|TABFUTUR|580EE073",
     "sourceGame": "custom",
     "objectType": "scenery_group",
@@ -11,7 +11,7 @@
             "rct2tt.scenery_large.histfix2",
             "rct2tt.scenery_large.alencrsh",
             "rct2tt.scenery_small.futsky01",
-            "$DAT:0E24FA01|ETHCLR13",
+            "fidwell.scenery_small.futsky01",
             "rct2tt.scenery_small.futsky02",
             "$DAT:0E24FA01|IRFSK02C",
             "rct2tt.scenery_small.futsky03",
