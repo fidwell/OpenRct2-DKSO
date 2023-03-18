@@ -12,8 +12,8 @@ function ExtractSprites(
     [string]$imagesJson)
 {
     Write-Host "Creating directories..."
-    New-Item -Path "$($objectPath)" -ItemType Directory -Force | Out-Null
-    New-Item -Path "$($imagePath)" -ItemType Directory -Force | Out-Null
+    New-Item -Path $objectPath -ItemType Directory -Force | Out-Null
+    New-Item -Path $imagePath -ItemType Directory -Force | Out-Null
 
     $command = ""
     $shouldRecolour = $false
