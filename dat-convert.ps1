@@ -81,9 +81,8 @@ function EditJson(
     (Get-Content $objectJson) -replace $regex, """originalId"": """"," | Set-Content $objectJson
 
     # Change source game
-    $regex = "\""sourceGame\"": \[.*"
-    (Get-Content $objectJson) -replace $regex, """sourceGame"": [""custom""]," | Set-Content $objectJson
-    # to do
+    $regex = "\""sourceGame\"": .*"
+    (Get-Content $objectJson) -replace $regex, """sourceGame"": ""custom""," | Set-Content $objectJson
 
     # Add recolorable flags
     # to do
