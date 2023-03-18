@@ -8,7 +8,7 @@
     "properties": {
         "entries": [
             "rct2.scenery_large.scol",
-            "$DAT:0C58B202|IRESCOLC",
+            "fidwell.scenery_large.scol",
             "rct2.scenery_small.tt1",
             "$DAT:0C58B401|IRECTT1C",
             "rct2.scenery_small.trms",
