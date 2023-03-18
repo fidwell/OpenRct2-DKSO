@@ -16,6 +16,7 @@
 - Fixed object: Lawson Cypress Tree (rct2.scenery_small.tlc)
 - Fixed object: Monterey Cypress Tree (rct2.scenery_small.tmc)
 - Fixed object: Arizona Cypress Tree (rct2.scenery_small.tac)
+- Fixed object: Monkey-Puzzle Tree (rct2.scenery_small.tmp)
 - Fixed object: Bush (rct2.scenery_small.tsh0)
 - Fixed object: Roman Column Wall (rct2.scenery_wall.wc3)
 - Fixed object: Egyptian Statue (rct2.scenery_small.tes1)
