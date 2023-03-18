@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.scenery_small.tghc2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "00000002|GWTRHT  |06F26F00",
+    "sourceGame": ["custom"],
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 17,
+        "removalPrice": 10,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 64,
+        "isTree": true,
+        "shape": "4/4",
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -23, "y": -65 },
+      { "path": "images/1.png", "x": -23, "y": -61 },
+      { "path": "images/2.png", "x": -23, "y": -65 },
+      { "path": "images/3.png", "x": -23, "y": -61 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Hiba Tree",
+            "fr-FR": "Arbre d’Hiba",
+            "de-DE": "Hiba-Baum",
+            "es-ES": "Hiba",
+            "it-IT": "Hiba",
+            "nl-NL": "Hibacipres",
+            "sv-SE": "Hiba",
+            "ko-KR": "히바",
+            "zh-CN": "桸柏树",
+            "zh-TW": "桸柏樹",
+            "pt-BR": "Árvore Hiba",
+            "cs-CZ": "Maďarský cypřiš",
+            "ja-JP": "ヒバ",
+            "pl-PL": "Hibiskus",
+            "ru-RU": "Хиба",
+            "eo-ZZ": "Arbo de Thujopsis Dolabrata",
+            "ca-ES": "Hiba",
+            "fi-FI": "Hibatuija"
+        }
+    }
+}
