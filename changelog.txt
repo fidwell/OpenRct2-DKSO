@@ -13,6 +13,7 @@
 - New object: Dinosaur (rct2.scenery_large.sdn2)
 - New object: Dinosaur (rct2.scenery_large.sdn3)
 - New object: Vine Tree (rct2ww.scenery_small.1x1atre2)
+- New object: Small Speaker (rct2tt.scenery_small.speakr01)
 - Fixed object: Incense Cedar Tree (rct2.scenery_small.tic)
 - Fixed object: Lawson Cypress Tree (rct2.scenery_small.tlc)
 - Fixed object: Monterey Cypress Tree (rct2.scenery_small.tmc)
