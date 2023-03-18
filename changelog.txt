@@ -33,6 +33,8 @@
 - Updated object: Hiba Tree (rct2.scenery_small.tghc2)
 - Updated object: Common Juniper Tree (rct2.scenery_small.tcj)
 - Updated object: Caucasian Fir Tree (rct2.scenery_small.tcf)
+- Updated object: Red Fir Tree (rct2.scenery_small.trf)
+- Updated object: Red Fir Tree (rct2.scenery_small.trf2)
 - Updated object: Giraffe Statue (rct2.scenery_small.tgs)
 - Updated object: Roof (rct2.scenery_small.sumrf)
 - Updated object: Roman Colosseum (rct2.scenery_large.scol)
