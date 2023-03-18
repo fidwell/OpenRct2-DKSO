@@ -17,6 +17,8 @@
 - Fixed object: Bush (rct2.scenery_small.tsh0)
 - Fixed object: Roman Column Wall (rct2.scenery_wall.wc3)
 - Fixed object: Egyptian Statue (rct2.scenery_small.tes1)
+- Fixed object: Barrel (fidwell.scenery_small.tbr3)
+- Fixed object: Barrel (fidwell.scenery_small.tbr4)
 - Fixed object: Sandstone Skyscraper Walkway (rct2tt.scenery_small.futsky01)
 - Updated object: Roman Colosseum (rct2.scenery_large.scol)
 - Updated object: Roman Column (rct2.scenery_small.trc)
