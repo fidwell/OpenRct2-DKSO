@@ -63,7 +63,7 @@ foreach ($groupPath in $groupPaths) {
     Set-Location ..
 }
 
-# go home
+# Go home
 Set-Location $homepath
 
 Write-Output "Created $objectSuccess out of $objectTotal objects."
