@@ -14,6 +14,7 @@
 - Fixed object: Incense Cedar Tree (rct2.scenery_small.tic)
 - Fixed object: Lawson Cypress Tree (rct2.scenery_small.tlc)
 - Fixed object: Arizona Cypress Tree (rct2.scenery_small.tac)
+- Fixed object: Bush (rct2.scenery_small.tsh0)
 - Fixed object: Roman Column Wall (rct2.scenery_wall.wc3)
 - Fixed object: Egyptian Statue (rct2.scenery_small.tes1)
 - Fixed object: Sandstone Skyscraper Walkway (rct2tt.scenery_small.futsky01)
