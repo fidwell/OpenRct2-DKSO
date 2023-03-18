@@ -6,6 +6,11 @@ import java.util.Scanner;
 
 public class RecolourRctImage {
 	public static void main(String[] args) {
+		if (args.length != 1) {
+			System.out.println("Requires file path argument");
+			return;
+		}
+		
 		File file = new File(args[0]);
 		
 		if (!file.exists()) {

@@ -3,11 +3,11 @@ $outnames = "fidwell.scenery_group.trees_dkso", "fidwell.scenery_group.shrubs_dk
 
 $homepath = Get-Location
 
-$grouptotal = 0
+$groupTotal = 0
 $groupSuccess = 0
 
 $outdir = "./dist"
-New-Item $outdir -ItemType Directory
+New-Item -Path $outdir -ItemType Directory -Force | Out-Null
 
 for ($i = 0; $i -lt $scgroups.Length; ++$i) {
     # go home
