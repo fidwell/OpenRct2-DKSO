@@ -9,24 +9,27 @@ function ExtractSprites(
     [string]$imagePath,
     [string]$customIdentifier,
     [string]$rctIdentifier,
-    [string]$imagesJson)
+    [string]$imagesJson,
+    [bool]$useOriginalImages,
+    [string]$tempPath)
 {
     Write-Host "Creating directories..."
     New-Item -Path $objectPath -ItemType Directory -Force | Out-Null
     New-Item -Path $imagePath -ItemType Directory -Force | Out-Null
 
+    $useCustomObject = $customIdentifier.Length -gt 0
     $command = ""
     $shouldRecolour = $false
-    if ($customIdentifier.Length -eq 0)
+    if ($useCustomObject)
+    {
+        Write-Host "Extracting custom object..."
+        $command = "$($openRct2com) sprite exportalldat $($customIdentifier.ToUpper()) $($imagePath) > $($imagesJson)"
+    }
+    else
     {
         Write-Host "Extracting vanilla object..."
         $command = "$($openRct2com) sprite exportalldat $($rctIdentifier.ToUpper()) $($imagePath) > $($imagesJson)"
         $shouldRecolour = $true
-    }
-    else
-    {
-        Write-Host "Extracting custom object..."
-        $command = "$($openRct2com) sprite exportalldat $($customIdentifier.ToUpper()) $($imagePath) > $($imagesJson)"
     }
 
     Invoke-Expression -Command $command
@@ -39,6 +42,12 @@ function ExtractSprites(
             java RecolourRctImage $f.FullName
         }
         Set-Location ..
+    }
+
+    if ($useCustomObject -and $useOriginalImages) {
+        Write-Host "Extracting original image data..."
+        $command = "$($openRct2com) sprite exportalldat $($rctIdentifier.ToUpper()) $($tempPath) > $($imagesJson)"
+        Invoke-Expression -Command $command
     }
 }
 
@@ -89,7 +98,8 @@ function EditJson(
 function ConvertDat(
     [string]$groupId,
     [string]$openRct2Identifier,
-    [string]$customIdentifier
+    [string]$customIdentifier,
+    [string]$useOriginalImagesStr
 )
 {
     $identifiers = $openRct2Identifier.Split(".")
@@ -102,8 +112,10 @@ function ConvertDat(
     $imagePath = "$($objectPath)\images"
     $objectJson = "$($objectPath)\object.json"
     $imagesJson = "$($objectPath)\images.json"
-
-    ExtractSprites $objectPath $imagePath $customIdentifier $objectName $imagesJson
+    $tempPath = ".\objects\temp"
+    $useOriginalImages = $useOriginalImagesStr.Length -gt 0
+    
+    ExtractSprites $objectPath $imagePath $customIdentifier $objectName $imagesJson $useOriginalImages $tempPath
     CopyData $openRct2bin $originalGame $objectType $openRct2Identifier $objectJson
     EditJson $openRct2Identifier $objectJson $newIdentifier $groupId $imagesJson
 
@@ -111,8 +123,7 @@ function ConvertDat(
 }
 
 if ($args.length -gt 1) {
-    Write-Host "Converting a single object..."
-    ConvertDat $args[0] $args[1] $args[2]
+    ConvertDat $args[0] $args[1] $args[2] $args[3]
 } else {
-    Write-Host "Usage: dat-convert groupId openRct2Identifier [customIdentifier]"
+    Write-Host "Usage: dat-convert groupId openRct2Identifier [customIdentifier] [useOriginalImages]"
 }
