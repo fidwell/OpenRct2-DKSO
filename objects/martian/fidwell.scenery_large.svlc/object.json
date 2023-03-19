@@ -1,0 +1,189 @@
+{
+    "id": "fidwell.scenery_large.svlc",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B202|ETHCLR41|7FF57BE0",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 250,
+        "removalPrice": -200,
+        "cursor": "CURSOR_VOLCANO_DOWN",
+        "isPhotogenic": true,
+        "hasPrimaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 64,
+                "hasSupports": true,
+                "walls": 9,
+                "corners": 1
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 64,
+                "hasSupports": true,
+                "walls": 5,
+                "corners": 11
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 64,
+                "hasSupports": true,
+                "walls": 5,
+                "corners": 7
+            },
+            {
+                "x": 0,
+                "y": 96,
+                "clearance": 64,
+                "hasSupports": true,
+                "walls": 3,
+                "corners": 2
+            },
+            {
+                "x": 32,
+                "y": 96,
+                "clearance": 64,
+                "hasSupports": true,
+                "walls": 10,
+                "corners": 7
+            },
+            {
+                "x": 64,
+                "y": 96,
+                "clearance": 64,
+                "hasSupports": true,
+                "walls": 10,
+                "corners": 14
+            },
+            {
+                "x": 96,
+                "y": 96,
+                "clearance": 64,
+                "hasSupports": true,
+                "walls": 6,
+                "corners": 4
+            },
+            {
+                "x": 96,
+                "y": 64,
+                "clearance": 64,
+                "hasSupports": true,
+                "walls": 5,
+                "corners": 14
+            },
+            {
+                "x": 96,
+                "y": 32,
+                "clearance": 64,
+                "hasSupports": true,
+                "walls": 5,
+                "corners": 13
+            },
+            {
+                "x": 96,
+                "y": 0,
+                "clearance": 64,
+                "hasSupports": true,
+                "walls": 12,
+                "corners": 8
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 64,
+                "hasSupports": true,
+                "walls": 10,
+                "corners": 13
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 64,
+                "hasSupports": true,
+                "walls": 10,
+                "corners": 11
+            }
+        ]
+    },
+    "images": [
+      { "path": "images/00.png", "x": -32, "y": 6 },
+      { "path": "images/01.png", "x": -32, "y": 6 },
+      { "path": "images/02.png", "x": -32, "y": 6 },
+      { "path": "images/03.png", "x": -32, "y": 6 },
+      { "path": "images/04.png", "x": 0, "y": 0 },
+      { "path": "images/05.png", "x": 0, "y": -4 },
+      { "path": "images/06.png", "x": -32, "y": -61 },
+      { "path": "images/07.png", "x": -32, "y": 0 },
+      { "path": "images/08.png", "x": -32, "y": -27 },
+      { "path": "images/09.png", "x": 0, "y": -46 },
+      { "path": "images/10.png", "x": -32, "y": -100 },
+      { "path": "images/11.png", "x": 0, "y": 0 },
+      { "path": "images/12.png", "x": 0, "y": 0 },
+      { "path": "images/13.png", "x": 0, "y": -86 },
+      { "path": "images/14.png", "x": -32, "y": -55 },
+      { "path": "images/15.png", "x": -14, "y": -36 },
+      { "path": "images/16.png", "x": 0, "y": -4 },
+      { "path": "images/17.png", "x": -32, "y": -61 },
+      { "path": "images/18.png", "x": -32, "y": 0 },
+      { "path": "images/19.png", "x": 0, "y": 0 },
+      { "path": "images/20.png", "x": 0, "y": -46 },
+      { "path": "images/21.png", "x": -32, "y": -100 },
+      { "path": "images/22.png", "x": 0, "y": 0 },
+      { "path": "images/23.png", "x": -32, "y": -27 },
+      { "path": "images/24.png", "x": 0, "y": -86 },
+      { "path": "images/25.png", "x": -32, "y": -55 },
+      { "path": "images/26.png", "x": -14, "y": -36 },
+      { "path": "images/27.png", "x": 0, "y": 0 },
+      { "path": "images/28.png", "x": -32, "y": -61 },
+      { "path": "images/29.png", "x": -32, "y": 0 },
+      { "path": "images/30.png", "x": 0, "y": 0 },
+      { "path": "images/31.png", "x": 0, "y": -4 },
+      { "path": "images/32.png", "x": -32, "y": -100 },
+      { "path": "images/33.png", "x": 0, "y": 0 },
+      { "path": "images/34.png", "x": -32, "y": -27 },
+      { "path": "images/35.png", "x": 0, "y": -46 },
+      { "path": "images/36.png", "x": -32, "y": -55 },
+      { "path": "images/37.png", "x": -14, "y": -36 },
+      { "path": "images/38.png", "x": 0, "y": 0 },
+      { "path": "images/39.png", "x": 0, "y": -86 },
+      { "path": "images/40.png", "x": -32, "y": 0 },
+      { "path": "images/41.png", "x": 0, "y": 0 },
+      { "path": "images/42.png", "x": 0, "y": -4 },
+      { "path": "images/43.png", "x": -32, "y": -61 },
+      { "path": "images/44.png", "x": 0, "y": 0 },
+      { "path": "images/45.png", "x": -32, "y": -27 },
+      { "path": "images/46.png", "x": 0, "y": -46 },
+      { "path": "images/47.png", "x": -32, "y": -100 },
+      { "path": "images/48.png", "x": -14, "y": -36 },
+      { "path": "images/49.png", "x": 0, "y": 0 },
+      { "path": "images/50.png", "x": 0, "y": -86 },
+      { "path": "images/51.png", "x": -32, "y": -55 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Volcano",
+            "fr-FR": "Volcan",
+            "de-DE": "Vulkan",
+            "es-ES": "Volcán",
+            "it-IT": "Vulcano",
+            "nl-NL": "Vulkaan",
+            "sv-SE": "Vulkan",
+            "ko-KR": "화산",
+            "zh-CN": "火山",
+            "zh-TW": "火山",
+            "pt-BR": "Vulcão",
+            "cs-CZ": "Sopka",
+            "ja-JP": "火山",
+            "pl-PL": "Wulkan",
+            "ru-RU": "Вулкан",
+            "eo-ZZ": "Vulkano",
+            "ca-ES": "Volcà",
+            "fi-FI": "Tulivuori"
+        }
+    }
+}

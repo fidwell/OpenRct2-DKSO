@@ -83,6 +83,7 @@
 - Updated object: Bush (rct2.scenery_small.tjb3)
 - Updated object: Bush (rct2.scenery_small.tjb4)
 - Updated object: Plant (rct2.scenery_small.tjt6)
+- Updated object: Volcano (rct2.scenery_large.svlc)
 - Removed: Some redundant custom objects
 
 2.0 (2023-02-26)
