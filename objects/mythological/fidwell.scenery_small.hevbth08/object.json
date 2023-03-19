@@ -1,0 +1,51 @@
+{
+    "id": "fidwell.scenery_small.hevbth08",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F801|IRHEB08C|4D4EC6B9",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 38,
+        "removalPrice": -28,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -41 },
+      { "path": "images/1.png", "x": -31, "y": -44 },
+      { "path": "images/2.png", "x": -31, "y": -56 },
+      { "path": "images/3.png", "x": -32, "y": -42 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Heavenly Baths Stairway",
+            "fr-FR": "Escalier des thermes divins",
+            "de-DE": "Treppe der Himmlischen Bäder",
+            "es-ES": "Escalera de termas de los dioses",
+            "it-IT": "Scale delle Terme Celestiali",
+            "nl-NL": "Trap Hemelse baden",
+            "sv-SE": "Trappa, himmelskt bad",
+            "ko-KR": "천상의 욕실 계단",
+            "zh-TW": "天國浴場樓梯",
+            "pt-BR": "Escadaria de Banho Celestial",
+            "cs-CZ": "Nebeská koupel - Schodiště",
+            "pl-PL": "Schody niebiańskich łaţni",
+            "ru-RU": "Деталь бассейна",
+            "ja-JP": "天空の浴場　階段",
+            "eo-ZZ": "Ŝtuparo de Ĉiela Bano",
+            "ca-ES": "Escala de les termes dels déus",
+            "fi-FI": "Taivaallisen kylpylän portaikko",
+            "zh-CN": "天堂浴场-楼梯"
+        }
+    }
+}

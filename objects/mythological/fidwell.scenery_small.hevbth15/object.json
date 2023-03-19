@@ -1,0 +1,51 @@
+{
+    "id": "fidwell.scenery_small.hevbth15",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F801|IRHEB15C|888692BA",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 24,
+        "removalPrice": -18,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 8,
+        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -9 },
+      { "path": "images/1.png", "x": -32, "y": -8 },
+      { "path": "images/2.png", "x": -32, "y": -8 },
+      { "path": "images/3.png", "x": -32, "y": -9 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Heavenly Bath Floor",
+            "fr-FR": "Sol des thermes divins",
+            "de-DE": "Boden des Himmlischen Bades",
+            "es-ES": "Suelo de termas de los dioses",
+            "it-IT": "Pavimento delle Terme Celestiali",
+            "nl-NL": "Vloer hemels bad",
+            "sv-SE": "Golv, himmelskt bad",
+            "ko-KR": "천상의 욕실 바닥",
+            "zh-TW": "天國浴場地板",
+            "pt-BR": "Piso de Banho Celestial",
+            "cs-CZ": "Nebeská koupel - Podlaha",
+            "pl-PL": "Posadzka niebiańskich łaţni",
+            "ru-RU": "Деталь бассейна",
+            "ja-JP": "天空の浴場　床",
+            "eo-ZZ": "Planko de Ĉiela Bano",
+            "ca-ES": "Terra de les termes dels déus",
+            "fi-FI": "Taivaallisen kylpylän lattia",
+            "zh-CN": "天堂浴场-底板"
+        }
+    }
+}
