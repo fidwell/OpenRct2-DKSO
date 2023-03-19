@@ -29,6 +29,7 @@
 - New object: Roof (toontowner.scenery_small.ttrfwd06)
 - New object: Roof (toontowner.scenery_small.ttrfwd07)
 - New object: Roof (toontowner.scenery_small.ttrfwd08)
+- New object: Football (rct2.scenery_small.ball3)
 - New object: Vine Tree (rct2ww.scenery_small.1x1atre2)
 - New object: Roman Palace Corner Piece (rct2tt.scenery_large.corns2x2)
 - New object: Small Speaker (rct2tt.scenery_small.speakr01)
