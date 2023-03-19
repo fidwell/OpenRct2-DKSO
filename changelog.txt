@@ -11,6 +11,7 @@
 - New object: Roof (rct2.scenery_small.roof7)
 - New object: Sphinx (rct2.scenery_large.sspx)
 - New object: Pyramid (rct2.scenery_large.spyr)
+- New object: Flower (rct2.scenery_small.tjf)
 - New object: Wooden Post Wall (couger.scenery_wall.acwwf32)
 - New object: Wooden Post Wall (couger.scenery_wall.acww33)
 - New object: Dinosaur (rct2.scenery_large.sdn1)

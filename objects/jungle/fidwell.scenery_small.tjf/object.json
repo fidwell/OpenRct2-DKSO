@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.tjf",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 10,
+        "removalPrice": 4,
+        "cursor": "CURSOR_FLOWER_DOWN",
+        "height": 48,
+        "sceneryGroup": "fidwell.scenery_group.ggarden_dkso",
+        "shape": "4/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -29, "y": -42 },
+      { "path": "images/1.png", "x": -19, "y": -43 },
+      { "path": "images/2.png", "x": -23, "y": -39 },
+      { "path": "images/3.png", "x": -22, "y": -39 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Flower",
+            "fr-FR": "Fleur",
+            "de-DE": "Blume",
+            "es-ES": "Flor",
+            "it-IT": "Fiore",
+            "nl-NL": "Bloem",
+            "sv-SE": "Blomma",
+            "ko-KR": "꽃",
+            "zh-CN": "花",
+            "zh-TW": "花",
+            "pt-BR": "Flor",
+            "cs-CZ": "Květina",
+            "ja-JP": "花",
+            "pl-PL": "Kwiat",
+            "ru-RU": "Цветок",
+            "eo-ZZ": "Floro",
+            "ca-ES": "Flor",
+            "fi-FI": "Kukka"
+        }
+    }
+}
