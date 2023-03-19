@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.terb",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "09F55801|TERBCRBG|67A85881",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -5,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 16,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -9, "y": -22 },
+      { "path": "images/1.png", "x": -10, "y": -19 },
+      { "path": "images/2.png", "x": -8, "y": -20 },
+      { "path": "images/3.png", "x": -10, "y": -22 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Stone Block",
+            "fr-FR": "Bloc de pierre",
+            "de-DE": "Steinblock",
+            "es-ES": "Bloque de piedra",
+            "it-IT": "Blocco di pietra",
+            "nl-NL": "Blok steen",
+            "sv-SE": "Stenblock",
+            "ko-KR": "돌 블록",
+            "zh-CN": "石块",
+            "zh-TW": "石塊",
+            "pt-BR": "Bloco de Pedra",
+            "cs-CZ": "Kamenný blok",
+            "ja-JP": "石のブロック",
+            "pl-PL": "Blok kamienny",
+            "ru-RU": "Блок",
+            "eo-ZZ": "Ŝtona Bloko",
+            "ca-ES": "Bloc de pedra",
+            "fi-FI": "Kiven lohkare"
+        }
+    }
+}

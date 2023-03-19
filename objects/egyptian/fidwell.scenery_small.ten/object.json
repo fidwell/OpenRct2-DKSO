@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.ten",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B301|IRECTENC|5CCEA427",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 12,
+        "removalPrice": -10,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "1/4",
+        "isStackable": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -10, "y": -39 },
+      { "path": "images/1.png", "x": -10, "y": -39 },
+      { "path": "images/2.png", "x": -10, "y": -39 },
+      { "path": "images/3.png", "x": -10, "y": -39 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Cleopatra’s Needle",
+            "fr-FR": "Obélisque de Cléopâtre",
+            "de-DE": "Kleopatras Nadel",
+            "es-ES": "Aguja de Cleopatra",
+            "it-IT": "Ago di Cleopatra",
+            "nl-NL": "Naald van Cleopatra",
+            "sv-SE": "Kleopatras nål",
+            "ko-KR": "클레오파트라의 바늘",
+            "zh-CN": "古埃及艳后针柱",
+            "zh-TW": "古埃及豔后針柱",
+            "pt-BR": "Obelisco de Cleópatra",
+            "cs-CZ": "Kleopatřina jehla",
+            "ja-JP": "クレオパトラの針",
+            "pl-PL": "Igła Kleopatry",
+            "ru-RU": "Игла Клеопатры",
+            "eo-ZZ": "Kudrilo de Kleopatro",
+            "ca-ES": "L’agulla de Cleopatra",
+            "fi-FI": "Kleopatran neula",
+            "tr-TR": "Cleopatra’s Needle"
+        }
+    }
+}
