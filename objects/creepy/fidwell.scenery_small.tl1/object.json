@@ -1,0 +1,48 @@
+{
+    "id": "fidwell.scenery_small.tl1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "00000002|GWTRL1  |C6BCD647",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 26,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 120,
+        "sceneryGroup": "fidwell.scenery_group.trees_dkso",
+        "isTree": true,
+        "shape": "4/4",
+        "requiresFlatSurface": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -120 },
+      { "path": "images/1.png", "x": -26, "y": -118 },
+      { "path": "images/2.png", "x": -32, "y": -115 },
+      { "path": "images/3.png", "x": -32, "y": -120 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Tree",
+            "fr-FR": "Arbre",
+            "de-DE": "Baum",
+            "es-ES": "Árbol",
+            "it-IT": "Albero",
+            "nl-NL": "Boom",
+            "sv-SE": "Träd",
+            "ko-KR": "나무",
+            "zh-CN": "树",
+            "zh-TW": "樹",
+            "pt-BR": "Árvore",
+            "cs-CZ": "Strom",
+            "ja-JP": "木",
+            "pl-PL": "Drzewo",
+            "ru-RU": "Дерево",
+            "eo-ZZ": "Arbo",
+            "ca-ES": "Arbre",
+            "fi-FI": "Puu"
+        }
+    }
+}
