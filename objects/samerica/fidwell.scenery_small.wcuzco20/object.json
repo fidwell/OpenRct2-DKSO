@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.wcuzco20",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31D01|IRWCZ20C|F47BDF6A",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 16,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -29 },
+      { "path": "images/1.png", "x": -2, "y": -30 },
+      { "path": "images/2.png", "x": -2, "y": -15 },
+      { "path": "images/3.png", "x": -32, "y": -15 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Monumental Stairway Piece",
+            "fr-FR": "Pan de toit de monument 4",
+            "de-DE": "Monumentaldach-Bauteil 4",
+            "es-ES": "Pieza de tejado monumental 4",
+            "it-IT": "Pezzo di tetto monumentale 4",
+            "nl-NL": "Stuk monumentale trap",
+            "sv-SE": "Monument trappdel",
+            "cs-CZ": "Monumentální schodiště",
+            "ko-KR": "기념물 계단 조각",
+            "pl-PL": "Monumentalny segment schodów",
+            "ru-RU": "Деталь Ступеней",
+            "pt-BR": "Peça de Escadaria Monumental",
+            "ja-JP": "記念碑　階段部分",
+            "eo-ZZ": "Monumenta Parto de Ŝtuparo",
+            "ca-ES": "Part d’escala monumental",
+            "fi-FI": "Monumentin portaikon osa",
+            "zh-CN": "古代-楼梯"
+        }
+    }
+}

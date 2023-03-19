@@ -1,0 +1,43 @@
+{
+    "id": "fidwell.scenery_small.wcuzco21",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31D01|IRWCZ21C|78CB2DB1",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 16,
+        "shape": "4/4+D",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -17 },
+      { "path": "images/1.png", "x": -25, "y": -31 },
+      { "path": "images/2.png", "x": -32, "y": -26 },
+      { "path": "images/3.png", "x": -4, "y": -30 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Monumental Wall Corner Piece",
+            "de-DE": "Monumentalwandecken-Bauteil",
+            "cs-CZ": "Monumentální rohová stěna",
+            "ko-KR": "기념물 벽 구석 조각",
+            "pl-PL": "Monumentalny narożnik ściany",
+            "ru-RU": "Деталь стены",
+            "pt-BR": "Peça de Canto de Parede Monumental",
+            "fr-FR": "Coin de mur de monument",
+            "ja-JP": "記念碑　壁のコーナー部分",
+            "eo-ZZ": "Monumenta Anguloparto de Muro",
+            "sv-SE": "Monument vägg hörndel",
+            "ca-ES": "Part de cantonada de paret monumental",
+            "fi-FI": "Monumentin seinän kulmaosa",
+            "zh-CN": "古代-墙转角"
+        }
+    }
+}
