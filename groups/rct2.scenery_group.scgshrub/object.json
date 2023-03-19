@@ -8,11 +8,11 @@
     "properties": {
         "entries": [
             "rct2.scenery_small.ts0",
-            "$DAT:0C58B401|IRECTS0C",
+            "fidwell.scenery_small.ts0",
             "rct2.scenery_small.ts1",
-            "$DAT:0C58B401|IRECTS1C",
+            "fidwell.scenery_small.ts1",
             "rct2.scenery_small.ts2",
-            "$DAT:0C58B401|IRECTS2C",
+            "fidwell.scenery_small.ts2",
             "rct2.scenery_small.ts3",
             "$DAT:0C58B401|IRETS3C ",
             "rct2.scenery_small.ts4",
