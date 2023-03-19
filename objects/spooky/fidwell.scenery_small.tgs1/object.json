@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.tgs1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B401|IRETGS1C|298B543D",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 4,
+        "removalPrice": -3,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 12,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -5, "y": -10 },
+      { "path": "images/1.png", "x": -4, "y": -10 },
+      { "path": "images/2.png", "x": -5, "y": -10 },
+      { "path": "images/3.png", "x": -4, "y": -10 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Grave Stone",
+            "fr-FR": "Pierre tombale",
+            "de-DE": "Grabstein",
+            "es-ES": "Gran piedra",
+            "it-IT": "Pietra tombale",
+            "nl-NL": "Grafsteen",
+            "sv-SE": "Gravsten",
+            "ko-KR": "묘비",
+            "zh-CN": "墓碑",
+            "zh-TW": "墓碑/墓石",
+            "pt-BR": "Lápide",
+            "cs-CZ": "Náhrobek",
+            "ja-JP": "墓石",
+            "pl-PL": "Nagrobek",
+            "ru-RU": "Надгробье",
+            "eo-ZZ": "Tomboŝtono",
+            "ca-ES": "Làpida",
+            "fi-FI": "Hautakivi"
+        }
+    }
+}

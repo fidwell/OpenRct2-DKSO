@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.tdt1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D01|ELLTDT1C|D4370A12",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 10,
+        "removalPrice": 6,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 60,
+        "sceneryGroup": "fidwell.scenery_group.trees_dkso",
+        "isTree": true,
+        "shape": "4/4",
+        "isStackable": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -20, "y": -57 },
+      { "path": "images/1.png", "x": -26, "y": -52 },
+      { "path": "images/2.png", "x": -18, "y": -54 },
+      { "path": "images/3.png", "x": -26, "y": -52 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Dead Tree",
+            "fr-FR": "Arbre mort",
+            "de-DE": "Toter Baum",
+            "es-ES": "Tocón",
+            "it-IT": "Albero morto",
+            "nl-NL": "Dode boom",
+            "sv-SE": "Dött träd",
+            "ko-KR": "죽은 나무",
+            "zh-CN": "枯树",
+            "zh-TW": "?樹",
+            "pt-BR": "Árvore Morta",
+            "cs-CZ": "Uschlý strom",
+            "ja-JP": "枯れ木",
+            "pl-PL": "Uschłe drzewo",
+            "ru-RU": "Дерево",
+            "eo-ZZ": "Morta Arbo",
+            "ca-ES": "Arbre mort",
+            "fi-FI": "Kuollut puu"
+        }
+    }
+}
