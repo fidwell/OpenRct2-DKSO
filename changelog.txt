@@ -59,6 +59,11 @@
 - Fixed object: Tree (rct2.scenery_small.tm1)
 - Fixed object: Tree (rct2.scenery_small.tm2)
 - Fixed object: Tree (rct2.scenery_small.tm3)
+- Fixed object: Tree (rct2.scenery_small.tjt1)
+- Fixed object: Tree (rct2.scenery_small.tjt2)
+- Fixed object: Tree (rct2.scenery_small.tjt3)
+- Fixed object: Tree (rct2.scenery_small.tjt4)
+- Fixed object: Tree (rct2.scenery_small.tjt5)
 - Fixed object: Logs (rct2.scenery_small.tml)
 - Fixed object: Barrel (fidwell.scenery_small.tbr3)
 - Fixed object: Barrel (fidwell.scenery_small.tbr4)
@@ -73,6 +78,11 @@
 - Updated object: Roman Colosseum (rct2.scenery_large.scol)
 - Updated object: Roman Column (rct2.scenery_small.trc)
 - Updated object: Colonnade (rct2.scenery_large.scln)
+- Updated object: Bush (rct2.scenery_small.tjb1)
+- Updated object: Bush (rct2.scenery_small.tjb2)
+- Updated object: Bush (rct2.scenery_small.tjb3)
+- Updated object: Bush (rct2.scenery_small.tjb4)
+- Updated object: Plant (rct2.scenery_small.tjt6)
 - Removed: Some redundant custom objects
 
 2.0 (2023-02-26)

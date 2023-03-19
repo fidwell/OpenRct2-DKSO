@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.scenery_small.tjb3",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B401|IRETJB3C|5A593912",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 10,
+        "removalPrice": 5,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 48,
+        "sceneryGroup": "fidwell.scenery_group.shrubs_dkso",
+        "shape": "1/4",
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -15, "y": -44 },
+      { "path": "images/1.png", "x": -16, "y": -41 },
+      { "path": "images/2.png", "x": -15, "y": -45 },
+      { "path": "images/3.png", "x": -16, "y": -43 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Bush",
+            "fr-FR": "Buisson",
+            "de-DE": "Busch",
+            "es-ES": "Matorral",
+            "it-IT": "Cespuglio",
+            "nl-NL": "Struik",
+            "sv-SE": "Buske",
+            "ko-KR": "수풀",
+            "zh-CN": "灌木",
+            "zh-TW": "灌木",
+            "pt-BR": "Arbusto",
+            "cs-CZ": "Křoví",
+            "ja-JP": "低木",
+            "pl-PL": "Krzak",
+            "ru-RU": "Куст",
+            "eo-ZZ": "Arbeto",
+            "ca-ES": "Arbust",
+            "fi-FI": "Pensas"
+        }
+    }
+}
