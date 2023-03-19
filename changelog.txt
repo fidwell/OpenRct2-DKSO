@@ -4,6 +4,8 @@
 - New script: Recolor any compatible PNG files with recolorable color 1
 - New script: Zip all object files in the repo
 - New script: Zip and install all parkobj files in the repo
+- New object: Palm Tree (rct2.scenery_small.tpm)
+- New object: Tree (rct2.scenery_small.tropt1)
 - New object: Base Block (toontowner.scenery_small.xxbbbr01)
 - New object: Sphinx (rct2.scenery_large.sspx)
 - New object: Pyramid (rct2.scenery_large.spyr)

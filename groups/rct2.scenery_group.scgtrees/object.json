@@ -86,7 +86,9 @@
             "rct2.scenery_small.th2",
             "fidwell.scenery_small.th2",
             "rct2.scenery_small.tpm",
-            "rct2.scenery_small.tropt1"
+            "fidwell.scenery_small.tpm",
+            "rct2.scenery_small.tropt1",
+            "fidwell.scenery_small.tropt1"
         ],
         "priority": 1,
         "entertainerCostumes": [
