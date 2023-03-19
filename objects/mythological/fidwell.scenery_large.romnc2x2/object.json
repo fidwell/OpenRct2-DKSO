@@ -1,0 +1,90 @@
+{
+    "id": "fidwell.scenery_large.romnc2x2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F802|IRROM2XC|E4505E43",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 82,
+        "removalPrice": -77,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "hasPrimaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 96,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 96,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 96,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 96,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": [
+      { "path": "images/00.png", "x": -32, "y": 1 },
+      { "path": "images/01.png", "x": -32, "y": 1 },
+      { "path": "images/02.png", "x": -32, "y": 1 },
+      { "path": "images/03.png", "x": -32, "y": 1 },
+      { "path": "images/04.png", "x": -10, "y": -79 },
+      { "path": "images/05.png", "x": -32, "y": -85 },
+      { "path": "images/06.png", "x": -32, "y": -94 },
+      { "path": "images/07.png", "x": -32, "y": -96 },
+      { "path": "images/08.png", "x": -32, "y": -96 },
+      { "path": "images/09.png", "x": -32, "y": -96 },
+      { "path": "images/10.png", "x": -32, "y": -96 },
+      { "path": "images/11.png", "x": -32, "y": -79 },
+      { "path": "images/12.png", "x": -32, "y": -85 },
+      { "path": "images/13.png", "x": -10, "y": -74 },
+      { "path": "images/14.png", "x": -32, "y": -84 },
+      { "path": "images/15.png", "x": -32, "y": -94 },
+      { "path": "images/16.png", "x": -32, "y": -96 },
+      { "path": "images/17.png", "x": -32, "y": -85 },
+      { "path": "images/18.png", "x": -32, "y": -79 },
+      { "path": "images/19.png", "x": -32, "y": -96 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Roman Palace Corner Piece",
+            "fr-FR": "Section de virage de palais romain",
+            "de-DE": "Eckstück des Römischen Palastes",
+            "es-ES": "Sección de esquina de palacio romano",
+            "it-IT": "Tratto di curva del Palazzo Romano",
+            "nl-NL": "Bochtstuk Romeins paleis",
+            "sv-SE": "Hörndel, romerskt palats",
+            "ko-KR": "로마궁 구석 조각",
+            "zh-TW": "羅馬皇宮牆角塊",
+            "pt-BR": "Peça de Canto de Palácio Romano",
+            "cs-CZ": "Římský palác - roh",
+            "pl-PL": "Narożnik rzymskiego pałacu",
+            "ru-RU": "Деталь дворца",
+            "ja-JP": "ローマ風　宮殿 コーナー部分",
+            "eo-ZZ": "Anguloparto de Roma Palaco",
+            "ca-ES": "Part de cantonada de palau romà",
+            "fi-FI": "Roomalaisen palatsin kulmaosa",
+            "zh-CN": "罗马宫殿-转角部分"
+        }
+    }
+}

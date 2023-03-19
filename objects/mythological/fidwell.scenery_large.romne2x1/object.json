@@ -1,0 +1,68 @@
+{
+    "id": "fidwell.scenery_large.romne2x1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F802|IRONE2XC|746AC649",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 44,
+        "removalPrice": -40,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "hasPrimaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 96,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 96,
+                "hasSupports": true,
+                "walls": 3
+            }
+        ]
+    },
+    "images": [
+      { "path": "images/00.png", "x": -32, "y": 1 },
+      { "path": "images/01.png", "x": -32, "y": 1 },
+      { "path": "images/02.png", "x": -32, "y": 1 },
+      { "path": "images/03.png", "x": -32, "y": 1 },
+      { "path": "images/04.png", "x": -16, "y": -78 },
+      { "path": "images/05.png", "x": -32, "y": -96 },
+      { "path": "images/06.png", "x": -28, "y": -90 },
+      { "path": "images/07.png", "x": -32, "y": -72 },
+      { "path": "images/08.png", "x": -32, "y": -97 },
+      { "path": "images/09.png", "x": -28, "y": -77 },
+      { "path": "images/10.png", "x": -6, "y": -72 },
+      { "path": "images/11.png", "x": -32, "y": -90 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Roman Palace End Piece",
+            "fr-FR": "Section d’arrivée de palais romain",
+            "de-DE": "Endstück des Römischen Palastes",
+            "es-ES": "Sección final de palacio romano",
+            "it-IT": "Tratto finale del Palazzo Romano",
+            "nl-NL": "Eindstuk Romeins paleis",
+            "sv-SE": "Kantdel, romerskt palats",
+            "ko-KR": "로마궁 끝 조각",
+            "zh-TW": "羅馬皇宮末端塊",
+            "pt-BR": "Peça de Ponta de Palácio Romano",
+            "cs-CZ": "Římský palác - koncová část",
+            "pl-PL": "Segment końcowy rzymskiego pałacu",
+            "ru-RU": "Деталь дворца",
+            "ja-JP": "ローマ風　宮殿 末端部分",
+            "eo-ZZ": "Finoparto de Roma Palaco",
+            "ca-ES": "Part final de palau romà",
+            "fi-FI": "Roomalaisen palatsin pääteosa",
+            "zh-CN": "罗马宫殿-结尾部分"
+        }
+    }
+}

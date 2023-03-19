@@ -13,6 +13,7 @@
 - New object: Dinosaur (rct2.scenery_large.sdn2)
 - New object: Dinosaur (rct2.scenery_large.sdn3)
 - New object: Vine Tree (rct2ww.scenery_small.1x1atre2)
+- New object: Roman Palace Corner Piece (rct2tt.scenery_large.corns2x2)
 - New object: Small Speaker (rct2tt.scenery_small.speakr01)
 - Fixed object: Incense Cedar Tree (rct2.scenery_small.tic)
 - Fixed object: Lawson Cypress Tree (rct2.scenery_small.tlc)
@@ -68,6 +69,7 @@
 - Fixed object: Barrel (fidwell.scenery_small.tbr3)
 - Fixed object: Barrel (fidwell.scenery_small.tbr4)
 - Fixed object: Sandstone Skyscraper Walkway (rct2tt.scenery_small.futsky01)
+- Fixed object: Roman Palace Cross Section (rct2tt.scenery_large.romnm2x2)
 - Updated object: Hiba Tree (rct2.scenery_small.tghc2)
 - Updated object: Common Juniper Tree (rct2.scenery_small.tcj)
 - Updated object: Caucasian Fir Tree (rct2.scenery_small.tcf)
@@ -89,6 +91,11 @@
 - Updated object: Bush (rct2.scenery_small.tjb4)
 - Updated object: Plant (rct2.scenery_small.tjt6)
 - Updated object: Volcano (rct2.scenery_large.svlc)
+- Updated object: Roman Palace Corner Piece (rct2tt.scenery_large.romnc2x2)
+- Updated object: Roman Palace End Piece (rct2tt.scenery_large.romne2x1)
+- Updated object: Roman Palace Straight Piece (rct2tt.scenery_large.romns2x2)
+- Updated object: Roman Palace Cross Section (rct2tt.scenery_large.crsss2x2)
+- Updated object: Roman Palace Straight Piece (rct2tt.scenery_large.strgs2x2)
 - Removed: Some redundant custom objects
 
 2.0 (2023-02-26)
