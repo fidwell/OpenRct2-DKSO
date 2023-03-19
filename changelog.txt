@@ -7,6 +7,8 @@
 - New object: Palm Tree (rct2.scenery_small.tpm)
 - New object: Tree (rct2.scenery_small.tropt1)
 - New object: Base Block (toontowner.scenery_small.xxbbbr01)
+- New object: Roof (rct2.scenery_small.roof5)
+- New object: Roof (rct2.scenery_small.roof7)
 - New object: Sphinx (rct2.scenery_large.sspx)
 - New object: Pyramid (rct2.scenery_large.spyr)
 - New object: Wooden Post Wall (couger.scenery_wall.acwwf32)
