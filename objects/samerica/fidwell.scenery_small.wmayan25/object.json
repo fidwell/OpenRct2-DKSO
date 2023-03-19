@@ -1,0 +1,43 @@
+{
+    "id": "fidwell.scenery_small.wmayan25",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31C01|IRWMA25C|359AC397",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4+D",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -33 },
+      { "path": "images/1.png", "x": -32, "y": -47 },
+      { "path": "images/2.png", "x": -32, "y": -46 },
+      { "path": "images/3.png", "x": -3, "y": -47 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Lost City Wall Corner Piece",
+            "de-DE": "Verlorene Stadt - Eckbauteil",
+            "cs-CZ": "Rohová stěna Ztraceného města",
+            "ko-KR": "잃어버린 도시 벽 구석 조각",
+            "pl-PL": "Zaginione miasto - narożnik ściany",
+            "ru-RU": "Деталь стены",
+            "pt-BR": "Peça de Canto da Parede da Cidade Perdida",
+            "fr-FR": "Coin de mur de cité perdue",
+            "ja-JP": "失われた都市　壁のコーナー部分",
+            "eo-ZZ": "Anguloparto de Muro de Malaperinta Urbo",
+            "sv-SE": "Vägghörndel till förlorad stad",
+            "ca-ES": "Part de cantonada de la ciutat perduda",
+            "fi-FI": "Kadonneen kaupungin seinän kulmaosa",
+            "zh-CN": "失落之城-墙转角"
+        }
+    }
+}

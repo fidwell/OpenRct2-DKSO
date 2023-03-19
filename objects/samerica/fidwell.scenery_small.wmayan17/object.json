@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.wmayan17",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31C01|IRWMA17C|EA74031A",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 50,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -9, "y": -58 },
+      { "path": "images/1.png", "x": -11, "y": -58 },
+      { "path": "images/2.png", "x": -11, "y": -58 },
+      { "path": "images/3.png", "x": -12, "y": -58 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Lost City Column Piece",
+            "fr-FR": "Pièce de colonne de cité perdue",
+            "de-DE": "Verlorene Stadt - Säulen-Bauteil",
+            "es-ES": "Pieza de columna de ciudad perdida",
+            "it-IT": "Pezzo di colonna di città perduta",
+            "nl-NL": "Stuk zuil Verloren Stad",
+            "sv-SE": "Kolumndel till förlorad stad",
+            "cs-CZ": "Sloup Ztraceného města",
+            "ko-KR": "잃어버린 도시 기둥 조각",
+            "pl-PL": "Zaginione miasto - część kolumny",
+            "ru-RU": "Деталь Колонны",
+            "pt-BR": "Peça de Coluna da Cidade Perdida",
+            "ja-JP": "失われた都市　円柱部分",
+            "eo-ZZ": "Kolonoparto de Malaperinta Urbo",
+            "ca-ES": "Part de columna de la ciutat perduda",
+            "fi-FI": "Kadonneen kaupungin pylvään osa",
+            "zh-CN": "失落之城-柱子"
+        }
+    }
+}
