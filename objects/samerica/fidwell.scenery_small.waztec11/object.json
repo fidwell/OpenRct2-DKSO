@@ -1,0 +1,44 @@
+{
+    "id": "fidwell.scenery_small.waztec11",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31C01|IRZTE11C|1D1F0403",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4+D",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -6, "y": -46 },
+      { "path": "images/1.png", "x": -32, "y": -35 },
+      { "path": "images/2.png", "x": -32, "y": -47 },
+      { "path": "images/3.png", "x": -32, "y": -45 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Temple Wall Corner Piece",
+            "de-DE": "Tempelwandecken-Bauteil",
+            "cs-CZ": "Rohová stěna chrámu",
+            "ko-KR": "사원 벽 구석 조각",
+            "pl-PL": "Narożny segment ściany świątyni",
+            "ru-RU": "Деталь стены",
+            "pt-BR": "Peça de Canto de Parede do Templo",
+            "fr-FR": "Coin de mur de temple",
+            "ja-JP": "寺 壁　コーナー部分",
+            "nl-NL": "Stuk tempelmuur (hoekstuk)",
+            "eo-ZZ": "Anguloparto de Muro de Templo",
+            "sv-SE": "Tempelvägg hörndel",
+            "ca-ES": "Part de cantonada de temple",
+            "fi-FI": "Temppelin seinän kulmaosa",
+            "zh-CN": "寺庙-墙转角"
+        }
+    }
+}

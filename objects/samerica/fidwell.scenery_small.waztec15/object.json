@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.waztec15",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31C01|IRZTE15C|B582F2F6",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -46 },
+      { "path": "images/1.png", "x": -32, "y": -46 },
+      { "path": "images/2.png", "x": -32, "y": -35 },
+      { "path": "images/3.png", "x": -32, "y": -34 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Temple Roof Piece",
+            "fr-FR": "Pan de toit de temple",
+            "de-DE": "Tempeldach-Bauteil",
+            "es-ES": "Pieza de tejado de templo",
+            "it-IT": "Pezzo di tetto di tempio",
+            "nl-NL": "Stuk tempeldak",
+            "sv-SE": "Tempeltakdel",
+            "cs-CZ": "Střecha chrámu",
+            "ko-KR": "사원 지붕 조각",
+            "pl-PL": "Segment dachu świątyni",
+            "ru-RU": "Деталь крыши",
+            "pt-BR": "Peça de Telhado do Templo",
+            "ja-JP": "寺院の屋",
+            "eo-ZZ": "Tegmentoparto de Templo",
+            "ca-ES": "Part de teulada de temple",
+            "fi-FI": "Temppelin katon osa",
+            "zh-CN": "寺庙-房顶"
+        }
+    }
+}

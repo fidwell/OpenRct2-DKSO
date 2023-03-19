@@ -1,0 +1,43 @@
+{
+    "id": "fidwell.scenery_small.waztec21",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31C01|IRZTE21C|7F10665A",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -48 },
+      { "path": "images/1.png", "x": -31, "y": -48 },
+      { "path": "images/2.png", "x": -32, "y": -34 },
+      { "path": "images/3.png", "x": -32, "y": -34 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Temple Stairway Piece",
+            "de-DE": "Tempeltreppen-Bauteil",
+            "cs-CZ": "Chrámové schody",
+            "ko-KR": "사원 계단 조각",
+            "pl-PL": "Segment schodów świątynnych",
+            "ru-RU": "Деталь Ступеней",
+            "pt-BR": "Peça de Escadaria do Templo",
+            "fr-FR": "Pièce d’escalier de temple",
+            "ja-JP": "寺 階段部分",
+            "eo-ZZ": "Ŝtuparoparto de Templo",
+            "sv-SE": "Tempeltrappdel",
+            "ca-ES": "Part d’escala de temple",
+            "fi-FI": "Temppelin portaikon osa",
+            "zh-CN": "寺庙-楼梯"
+        }
+    }
+}

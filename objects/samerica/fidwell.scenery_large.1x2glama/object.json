@@ -1,0 +1,66 @@
+{
+    "id": "fidwell.scenery_large.1x2glama",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31D02|FDGLLAMA|7D258423",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 78,
+        "removalPrice": -70,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "hasPrimaryColour": true,
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 119,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 119,
+                "hasSupports": true,
+                "walls": 3
+            }
+        ]
+    },
+    "images": [
+      { "path": "images/00.png", "x": -27, "y": 6 },
+      { "path": "images/01.png", "x": -17, "y": 10 },
+      { "path": "images/02.png", "x": -32, "y": 5 },
+      { "path": "images/03.png", "x": -32, "y": 9 },
+      { "path": "images/04.png", "x": 0, "y": -37 },
+      { "path": "images/05.png", "x": -32, "y": -97 },
+      { "path": "images/06.png", "x": -25, "y": -98 },
+      { "path": "images/07.png", "x": -22, "y": -36 },
+      { "path": "images/08.png", "x": -19, "y": -83 },
+      { "path": "images/09.png", "x": -17, "y": -77 },
+      { "path": "images/10.png", "x": 0, "y": -78 },
+      { "path": "images/11.png", "x": -32, "y": -82 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Gold Llama",
+            "fr-FR": "Lama d’or",
+            "de-DE": "Goldenes Lama",
+            "es-ES": "Llama dorada",
+            "it-IT": "Lama dorato",
+            "nl-NL": "Gouden Lama",
+            "sv-SE": "Guldlama",
+            "cs-CZ": "Zlatá lama",
+            "ko-KR": "황금 라마",
+            "pl-PL": "Złota lama",
+            "ru-RU": "Лама",
+            "pt-BR": "Lhama Dourada",
+            "ja-JP": "黄金のリャマ",
+            "eo-ZZ": "Ora Lamo",
+            "ca-ES": "Llama daurada",
+            "fi-FI": "Kultainen laama",
+            "zh-CN": "金骆驼"
+        }
+    }
+}

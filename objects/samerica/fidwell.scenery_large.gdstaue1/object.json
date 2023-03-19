@@ -1,0 +1,88 @@
+{
+    "id": "fidwell.scenery_large.gdstaue1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CC31D02|FGDSTAT1|6D92E077",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 78,
+        "removalPrice": -70,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "hasPrimaryColour": true,
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 178,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 178,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 178,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 178,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": [
+      { "path": "images/00.png", "x": -32, "y": 1 },
+      { "path": "images/01.png", "x": -32, "y": 1 },
+      { "path": "images/02.png", "x": -32, "y": 2 },
+      { "path": "images/03.png", "x": -31, "y": 1 },
+      { "path": "images/04.png", "x": 0, "y": 0 },
+      { "path": "images/05.png", "x": 0, "y": -128 },
+      { "path": "images/06.png", "x": -32, "y": -148 },
+      { "path": "images/07.png", "x": -14, "y": -98 },
+      { "path": "images/08.png", "x": 0, "y": -98 },
+      { "path": "images/09.png", "x": -32, "y": -148 },
+      { "path": "images/10.png", "x": -15, "y": -132 },
+      { "path": "images/11.png", "x": 0, "y": 0 },
+      { "path": "images/12.png", "x": -14, "y": -131 },
+      { "path": "images/13.png", "x": 0, "y": 0 },
+      { "path": "images/14.png", "x": 0, "y": -100 },
+      { "path": "images/15.png", "x": -32, "y": -147 },
+      { "path": "images/16.png", "x": -32, "y": -146 },
+      { "path": "images/17.png", "x": -14, "y": -100 },
+      { "path": "images/18.png", "x": 0, "y": 0 },
+      { "path": "images/19.png", "x": 0, "y": -133 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Gold Statue 1",
+            "fr-FR": "Statue d’or 1",
+            "de-DE": "Goldene Statue 1",
+            "es-ES": "Estatua de oro 1",
+            "it-IT": "Statua d’oro 1",
+            "nl-NL": "Gouden standbeeld 1",
+            "sv-SE": "Guldstaty 1",
+            "cs-CZ": "Zlatá socha 1",
+            "ko-KR": "황금 조각상 1",
+            "pl-PL": "Złoty posąg 1",
+            "ru-RU": "Статуэтка 1",
+            "pt-BR": "Estátua Dourada 1",
+            "ja-JP": "黄金の像 1",
+            "eo-ZZ": "Ora Statuo 1",
+            "ca-ES": "Estàtua d’or 1",
+            "fi-FI": "Kultainen patsas 1",
+            "zh-CN": "金雕塑1"
+        }
+    }
+}
