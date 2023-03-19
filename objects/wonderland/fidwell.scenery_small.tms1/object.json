@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.tms1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B401|FDTMS1  |641C24BA",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 13,
+        "removalPrice": -5,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 36,
+        "shape": "4/4",
+        "isStackable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -23, "y": -34 },
+      { "path": "images/1.png", "x": -23, "y": -34 },
+      { "path": "images/2.png", "x": -22, "y": -34 },
+      { "path": "images/3.png", "x": -23, "y": -34 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Toadstool",
+            "fr-FR": "Champignon vénéneux",
+            "de-DE": "Giftpilz",
+            "es-ES": "Seta",
+            "it-IT": "Fungo velenoso",
+            "nl-NL": "Paddenstoel",
+            "sv-SE": "Giftsvamp",
+            "ko-KR": "독버섯",
+            "zh-CN": "伞菌;毒菌",
+            "zh-TW": "傘菌;毒菌",
+            "pt-BR": "Cogumelo Venenoso",
+            "cs-CZ": "Muchomůrka",
+            "ja-JP": "毒キノコ",
+            "pl-PL": "Muchomor",
+            "ru-RU": "Поганка",
+            "eo-ZZ": "Fungo",
+            "ca-ES": "Bolet verinós",
+            "fi-FI": "Sieni"
+        }
+    }
+}
