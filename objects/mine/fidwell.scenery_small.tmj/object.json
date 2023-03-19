@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.tmj",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B401|IRETMJ1C|1EF09BB1",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 6,
+        "removalPrice": -4,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -26, "y": -26 },
+      { "path": "images/1.png", "x": -24, "y": -26 },
+      { "path": "images/2.png", "x": -28, "y": -25 },
+      { "path": "images/3.png", "x": -26, "y": -29 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Junk",
+            "fr-FR": "Jonque",
+            "de-DE": "Gerümpel",
+            "es-ES": "Chatarra",
+            "it-IT": "Giunca",
+            "nl-NL": "Rommel",
+            "sv-SE": "Skräp",
+            "ko-KR": "잔해",
+            "zh-CN": "废弃物",
+            "zh-TW": "廢棄物",
+            "pt-BR": "Lixo",
+            "cs-CZ": "Odpad",
+            "ja-JP": "ジャンク",
+            "pl-PL": "Śmieci",
+            "ru-RU": "Блок",
+            "eo-ZZ": "Rubaĵo",
+            "ca-ES": "Trastos",
+            "fi-FI": "Rojua"
+        }
+    }
+}

@@ -23,7 +23,7 @@
       { "path": "images/1.png", "x": -23, "y": -27 },
       { "path": "images/2.png", "x": -24, "y": -26 },
       { "path": "images/3.png", "x": -24, "y": -27 }
-    ,
+    ],
     "strings": {
         "name": {
             "en-GB": "Graveyard Monument",

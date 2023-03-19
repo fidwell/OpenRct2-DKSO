@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.tbr1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B301|IRETBR1C|9247BBAD",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 4,
+        "removalPrice": -3,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 12,
+        "shape": "1/4",
+        "isStackable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -9, "y": -13 },
+      { "path": "images/1.png", "x": -9, "y": -13 },
+      { "path": "images/2.png", "x": -9, "y": -12 },
+      { "path": "images/3.png", "x": -9, "y": -12 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Barrel",
+            "fr-FR": "Tonneau",
+            "de-DE": "Fass",
+            "es-ES": "Barril",
+            "it-IT": "Barile",
+            "nl-NL": "Vat",
+            "sv-SE": "Tunna",
+            "ko-KR": "통",
+            "zh-CN": "桶",
+            "zh-TW": "桶",
+            "pt-BR": "Barril",
+            "cs-CZ": "Barel",
+            "ja-JP": "樽",
+            "pl-PL": "Beczułka",
+            "ru-RU": "Бочка",
+            "eo-ZZ": "Barelo",
+            "ca-ES": "Barril",
+            "fi-FI": "Tynnyri"
+        }
+    }
+}

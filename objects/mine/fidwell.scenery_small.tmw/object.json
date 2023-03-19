@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.tmw",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B401|IRECTMWC|75A872B4",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 12,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -18, "y": -12 },
+      { "path": "images/1.png", "x": -25, "y": -11 },
+      { "path": "images/2.png", "x": -17, "y": -16 },
+      { "path": "images/3.png", "x": -26, "y": -13 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Wheels",
+            "fr-FR": "Roues",
+            "de-DE": "Räder",
+            "es-ES": "Ruedas",
+            "it-IT": "Ruote",
+            "nl-NL": "Wielen",
+            "sv-SE": "Hjul",
+            "ko-KR": "바퀴",
+            "zh-CN": "轮子",
+            "zh-TW": "車子",
+            "pt-BR": "Rodas",
+            "cs-CZ": "Kola",
+            "ja-JP": "車輪",
+            "pl-PL": "Koła",
+            "ru-RU": "Колеса",
+            "eo-ZZ": "Radoj",
+            "ca-ES": "Rodes",
+            "fi-FI": "Pyörät"
+        }
+    }
+}
