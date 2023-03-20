@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.japsnotr",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0001|IRJAPSNC|284EA353",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 72,
+        "sceneryGroup": "fidwell.scenery_group.trees_dkso",
+        "isTree": true,
+        "shape": "4/4",
+        "hasNoSupports": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -30, "y": -71 },
+      { "path": "images/1.png", "x": -32, "y": -69 },
+      { "path": "images/2.png", "x": -32, "y": -72 },
+      { "path": "images/3.png", "x": -32, "y": -71 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Japanese Snowball Tree",
+            "fr-FR": "Boule-de-neige du Japon",
+            "de-DE": "Japanisches Schneeballgewächs",
+            "es-ES": "Árbol de nieve japonés",
+            "it-IT": "Albero palla di neve giapponese",
+            "nl-NL": "Japanse Gelderse Roos",
+            "sv-SE": "Japanskt snöbollsträd",
+            "zh-CN": "日本-雪球树",
+            "cs-CZ": "Kalina řasnatá",
+            "ko-KR": "까마귀밥나무",
+            "pl-PL": "Japońskie ośnieżone drzewo",
+            "ru-RU": "Снежное дерево",
+            "pt-BR": "Árvore Bola-de-neve Japonesa",
+            "ja-JP": "セイヨウカンボク",
+            "eo-ZZ": "Japana Neĝbuloarbo",
+            "ca-ES": "Arbre floc de neu japonès",
+            "fi-FI": "Japaninpalloheisi"
+        }
+    }
+}
