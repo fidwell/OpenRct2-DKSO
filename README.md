@@ -1,6 +1,6 @@
-# OpenRCT2 DKSO Groups
+# OpenRCT2 DKSO
 
-_Recolorable non-custom scenery groups for OpenRCT2_
+_Recolorable non-custom scenery for OpenRCT2_
 
 ![image](https://user-images.githubusercontent.com/5436387/213924683-63c2e5a0-5769-4177-8560-487cbd68c1c0.png)
 
@@ -8,19 +8,21 @@ _Recolorable non-custom scenery groups for OpenRCT2_
 
 This repository contains replacement scenery groups for [OpenRCT2](https://github.com/OpenRCT2). These scenery groups consist of all RCT1, RCT2, and expansion scenery, plus community-made recolorable versions of those objects (referred to as DKSO).
 
+It also contains updated versions of many (but not all) of those recolorable scenery objects.
+
 ## What's so great about this version?
 
 This particular version of DKSO uses the new .parkobj file format, which is easier for humans to read and update. Unlike the .DAT files native to RCT2, .parkobj files can be unzipped, edited, and re-released as improvements are made.
 
 ## How do I install it?
 
-Download the workbench (.park file) from the [releases page](https://github.com/fidwell/OpenRct2-DKSO-Groups/releases). OpenRCT2 will automatically install the needed scenery groups.
+Download the workbench (.park file) from the [releases page](https://github.com/fidwell/OpenRct2-DKSO-Groups/releases). OpenRCT2 will automatically install the needed scenery groups and objects.
 
 ## The trees, fences, and walls tabs look like they're missing items.
 
-The built-in scenery groups for trees, fences, and walls are able to include relevant objects from other selected groups for convenience. As far as I know, custom scenery groups do not have this feature. Either you don't include any extra trees (for example) and only have them listed in the original groups, or you put _everything_ in the trees tab and pollute it with objects the user might not want.
+Some objects, like special trees, walls, etc., can appear in a themed group (like Asia theming) and also in the generic trees group. Objects specify themselves if they appear in multiple groups. We can tell our custom objects to appear in any group. However, we cannot force vanilla objects to appear in custom groups.
 
-## A custom object I want to use is missing!
+## A custom object I want to use is missing or broken!
 
 Please let me know by [filing an issue](https://github.com/fidwell/OpenRct2-DKSO-Groups/issues) and I'll resolve it when I can. Make sure to include a link or attachment of the missing items.
 
