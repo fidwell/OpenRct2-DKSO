@@ -1,0 +1,129 @@
+{
+    "id": "fidwell.scenery_large.glthent",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 230,
+        "removalPrice": -200,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "hasPrimaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 64,
+                "hasSupports": true,
+                "allowSupportsAbove": true,
+                "walls": 13
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 64,
+                "hasSupports": true,
+                "allowSupportsAbove": true,
+                "walls": 5
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 64,
+                "hasSupports": true,
+                "allowSupportsAbove": true,
+                "walls": 5
+            },
+            {
+                "x": 0,
+                "y": 96,
+                "clearance": 64,
+                "hasSupports": true,
+                "allowSupportsAbove": true,
+                "walls": 5
+            },
+            {
+                "x": 0,
+                "y": 128,
+                "clearance": 64,
+                "hasSupports": true,
+                "allowSupportsAbove": true,
+                "walls": 5
+            },
+            {
+                "x": 0,
+                "y": 160,
+                "clearance": 64,
+                "hasSupports": true,
+                "allowSupportsAbove": true,
+                "walls": 5
+            },
+            {
+                "x": 0,
+                "y": 192,
+                "clearance": 64,
+                "hasSupports": true,
+                "allowSupportsAbove": true,
+                "walls": 7
+            }
+        ]
+    },
+    "images": [
+      { "path": "images/00.png", "x": -32, "y": 18 },
+      { "path": "images/01.png", "x": -32, "y": 18 },
+      { "path": "images/02.png", "x": -32, "y": 18 },
+      { "path": "images/03.png", "x": -32, "y": 12 },
+      { "path": "images/04.png", "x": -28, "y": -58 },
+      { "path": "images/05.png", "x": -28, "y": -58 },
+      { "path": "images/06.png", "x": -28, "y": -62 },
+      { "path": "images/07.png", "x": -28, "y": -64 },
+      { "path": "images/08.png", "x": -28, "y": -63 },
+      { "path": "images/09.png", "x": -28, "y": -61 },
+      { "path": "images/10.png", "x": -28, "y": -56 },
+      { "path": "images/11.png", "x": -28, "y": -58 },
+      { "path": "images/12.png", "x": -28, "y": -61 },
+      { "path": "images/13.png", "x": -28, "y": -61 },
+      { "path": "images/14.png", "x": -28, "y": -53 },
+      { "path": "images/15.png", "x": -28, "y": -55 },
+      { "path": "images/16.png", "x": -28, "y": -58 },
+      { "path": "images/17.png", "x": -28, "y": -58 },
+      { "path": "images/18.png", "x": -28, "y": -59 },
+      { "path": "images/19.png", "x": -28, "y": -59 },
+      { "path": "images/20.png", "x": -28, "y": -60 },
+      { "path": "images/21.png", "x": -28, "y": -60 },
+      { "path": "images/22.png", "x": -28, "y": -61 },
+      { "path": "images/23.png", "x": -28, "y": -63 },
+      { "path": "images/24.png", "x": -28, "y": -63 },
+      { "path": "images/25.png", "x": -28, "y": -61 },
+      { "path": "images/26.png", "x": -28, "y": -66 },
+      { "path": "images/27.png", "x": -28, "y": -66 },
+      { "path": "images/28.png", "x": -28, "y": -66 },
+      { "path": "images/29.png", "x": -28, "y": -65 },
+      { "path": "images/30.png", "x": -28, "y": -67 },
+      { "path": "images/31.png", "x": -28, "y": -67 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "‘Goliath’ Sign",
+            "fr-FR": "Panneau ‘Goliath’",
+            "de-DE": "„Goliath“-Schild",
+            "es-ES": "Señal de Goliath",
+            "it-IT": "Insegna di ‘Goliath’",
+            "nl-NL": "‘Goliath’-bord",
+            "sv-SE": "’Goliath’-skylt",
+            "ko-KR": "‘골리앗’ 팻말",
+            "zh-CN": "「葛利亚」招牌",
+            "zh-TW": "「葛利亞」招牌",
+            "pt-BR": "Placa ‘Goliath’",
+            "cs-CZ": "‘Goliáš’ cedule",
+            "ja-JP": "「ゴリアテ」看板",
+            "pl-PL": "Napis Goliath",
+            "ru-RU": "‘Goliath’ знак",
+            "eo-ZZ": "‘Goliato’ Afiŝo",
+            "ca-ES": "Senyal «Goliath»",
+            "fi-FI": "”Goliath”-kyltti",
+            "tr-TR": "‘Goliath’ Sign"
+        }
+    }
+}

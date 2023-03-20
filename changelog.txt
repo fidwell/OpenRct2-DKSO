@@ -41,6 +41,7 @@
 - New object: Cactus (rct2ww.scenery_small.sbh3cac3)
 - New object: Roman Palace Corner Piece (rct2tt.scenery_large.corns2x2)
 - New object: Small Speaker (rct2tt.scenery_small.speakr01)
+- New object: 'Goliath' Sign (rct2.scenery_large.glthent)
 - Fixed object: Incense Cedar Tree (rct2.scenery_small.tic)
 - Fixed object: Lawson Cypress Tree (rct2.scenery_small.tlc)
 - Fixed object: Monterey Cypress Tree (rct2.scenery_small.tmc)
