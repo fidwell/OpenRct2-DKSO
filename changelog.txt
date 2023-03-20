@@ -6,6 +6,7 @@
 - New script: Zip and install all parkobj files in the repo
 - New object: Palm Tree (rct2.scenery_small.tpm)
 - New object: Tree (rct2.scenery_small.tropt1)
+- New object: Gardens (rct2.scenery_small.tg19)
 - New object: Base Block (toontowner.scenery_small.xxbbbr01)
 - New object: Roof (rct2.scenery_small.roof5)
 - New object: Roof (rct2.scenery_small.roof7)
