@@ -1,0 +1,41 @@
+{
+    "id": "fidwell.scenery_wall.wallmm17",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true,
+        "isOpaque": true,
+        "height": 2,
+        "price": 60
+    },
+    "images": [
+      { "path": "images/0.png", "x": -31, "y": -24 },
+      { "path": "images/1.png", "x": -1, "y": -22 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Railings",
+            "fr-FR": "Grille",
+            "de-DE": "Geländer",
+            "es-ES": "Enrejado",
+            "it-IT": "Ringhiera",
+            "nl-NL": "Traliewerk",
+            "sv-SE": "Ledstång",
+            "ko-KR": "철책",
+            "zh-CN": "扶手",
+            "zh-TW": "扶手",
+            "pt-BR": "Grades",
+            "cs-CZ": "Zábradlí",
+            "ja-JP": "ガードレール",
+            "pl-PL": "Płot",
+            "ru-RU": "Ограда",
+            "eo-ZZ": "Balustrado",
+            "ca-ES": "Reixat",
+            "fi-FI": "Kaide"
+        }
+    }
+}

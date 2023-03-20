@@ -77,6 +77,7 @@
 - Fixed object: Canary Palm Tree (rct2.scenery_small.th1)
 - Fixed object: Palm Tree (rct2.scenery_small.th2)
 - Fixed object: Bush (rct2.scenery_small.tsh0)
+- Fixed object: Railings (rct2.scenery_wall.wallmm17)
 - Fixed object: Roman Column Wall (rct2.scenery_wall.wc3)
 - Fixed object: Egyptian Statue (rct2.scenery_small.tes1)
 - Fixed object: Tree (rct2.scenery_small.tl0)
