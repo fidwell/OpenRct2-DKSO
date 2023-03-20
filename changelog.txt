@@ -253,6 +253,7 @@
 - Updated object: Heavenly Bath Roof (rct2tt.scenery_small.hevrof02)
 - Updated object: Heavenly Bath Roof (rct2tt.scenery_small.hevrof03)
 - Updated object: Heavenly Bath Roof (rct2tt.scenery_small.hevrof04)
+- Updated object: Bubbling Tarpit (rct2tt.scenery_small.tarpit03)
 - Removed: Some redundant custom objects
 
 2.0 (2023-02-26)
