@@ -7,13 +7,13 @@
     "properties": {
         "entries": [
             "rct2.scenery_wall.wmf",
-            "$DAT:09F55B03|1KC28WMF",
+            "fidwell.scenery_wall.wmf",
             "rct2.scenery_wall.wmfg",
-            "$DAT:09F55B03|1KFNCCMF",
+            "fidwell.scenery_wall.wmfg",
             "rct2.scenery_wall.wsw",
-            "$DAT:00000003|RBFENC02",
+            "fidwell.scenery_wall.wsw",
             "rct2.scenery_wall.wswg",
-            "$DAT:00000003|RBFENG02",
+            "fidwell.scenery_wall.wswg",
             "rct2.scenery_wall.wfw1",
             "rct2.scenery_wall.wfwg",
             "rct2.scenery_wall.wpf",
