@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.ts5",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B401|IRECTS5C|C7A859ED",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 7,
+        "removalPrice": 5,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 32,
+        "shape": "1/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isStackable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -10, "y": -34 },
+      { "path": "images/1.png", "x": -10, "y": -34 },
+      { "path": "images/2.png", "x": -10, "y": -34 },
+      { "path": "images/3.png", "x": -10, "y": -34 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Ornamental Tree",
+            "fr-FR": "Arbre ornemental",
+            "de-DE": "Zierbaum",
+            "es-ES": "Árbol ornamental",
+            "it-IT": "Albero ornamentale",
+            "nl-NL": "Sierboom",
+            "sv-SE": "Prydnadsträd",
+            "ko-KR": "장식용 나무",
+            "zh-CN": "装饰用的树",
+            "zh-TW": "裝飾用的樹",
+            "pt-BR": "Árvore Ornamental",
+            "cs-CZ": "Ornamentální strom",
+            "ja-JP": "装飾用の木",
+            "pl-PL": "Drzewo ozdobne",
+            "ru-RU": "Фигурное дерево",
+            "eo-ZZ": "Ornama Arbo",
+            "ca-ES": "Arbre ornamental",
+            "fi-FI": "Koristepuu"
+        }
+    }
+}
