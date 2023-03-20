@@ -34,7 +34,6 @@
 - New object: Roof (toontowner.scenery_small.ttpirf04)
 - New object: Roof (toontowner.scenery_small.ttpirf07)
 - New object: Roof (toontowner.scenery_small.ttpirf08)
-- New object: Football (rct2.scenery_small.ball3)
 - New object: Vine Tree (rct2ww.scenery_small.1x1atre2)
 - New object: Cactus (rct2ww.scenery_small.sbh3cac1)
 - New object: Cactus (rct2ww.scenery_small.sbh3cac2)
