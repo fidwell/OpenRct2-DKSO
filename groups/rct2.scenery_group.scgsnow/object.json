@@ -1,7 +1,7 @@
 {
     "id": "fidwell.scenery_group.snow_dkso",
     "authors": ["fidwell"],
-    "version": "2.0",
+    "version": "3.0",
     "originalId": "0C58B507|TABSNOWI|EAB0D2C2",
     "sourceGame": "custom",
     "objectType": "scenery_group",
@@ -43,7 +43,7 @@
             "rct2.scenery_small.igroof",
             "$DAT:0C58B301|IREIGROC",
             "rct2.scenery_small.icecube",
-            "$DAT:0C58B301|IRICCUBC"
+            "fidwell.scenery_small.icecube"
         ],
         "priority": 30,
         "entertainerCostumes": "snowman"

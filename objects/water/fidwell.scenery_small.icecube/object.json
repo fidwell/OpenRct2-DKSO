@@ -1,0 +1,49 @@
+{
+    "id": "fidwell.scenery_small.icecube",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B301|IRICCUBC|F68CE91C",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "hasPrimaryColour": true,
+        "price": 25,
+        "removalPrice": -18,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "allowSupportsAbove": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -41 },
+      { "path": "images/1.png", "x": -32, "y": -41 },
+      { "path": "images/2.png", "x": -31, "y": -41 },
+      { "path": "images/3.png", "x": -31, "y": -41 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Ice Cube",
+            "fr-FR": "Cube de glace",
+            "de-DE": "Eiswürfel",
+            "es-ES": "Cubo de hielo",
+            "it-IT": "Cubetto di ghiaccio",
+            "nl-NL": "IJsblok",
+            "sv-SE": "Iskub",
+            "ko-KR": "얼음 큐브",
+            "zh-CN": "冰块",
+            "zh-TW": "冰塊",
+            "pt-BR": "Cubo de Gelo",
+            "cs-CZ": "Kostka ledu",
+            "ja-JP": "アイスキューブ",
+            "pl-PL": "Kostka lodu",
+            "ru-RU": "Лёд",
+            "eo-ZZ": "Glacikubo",
+            "ca-ES": "Glaçó",
+            "fi-FI": "Jääpala"
+        }
+    }
+}
