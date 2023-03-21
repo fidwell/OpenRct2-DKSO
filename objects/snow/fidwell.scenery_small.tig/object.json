@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.scenery_small.tig",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B401|IRETIG1C|119E7D27",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "hasPrimaryColour": true,
+        "price": 11,
+        "removalPrice": -9,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 24,
+        "shape": "4/4",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -21, "y": -20 },
+      { "path": "images/1.png", "x": -20, "y": -21 },
+      { "path": "images/2.png", "x": -20, "y": -21 },
+      { "path": "images/3.png", "x": -20, "y": -21 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Igloo",
+            "de-DE": "Iglu",
+            "es-ES": "Iglú",
+            "nl-NL": "Iglo",
+            "ko-KR": "이글루",
+            "zh-CN": "圆顶小屋",
+            "zh-TW": "圓頂小屋",
+            "pt-BR": "Iglu",
+            "cs-CZ": "Iglú",
+            "ja-JP": "イグルー",
+            "pl-PL": "Igloo",
+            "ru-RU": "Иглу",
+            "fr-FR": "Igloo",
+            "eo-ZZ": "Iglo",
+            "ca-ES": "Iglú",
+            "fi-FI": "Iglu"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": "fidwell.scenery_small.igroof",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B301|IREIGROC|25F84727",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "hasPrimaryColour": true,
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 16,
+        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -31, "y": -14 },
+      { "path": "images/1.png", "x": -32, "y": -15 },
+      { "path": "images/2.png", "x": -31, "y": -14 },
+      { "path": "images/3.png", "x": -32, "y": -15 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Igloo Roof",
+            "fr-FR": "Toit d’igloo",
+            "de-DE": "Igludach",
+            "es-ES": "Tejado de iglú",
+            "it-IT": "Tetto dell’igloo",
+            "nl-NL": "Iglodak",
+            "sv-SE": "Igloo-tak",
+            "ko-KR": "이글루 천장",
+            "zh-CN": "圆屋顶",
+            "zh-TW": "圓屋頂",
+            "pt-BR": "Teto de Iglu",
+            "cs-CZ": "Střecha iglú",
+            "ja-JP": "イグルーの屋根",
+            "pl-PL": "Dach igloo",
+            "ru-RU": "Крыша иглу",
+            "eo-ZZ": "Tegmento de Iglo",
+            "ca-ES": "Sostre d’iglú",
+            "fi-FI": "Iglun katto"
+        }
+    }
+}

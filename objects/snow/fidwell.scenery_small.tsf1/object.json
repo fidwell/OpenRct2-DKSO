@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.tsf1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B401|IRETSF1C|D2F338E8",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "hasPrimaryColour": true,
+        "price": 10,
+        "removalPrice": -8,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -14, "y": -35 },
+      { "path": "images/1.png", "x": -14, "y": -34 },
+      { "path": "images/2.png", "x": -14, "y": -35 },
+      { "path": "images/3.png", "x": -14, "y": -34 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Giant Snowflake",
+            "fr-FR": "Flocon de neige géant",
+            "de-DE": "Gigantische Schneeflocke",
+            "es-ES": "Copo de nieve gigante",
+            "it-IT": "Fiocco di neve gigante",
+            "nl-NL": "Gigantische sneeuwvlok",
+            "sv-SE": "Jättesnöflinga",
+            "ko-KR": "대형 눈송이",
+            "zh-CN": "巨大雪花",
+            "zh-TW": "巨大雪花",
+            "pt-BR": "Floco de Neve Gigante",
+            "cs-CZ": "Obrovská vločka",
+            "ja-JP": "巨大な雪片",
+            "pl-PL": "Wielka śnieżynka",
+            "ru-RU": "Снежинка",
+            "eo-ZZ": "Giganta Neĝero",
+            "ca-ES": "Floc de neu gegant",
+            "fi-FI": "Jättimäinen lumihiutale"
+        }
+    }
+}

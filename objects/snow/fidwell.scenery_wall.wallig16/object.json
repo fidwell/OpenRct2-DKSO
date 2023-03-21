@@ -1,0 +1,40 @@
+{
+    "id": "fidwell.scenery_wall.wallig16",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B503|IRWIG16C|7806CE6A",
+    "sourceGame": "custom",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "height": 2,
+        "price": 50,
+        "sceneryGroup": "fidwell.scenery_group.walls_dkso"
+    },
+    "images": [
+      { "path": "images/0.png", "x": -31, "y": -16 },
+      { "path": "images/1.png", "x": -1, "y": -16 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Igloo Wall",
+            "fr-FR": "Mur d’igloo",
+            "de-DE": "Igluwand",
+            "es-ES": "Pared de iglú",
+            "it-IT": "Parete dell’igloo",
+            "nl-NL": "Iglomuur",
+            "sv-SE": "Igloo-vägg",
+            "ko-KR": "이글루 벽",
+            "zh-CN": "圆顶墙",
+            "zh-TW": "圓頂牆",
+            "pt-BR": "Parede de Iglu",
+            "cs-CZ": "Stěna iglú",
+            "ja-JP": "イグルーの壁",
+            "pl-PL": "Ściana igloo",
+            "ru-RU": "Стена иглу",
+            "eo-ZZ": "Muro de Iglo",
+            "ca-ES": "Paret d’iglú",
+            "fi-FI": "Iglun seinä"
+        }
+    }
+}
