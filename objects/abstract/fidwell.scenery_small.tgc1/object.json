@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.tgc1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B401|IRETGC1C|2A244138",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "price": 16,
+        "removalPrice": -14,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 56,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -18, "y": -59 },
+      { "path": "images/1.png", "x": -17, "y": -58 },
+      { "path": "images/2.png", "x": -17, "y": -59 },
+      { "path": "images/3.png", "x": -16, "y": -59 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Sculpture",
+            "de-DE": "Skulptur",
+            "es-ES": "Escultura",
+            "it-IT": "Scultura",
+            "nl-NL": "Beeld",
+            "sv-SE": "Skulptur",
+            "ko-KR": "조각품",
+            "zh-CN": "雕刻品",
+            "zh-TW": "雕刻品",
+            "pt-BR": "Escultura",
+            "cs-CZ": "Socha",
+            "ja-JP": "彫刻",
+            "pl-PL": "Rzeţba",
+            "ru-RU": "Статуя",
+            "fr-FR": "Sculpture",
+            "eo-ZZ": "Skulptaĵo",
+            "ca-ES": "Escultura",
+            "fi-FI": "Veistos"
+        }
+    }
+}
