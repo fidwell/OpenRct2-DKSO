@@ -1,0 +1,66 @@
+{
+    "id": "fidwell.scenery_large.rdmeto01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB02|FDRDMT01|FBCE01A9",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "hasPrimaryColour": true,
+        "price": 23,
+        "removalPrice": 20,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "sceneryGroup": "rct2.scenery_group.scgwalls",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 90,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 90,
+                "walls": 3
+            }
+        ]
+    },
+    "images": [
+      { "path": "images/00.png", "x": -29, "y": 20 },
+      { "path": "images/01.png", "x": -28, "y": 6 },
+      { "path": "images/02.png", "x": -31, "y": 10 },
+      { "path": "images/03.png", "x": -31, "y": 2 },
+      { "path": "images/04.png", "x": 0, "y": -33 },
+      { "path": "images/05.png", "x": -32, "y": -60 },
+      { "path": "images/06.png", "x": -32, "y": -53 },
+      { "path": "images/07.png", "x": -32, "y": -33 },
+      { "path": "images/08.png", "x": -32, "y": -49 },
+      { "path": "images/09.png", "x": -10, "y": -43 },
+      { "path": "images/10.png", "x": 0, "y": -38 },
+      { "path": "images/11.png", "x": -32, "y": -54 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Red Meteor Crater Corner",
+            "fr-FR": "Virage de cratère météoritique rouge",
+            "de-DE": "Roter Meteoritenkrater - Ecke",
+            "es-ES": "Esquina de cráter de meteorito rojo",
+            "it-IT": "Curva del cratere meteoritico rosso",
+            "nl-NL": "Bocht rode meteoorkrater",
+            "sv-SE": "Rött meteorkraterhörn",
+            "ko-KR": "붉은색 운석 크레이터 구석",
+            "zh-TW": "紅色隕石坑牆角",
+            "pt-BR": "Canto de Cratera de Meteoro Vermelho",
+            "cs-CZ": "Kráter - roh",
+            "pl-PL": "Narożnik czerwonego krateru po meteorycie",
+            "ru-RU": "Часть кратера",
+            "ja-JP": "赤い隕石火口 コーナー",
+            "eo-ZZ": "Angulo de Ruĝa Bolido-Kratero",
+            "ca-ES": "Cantonada de cràter de meteorit vermell",
+            "fi-FI": "Punaisen meteorikraaterin kulma",
+            "zh-CN": "红陨石坑转角"
+        }
+    }
+}

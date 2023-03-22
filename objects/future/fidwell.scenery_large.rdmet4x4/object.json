@@ -1,0 +1,221 @@
+{
+    "id": "fidwell.scenery_large.rdmet4x4",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F702|IRCRAT4C|18529973",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "hasPrimaryColour": true,
+        "price": 246,
+        "removalPrice": 198,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 96,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 96,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 96,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 2
+            },
+            {
+                "x": 96,
+                "y": 0,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 12
+            },
+            {
+                "x": 96,
+                "y": 32,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 6
+            },
+            {
+                "x": 96,
+                "y": 64,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 12
+            },
+            {
+                "x": 96,
+                "y": 96,
+                "clearance": 128,
+                "hasSupports": true,
+                "walls": 6
+            }
+        ]
+    },
+    "images": [
+      { "path": "images/00.png", "x": -32, "y": 10 },
+      { "path": "images/01.png", "x": -32, "y": 14 },
+      { "path": "images/02.png", "x": -32, "y": 12 },
+      { "path": "images/03.png", "x": -32, "y": 15 },
+      { "path": "images/04.png", "x": 0, "y": 0 },
+      { "path": "images/05.png", "x": 0, "y": -5 },
+      { "path": "images/06.png", "x": -32, "y": -98 },
+      { "path": "images/07.png", "x": -29, "y": 2 },
+      { "path": "images/08.png", "x": 0, "y": 0 },
+      { "path": "images/09.png", "x": 0, "y": -37 },
+      { "path": "images/10.png", "x": -32, "y": -68 },
+      { "path": "images/11.png", "x": 0, "y": 0 },
+      { "path": "images/12.png", "x": 0, "y": 0 },
+      { "path": "images/13.png", "x": 0, "y": -69 },
+      { "path": "images/14.png", "x": -32, "y": -40 },
+      { "path": "images/15.png", "x": 0, "y": 0 },
+      { "path": "images/16.png", "x": 0, "y": -3 },
+      { "path": "images/17.png", "x": -32, "y": -97 },
+      { "path": "images/18.png", "x": -21, "y": -4 },
+      { "path": "images/19.png", "x": 0, "y": 0 },
+      { "path": "images/20.png", "x": 0, "y": 0 },
+      { "path": "images/21.png", "x": 0, "y": 0 },
+      { "path": "images/22.png", "x": 0, "y": -66 },
+      { "path": "images/23.png", "x": -32, "y": -39 },
+      { "path": "images/24.png", "x": 0, "y": 0 },
+      { "path": "images/25.png", "x": 0, "y": 0 },
+      { "path": "images/26.png", "x": 0, "y": 0 },
+      { "path": "images/27.png", "x": 0, "y": 0 },
+      { "path": "images/28.png", "x": 0, "y": 0 },
+      { "path": "images/29.png", "x": 0, "y": 0 },
+      { "path": "images/30.png", "x": 0, "y": 0 },
+      { "path": "images/31.png", "x": 0, "y": 0 },
+      { "path": "images/32.png", "x": 0, "y": -36 },
+      { "path": "images/33.png", "x": -32, "y": -72 },
+      { "path": "images/34.png", "x": 0, "y": 0 },
+      { "path": "images/35.png", "x": 0, "y": 0 },
+      { "path": "images/36.png", "x": 0, "y": 0 },
+      { "path": "images/37.png", "x": 0, "y": 0 },
+      { "path": "images/38.png", "x": 0, "y": -31 },
+      { "path": "images/39.png", "x": -32, "y": -75 },
+      { "path": "images/40.png", "x": 0, "y": 0 },
+      { "path": "images/41.png", "x": 0, "y": 0 },
+      { "path": "images/42.png", "x": 0, "y": 0 },
+      { "path": "images/43.png", "x": 0, "y": 0 },
+      { "path": "images/44.png", "x": 0, "y": 0 },
+      { "path": "images/45.png", "x": 0, "y": 0 },
+      { "path": "images/46.png", "x": 0, "y": 0 },
+      { "path": "images/47.png", "x": 0, "y": 0 },
+      { "path": "images/48.png", "x": 0, "y": -76 },
+      { "path": "images/49.png", "x": -32, "y": -37 },
+      { "path": "images/50.png", "x": 0, "y": 0 },
+      { "path": "images/51.png", "x": 0, "y": 0 },
+      { "path": "images/52.png", "x": -16, "y": 6 },
+      { "path": "images/53.png", "x": 0, "y": 0 },
+      { "path": "images/54.png", "x": 0, "y": -1 },
+      { "path": "images/55.png", "x": -32, "y": -102 },
+      { "path": "images/56.png", "x": -32, "y": -40 },
+      { "path": "images/57.png", "x": 0, "y": 0 },
+      { "path": "images/58.png", "x": 0, "y": 0 },
+      { "path": "images/59.png", "x": 0, "y": -69 },
+      { "path": "images/60.png", "x": -32, "y": -72 },
+      { "path": "images/61.png", "x": 0, "y": 0 },
+      { "path": "images/62.png", "x": 0, "y": 0 },
+      { "path": "images/63.png", "x": 0, "y": -39 },
+      { "path": "images/64.png", "x": -32, "y": -101 },
+      { "path": "images/65.png", "x": -22, "y": 5 },
+      { "path": "images/66.png", "x": 0, "y": 0 },
+      { "path": "images/67.png", "x": 0, "y": 3 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Large Red Meteor Crater",
+            "fr-FR": "Grand cratère météoritique rouge",
+            "de-DE": "Großer roter Meteoritenkrater",
+            "es-ES": "Cráter grande de meteorito rojo",
+            "it-IT": "Grande cratere meteoritico rosso",
+            "nl-NL": "Grote rode meteoorkrater",
+            "sv-SE": "Stor röd meteorkrater",
+            "ko-KR": "대형 붉은색 크레이터",
+            "zh-TW": "大型紅色隕石坑",
+            "pt-BR": "Cratera de Meteoro Vermelho Grande",
+            "cs-CZ": "Velký kráter",
+            "pl-PL": "Duży czerwony krater po meteorycie",
+            "ru-RU": "Большой кратер",
+            "ja-JP": "巨大な赤い隕石火口",
+            "eo-ZZ": "Granda Ruĝa Bolido-Kratero",
+            "ca-ES": "Cràter roig enorme de meteorit",
+            "fi-FI": "Suuri punainen meteorikraateri",
+            "zh-CN": "大型红色陨石坑"
+        }
+    }
+}

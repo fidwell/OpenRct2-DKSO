@@ -1,0 +1,88 @@
+{
+    "id": "fidwell.scenery_large.rdmet2x2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "hasPrimaryColour": true,
+        "price": 82,
+        "removalPrice": 77,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 64,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 64,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 64,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 64,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": [
+      { "path": "images/00.png", "x": -32, "y": 15 },
+      { "path": "images/01.png", "x": -32, "y": 14 },
+      { "path": "images/02.png", "x": -32, "y": 10 },
+      { "path": "images/03.png", "x": -32, "y": 13 },
+      { "path": "images/04.png", "x": 0, "y": 0 },
+      { "path": "images/05.png", "x": 0, "y": 5 },
+      { "path": "images/06.png", "x": -32, "y": -34 },
+      { "path": "images/07.png", "x": -29, "y": 5 },
+      { "path": "images/08.png", "x": 0, "y": 2 },
+      { "path": "images/09.png", "x": -32, "y": -27 },
+      { "path": "images/10.png", "x": -24, "y": 2 },
+      { "path": "images/11.png", "x": 0, "y": 0 },
+      { "path": "images/12.png", "x": -25, "y": 2 },
+      { "path": "images/13.png", "x": 0, "y": 0 },
+      { "path": "images/14.png", "x": 0, "y": 2 },
+      { "path": "images/15.png", "x": -32, "y": -30 },
+      { "path": "images/16.png", "x": -32, "y": -35 },
+      { "path": "images/17.png", "x": -29, "y": -1 },
+      { "path": "images/18.png", "x": 0, "y": 0 },
+      { "path": "images/19.png", "x": 0, "y": 4 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Small Red Meteor Crater",
+            "fr-FR": "Petit cratère météoritique rouge",
+            "de-DE": "Kleiner roter Meteoritenkrater",
+            "es-ES": "Cráter pequeño de meteorito rojo",
+            "it-IT": "Piccolo cratere meteoritico rosso",
+            "nl-NL": "Kleine rode meteoorkrater",
+            "sv-SE": "Liten röd meteorkrater",
+            "ko-KR": "소형 붉은색 크레이터",
+            "zh-TW": "小型紅色隕石坑",
+            "pt-BR": "Cratera de Meteoro Vermelho Pequena",
+            "cs-CZ": "Malý kráter",
+            "pl-PL": "Mały czerwony krater po meteorycie",
+            "ru-RU": "Маленький кратер",
+            "ja-JP": "小さな赤い隕石火口",
+            "eo-ZZ": "Malgranda Ruĝa Bolido-Kratero",
+            "ca-ES": "Cràter de meteorit vermell petit",
+            "fi-FI": "Pieni punainen meteorikraateri",
+            "zh-CN": "小红色陨石坑"
+        }
+    }
+}
