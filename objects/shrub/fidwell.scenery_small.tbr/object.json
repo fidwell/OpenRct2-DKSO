@@ -1,0 +1,48 @@
+{
+    "id": "fidwell.scenery_small.tbr",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "00000001|1KBULSRC|BDE45DB8",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "price": 6,
+        "removalPrice": 4,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 20,
+        "shape": "1/4",
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -6, "y": -18 },
+      { "path": "images/1.png", "x": -6, "y": -18 },
+      { "path": "images/2.png", "x": -5, "y": -19 },
+      { "path": "images/3.png", "x": -6, "y": -18 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Bulrushes",
+            "en-US": "Cattails",
+            "fr-FR": "Roseaux",
+            "de-DE": "Rohrkolben",
+            "es-ES": "Gladiolos",
+            "it-IT": "Giunchi",
+            "nl-NL": "Riet",
+            "sv-SE": "Vass",
+            "ko-KR": "부들",
+            "zh-CN": "香蒲",
+            "zh-TW": "香蒲",
+            "pt-BR": "Junco",
+            "ar-EG": "اعشاب البرك",
+            "cs-CZ": "Rákos",
+            "ja-JP": "ガマ",
+            "pl-PL": "Sitowie",
+            "ru-RU": "Камыш",
+            "eo-ZZ": "Tifeoj",
+            "ca-ES": "Gladiols",
+            "fi-FI": "Osmankäämet"
+        }
+    }
+}
