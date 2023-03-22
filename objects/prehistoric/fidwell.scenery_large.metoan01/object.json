@@ -1,0 +1,66 @@
+{
+    "id": "fidwell.scenery_large.metoan01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F702|FDMTAN01|7ECF5D4F",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "hasPrimaryColour": true,
+        "price": 23,
+        "removalPrice": 20,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 90,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 90,
+                "walls": 3
+            }
+        ]
+    },
+    "images": [
+      { "path": "images/00.png", "x": -29, "y": 20 },
+      { "path": "images/01.png", "x": -28, "y": 6 },
+      { "path": "images/02.png", "x": -31, "y": 10 },
+      { "path": "images/03.png", "x": -31, "y": 2 },
+      { "path": "images/04.png", "x": 0, "y": -33 },
+      { "path": "images/05.png", "x": -32, "y": -60 },
+      { "path": "images/06.png", "x": -32, "y": -53 },
+      { "path": "images/07.png", "x": -32, "y": -33 },
+      { "path": "images/08.png", "x": -32, "y": -49 },
+      { "path": "images/09.png", "x": -10, "y": -43 },
+      { "path": "images/10.png", "x": 0, "y": -38 },
+      { "path": "images/11.png", "x": -32, "y": -54 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Meteor Crater Corner",
+            "fr-FR": "Virage de cratère météoritique",
+            "de-DE": "Meteoritenkrater-Ecke",
+            "es-ES": "Esquina de cráter de meteorito",
+            "it-IT": "Curva del cratere meteoritico",
+            "nl-NL": "Bocht meteoorkrater",
+            "sv-SE": "Hörn, meteorkrater",
+            "ko-KR": "운석 크레이터 구석",
+            "zh-TW": "隕石坑牆角",
+            "pt-BR": "Canto de Cratera de Meteoro",
+            "cs-CZ": "Roh kráteru",
+            "pl-PL": "Narożnik krateru po meteorycie",
+            "ru-RU": "Деталь кратера",
+            "ja-JP": "隕石火口 コーナー",
+            "eo-ZZ": "Angulo de Bolido-Kratero",
+            "ca-ES": "Cantonada de cràter de meteorit",
+            "fi-FI": "Meteorikraaterin kulma",
+            "zh-CN": "陨石坑-转角"
+        }
+    }
+}
