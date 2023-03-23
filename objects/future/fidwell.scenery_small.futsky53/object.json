@@ -1,0 +1,51 @@
+{
+    "id": "fidwell.scenery_small.futsky53",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB01|IRFSK53C|3F93E43D",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "hasPrimaryColour": true,
+        "price": 8,
+        "removalPrice": 4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "shape": "3/4+D",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -34 },
+      { "path": "images/1.png", "x": -12, "y": -20 },
+      { "path": "images/2.png", "x": -32, "y": -6 },
+      { "path": "images/3.png", "x": -32, "y": -20 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Sandstone Skyscraper Mid Corner",
+            "fr-FR": "Virage médian du gratte-ciel d’obsidienne",
+            "de-DE": "Sandstein-Wolkenkratzer Mittelstück Ecke",
+            "es-ES": "Esquina media de rascacielos de arenisca",
+            "it-IT": "Curva di mezzo del grattacielo in arenaria",
+            "nl-NL": "Middenbocht zandstenen wolkenkrabber",
+            "sv-SE": "Mitthörn, sandstensskyskrapa",
+            "ko-KR": "사암 마천루 중간 구석",
+            "zh-TW": "黑曜石摩天大樓牆角中段",
+            "pt-BR": "Canto Mediano de Arranha-Céu de Arenito",
+            "cs-CZ": "Pískovcový mrakodrap - střední roh",
+            "pl-PL": "Wieżowiec z piaskowca - środkowy narożnik",
+            "ru-RU": "Угол небоскрёба",
+            "ja-JP": "砂岩 高層ビル 中間　コーナー",
+            "eo-ZZ": "Meza Angulo de Sabloŝtona Ĉielskrapanto",
+            "ca-ES": "Cantonada central de gratacel de gres",
+            "fi-FI": "Hiekkakivipilvenpiirtäjän keskiosan kulma",
+            "zh-CN": "砂岩-高楼中部转角"
+        }
+    }
+}

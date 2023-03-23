@@ -1,0 +1,50 @@
+{
+    "id": "fidwell.scenery_small.futsky17",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA01|IRFSK17C|84A618AC",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "hasPrimaryColour": true,
+        "price": 4,
+        "removalPrice": 0,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "shape": "1/4+D",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -16, "y": -34 },
+      { "path": "images/1.png", "x": -5, "y": -40 },
+      { "path": "images/2.png", "x": 9, "y": -34 },
+      { "path": "images/3.png", "x": -5, "y": -28 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Sandstone Skyscraper Filler",
+            "fr-FR": "Remplissage du gratte-ciel",
+            "de-DE": "Sandstein-Wolkenkratzer Füllstoff",
+            "es-ES": "Relleno de rascacielos de arenisca",
+            "it-IT": "Riporto del grattacielo in arenaria",
+            "nl-NL": "Vulstuk zandstenen wolkenkrabber",
+            "sv-SE": "Utfyllnad, sandstensskyskrapa",
+            "ko-KR": "사암 마천루 필러",
+            "zh-TW": "沙岩製摩天大樓填充塊",
+            "pt-BR": "Preenchimento de Arranha-Céu de Arenito",
+            "cs-CZ": "Pískovcový mrakodrap - výplň",
+            "pl-PL": "Wieżowiec z piaskowca - wypełnienie",
+            "ru-RU": "Деталь небоскрёба",
+            "ja-JP": "砂岩 高層ビル 充填材",
+            "eo-ZZ": "Diversaĵo de Sabloŝtona Ĉielskrapanto",
+            "ca-ES": "Ompliment de gratacel de gres",
+            "fi-FI": "Hiekkakivipilvenpiirtäjän täyte",
+            "zh-CN": "砂岩-高楼填充"
+        }
+    }
+}

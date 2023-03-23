@@ -1,0 +1,51 @@
+{
+    "id": "fidwell.scenery_small.futsky16",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA01|IRFSK16C|DF6AD0E3",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "hasPrimaryColour": true,
+        "price": 8,
+        "removalPrice": 4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "shape": "3/4+D",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -34 },
+      { "path": "images/1.png", "x": -12, "y": -20 },
+      { "path": "images/2.png", "x": -32, "y": -6 },
+      { "path": "images/3.png", "x": -32, "y": -20 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Sandstone Skyscraper Mid Slope Corner",
+            "fr-FR": "Virage en pente médian du gratte-ciel d’obsidienne",
+            "de-DE": "Sandstein-Wolkenkratzer Mittelstück Schrägenecke",
+            "es-ES": "Esquina inclinada media de rascacielos de arenisca",
+            "it-IT": "Curva del pendio di mezzo del grattacielo in arenaria",
+            "nl-NL": "Bocht helling midden zandstenen wolkenkrabber",
+            "sv-SE": "Hörn till mittsluttning, sandstensskyskrapa",
+            "ko-KR": "사암 마천루 중간 경사 구석",
+            "zh-TW": "黑曜石摩天大樓斜坡牆角中段",
+            "pt-BR": "Canto de Inclinação Mediana de Arranha-Céu de Arenito",
+            "cs-CZ": "Pískovcový mrakodrap - roh",
+            "pl-PL": "Wieżowiec z piaskowca - środkowy pochyły narożnik",
+            "ru-RU": "Деталь небоскрёба",
+            "ja-JP": "砂岩 高層ビル 中間　スロープコーナー",
+            "eo-ZZ": "Meza Angulo de Deklivo de Sabloŝtona Ĉielskrapanto",
+            "ca-ES": "Cantonada inclinada central de gratacel de gres",
+            "fi-FI": "Hiekkakivipilvenpiirtäjän keskiosan mäen kulma",
+            "zh-CN": "砂岩-高楼中部墙圆弧"
+        }
+    }
+}
