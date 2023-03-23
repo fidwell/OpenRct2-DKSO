@@ -43,17 +43,30 @@ public class RecolourRctImage {
 		int targetIndex = 243;
 		int rangeSize = 12;
 		
-		for (int c = 0; c < fromIndexes.length; c++) {
-			int mappingSourceStart = fromIndexes[c];
-			int mappingSourceEnd = mappingSourceStart + rangeSize - 1;
-			int mappingDestinationStart = targetIndex;
-			
-			for (int i = 0; i < imageDataBuffer.getSize(); i++) {
+		int imageDataBufferSize = imageDataBuffer.getSize();
+		for (int i = 0; i < imageDataBufferSize; i++) {
+			for (int c = 0; c < fromIndexes.length; c++) {
+				int mappingSourceStart = fromIndexes[c];
+				int mappingSourceEnd = mappingSourceStart + rangeSize - 1;
+				int mappingDestinationStart = targetIndex;
+				
 				int colorIndex = imageDataBufferElementsCopy[i];
 				if ((colorIndex >= mappingSourceStart && colorIndex <= mappingSourceEnd) ||
 						colorIndex <= mappingSourceEnd - 0x100) { // handles wrap-around ranges (part 2)
 					colorIndex = (mappingDestinationStart - mappingSourceStart + colorIndex) & 0xFF;
 					imageDataBuffer.setElem(i, colorIndex);
+				}
+				else
+				{
+					// Special mappings for greys
+					if (colorIndex == 226)
+					{
+						imageDataBuffer.setElem(i, targetIndex);
+					}
+					else if (colorIndex >= 240 && colorIndex <= 242)
+					{
+						imageDataBuffer.setElem(i, targetIndex + (colorIndex - 239));
+					}
 				}
 			}
 		}
