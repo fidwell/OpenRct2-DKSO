@@ -1,0 +1,85 @@
+{
+    "id": "fidwell.scenery_large.oldnyk24",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F902|IRNYK24C|6343EE04",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "hasPrimaryColour": true,
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 8,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 8,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 8,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 8,
+                "walls": 2
+            }
+        ]
+    },
+    "images": [
+      { "path": "images/00.png", "x": -32, "y": 18 },
+      { "path": "images/01.png", "x": -32, "y": 19 },
+      { "path": "images/02.png", "x": -26, "y": 13 },
+      { "path": "images/03.png", "x": -32, "y": 16 },
+      { "path": "images/04.png", "x": -31, "y": 3 },
+      { "path": "images/05.png", "x": -32, "y": -8 },
+      { "path": "images/06.png", "x": -10, "y": -7 },
+      { "path": "images/07.png", "x": -8, "y": 3 },
+      { "path": "images/08.png", "x": -32, "y": 3 },
+      { "path": "images/09.png", "x": -8, "y": -5 },
+      { "path": "images/10.png", "x": 17, "y": 3 },
+      { "path": "images/11.png", "x": -10, "y": 14 },
+      { "path": "images/12.png", "x": -32, "y": -14 },
+      { "path": "images/13.png", "x": -32, "y": -7 },
+      { "path": "images/14.png", "x": -32, "y": -15 },
+      { "path": "images/15.png", "x": -32, "y": -7 },
+      { "path": "images/16.png", "x": -32, "y": -7 },
+      { "path": "images/17.png", "x": -8, "y": -8 },
+      { "path": "images/18.png", "x": -10, "y": 3 },
+      { "path": "images/19.png", "x": -32, "y": 3 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "New York Inverted Corner Roof",
+            "fr-FR": "Toit de virage inversé de New York",
+            "de-DE": "New-York-Dachecke, umgedreht",
+            "es-ES": "Sección de tejado inversa de Nueva York",
+            "it-IT": "Tetto in curva invertita di New York",
+            "nl-NL": "Omgekeerd Bochtdak New York",
+            "sv-SE": "Omvänd takdel, New York",
+            "ko-KR": "반전된 뉴욕 구석 지붕",
+            "zh-TW": "反向紐約屋頂牆角",
+            "pt-BR": "Canto Invertido de Telhado de Nova York",
+            "cs-CZ": "New York - obrácený roh střechy",
+            "pl-PL": "Odwrócony narożnik dachu nowojorskiego",
+            "ru-RU": "Угол крыши Нью-Йорка",
+            "ja-JP": "ニューヨーク　コーナーの内側屋根部分",
+            "eo-ZZ": "Inversigita Novjorka Tegmentangulo",
+            "ca-ES": "Teulada de cantonada inversa novaiorquesa",
+            "fi-FI": "Newyorkilaisen katon sisäkulmaosa",
+            "zh-CN": "纽约-内角屋顶"
+        }
+    }
+}
