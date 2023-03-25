@@ -2,8 +2,7 @@
     "id": "fidwell.scenery_small.tes1",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "00000002|NINSTEG1|F5471403",
-    "sourceGame": ["custom"],
+    "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {
         "price": 20,

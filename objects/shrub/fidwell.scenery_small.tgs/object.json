@@ -2,8 +2,7 @@
     "id": "fidwell.scenery_small.tgs",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "00000002|1KTGSMTC|CDB18B3B",
-    "sourceGame": ["custom"],
+    "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {
         "price": 12,
