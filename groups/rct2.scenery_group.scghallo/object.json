@@ -8,7 +8,7 @@
     "properties": {
         "entries": [
             "rct2.scenery_small.tcd",
-            "$DAT:0A188D01|X97CAULC",
+            "fidwell.scenery_small.tcd",
             "rct2.scenery_small.tsg",
             "rct2.scenery_small.tsk",
             "rct2.scenery_small.tgh1",
@@ -16,9 +16,9 @@
             "rct2.scenery_small.tsmp",
             "rct2.scenery_large.sgp",
             "rct2.scenery_wall.wc14",
-            "$DAT:0C58B503|TOTWC14 ",
+            "fidwell.scenery_wall.wc14",
             "rct2.scenery_wall.wc15",
-            "$DAT:0C58B503|TOTWC15 ",
+            "fidwell.scenery_wall.wc15",
             "rct2.scenery_small.tl0",
             "fidwell.scenery_small.tl0",
             "rct2.scenery_small.tl1",

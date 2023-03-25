@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.tcd",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D01|X97CAULC|E8A3484F",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "price": 9,
+        "removalPrice": -7,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 16,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -12, "y": -18 },
+      { "path": "images/1.png", "x": -12, "y": -18 },
+      { "path": "images/2.png", "x": -11, "y": -18 },
+      { "path": "images/3.png", "x": -12, "y": -18 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Cauldron",
+            "fr-FR": "Chaudron",
+            "de-DE": "Kessel",
+            "es-ES": "Caldero",
+            "it-IT": "Pentolone",
+            "nl-NL": "Ketel",
+            "sv-SE": "Kittel",
+            "ko-KR": "가마솥",
+            "zh-CN": "大汽锅",
+            "zh-TW": "大汽鍋",
+            "pt-BR": "Caldeirão",
+            "cs-CZ": "Kotel",
+            "ja-JP": "大釜",
+            "pl-PL": "Kocioł",
+            "ru-RU": "Котёл",
+            "eo-ZZ": "Kaldrono",
+            "ca-ES": "Calder",
+            "fi-FI": "Pata"
+        }
+    }
+}
