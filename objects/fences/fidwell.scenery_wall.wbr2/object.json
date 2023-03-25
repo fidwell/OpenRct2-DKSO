@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.scenery_wall.wbr2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B503|IREWBR2C|9F5E4B65",
+    "sourceGame": "custom",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isAllowedOnSlope": true,
+        "height": 2,
+        "price": 50
+    },
+    "images": [
+      { "path": "images/0.png", "x": -31, "y": -17 },
+      { "path": "images/1.png", "x": -1, "y": -16 },
+      { "path": "images/2.png", "x": -31, "y": -28 },
+      { "path": "images/3.png", "x": -1, "y": -30 },
+      { "path": "images/4.png", "x": -31, "y": -15 },
+      { "path": "images/5.png", "x": -1, "y": -17 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Stone Wall",
+            "fr-FR": "Mur de pierre",
+            "de-DE": "Steinmauer",
+            "es-ES": "Pared de piedra",
+            "it-IT": "Muro di pietra",
+            "nl-NL": "Stenen muur",
+            "sv-SE": "Stenmur",
+            "ko-KR": "돌 벽",
+            "zh-CN": "石墙",
+            "zh-TW": "石牆",
+            "pt-BR": "Parede de Pedra",
+            "cs-CZ": "Kamenná stěna",
+            "ja-JP": "石の壁",
+            "pl-PL": "Ściana kamienna",
+            "ru-RU": "Стена",
+            "eo-ZZ": "Ŝtona Muro",
+            "ca-ES": "Mur de pedra",
+            "fi-FI": "Kivinen seinä"
+        }
+    }
+}
