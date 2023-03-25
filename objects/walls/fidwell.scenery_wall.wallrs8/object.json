@@ -1,0 +1,39 @@
+{
+    "id": "fidwell.scenery_wall.wallrs8",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B503|IREWRS8C|5F7F1439",
+    "sourceGame": "custom",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "height": 1,
+        "price": 40
+    },
+    "images": [
+      { "path": "images/0.png", "x": -31, "y": -9 },
+      { "path": "images/1.png", "x": -1, "y": -8 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Wall",
+            "fr-FR": "Mur",
+            "de-DE": "Wand",
+            "es-ES": "Pared",
+            "it-IT": "Muro",
+            "nl-NL": "Muur",
+            "sv-SE": "Mur",
+            "ko-KR": "벽",
+            "zh-CN": "墙",
+            "zh-TW": "牆",
+            "pt-BR": "Parede",
+            "cs-CZ": "Stěna",
+            "ja-JP": "壁",
+            "pl-PL": "Ściana",
+            "ru-RU": "Блок",
+            "eo-ZZ": "Muro",
+            "ca-ES": "Paret",
+            "fi-FI": "Seinä"
+        }
+    }
+}
