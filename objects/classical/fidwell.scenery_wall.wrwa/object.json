@@ -1,0 +1,40 @@
+{
+    "id": "fidwell.scenery_wall.wrwa",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "09F55B03|1KROM3PI|F5CA133F",
+    "sourceGame": "custom",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "height": 3,
+        "price": 50,
+        "sceneryGroup": "fidwell.scenery_group.walls_dkso"
+    },
+    "images": [
+      { "path": "images/0.png", "x": -33, "y": -25 },
+      { "path": "images/1.png", "x": -1, "y": -24 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Roman Wall",
+            "fr-FR": "Mur romain",
+            "de-DE": "Römische Wand",
+            "es-ES": "Pared romana",
+            "it-IT": "Mura romane",
+            "nl-NL": "Romeinse muur",
+            "sv-SE": "Romersk mur",
+            "ko-KR": "로마식 벽",
+            "zh-CN": "罗马墙",
+            "zh-TW": "羅馬牆",
+            "pt-BR": "Parede Romana",
+            "cs-CZ": "Římská zeď",
+            "ja-JP": "ローマ風の壁",
+            "pl-PL": "Ściana rzymska",
+            "ru-RU": "Стена",
+            "eo-ZZ": "Roma Muro",
+            "ca-ES": "Mur romà",
+            "fi-FI": "Roomalainen seinä"
+        }
+    }
+}

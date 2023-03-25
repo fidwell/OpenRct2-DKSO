@@ -1,0 +1,48 @@
+{
+    "id": "fidwell.scenery_small.trms",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B401|IRETRMSC|CF710A91",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 76,
+        "shape": "4/4",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -17, "y": -72 },
+      { "path": "images/1.png", "x": -17, "y": -77 },
+      { "path": "images/2.png", "x": -26, "y": -74 },
+      { "path": "images/3.png", "x": -17, "y": -73 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Roman Statue",
+            "fr-FR": "Statue romaine",
+            "de-DE": "Römische Statue",
+            "es-ES": "Estatua romana",
+            "it-IT": "Statua romana",
+            "nl-NL": "Romeins beeld",
+            "sv-SE": "Romersk staty",
+            "ko-KR": "로마식 동상",
+            "zh-CN": "罗马雕像",
+            "zh-TW": "羅馬雕像",
+            "pt-BR": "Estátua Romana",
+            "cs-CZ": "Římská socha",
+            "ja-JP": "ローマの像",
+            "pl-PL": "Rzymski posąg",
+            "ru-RU": "Статуя",
+            "eo-ZZ": "Roma Statuo",
+            "ca-ES": "Estàtua romana",
+            "fi-FI": "Roomalainen patsas"
+        }
+    }
+}

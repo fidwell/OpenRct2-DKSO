@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_wall.wrw2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B603|IRROWRWC|207814B8",
+    "sourceGame": "custom",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isAllowedOnSlope": true,
+        "height": 2,
+        "price": 50,
+        "sceneryGroup": "fidwell.scenery_group.fences_dkso"
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -18 },
+      { "path": "images/1.png", "x": -1, "y": -17 },
+      { "path": "images/2.png", "x": -32, "y": -31 },
+      { "path": "images/3.png", "x": -1, "y": -33 },
+      { "path": "images/4.png", "x": -32, "y": -18 },
+      { "path": "images/5.png", "x": -1, "y": -20 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Roman Wall",
+            "fr-FR": "Mur romain",
+            "de-DE": "Römische Wand",
+            "es-ES": "Pared romana",
+            "it-IT": "Mura romane",
+            "nl-NL": "Romeinse muur",
+            "sv-SE": "Romersk mur",
+            "ko-KR": "로마식 벽",
+            "zh-CN": "罗马墙",
+            "zh-TW": "羅馬牆",
+            "pt-BR": "Muro Romano",
+            "cs-CZ": "Římská zeď",
+            "ja-JP": "ローマ風の壁",
+            "pl-PL": "Ściana rzymska",
+            "ru-RU": "Стена",
+            "eo-ZZ": "Roma Muro",
+            "ca-ES": "Mur romà",
+            "fi-FI": "Roomalainen seinä"
+        }
+    }
+}
