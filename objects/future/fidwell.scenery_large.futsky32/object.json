@@ -1,0 +1,136 @@
+{
+    "id": "fidwell.scenery_large.futsky32",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FB02|IRFSK32C|1C915C73",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "price": 18,
+        "removalPrice": 8,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 64,
+                "walls": 2
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 64,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 64,
+                "walls": 2
+            }
+        ]
+    },
+    "images": [
+      { "path": "images/00.png", "x": -25, "y": 22 },
+      { "path": "images/01.png", "x": -27, "y": 24 },
+      { "path": "images/02.png", "x": -28, "y": 22 },
+      { "path": "images/03.png", "x": -25, "y": 15 },
+      { "path": "images/04.png", "x": 0, "y": 0 },
+      { "path": "images/05.png", "x": 0, "y": -57 },
+      { "path": "images/06.png", "x": -32, "y": -101 },
+      { "path": "images/07.png", "x": 0, "y": 0 },
+      { "path": "images/08.png", "x": 0, "y": 0 },
+      { "path": "images/09.png", "x": 0, "y": -90 },
+      { "path": "images/10.png", "x": -24, "y": -78 },
+      { "path": "images/11.png", "x": 0, "y": 0 },
+      { "path": "images/12.png", "x": 0, "y": 0 },
+      { "path": "images/13.png", "x": -32, "y": -104 },
+      { "path": "images/14.png", "x": 0, "y": 0 },
+      { "path": "images/15.png", "x": 0, "y": 0 },
+      { "path": "images/16.png", "x": 0, "y": 0 },
+      { "path": "images/17.png", "x": 0, "y": 0 },
+      { "path": "images/18.png", "x": 0, "y": -79 },
+      { "path": "images/19.png", "x": -32, "y": -78 },
+      { "path": "images/20.png", "x": 0, "y": 0 },
+      { "path": "images/21.png", "x": 0, "y": 0 },
+      { "path": "images/22.png", "x": 0, "y": 0 },
+      { "path": "images/23.png", "x": 0, "y": 0 },
+      { "path": "images/24.png", "x": 0, "y": -79 },
+      { "path": "images/25.png", "x": -24, "y": -79 },
+      { "path": "images/26.png", "x": 0, "y": 0 },
+      { "path": "images/27.png", "x": 0, "y": 0 },
+      { "path": "images/28.png", "x": -1, "y": -59 },
+      { "path": "images/29.png", "x": 0, "y": 0 },
+      { "path": "images/30.png", "x": 0, "y": -23 },
+      { "path": "images/31.png", "x": -32, "y": -101 },
+      { "path": "images/32.png", "x": -32, "y": -90 },
+      { "path": "images/33.png", "x": 0, "y": 0 },
+      { "path": "images/34.png", "x": 0, "y": 0 },
+      { "path": "images/35.png", "x": 0, "y": -79 },
+      { "path": "images/36.png", "x": -32, "y": -104 },
+      { "path": "images/37.png", "x": 0, "y": 0 },
+      { "path": "images/38.png", "x": 0, "y": 0 },
+      { "path": "images/39.png", "x": 0, "y": 0 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Sandstone Walkway End Section",
+            "fr-FR": "Section finale de la passerelle",
+            "de-DE": "Sandstein-Spazierweg-Endabschnitt",
+            "es-ES": "Sección final de pasaje de arenisca",
+            "it-IT": "Sezione finale del viale in arenaria",
+            "nl-NL": "Eindstuk zandstenen Looppad",
+            "sv-SE": "Slutsektion, sandstensgång",
+            "ko-KR": "사암 도보 끝 조각",
+            "zh-TW": "沙岩製走道結尾區段",
+            "pt-BR": "Seção de Ponta de Passadiço de Arenito",
+            "cs-CZ": "Pískovcová brána - koncová sekce",
+            "pl-PL": "Chodnik z piaskowca - zakończenie",
+            "ru-RU": "Деталь небоскрёба",
+            "ja-JP": "砂岩 歩道 末端 部分",
+            "eo-ZZ": "Finoparto de Sabloŝtona Vojo",
+            "ca-ES": "Part final de sendera de gres",
+            "fi-FI": "Hiekkakivikäytävän pääteosa",
+            "zh-CN": "砂岩-步道结尾"
+        }
+    }
+}
