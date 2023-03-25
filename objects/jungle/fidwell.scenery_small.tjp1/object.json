@@ -1,0 +1,44 @@
+{
+    "id": "fidwell.scenery_small.tjp1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "price": 25,
+        "removalPrice": 13,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 56,
+        "shape": "4/4",
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -28, "y": -51 },
+      { "path": "images/1.png", "x": -21, "y": -59 },
+      { "path": "images/2.png", "x": -27, "y": -49 },
+      { "path": "images/3.png", "x": -20, "y": -54 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Plant",
+            "fr-FR": "Plante",
+            "de-DE": "Pflanze",
+            "es-ES": "Planta",
+            "it-IT": "Pianta",
+            "sv-SE": "Planta",
+            "ko-KR": "잡초",
+            "zh-CN": "植物",
+            "zh-TW": "植物",
+            "pt-BR": "Planta",
+            "cs-CZ": "Rostlina",
+            "ja-JP": "植物",
+            "pl-PL": "Roślina",
+            "ru-RU": "Куст",
+            "eo-ZZ": "Kreskaĵo",
+            "ca-ES": "Planta",
+            "fi-FI": "Kasvi"
+        }
+    }
+}
