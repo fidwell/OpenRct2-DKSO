@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_wall.wjf",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B603|ETHCLR10|7591FC1D",
+    "sourceGame": "custom",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isAllowedOnSlope": true,
+        "height": 2,
+        "price": 40,
+        "sceneryGroup": "fidwell.scenery_group.fences_dkso"
+    },
+    "images": [
+      { "path": "images/0.png", "x": -31, "y": -14 },
+      { "path": "images/1.png", "x": -1, "y": -13 },
+      { "path": "images/2.png", "x": -31, "y": -29 },
+      { "path": "images/3.png", "x": -1, "y": -29 },
+      { "path": "images/4.png", "x": -31, "y": -17 },
+      { "path": "images/5.png", "x": -1, "y": -17 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Jungle Fence",
+            "fr-FR": "Clôture de jungle",
+            "de-DE": "Dschungelzaun",
+            "es-ES": "Cerca de jungla",
+            "it-IT": "Recinto tropicale",
+            "nl-NL": "Junglehek",
+            "sv-SE": "Djungelstaket",
+            "ko-KR": "정글 울타리",
+            "zh-CN": "丛林式栅栏",
+            "zh-TW": "叢林式柵欄",
+            "pt-BR": "Cerca da Selva",
+            "cs-CZ": "Jungle plot",
+            "ja-JP": "ジャングル風のフェンス",
+            "pl-PL": "Płot tropikalny",
+            "ru-RU": "Забор",
+            "eo-ZZ": "Ĝangalo-Barilo",
+            "ca-ES": "Tanca de jungla",
+            "fi-FI": "Viidakkoaita"
+        }
+    }
+}
