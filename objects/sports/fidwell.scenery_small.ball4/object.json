@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.scenery_small.ball4",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B301|IRBALL4C|5730FCFB",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 10,
+        "removalPrice": -8,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 24,
+        "shape": "1/4",
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -11, "y": -17 },
+      { "path": "images/1.png", "x": -11, "y": -17 },
+      { "path": "images/2.png", "x": -11, "y": -17 },
+      { "path": "images/3.png", "x": -11, "y": -17 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Tennis Ball",
+            "fr-FR": "Balle de tennis",
+            "de-DE": "Tennisball",
+            "es-ES": "Pelota de tenis",
+            "it-IT": "Palla da tennis",
+            "nl-NL": "Tennisbal",
+            "sv-SE": "Tennisboll",
+            "ko-KR": "테니스 공",
+            "zh-CN": "网球",
+            "zh-TW": "網球",
+            "pt-BR": "Bola de Tênis",
+            "cs-CZ": "Tenisový míček",
+            "ja-JP": "テニスボール",
+            "pl-PL": "Piłka tenisowa",
+            "ru-RU": "Мяч",
+            "eo-ZZ": "Tenispilko",
+            "ca-ES": "Pilota de tennis",
+            "fi-FI": "Tennispallo"
+        }
+    }
+}

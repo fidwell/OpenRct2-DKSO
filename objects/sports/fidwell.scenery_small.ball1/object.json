@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.ball1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B301|IRBALL1C|F07C778F",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 15,
+        "removalPrice": -10,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 48,
+        "shape": "1/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -15, "y": -43 },
+      { "path": "images/1.png", "x": -15, "y": -43 },
+      { "path": "images/2.png", "x": -15, "y": -43 },
+      { "path": "images/3.png", "x": -15, "y": -43 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "American Football",
+            "fr-FR": "Ballon de football américain",
+            "de-DE": "American Football",
+            "es-ES": "Fútbol americano",
+            "it-IT": "Pallone da football americano",
+            "nl-NL": "American football",
+            "sv-SE": "Amerikansk fotboll",
+            "ko-KR": "미식축구",
+            "zh-CN": "美式足球",
+            "zh-TW": "美式足球",
+            "pt-BR": "Bola de Futebol Americano",
+            "cs-CZ": "Americký fotbal",
+            "ja-JP": "アメリカンフットボール",
+            "pl-PL": "Amerykańska piłka futbolowa",
+            "ru-RU": "Футбольный мяч",
+            "eo-ZZ": "Amerika Piedpilko",
+            "ca-ES": "Futbol americà",
+            "fi-FI": "Amerikkalainen jalkapallo"
+        }
+    }
+}

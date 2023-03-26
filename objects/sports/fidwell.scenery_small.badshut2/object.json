@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.badshut2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B301|IREBAD2C|C7E4877C",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 11,
+        "removalPrice": -8,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 24,
+        "shape": "1/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -11, "y": -32 },
+      { "path": "images/1.png", "x": -11, "y": -32 },
+      { "path": "images/2.png", "x": -11, "y": -32 },
+      { "path": "images/3.png", "x": -11, "y": -32 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Shuttlecock",
+            "fr-FR": "Volant (de badminton)",
+            "de-DE": "Federball",
+            "es-ES": "Pelota de bádminton",
+            "it-IT": "Shuttle",
+            "nl-NL": "Shuttle",
+            "sv-SE": "Badmintonboll",
+            "ko-KR": "셔틀콕",
+            "zh-CN": "羽毛球",
+            "zh-TW": "羽毛球",
+            "pt-BR": "Peteca",
+            "cs-CZ": "Pérák",
+            "ja-JP": "シャトル",
+            "pl-PL": "Lotka",
+            "ru-RU": "Волан",
+            "eo-ZZ": "Volanoj",
+            "ca-ES": "Volant de bàdminton",
+            "fi-FI": "Sulkapallo"
+        }
+    }
+}

@@ -8,22 +8,22 @@
     "properties": {
         "entries": [
             "rct2.scenery_small.ball1",
-            "$DAT:0C58B301|IRBALL1C",
+            "fidwell.scenery_small.ball1",
             "rct2.scenery_small.ball2",
-            "$DAT:0C58B301|IRBALL2C",
+            "fidwell.scenery_small.ball2",
             "rct2.scenery_small.helmet1",
             "rct2.scenery_small.ball3",
             "rct2.scenery_large.badrack",
             "rct2.scenery_wall.wallbadm",
             "rct2.scenery_small.badshut",
-            "$DAT:0C58B301|IREBADSC",
+            "fidwell.scenery_small.badshut",
             "rct2.scenery_small.badshut2",
-            "$DAT:0C58B301|IREBAD2C",
+            "fidwell.scenery_small.badshut2",
             "rct2.scenery_small.ball4",
-            "$DAT:0C58B301|IRBALL4C",
+            "fidwell.scenery_small.ball4",
             "rct2.scenery_wall.wallnt32",
             "rct2.scenery_wall.wallnt33",
-            "$DAT:0C58B503|IRWNT33C",
+            "fidwell.scenery_wall.wallnt33",
             "rct2.footpath_item.benchpl"
         ],
         "priority": 35
