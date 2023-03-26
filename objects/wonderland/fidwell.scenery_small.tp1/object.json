@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.tp1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B401|IRECTP1C|ADB2D547",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 28,
+        "shape": "1/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -7, "y": -25 },
+      { "path": "images/1.png", "x": -7, "y": -25 },
+      { "path": "images/2.png", "x": -7, "y": -25 },
+      { "path": "images/3.png", "x": -7, "y": -25 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "White Pawn",
+            "fr-FR": "Pion blanc",
+            "de-DE": "Weißer Bauer",
+            "es-ES": "Peón blanco",
+            "it-IT": "Pedone bianco",
+            "nl-NL": "Witte pion",
+            "sv-SE": "Vit bonde",
+            "ko-KR": "흰색 폰",
+            "zh-CN": "白棋兵",
+            "zh-TW": "白棋兵",
+            "pt-BR": "Peão Branco",
+            "cs-CZ": "Bílá pěšák",
+            "ja-JP": "白ポーン",
+            "pl-PL": "Biały pionek",
+            "ru-RU": "Пешка",
+            "eo-ZZ": "Blanka Peono",
+            "ca-ES": "Peó blanc",
+            "fi-FI": "Valkoinen sotilas"
+        }
+    }
+}

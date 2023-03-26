@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.tb2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B301|IRECTB2C|51ED9E25",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "1/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -9, "y": -36 },
+      { "path": "images/1.png", "x": -9, "y": -36 },
+      { "path": "images/2.png", "x": -9, "y": -36 },
+      { "path": "images/3.png", "x": -9, "y": -36 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Black Bishop",
+            "fr-FR": "Fou noir",
+            "de-DE": "Schwarzer Läufer",
+            "es-ES": "Obispo negro",
+            "it-IT": "Alfiere nero",
+            "nl-NL": "Zwarte loper",
+            "sv-SE": "Svart löpare",
+            "ko-KR": "검은색 비숍",
+            "zh-CN": "黑主教",
+            "zh-TW": "黑主教",
+            "pt-BR": "Bispo Preto",
+            "cs-CZ": "Černý střelec",
+            "ja-JP": "ブラックビショップ",
+            "pl-PL": "Czarny goniec",
+            "ru-RU": "Чёрный слон",
+            "eo-ZZ": "Nigra Kuriero",
+            "ca-ES": "Alfil negre",
+            "fi-FI": "Musta lähetti"
+        }
+    }
+}

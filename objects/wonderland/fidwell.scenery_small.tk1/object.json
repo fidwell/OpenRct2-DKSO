@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.tk1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B401|IRECTK1C|F9AB7860",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "1/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -10, "y": -28 },
+      { "path": "images/1.png", "x": -9, "y": -29 },
+      { "path": "images/2.png", "x": -10, "y": -29 },
+      { "path": "images/3.png", "x": -9, "y": -28 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "White Knight",
+            "fr-FR": "Cavalier blanc",
+            "de-DE": "Weißer Springer",
+            "es-ES": "Caballero blanco",
+            "it-IT": "Cavallo bianco",
+            "nl-NL": "Wit paard",
+            "sv-SE": "Vit springare",
+            "ko-KR": "흰색 나이트",
+            "zh-CN": "白棋骑士",
+            "zh-TW": "白棋騎士",
+            "pt-BR": "Cavalo Branco",
+            "cs-CZ": "Bílý kůň",
+            "ja-JP": "白ナイト",
+            "pl-PL": "Biały skoczek",
+            "ru-RU": "Белый конь",
+            "eo-ZZ": "Blanka Kavaliro",
+            "ca-ES": "Cavall blanc",
+            "fi-FI": "Valkoinen ratsu"
+        }
+    }
+}

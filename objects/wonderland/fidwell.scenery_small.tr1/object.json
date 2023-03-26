@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.tr1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B401|IRECTR1C|BAC6FD2F",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "1/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -10, "y": -26 },
+      { "path": "images/1.png", "x": -10, "y": -26 },
+      { "path": "images/2.png", "x": -10, "y": -26 },
+      { "path": "images/3.png", "x": -10, "y": -26 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "White Rook",
+            "fr-FR": "Tour blanche",
+            "de-DE": "Weißer Turm",
+            "es-ES": "Torre blanca",
+            "it-IT": "Torre bianca",
+            "nl-NL": "Witte toren",
+            "sv-SE": "Vitt torn",
+            "ko-KR": "하얀색 룩",
+            "zh-CN": "白棋车",
+            "zh-TW": "白棋車",
+            "pt-BR": "Torre Branca",
+            "cs-CZ": "Bílá věž",
+            "ja-JP": "ホワイトルーク",
+            "pl-PL": "Biała wieża",
+            "ru-RU": "Ладья",
+            "eo-ZZ": "Blanka Turo",
+            "ca-ES": "Torre blanca",
+            "fi-FI": "Valkoinen torni"
+        }
+    }
+}

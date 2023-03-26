@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.scenery_small.tas4a",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D01|ELLTAS4D|10D6B318",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 6,
+        "removalPrice": -4,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 32,
+        "shape": "1/4",
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -11, "y": -32 },
+      { "path": "images/1.png", "x": -11, "y": -32 },
+      { "path": "images/2.png", "x": -10, "y": -32 },
+      { "path": "images/3.png", "x": -10, "y": -31 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Candy",
+            "fr-FR": "Bonbon",
+            "de-DE": "Süßigkeit",
+            "es-ES": "Caramelo",
+            "it-IT": "Dolci",
+            "nl-NL": "Snoep",
+            "sv-SE": "Godis",
+            "ko-KR": "사탕",
+            "zh-CN": "糖果",
+            "zh-TW": "糖果",
+            "pt-BR": "Doce",
+            "cs-CZ": "Cukroví",
+            "ja-JP": "キャンディー",
+            "pl-PL": "Cukierek",
+            "ru-RU": "Пирог",
+            "eo-ZZ": "Dolĉaĵo",
+            "ca-ES": "Caramel",
+            "fi-FI": "Karkki"
+        }
+    }
+}

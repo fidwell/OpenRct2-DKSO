@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.tk4",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B401|IRECTK4C|D60E0C4F",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "shape": "1/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -10, "y": -37 },
+      { "path": "images/1.png", "x": -10, "y": -37 },
+      { "path": "images/2.png", "x": -10, "y": -37 },
+      { "path": "images/3.png", "x": -10, "y": -37 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Black King",
+            "fr-FR": "Roi noir",
+            "de-DE": "Schwarzer König",
+            "es-ES": "Rey negro",
+            "it-IT": "Re nero",
+            "nl-NL": "Zwarte koning",
+            "sv-SE": "Svart kung",
+            "ko-KR": "검은색 킹",
+            "zh-CN": "黑棋国王",
+            "zh-TW": "黑棋國王",
+            "pt-BR": "Rei Preto",
+            "cs-CZ": "Černý král",
+            "ja-JP": "黒キング",
+            "pl-PL": "Czarny król",
+            "ru-RU": "Король",
+            "eo-ZZ": "Nigra Reĝo",
+            "ca-ES": "Rei negre",
+            "fi-FI": "Musta kuningas"
+        }
+    }
+}

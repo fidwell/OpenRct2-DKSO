@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.tb1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B301|IRECTB1C|BEA41008",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "1/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -9, "y": -34 },
+      { "path": "images/1.png", "x": -9, "y": -34 },
+      { "path": "images/2.png", "x": -9, "y": -34 },
+      { "path": "images/3.png", "x": -8, "y": -34 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "White Bishop",
+            "fr-FR": "Fou blanc",
+            "de-DE": "Weißer Läufer",
+            "es-ES": "Obispo blanco",
+            "it-IT": "Alfiere bianco",
+            "nl-NL": "Witte loper",
+            "sv-SE": "Vit löpare",
+            "ko-KR": "흰색 비숍",
+            "zh-CN": "白主教",
+            "zh-TW": "白主教",
+            "pt-BR": "Bispo Branco",
+            "cs-CZ": "Bílý střelec",
+            "ja-JP": "白ビショップ",
+            "pl-PL": "Biały goniec",
+            "ru-RU": "Белый слон",
+            "eo-ZZ": "Blanka Kuriero",
+            "ca-ES": "Alfil blanc",
+            "fi-FI": "Valkoinen lähetti"
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.tk2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B401|IRECTK2C|04534D52",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "1/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -10, "y": -29 },
+      { "path": "images/1.png", "x": -10, "y": -29 },
+      { "path": "images/2.png", "x": -10, "y": -29 },
+      { "path": "images/3.png", "x": -10, "y": -29 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Black Knight",
+            "fr-FR": "Cavalier noir",
+            "de-DE": "Schwarzer Springer",
+            "es-ES": "Caballero negro",
+            "it-IT": "Cavallo nero",
+            "nl-NL": "Zwart paard",
+            "sv-SE": "Svart springare",
+            "ko-KR": "검은색 나이트",
+            "zh-CN": "黑棋骑士",
+            "zh-TW": "黑棋騎士",
+            "pt-BR": "Cavalo Preto",
+            "cs-CZ": "Černý kůň",
+            "ja-JP": "黒ナイト",
+            "pl-PL": "Czarny skoczek",
+            "ru-RU": "Чёрный конь",
+            "eo-ZZ": "Nigra Kavaliro",
+            "ca-ES": "Cavall negre",
+            "fi-FI": "Musta ratsu"
+        }
+    }
+}

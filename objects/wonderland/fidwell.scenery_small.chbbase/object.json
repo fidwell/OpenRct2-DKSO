@@ -1,0 +1,53 @@
+{
+    "id": "fidwell.scenery_small.chbbase",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B301|IRCHBBAC|762B3F54",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "shape": "4/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "allowSupportsAbove": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -9 },
+      { "path": "images/1.png", "x": -32, "y": -9 },
+      { "path": "images/2.png", "x": -32, "y": -9 },
+      { "path": "images/3.png", "x": -32, "y": -9 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Checkerboard Block",
+            "fr-FR": "Bloc en échiquier",
+            "de-DE": "Schachbrettblock",
+            "es-ES": "Tablero",
+            "it-IT": "Blocco da scacchiera",
+            "nl-NL": "Dambord-basisblok",
+            "sv-SE": "Schackbrädsblock",
+            "ko-KR": "체스판 블록",
+            "zh-CN": "西洋跳棋棋盘",
+            "zh-TW": "西洋跳棋棋盤",
+            "pt-BR": "Bloco Quadriculado",
+            "cs-CZ": "Blok šachovnice",
+            "ja-JP": "市松模様ブロック",
+            "pl-PL": "Blok szachownicy",
+            "ru-RU": "Шахматы",
+            "eo-ZZ": "Bloko de Damludo-Tablo",
+            "ca-ES": "Bloc de tauler d’escacs",
+            "fi-FI": "Shakkikuvioinen lohko"
+        }
+    }
+}

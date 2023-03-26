@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.tk3",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B401|IRECTK3C|0FA6A610",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "shape": "1/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -11, "y": -37 },
+      { "path": "images/1.png", "x": -11, "y": -37 },
+      { "path": "images/2.png", "x": -11, "y": -37 },
+      { "path": "images/3.png", "x": -11, "y": -37 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "White King",
+            "fr-FR": "Roi blanc",
+            "de-DE": "Weißer König",
+            "es-ES": "Rey blanco",
+            "it-IT": "Re bianco",
+            "nl-NL": "Witte koning",
+            "sv-SE": "Vit kung",
+            "ko-KR": "흰색 킹",
+            "zh-CN": "白棋国王",
+            "zh-TW": "白棋國王",
+            "pt-BR": "Rei Branco",
+            "cs-CZ": "Bílý král",
+            "ja-JP": "白キング",
+            "pl-PL": "Biały król",
+            "ru-RU": "Король",
+            "eo-ZZ": "Blanka Reĝo",
+            "ca-ES": "Rei blanc",
+            "fi-FI": "Valkoinen kuningas"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.tas3",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D01|ELLTAS3C|CABE2FCB",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 15,
+        "removalPrice": -7,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 52,
+        "shape": "4/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -18, "y": -55 },
+      { "path": "images/1.png", "x": -18, "y": -55 },
+      { "path": "images/2.png", "x": -18, "y": -55 },
+      { "path": "images/3.png", "x": -19, "y": -55 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Candy Tree",
+            "fr-FR": "Arbrabonbon",
+            "de-DE": "Süßigkeitenbaum",
+            "es-ES": "Árbol de caramelo",
+            "it-IT": "Albero dei dolci",
+            "nl-NL": "Snoepboom",
+            "sv-SE": "Godisträd",
+            "ko-KR": "사탕 나무",
+            "zh-CN": "糖果树",
+            "zh-TW": "糖果樹",
+            "pt-BR": "Árvore de Doces",
+            "cs-CZ": "Strom sladkostí",
+            "ja-JP": "キャンディーツリー",
+            "pl-PL": "Drzewo cukierkowe",
+            "ru-RU": "Дерево",
+            "eo-ZZ": "Dolĉaĵo-Arbo",
+            "ca-ES": "Arbre caramel",
+            "fi-FI": "Karkkipuu"
+        }
+    }
+}

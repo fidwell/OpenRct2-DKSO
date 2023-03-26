@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.tq1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B401|IRECTQ1C|8770EEE6",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "shape": "1/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -10, "y": -43 },
+      { "path": "images/1.png", "x": -10, "y": -43 },
+      { "path": "images/2.png", "x": -10, "y": -43 },
+      { "path": "images/3.png", "x": -10, "y": -43 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "White Queen",
+            "fr-FR": "Reine blanche",
+            "de-DE": "Weiße Königin",
+            "es-ES": "Reina blanca",
+            "it-IT": "Regina bianca",
+            "nl-NL": "Witte dame",
+            "sv-SE": "Vit drottning",
+            "ko-KR": "흰색 퀸",
+            "zh-CN": "白棋皇合",
+            "zh-TW": "白棋皇合",
+            "pt-BR": "Rainha Branca",
+            "cs-CZ": "Bílá královna",
+            "ja-JP": "ホワイトクイーン",
+            "pl-PL": "Biała królowa",
+            "ru-RU": "Ферзь",
+            "eo-ZZ": "Blanka Reĝino",
+            "ca-ES": "Reina blanca",
+            "fi-FI": "Valkoinen kuningatar"
+        }
+    }
+}

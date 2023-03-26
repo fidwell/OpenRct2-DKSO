@@ -10,6 +10,7 @@
         "cursor": "CURSOR_TREE_DOWN",
         "height": 88,
         "shape": "4/4",
+        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": [

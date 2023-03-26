@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.tp2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B401|IRECTP2C|D66EBCB9",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 28,
+        "shape": "1/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -7, "y": -25 },
+      { "path": "images/1.png", "x": -7, "y": -25 },
+      { "path": "images/2.png", "x": -7, "y": -25 },
+      { "path": "images/3.png", "x": -7, "y": -25 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Black Pawn",
+            "fr-FR": "Pion noir",
+            "de-DE": "Schwarzer Bauer",
+            "es-ES": "Peón negro",
+            "it-IT": "Pedone nero",
+            "nl-NL": "Zwarte pion",
+            "sv-SE": "Svart bonde",
+            "ko-KR": "검은색 폰",
+            "zh-CN": "黑棋兵",
+            "zh-TW": "黑棋兵",
+            "pt-BR": "Peão Preto",
+            "cs-CZ": "Černý pěšák",
+            "ja-JP": "黒ポーン",
+            "pl-PL": "Czarny pionek",
+            "ru-RU": "Пешка",
+            "eo-ZZ": "Nigra Peono",
+            "ca-ES": "Peó negre",
+            "fi-FI": "Musta sotilas"
+        }
+    }
+}
