@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.pirflag",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B301|IRPIRFLC|0D302168",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 10,
+        "removalPrice": -7,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "shape": "1/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -7, "y": -40 },
+      { "path": "images/1.png", "x": -7, "y": -40 },
+      { "path": "images/2.png", "x": -10, "y": -40 },
+      { "path": "images/3.png", "x": -10, "y": -40 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Pirate Flag",
+            "fr-FR": "Drapeau pirate",
+            "de-DE": "Piratenflagge",
+            "es-ES": "Bandera pirata",
+            "it-IT": "Bandiera dei pirati",
+            "nl-NL": "Piratenvlag",
+            "sv-SE": "Piratflagga",
+            "ko-KR": "해적 깃발",
+            "zh-CN": "海盗旗",
+            "zh-TW": "海盜旗",
+            "pt-BR": "Bandeira Pirata",
+            "cs-CZ": "Pirátská vlajka",
+            "ja-JP": "海賊の旗",
+            "pl-PL": "Piracka bandera",
+            "ru-RU": "Флаг",
+            "eo-ZZ": "Pirato-Flago",
+            "ca-ES": "Bandera pirata",
+            "fi-FI": "Merirosvolippu"
+        }
+    }
+}
