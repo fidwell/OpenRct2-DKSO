@@ -11,7 +11,7 @@
         "isAllowedOnSlope": true,
         "height": 2,
         "price": 40,
-        "sceneryGroup": "rct2.scenery_group.scgfence"
+        "sceneryGroup": "fidwell.scenery_group.fences_dkso"
     },
     "images": [
       { "path": "images/0.png", "x": -31, "y": -18 },
