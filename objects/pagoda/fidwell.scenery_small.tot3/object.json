@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.tot3",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B401|IRETOT3C|11247086",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 10,
+        "removalPrice": 5,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 36,
+        "sceneryGroup": "fidwell.scenery_group.trees_dkso",
+        "isTree": true,
+        "shape": "1/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -16, "y": -36 },
+      { "path": "images/1.png", "x": -14, "y": -34 },
+      { "path": "images/2.png", "x": -12, "y": -36 },
+      { "path": "images/3.png", "x": -14, "y": -36 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Tree",
+            "fr-FR": "Arbre",
+            "de-DE": "Baum",
+            "es-ES": "Árbol",
+            "it-IT": "Albero",
+            "nl-NL": "Boom",
+            "sv-SE": "Träd",
+            "ko-KR": "나무",
+            "zh-CN": "树",
+            "zh-TW": "樹",
+            "pt-BR": "Árvore",
+            "cs-CZ": "Strom",
+            "ja-JP": "木",
+            "pl-PL": "Drzewo",
+            "ru-RU": "Дерево",
+            "eo-ZZ": "Arbo",
+            "ca-ES": "Arbre",
+            "fi-FI": "Puu"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": "fidwell.scenery_small.tly",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "09F55901|MG-RCT72|C22387DB",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": 2,
+        "cursor": "CURSOR_FLOWER_DOWN",
+        "height": 8,
+        "sceneryGroup": "fidwell.scenery_group.gardens_dkso",
+        "shape": "4/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -12, "y": -8 },
+      { "path": "images/1.png", "x": -13, "y": -8 },
+      { "path": "images/2.png", "x": -12, "y": -8 },
+      { "path": "images/3.png", "x": -12, "y": -8 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Lily",
+            "fr-FR": "Lys",
+            "de-DE": "Lilie",
+            "es-ES": "Azucena",
+            "it-IT": "Giglio",
+            "nl-NL": "Lelie",
+            "sv-SE": "Lilja",
+            "ko-KR": "백합",
+            "zh-CN": "百合花",
+            "zh-TW": "百合花",
+            "pt-BR": "Lírio",
+            "cs-CZ": "Lilie",
+            "ja-JP": "ユリ",
+            "pl-PL": "Lilia",
+            "ru-RU": "Лилия",
+            "eo-ZZ": "Lilio",
+            "ca-ES": "Lliri",
+            "fi-FI": "Lilja"
+        }
+    }
+}
