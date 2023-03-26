@@ -1,0 +1,55 @@
+{
+    "id": "fidwell.scenery_large.stg1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B202|IRESTG1C|9A6DEAC7",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 120,
+        "removalPrice": -100,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 72,
+                "hasSupports": true
+            }
+        ]
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -17 },
+      { "path": "images/1.png", "x": -32, "y": -17 },
+      { "path": "images/2.png", "x": -32, "y": -17 },
+      { "path": "images/3.png", "x": -32, "y": -17 },
+      { "path": "images/4.png", "x": -32, "y": -67 },
+      { "path": "images/5.png", "x": -32, "y": -67 },
+      { "path": "images/6.png", "x": -32, "y": -67 },
+      { "path": "images/7.png", "x": -32, "y": -67 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Castle Tower",
+            "fr-FR": "Tour de château",
+            "de-DE": "Burgturm",
+            "es-ES": "Torre del castillo",
+            "it-IT": "Torre del castello",
+            "nl-NL": "Kasteeltoren",
+            "sv-SE": "Slottstorn",
+            "ko-KR": "성탑",
+            "zh-CN": "城堡-塔楼",
+            "zh-TW": "城堡塔樓",
+            "pt-BR": "Torre de Castelo",
+            "cs-CZ": "Hradní věž",
+            "ja-JP": "城の塔",
+            "pl-PL": "Wieża zamkowa",
+            "ru-RU": "Башня замка",
+            "eo-ZZ": "Turo de Kastelo",
+            "ca-ES": "Torre de castell",
+            "fi-FI": "Linnan torni"
+        }
+    }
+}

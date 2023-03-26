@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.tcn",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B301|IRETCN1C|A704596F",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "price": 11,
+        "removalPrice": -9,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 16,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -11, "y": -18 },
+      { "path": "images/1.png", "x": -12, "y": -14 },
+      { "path": "images/2.png", "x": -12, "y": -13 },
+      { "path": "images/3.png", "x": -10, "y": -17 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Cannon",
+            "fr-FR": "Canon",
+            "de-DE": "Kanone",
+            "es-ES": "Cañón",
+            "it-IT": "Cannone",
+            "nl-NL": "Kanon",
+            "sv-SE": "Kanon",
+            "ko-KR": "대포",
+            "zh-CN": "大炮",
+            "zh-TW": "大砲",
+            "pt-BR": "Canhão",
+            "cs-CZ": "Kanón",
+            "ja-JP": "大砲",
+            "pl-PL": "Armata",
+            "ru-RU": "Пушка",
+            "eo-ZZ": "Kanono",
+            "ca-ES": "Canó",
+            "fi-FI": "Tykki"
+        }
+    }
+}

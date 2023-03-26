@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.scenery_wall.wpw3",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188003|ELLWPW3C|A296ECA7",
+    "sourceGame": "custom",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "isAllowedOnSlope": true,
+        "height": 3,
+        "price": 40,
+        "sceneryGroup": "fidwell.scenery_group.fences_dkso"
+    },
+    "images": [
+      { "path": "images/0.png", "x": -31, "y": -24 },
+      { "path": "images/1.png", "x": -1, "y": -23 },
+      { "path": "images/2.png", "x": -31, "y": -41 },
+      { "path": "images/3.png", "x": -1, "y": -40 },
+      { "path": "images/4.png", "x": -31, "y": -26 },
+      { "path": "images/5.png", "x": -1, "y": -25 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Wooden Fence",
+            "fr-FR": "Clôture en bois",
+            "de-DE": "Holzzaun",
+            "es-ES": "Valla de madera",
+            "it-IT": "Recinto di legno",
+            "nl-NL": "Houten hek",
+            "sv-SE": "Trästaket",
+            "ko-KR": "나무 울타리",
+            "zh-CN": "木桩栅栏",
+            "zh-TW": "木樁柵欄",
+            "pt-BR": "Cerca de Madeira",
+            "cs-CZ": "Dřevěný plot",
+            "ja-JP": "木製のフェンス",
+            "pl-PL": "Drewniany płot",
+            "ru-RU": "Забор",
+            "eo-ZZ": "Ligna Barilo",
+            "ca-ES": "Tanca de fusta",
+            "fi-FI": "Puinen aita"
+        }
+    }
+}

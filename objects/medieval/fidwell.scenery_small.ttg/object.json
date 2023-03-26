@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.ttg",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B401|IRECTTGC|F011A192",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "price": 9,
+        "removalPrice": -7,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 24,
+        "shape": "1/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -7, "y": -21 },
+      { "path": "images/1.png", "x": -7, "y": -22 },
+      { "path": "images/2.png", "x": -7, "y": -22 },
+      { "path": "images/3.png", "x": -7, "y": -22 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Target",
+            "fr-FR": "Cible",
+            "de-DE": "Zielscheibe",
+            "es-ES": "Objetivo",
+            "it-IT": "Obiettivo",
+            "nl-NL": "Schietschijf",
+            "sv-SE": "Mål",
+            "ko-KR": "과녁",
+            "zh-CN": "目标",
+            "zh-TW": "目標",
+            "pt-BR": "Alvo",
+            "cs-CZ": "Cíl",
+            "ja-JP": "ターゲット",
+            "pl-PL": "Tarcza",
+            "ru-RU": "Мишень",
+            "eo-ZZ": "Celaĵo",
+            "ca-ES": "Diana",
+            "fi-FI": "Maalitaulu"
+        }
+    }
+}

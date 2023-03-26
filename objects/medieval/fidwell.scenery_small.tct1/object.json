@@ -1,0 +1,48 @@
+{
+    "id": "fidwell.scenery_small.tct1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D01|ELLTCT1C|C48C57E1",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 38,
+        "removalPrice": -32,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 108,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -25, "y": -98 },
+      { "path": "images/1.png", "x": -25, "y": -99 },
+      { "path": "images/2.png", "x": -25, "y": -99 },
+      { "path": "images/3.png", "x": -25, "y": -99 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Castle Tower",
+            "fr-FR": "Tour de château",
+            "de-DE": "Burgturm",
+            "es-ES": "Torre del castillo",
+            "it-IT": "Torre del castello",
+            "nl-NL": "Kasteeltoren",
+            "sv-SE": "Slottstorn",
+            "ko-KR": "성 탑",
+            "zh-CN": "城堡-城楼",
+            "zh-TW": "城樓",
+            "pt-BR": "Torre de Castelo",
+            "cs-CZ": "Hradní věž",
+            "ja-JP": "城の塔",
+            "pl-PL": "Wieża zamkowa",
+            "ru-RU": "Башня замка",
+            "eo-ZZ": "Turo de Kastelo",
+            "ca-ES": "Torre de castell",
+            "fi-FI": "Linnan torni"
+        }
+    }
+}
