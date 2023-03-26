@@ -21,10 +21,10 @@
         ]
     },
     "images": [
-      { "path": "images/0.png", "x": -32, "y": -17 },
-      { "path": "images/1.png", "x": -32, "y": -17 },
-      { "path": "images/2.png", "x": -32, "y": -17 },
-      { "path": "images/3.png", "x": -32, "y": -17 },
+      { "path": "images/0.png", "x": -32, "y": 5 },
+      { "path": "images/1.png", "x": -32, "y": 5 },
+      { "path": "images/2.png", "x": -32, "y": 5 },
+      { "path": "images/3.png", "x": -32, "y": 5 },
       { "path": "images/4.png", "x": -32, "y": -67 },
       { "path": "images/5.png", "x": -32, "y": -67 },
       { "path": "images/6.png", "x": -32, "y": -67 },
