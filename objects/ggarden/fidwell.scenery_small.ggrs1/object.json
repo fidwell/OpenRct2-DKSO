@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.scenery_small.ggrs1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B301|ETHCLR19|907F7DC5",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 12,
+        "removalPrice": -7,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 128,
+        "shape": "1/4",
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -15, "y": -127 },
+      { "path": "images/1.png", "x": -11, "y": -122 },
+      { "path": "images/2.png", "x": -14, "y": -116 },
+      { "path": "images/3.png", "x": -16, "y": -119 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Giant Grass",
+            "fr-FR": "Pelouse géante",
+            "de-DE": "Gigantisches Gras",
+            "es-ES": "Hierba gigante",
+            "it-IT": "Erba gigante",
+            "nl-NL": "Gigantisch gras",
+            "sv-SE": "Jättegräs",
+            "ko-KR": "대형 풀",
+            "zh-CN": "巨大牧草",
+            "zh-TW": "大型牧草",
+            "pt-BR": "Grama Gigante",
+            "cs-CZ": "Obrovská tráva",
+            "ja-JP": "巨大な草",
+            "pl-PL": "Olbrzymia trawa",
+            "ru-RU": "Трава",
+            "eo-ZZ": "Giganta Herbo",
+            "ca-ES": "Herba gegant",
+            "fi-FI": "Jättimäinen ruoho"
+        }
+    }
+}

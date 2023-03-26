@@ -1,0 +1,43 @@
+{
+    "id": "fidwell.scenery_small.beanst2",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 25,
+        "removalPrice": -19,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 88,
+        "shape": "4/4",
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -19, "y": -84 },
+      { "path": "images/1.png", "x": -23, "y": -83 },
+      { "path": "images/2.png", "x": -18, "y": -83 },
+      { "path": "images/3.png", "x": -16, "y": -84 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Giant Beanstalk",
+            "fr-FR": "Haricot géant",
+            "de-DE": "Riesiger Bohnenstängel",
+            "es-ES": "Pedúnculo de judías",
+            "it-IT": "Pianta di fagiolo gigante",
+            "nl-NL": "Gigantische bonenstaak",
+            "sv-SE": "Jättebönstjälk",
+            "ko-KR": "대형 강낭콩 줄기",
+            "zh-CN": "巨大豆茎",
+            "zh-TW": "巨大的豆莖",
+            "pt-BR": "Pé de Feijão Gigante",
+            "cs-CZ": "Obrovský stonek",
+            "ja-JP": "巨大豆",
+            "pl-PL": "Łodyga olbrzymiej fasoli",
+            "ru-RU": "Стебель",
+            "eo-ZZ": "Giganta Fabotrunko",
+            "ca-ES": "Branca gegant de mongeta",
+            "fi-FI": "Jättimäinen pavunsalko"
+        }
+    }
+}

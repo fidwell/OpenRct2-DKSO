@@ -1,0 +1,44 @@
+{
+    "id": "fidwell.scenery_small.fern1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "09F55701|MG-RCT73|A52C4B44",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 14,
+        "removalPrice": -10,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "hasPrimaryColour": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -31, "y": -30 },
+      { "path": "images/1.png", "x": -29, "y": -31 },
+      { "path": "images/2.png", "x": -29, "y": -32 },
+      { "path": "images/3.png", "x": -30, "y": -31 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Giant Fern",
+            "fr-FR": "Fougère géante",
+            "de-DE": "Gigantischer Farn",
+            "es-ES": "Helecho gigante",
+            "it-IT": "Felce gigante",
+            "nl-NL": "Gigantisch varen",
+            "sv-SE": "Jätteormbunke",
+            "ko-KR": "대형 양치식물",
+            "zh-CN": "巨大蕨类",
+            "zh-TW": "巨大的蕨",
+            "pt-BR": "Samambaia Gigante",
+            "ja-JP": "巨大シダ",
+            "pl-PL": "Olbrzymia paproć",
+            "ru-RU": "Куст",
+            "eo-ZZ": "Giganta Filiko",
+            "ca-ES": "Falguera gegant",
+            "fi-FI": "Jättimäinen saniainen"
+        }
+    }
+}
