@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.teepee1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B301|IRTEPE1C|34691633",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -13,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 64,
+        "shape": "4/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -23, "y": -69 },
+      { "path": "images/1.png", "x": -21, "y": -65 },
+      { "path": "images/2.png", "x": -24, "y": -63 },
+      { "path": "images/3.png", "x": -21, "y": -67 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Tepee",
+            "fr-FR": "Tipi",
+            "de-DE": "Tipi",
+            "es-ES": "Tienda india",
+            "nl-NL": "Tipi",
+            "sv-SE": "Indiantält",
+            "ko-KR": "원뿔형 천막",
+            "zh-CN": "圆锥帐篷",
+            "zh-TW": "圓錐帳篷",
+            "pt-BR": "Tenda de Índio",
+            "cs-CZ": "Týpí",
+            "ja-JP": "テント小屋",
+            "pl-PL": "Tipi",
+            "ru-RU": "Вигвам",
+            "eo-ZZ": "Tipio",
+            "ca-ES": "Tipi",
+            "fi-FI": "Tiipii"
+        }
+    }
+}

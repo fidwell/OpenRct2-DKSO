@@ -14,10 +14,10 @@
             "rct2.scenery_large.saloon",
             "rct2.scenery_large.wwbank",
             "rct2.scenery_small.hang1",
-            "$DAT:0C58B301|IRHANG1C",
+            "fidwell.scenery_small.hang1",
             "rct2.scenery_small.totem1",
             "rct2.scenery_small.teepee1",
-            "$DAT:0C58B301|IRTEPE1C",
+            "fidwell.scenery_small.teepee1",
             "rct2.footpath_item.litterww"
         ],
         "priority": 35,

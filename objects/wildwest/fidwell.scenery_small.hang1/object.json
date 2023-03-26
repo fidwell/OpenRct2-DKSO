@@ -1,0 +1,49 @@
+{
+    "id": "fidwell.scenery_small.hang1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B301|IRHANG1C|2BEF5B28",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "shape": "4/4",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -31 },
+      { "path": "images/1.png", "x": -32, "y": -33 },
+      { "path": "images/2.png", "x": -27, "y": -36 },
+      { "path": "images/3.png", "x": -31, "y": -34 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Gallows",
+            "fr-FR": "Potence",
+            "de-DE": "Galgen",
+            "es-ES": "Patíbulo",
+            "it-IT": "Forche",
+            "nl-NL": "Galgen",
+            "sv-SE": "Galge",
+            "ko-KR": "교수대",
+            "zh-CN": "绞刑台",
+            "zh-TW": "絞刑臺",
+            "pt-BR": "Forca",
+            "cs-CZ": "Gilotina",
+            "ja-JP": "絞首台",
+            "pl-PL": "Szubienica",
+            "ru-RU": "Эшафот",
+            "eo-ZZ": "Pendigiloj",
+            "ca-ES": "Patíbul",
+            "fi-FI": "Hirsipuu"
+        }
+    }
+}
