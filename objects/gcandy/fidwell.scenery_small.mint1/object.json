@@ -1,0 +1,44 @@
+{
+    "id": "fidwell.scenery_small.mint1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "09F55701|MG-CDY18|CC85B451",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 7,
+        "removalPrice": -4,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 8,
+        "shape": "1/4",
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -12, "y": -13 },
+      { "path": "images/1.png", "x": -12, "y": -13 },
+      { "path": "images/2.png", "x": -12, "y": -13 },
+      { "path": "images/3.png", "x": -12, "y": -13 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Mint",
+            "fr-FR": "Menthe",
+            "de-DE": "Pfefferminz",
+            "es-ES": "Menta",
+            "it-IT": "Menta",
+            "ko-KR": "민트",
+            "zh-CN": "薄荷",
+            "zh-TW": "薄荷",
+            "pt-BR": "Menta",
+            "cs-CZ": "Máta",
+            "ja-JP": "ミント",
+            "pl-PL": "Miętówka",
+            "ru-RU": "Мята",
+            "eo-ZZ": "Mento",
+            "ca-ES": "Caramel de menta",
+            "fi-FI": "Pastilli"
+        }
+    }
+}

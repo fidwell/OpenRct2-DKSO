@@ -1,0 +1,50 @@
+{
+    "id": "fidwell.scenery_small.chocroof",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B301|IRCHOCRC|4206CA7A",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 14,
+        "removalPrice": -11,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "hasPrimaryColour": true,
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "allowSupportsAbove": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -7 },
+      { "path": "images/1.png", "x": -32, "y": -7 },
+      { "path": "images/2.png", "x": -32, "y": -7 },
+      { "path": "images/3.png", "x": -32, "y": -7 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Chocolate Bar",
+            "fr-FR": "Barre au chocolat",
+            "de-DE": "Schokoriegel",
+            "es-ES": "Barra de chocolate",
+            "it-IT": "Barretta di cioccolato",
+            "nl-NL": "Chocoladereep",
+            "sv-SE": "Chokladkaka",
+            "ko-KR": "초콜릿 바",
+            "zh-CN": "巧克力条",
+            "zh-TW": "巧克力條",
+            "pt-BR": "Barra de Chocolate",
+            "cs-CZ": "Tabulka čokolády",
+            "ja-JP": "板チョコ",
+            "pl-PL": "Tabliczka czekolady",
+            "ru-RU": "Шоколадница",
+            "eo-ZZ": "Ĉokolado-Briketo",
+            "ca-ES": "Barra de xocolata",
+            "fi-FI": "Suklaalevy"
+        }
+    }
+}

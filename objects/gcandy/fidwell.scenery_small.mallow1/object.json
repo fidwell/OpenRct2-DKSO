@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.mallow1",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0A188D01|ELLMLW1C|7A30DCDA",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 15,
+        "removalPrice": -11,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 48,
+        "shape": "1/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -12, "y": -50 },
+      { "path": "images/1.png", "x": -10, "y": -49 },
+      { "path": "images/2.png", "x": -11, "y": -50 },
+      { "path": "images/3.png", "x": -11, "y": -50 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Marshmallow",
+            "fr-FR": "Guimauve",
+            "es-ES": "Malvavisco",
+            "nl-NL": "Spekkie",
+            "sv-SE": "Marshmallows",
+            "ko-KR": "마시멜로",
+            "zh-CN": "药用蜀葵",
+            "zh-TW": "藥用蜀葵",
+            "pt-BR": "Marshmallow",
+            "cs-CZ": "Maršmeloun",
+            "ja-JP": "マシュマロ",
+            "pl-PL": "Słoninka",
+            "ru-RU": "Мальва",
+            "eo-ZZ": "Marŝmalo",
+            "ca-ES": "Núvol de llepolia",
+            "fi-FI": "Vaahtokarkki"
+        }
+    }
+}
