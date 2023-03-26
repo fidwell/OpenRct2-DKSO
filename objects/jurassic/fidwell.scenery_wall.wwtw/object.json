@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.scenery_wall.wwtw",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "09F55B03|1KWDTPI2|F48BDEDC",
+    "sourceGame": "custom",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "isAllowedOnSlope": true,
+        "height": 6,
+        "price": 60,
+        "sceneryGroup": "fidwell.scenery_group.fences_dkso"
+    },
+    "images": [
+      { "path": "images/0.png", "x": -33, "y": -40 },
+      { "path": "images/1.png", "x": -1, "y": -37 },
+      { "path": "images/2.png", "x": -33, "y": -54 },
+      { "path": "images/3.png", "x": -1, "y": -54 },
+      { "path": "images/4.png", "x": -33, "y": -46 },
+      { "path": "images/5.png", "x": -1, "y": -45 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Tall Wooden Fence",
+            "fr-FR": "Grande clôture en bois",
+            "de-DE": "Hoher Holzzaun",
+            "es-ES": "Valla alta de madera",
+            "it-IT": "Alto recinto di legno",
+            "nl-NL": "Hoog houten hek",
+            "sv-SE": "Högt trästaket",
+            "ko-KR": "키 큰 나무 울타리",
+            "zh-CN": "高大的木式栅栏",
+            "zh-TW": "高大的木式柵欄",
+            "pt-BR": "Cerca Alta de Madeira",
+            "cs-CZ": "Vysoký dřevěný plot",
+            "ja-JP": "高い木製のフェンス",
+            "pl-PL": "Wysoki drewniany płot",
+            "ru-RU": "Высокий забор",
+            "eo-ZZ": "Alta Ligna Barilo",
+            "ca-ES": "Tanca de fusta alta",
+            "fi-FI": "Korkea puinen aita"
+        }
+    }
+}

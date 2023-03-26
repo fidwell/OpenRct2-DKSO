@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.tdn5",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "originalId": "0C58B301|IRETDN5C|505694FC",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "price": 20,
+        "removalPrice": -18,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 44,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -21, "y": -50 },
+      { "path": "images/1.png", "x": -28, "y": -33 },
+      { "path": "images/2.png", "x": -26, "y": -35 },
+      { "path": "images/3.png", "x": -29, "y": -48 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Dinosaur",
+            "fr-FR": "Dinosaure",
+            "de-DE": "Dinosaurier",
+            "es-ES": "Dinosaurio",
+            "it-IT": "Dinosauro",
+            "nl-NL": "Dinosaurus",
+            "sv-SE": "Dinosaurie",
+            "ko-KR": "공룡",
+            "zh-CN": "恐龙",
+            "zh-TW": "恐龍",
+            "pt-BR": "Dinossauro",
+            "cs-CZ": "Dinosaurus",
+            "ja-JP": "恐竜",
+            "pl-PL": "Dinozaur",
+            "ru-RU": "Динозавр",
+            "eo-ZZ": "Dinosaŭro",
+            "ca-ES": "Dinosaure",
+            "fi-FI": "Dinosaurus"
+        }
+    }
+}
