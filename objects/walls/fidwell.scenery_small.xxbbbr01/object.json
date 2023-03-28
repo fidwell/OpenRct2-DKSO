@@ -5,7 +5,7 @@
         "ToonTowner"
     ],
     "version": "1.0",
-    "sourceGame": "official",
+    "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {
         "price": 20,

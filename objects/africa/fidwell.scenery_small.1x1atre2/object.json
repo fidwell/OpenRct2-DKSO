@@ -2,7 +2,7 @@
     "id": "fidwell.scenery_small.1x1atre2",
     "authors": ["Frontier Studios"],
     "version": "1.0",
-    "sourceGame": "rct2ww",
+    "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {
         "price": 20,

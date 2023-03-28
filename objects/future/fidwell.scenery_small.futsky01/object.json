@@ -3,7 +3,7 @@
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "originalId": "0E24FA01|ETHCLR13|94DE2098",
-    "sourceGame": "rct2tt",
+    "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {
         "price": 8,
