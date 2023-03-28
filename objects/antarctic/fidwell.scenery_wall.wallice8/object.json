@@ -1,0 +1,43 @@
+{
+    "id": "fidwell.scenery_wall.wallice8",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0103|IRWICE08|6D395DE1",
+    "sourceGame": "custom",
+    "objectType": "scenery_wall",
+    "properties": {
+        "hasPrimaryColour": true,
+        "isAllowedOnSlope": true,
+        "height": 3,
+        "price": 50
+    },
+    "images": [
+      { "path": "images/0.png", "x": -31, "y": -24 },
+      { "path": "images/1.png", "x": -1, "y": -23 },
+      { "path": "images/2.png", "x": -31, "y": -41 },
+      { "path": "images/3.png", "x": -1, "y": -40 },
+      { "path": "images/4.png", "x": -31, "y": -23 },
+      { "path": "images/5.png", "x": -1, "y": -22 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Ice Wall",
+            "fr-FR": "Mur de glace",
+            "de-DE": "Eiswand",
+            "es-ES": "Pared de hielo",
+            "it-IT": "Parete di ghiaccio",
+            "nl-NL": "IJsmuur",
+            "sv-SE": "Isvägg",
+            "zh-CN": "冰墙",
+            "cs-CZ": "Ledová stěna",
+            "ko-KR": "얼음 벽",
+            "pl-PL": "Ściana lodowa",
+            "ru-RU": "Стена",
+            "pt-BR": "Parede de Gelo",
+            "ja-JP": "氷の壁",
+            "eo-ZZ": "Muro el Glacio",
+            "ca-ES": "Mur de gel",
+            "fi-FI": "Jääseinä"
+        }
+    }
+}
