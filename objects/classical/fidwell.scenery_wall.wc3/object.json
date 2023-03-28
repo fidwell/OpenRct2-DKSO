@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "0C58B603|FIDCWC3C|2A5D070E",
-    "sourceGame": ["custom"],
+    "sourceGame": "custom",
     "objectType": "scenery_wall",
     "properties": {
         "isBanner": true,

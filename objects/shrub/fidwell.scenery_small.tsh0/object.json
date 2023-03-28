@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "00000001|1MGCBUSH|A911C644",
-    "sourceGame": ["custom"],
+    "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {
         "price": 6,

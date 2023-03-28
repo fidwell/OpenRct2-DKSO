@@ -3,7 +3,7 @@
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "originalId": "09F55801|MG-RCT19|F2017E79",
-    "sourceGame": ["custom"],
+    "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {
         "price": 10,
