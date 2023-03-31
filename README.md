@@ -2,7 +2,7 @@
 
 _Recolorable non-custom scenery for OpenRCT2_
 
-![image](https://user-images.githubusercontent.com/5436387/213924683-63c2e5a0-5769-4177-8560-487cbd68c1c0.png)
+![image](https://user-images.githubusercontent.com/5436387/229002397-5d46f153-5b96-4814-b9ef-11d324593e66.png)
 
 ## What is this?
 
