@@ -1,7 +1,7 @@
 {
     "id": "fidwell.scenery_group.creepy_dkso",
     "authors": ["fidwell"],
-    "version": "3.0",
+    "version": "3.1",
     "originalId": "0C58B507|TABCREEP|A22191F4",
     "sourceGame": "custom",
     "objectType": "scenery_group",
@@ -10,6 +10,7 @@
             "rct2.scenery_small.tcd",
             "fidwell.scenery_small.tcd",
             "rct2.scenery_small.tsg",
+            "$DAT:09F55701|TSGCC   ",
             "rct2.scenery_small.tsk",
             "rct2.scenery_small.tgh1",
             "rct2.scenery_small.tgh2",
