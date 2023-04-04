@@ -1,3 +1,7 @@
+3.2
+------------------------------------------------------------------------
+- Fixed: Issues with tree overrides that caused graphical glitching.
+
 3.1
 ------------------------------------------------------------------------
 - Fixed: Issues with bubbling tarpit / swamp goo overrides.
