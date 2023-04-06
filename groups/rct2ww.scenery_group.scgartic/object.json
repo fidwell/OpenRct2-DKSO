@@ -1,7 +1,7 @@
 {
     "id": "fidwell.scenery_group.antarctic_dkso",
     "authors": ["fidwell"],
-    "version": "3.0",
+    "version": "3.1",
     "originalId": "0C58B507|TABANTAR|16C3AD11",
     "sourceGame": "custom",
     "objectType": "scenery_group",
@@ -77,11 +77,11 @@
             "rct2ww.scenery_small.pst",
             "$DAT:0CBD0201|ETHCLR24",
             "rct2ww.scenery_small.ptj",
-            "$DAT:0CBD0201|ETHCLR23",
+            "$DAT:0CBD0201|ETHCLR27",
             "rct2ww.scenery_small.ptk",
             "$DAT:0CBD0201|ETHCLR28",
             "rct2ww.scenery_small.pva",
-            "$DAT:0CBD0201|ETHCLR27",
+            "$DAT:0CBD0201|ETHCLR23",
             "rct2ww.scenery_large.sunken"
         ],
         "priority": 36,
