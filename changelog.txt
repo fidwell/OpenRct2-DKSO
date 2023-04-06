@@ -1,6 +1,6 @@
 3.2
 ------------------------------------------------------------------------
-- Fixed: Issues with tree overrides that caused graphical glitching.
+- Fixed: Issues with tree and garden overrides that caused graphical glitching.
 - Fixed: Chinese Cedar Tree missing secondary recolor
 
 3.1
