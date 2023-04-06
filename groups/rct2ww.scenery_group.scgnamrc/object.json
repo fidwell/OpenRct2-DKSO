@@ -1,7 +1,7 @@
 {
     "id": "fidwell.scenery_group.namerica_dkso",
     "authors": ["fidwell"],
-    "version": "2.0",
+    "version": "2.1",
     "originalId": "0C58B507|TABNORAM|8265CFE9",
     "sourceGame": "custom",
     "objectType": "scenery_group",
@@ -104,8 +104,8 @@
             "rct2ww.scenery_small.sbwind03",
             "$DAT:0CBD0601|IRWSR03C",
             "rct2ww.scenery_small.sbwind04",
-            "$DAT:0CBD0601|IRWSR04C",
             "rct2ww.scenery_small.sbwind05",
+            "$DAT:0CBD0601|IRWSR04C",
             "rct2ww.scenery_small.sbwind06",
             "$DAT:0CBD0601|IRWSR06C",
             "rct2ww.scenery_small.sbwind07",
