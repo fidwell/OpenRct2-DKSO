@@ -1,7 +1,9 @@
-3.2
+4.0
 ------------------------------------------------------------------------
-- Fixed: Issues with tree and garden overrides that caused graphical glitching.
-- Fixed: Chinese Cedar Tree missing secondary recolor
+- Major fix: Issues with tree and garden overrides that caused graphical glitching.
+- Fixed object: Chinese Cedar Tree (fidwell.scenery_small.tcc)
+- Fixed object: Cabana Roof Piece (fidwell.scenery_small.sbwplm05)
+- Fixed: Ordering of objects in Antarctic theming
 
 3.1
 ------------------------------------------------------------------------
