@@ -1,3 +1,7 @@
+5.0 (in development)
+------------------------------------------------------------------------
+- Fixed object: Low Bush (fidwell.scenery_small.1x1atree)
+
 4.0
 ------------------------------------------------------------------------
 - Major fix: Issues with tree and garden overrides that caused graphical glitching.

@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.scenery_small.1x1atree",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0501|IR1X1ATC|1E977A67",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 48,
+        "sceneryGroup": "rct2.scenery_group.scgshrub",
+        "shape": "4/4",
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -31 },
+      { "path": "images/1.png", "x": -32, "y": -35 },
+      { "path": "images/2.png", "x": -31, "y": -33 },
+      { "path": "images/3.png", "x": -31, "y": -33 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Low Bush",
+            "fr-FR": "Petit buisson",
+            "de-DE": "Gestrüpp",
+            "es-ES": "Arbusto bajo",
+            "it-IT": "Cespuglio basso",
+            "nl-NL": "Lage Struik",
+            "sv-SE": "Låg buske",
+            "zh-CN": "矮木丛",
+            "cs-CZ": "Nízké křoví",
+            "ko-KR": "키 작은 수풀",
+            "pl-PL": "Niski krzak",
+            "ru-RU": "Куст",
+            "pt-BR": "Arbusto Baixo",
+            "ja-JP": "低木の茂み",
+            "eo-ZZ": "Malalta Arbedo",
+            "ca-ES": "Arbust petit",
+            "fi-FI": "Matala pensas"
+        }
+    }
+}
