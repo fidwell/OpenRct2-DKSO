@@ -1,7 +1,7 @@
 {
     "id": "fidwell.scenery_group.twentieswall_dkso",
     "authors": ["fidwell"],
-    "version": "1.1",
+    "version": "2.0",
     "sourceGame": "custom",
     "objectType": "scenery_group",
     "properties": {
@@ -134,7 +134,7 @@
             "rct2tt.scenery_small.artdec07",
             "$DAT:0E24F901|IRART07C",
             "rct2tt.scenery_small.artdec08",
-            "$DAT:0E24F901|IRART08C",
+            "fidwell.scenery_small.artdec08",
             "rct2tt.scenery_small.artdec09",
             "$DAT:0E24F901|IRART09C",
             "rct2tt.scenery_small.artdec10",
