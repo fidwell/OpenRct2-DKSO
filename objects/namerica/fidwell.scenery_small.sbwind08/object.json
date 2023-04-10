@@ -1,0 +1,49 @@
+{
+    "id": "fidwell.scenery_small.sbwind08",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0601|IRWSR08C|D08507ED",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 30,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -22, "y": -26 },
+      { "path": "images/1.png", "x": -25, "y": -24 },
+      { "path": "images/2.png", "x": -26, "y": -27 },
+      { "path": "images/3.png", "x": -28, "y": -26 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Wind Sculpted Rock Formation Base",
+            "fr-FR": "Base de formation rocheuse façonnée par le vent",
+            "de-DE": "Erosionsfelsen - Basis",
+            "es-ES": "Base de formación de roca esculpida por el viento",
+            "it-IT": "Base di formazione rocciosa erosa dal vento",
+            "nl-NL": "Door wind gevormde Basis van rotsformatie",
+            "sv-SE": "Vindformad bergsfot",
+            "zh-CN": "风蚀造形岩块组成的基底部位",
+            "cs-CZ": "Základna větrem ošlehaného kamene",
+            "ko-KR": "풍화된 바위 층 기반",
+            "pl-PL": "Zerodowana podstawa formacji skalnej",
+            "ru-RU": "Деталь",
+            "pt-BR": "Base de Formação Rochosa Esculpida Pelo Vento",
+            "ja-JP": "風で削られた　岩石層の土台",
+            "eo-ZZ": "Bazo de Vento-Skulptita Ŝtonformo",
+            "ca-ES": "Base de formació de roques esculpides pel vent",
+            "fi-FI": "Tuulen muokkaaman kivimuodostelman perusta"
+        }
+    }
+}

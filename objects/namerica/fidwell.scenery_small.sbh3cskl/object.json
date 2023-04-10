@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.scenery_small.sbh3cskl",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0701|IR3CSKLC|D2B9953B",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -17, "y": -34 },
+      { "path": "images/1.png", "x": -20, "y": -18 },
+      { "path": "images/2.png", "x": -28, "y": -18 },
+      { "path": "images/3.png", "x": -30, "y": -34 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Cattle Skull",
+            "fr-FR": "Crâne de vache",
+            "de-DE": "Rinderschädel",
+            "es-ES": "Cráneo de ganado",
+            "it-IT": "Teschio di bue",
+            "nl-NL": "Schedel Vee",
+            "sv-SE": "Boskapskranium",
+            "zh-CN": "牛头盖骨",
+            "cs-CZ": "Zvířecí lebka",
+            "ko-KR": "소 두개골",
+            "pl-PL": "Czaszka bydlęca",
+            "ru-RU": "Череп",
+            "pt-BR": "Crânio de Gado",
+            "ja-JP": "牛の頭蓋骨",
+            "eo-ZZ": "Kranio de Bovo",
+            "ca-ES": "Crani de bou",
+            "fi-FI": "Naudan pääkallo"
+        }
+    }
+}

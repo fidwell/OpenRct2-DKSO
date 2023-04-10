@@ -1,0 +1,43 @@
+{
+    "id": "fidwell.scenery_wall.wwind03",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0703|IRWSR22C|7CED628C",
+    "sourceGame": "custom",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -31, "y": -33 },
+      { "path": "images/1.png", "x": -1, "y": -32 },
+      { "path": "images/2.png", "x": -31, "y": -49 },
+      { "path": "images/3.png", "x": -1, "y": -48 },
+      { "path": "images/4.png", "x": -31, "y": -33 },
+      { "path": "images/5.png", "x": -1, "y": -32 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Wind Sculpted Wall Piece",
+            "fr-FR": "Pan de mur façonné par le vent",
+            "de-DE": "Erosionsfelsenwand-Bauteil",
+            "es-ES": "Pieza de pared esculpida por el viento",
+            "it-IT": "Pezzo di parete erosa dal vento",
+            "nl-NL": "Door wind gevormd stuk muur",
+            "sv-SE": "Vindformad väggdel",
+            "zh-CN": "风蚀雕饰墙面",
+            "cs-CZ": "Větrem ošlehaná stěna - část",
+            "ko-KR": "풍화된 벽 조각",
+            "pl-PL": "Zerodowany segment ściany",
+            "ru-RU": "Деталь стены",
+            "pt-BR": "Peça de Parede Esculpida Pelo Vento",
+            "ja-JP": "風で削られた 壁部分",
+            "eo-ZZ": "Vento-Skulptita Muroparto",
+            "ca-ES": "Part de mur esculpit pel vent",
+            "fi-FI": "Tuulen muokkaaman seinän osa"
+        }
+    }
+}
