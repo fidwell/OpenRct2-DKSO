@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.scenery_small.1x1termm",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0F01|IRTERMMC|F03A08AF",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 96,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -19, "y": -84 },
+      { "path": "images/1.png", "x": -20, "y": -86 },
+      { "path": "images/2.png", "x": -25, "y": -86 },
+      { "path": "images/3.png", "x": -19, "y": -84 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Termite Mound",
+            "fr-FR": "Termitière",
+            "de-DE": "Termitenhügel",
+            "es-ES": "Montículo de termitas",
+            "it-IT": "Termitaio",
+            "nl-NL": "Termietenheuvel",
+            "sv-SE": "Termitstack",
+            "zh-CN": "白蚁堆",
+            "cs-CZ": "Termitiště",
+            "ko-KR": "흰개미 언덕",
+            "pl-PL": "Kopiec termitów",
+            "ru-RU": "Термитник",
+            "pt-BR": "Cupinzeiro",
+            "ja-JP": "シロアリ塚",
+            "eo-ZZ": "Termitejo",
+            "ca-ES": "Termiter",
+            "fi-FI": "Termiittipesä"
+        }
+    }
+}

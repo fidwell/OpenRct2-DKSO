@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.scenery_small.wnauti01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0CBD0F01|IRNAU01C|AEED8657",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -18 },
+      { "path": "images/1.png", "x": -32, "y": -18 },
+      { "path": "images/2.png", "x": -32, "y": -17 },
+      { "path": "images/3.png", "x": -32, "y": -17 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Nautical Roof Piece",
+            "fr-FR": "Pan de toit nautique",
+            "de-DE": "Nautisches Dach-Bauteil",
+            "es-ES": "Pieza de tejado náutico",
+            "it-IT": "Pezzo di tetto in stile nautico",
+            "nl-NL": "Nautisch stuk dak",
+            "sv-SE": "Nautisk takdel",
+            "cs-CZ": "Mořská střecha",
+            "ko-KR": "해상 지붕 조각",
+            "pl-PL": "Żeglarski segment dachu",
+            "ru-RU": "Деталь крыши",
+            "pt-BR": "Peça de Telhado Náutico",
+            "ja-JP": "航海の屋",
+            "eo-ZZ": "Naŭtika Tegmentoparto",
+            "ca-ES": "Part de teulada nàutica",
+            "fi-FI": "Meriteemaisen katon osa",
+            "zh-CN": "航海-屋顶"
+        }
+    }
+}
