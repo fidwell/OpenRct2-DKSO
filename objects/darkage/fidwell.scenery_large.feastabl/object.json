@@ -1,0 +1,89 @@
+{
+    "id": "fidwell.scenery_large.feastabl",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24F802|IRFEASTC|F8F8E958",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 24,
+        "removalPrice": -18,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "hasPrimaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 24,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": [
+      { "path": "images/00.png", "x": -31, "y": 25 },
+      { "path": "images/01.png", "x": -30, "y": 23 },
+      { "path": "images/02.png", "x": -31, "y": 28 },
+      { "path": "images/03.png", "x": -28, "y": 24 },
+      { "path": "images/04.png", "x": 0, "y": 0 },
+      { "path": "images/05.png", "x": 31, "y": 44 },
+      { "path": "images/06.png", "x": -32, "y": -21 },
+      { "path": "images/07.png", "x": -1, "y": 46 },
+      { "path": "images/08.png", "x": 31, "y": 44 },
+      { "path": "images/09.png", "x": -29, "y": -18 },
+      { "path": "images/10.png", "x": -1, "y": 10 },
+      { "path": "images/11.png", "x": 0, "y": 0 },
+      { "path": "images/12.png", "x": -1, "y": 44 },
+      { "path": "images/13.png", "x": 0, "y": 0 },
+      { "path": "images/14.png", "x": 31, "y": 46 },
+      { "path": "images/15.png", "x": -26, "y": -22 },
+      { "path": "images/16.png", "x": -27, "y": -17 },
+      { "path": "images/17.png", "x": -1, "y": 44 },
+      { "path": "images/18.png", "x": 0, "y": 0 },
+      { "path": "images/19.png", "x": 31, "y": 46 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Feast Table",
+            "fr-FR": "Table forestière",
+            "de-DE": "Festtisch",
+            "es-ES": "Mesa de banquetes",
+            "it-IT": "Tavolata del banchetto",
+            "nl-NL": "Feesttafel",
+            "sv-SE": "Festmåltid",
+            "ko-KR": "잔칫상",
+            "zh-TW": "宴席桌",
+            "pt-BR": "Mesa de Banquete",
+            "cs-CZ": "Stůl (hody)",
+            "pl-PL": "Zastawiony stół",
+            "ru-RU": "Стол",
+            "ja-JP": "宴会テーブル",
+            "eo-ZZ": "Tablo por Bankedi",
+            "ca-ES": "Taula de banquets",
+            "fi-FI": "Juhlapöytä",
+            "zh-CN": "宴会桌"
+        }
+    }
+}
