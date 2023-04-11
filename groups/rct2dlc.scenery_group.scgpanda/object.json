@@ -1,14 +1,14 @@
 {
     "id": "fidwell.scenery_group.panda_dkso",
     "authors": ["fidwell"],
-    "version": "1.0",
+    "version": "2.0",
     "sourceGame": "custom",
     "objectType": "scenery_group",
     "properties": {
         "entries": [
             "rct2dlc.scenery_small.bigpanda",
             "rct2dlc.scenery_small.pandagr",
-            "$DAT:09F8EC01|1KPANDGR",
+            "fidwell.scenery_small.pandagr",
             "rct2dlc.footpath_item.litterpa"
         ],
         "priority": 40
