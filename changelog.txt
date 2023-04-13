@@ -1,6 +1,11 @@
 5.0 (in development)
 ------------------------------------------------------------------------
-- Fixed object: Low Bush (fidwell.scenery_small.1x1atree)
+- New object: Castle Corner Piece (rct2tt.scenery_small.mcastl09)
+- Fixed object: Low Bush (rct2ww.scenery_small.1x1atree)
+- Fixed object: Prison Watch Tower Stairs (rct2tt.scenery_small.jailxx14)
+- Fixed object: Prison Watch Tower Stairs (rct2tt.scenery_small.jailxx15)
+- Fixed object: Bamboo Shoots (rct2dlc.scenery_small.pandagr)
+- Updated: Many more objects (to parkobj format)
 
 4.0
 ------------------------------------------------------------------------
