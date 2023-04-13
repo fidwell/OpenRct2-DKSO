@@ -1,0 +1,51 @@
+{
+    "id": "fidwell.scenery_small.jailxx09",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA01|IRJAI09C|509B5FF7",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "shape": "3/4+D",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -32, "y": -34 },
+      { "path": "images/1.png", "x": -4, "y": -34 },
+      { "path": "images/2.png", "x": -32, "y": -20 },
+      { "path": "images/3.png", "x": -32, "y": -33 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Prison Inverted Piece",
+            "fr-FR": "Section inversée de prison",
+            "de-DE": "Umgedrehtes Gefängnisstück",
+            "es-ES": "Sección inversa de prisión",
+            "it-IT": "Tratto invertito della prigione",
+            "nl-NL": "Omgekeerd stuk gevangenis",
+            "sv-SE": "Omvänd del, fängelse",
+            "ko-KR": "반전된 감옥 조각",
+            "zh-TW": "反向監獄塊",
+            "pt-BR": "Peça Invertida de Prisão",
+            "cs-CZ": "Věznice - obrácená část",
+            "pl-PL": "Odwrócony segment więzienny",
+            "ru-RU": "Деталь тюрьмы",
+            "ja-JP": "刑務所　内側部分",
+            "eo-ZZ": "Inversigita Parto de Malliberejo",
+            "ca-ES": "Part inversa de presó",
+            "fi-FI": "Vankilan seinän sisäkulmaosa",
+            "zh-CN": "监狱-内角"
+        }
+    }
+}

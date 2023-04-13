@@ -1,0 +1,50 @@
+{
+    "id": "fidwell.scenery_small.jailxx21",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA01|IRJAI21C|1B5AFC7D",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": -6,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "shape": "1/4+D",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -16, "y": -34 },
+      { "path": "images/1.png", "x": -9, "y": -40 },
+      { "path": "images/2.png", "x": 0, "y": -34 },
+      { "path": "images/3.png", "x": -8, "y": -28 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Prison Wall Corner",
+            "fr-FR": "Virage de mur de prison",
+            "de-DE": "Gefängnismauerecke",
+            "es-ES": "Esquina de muro de prisión",
+            "it-IT": "Curva del muro della prigione",
+            "nl-NL": "Bocht gevangenismuur",
+            "sv-SE": "Vägghörn, fängelse",
+            "ko-KR": "감옥 벽 구석",
+            "zh-TW": "監獄牆牆角",
+            "pt-BR": "Canto de Parede de Prisão",
+            "cs-CZ": "Věznice - roh",
+            "pl-PL": "Narożnik muru więziennego",
+            "ru-RU": "Угловая стена",
+            "ja-JP": "刑務所　壁のコーナー",
+            "eo-ZZ": "Murangulo de Malliberejo",
+            "ca-ES": "Cantonada de paret de presó",
+            "fi-FI": "Vankilan seinän kulmaosa",
+            "zh-CN": "监狱-墙转角"
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.scenery_wall.jailxx19",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "originalId": "0E24FA03|IRJAI19C|B3B9507F",
+    "sourceGame": "custom",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 10,
+        "price": 70,
+        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "hasPrimaryColour": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -31, "y": -78 },
+      { "path": "images/1.png", "x": -1, "y": -78 },
+      { "path": "images/2.png", "x": -31, "y": -92 },
+      { "path": "images/3.png", "x": -1, "y": -92 },
+      { "path": "images/4.png", "x": -31, "y": -82 },
+      { "path": "images/5.png", "x": -1, "y": -82 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Prison Fence",
+            "fr-FR": "Clôture de prison",
+            "de-DE": "Gefängniszaun",
+            "es-ES": "Valla de prisión",
+            "it-IT": "Recinto della prigione",
+            "nl-NL": "Gevangenishek",
+            "sv-SE": "Stängsel, fängelse",
+            "ko-KR": "감옥 울타리",
+            "zh-TW": "監獄柵欄",
+            "pt-BR": "Cerca de Prisão",
+            "cs-CZ": "Věznice - plot",
+            "pl-PL": "Więzienne ogrodzenie",
+            "ru-RU": "Забор",
+            "ja-JP": "刑務所のフェンス",
+            "eo-ZZ": "Barilo de Malliberejo",
+            "ca-ES": "Tanca de presó",
+            "fi-FI": "Vankilan aita",
+            "zh-CN": "监狱-围栏"
+        }
+    }
+}
