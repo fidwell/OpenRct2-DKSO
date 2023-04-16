@@ -1,6 +1,7 @@
 5.0 (in development)
 ------------------------------------------------------------------------
 - New object: Castle Corner Piece (rct2tt.scenery_small.mcastl09)
+- Fixed object: Tennis Ball (rct2.scenery_small.ball4)
 - Fixed object: Low Bush (rct2ww.scenery_small.1x1atree)
 - Fixed object: Prison Watch Tower Stairs (rct2tt.scenery_small.jailxx14)
 - Fixed object: Prison Watch Tower Stairs (rct2tt.scenery_small.jailxx15)
