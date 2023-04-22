@@ -1,7 +1,7 @@
 {
     "id": "fidwell.scenery_group.shrubs_dkso",
     "authors": ["fidwell"],
-    "version": "3.0",
+    "version": "4.0",
     "originalId": "0C58B507|TABSHRUB|2FE493F6",
     "sourceGame": "custom",
     "objectType": "scenery_group",
@@ -74,9 +74,9 @@
             "rct2.scenery_wall.whgg",
             "fidwell.scenery_wall.whgg",
             "rct2.scenery_wall.wch",
-            "$DAT:09F55A03|1KBUSHPI",
+            "fidwell.scenery_wall.wch",
             "rct2.scenery_wall.wchg",
-            "$DAT:0C58B603|IREWCHGC"
+            "fidwell.scenery_wall.wchg"
         ],
         "priority": 2
     },
