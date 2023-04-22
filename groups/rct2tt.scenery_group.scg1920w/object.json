@@ -1,7 +1,7 @@
 {
     "id": "fidwell.scenery_group.twentieswall_dkso",
     "authors": ["fidwell"],
-    "version": "2.0",
+    "version": "3.0",
     "sourceGame": "custom",
     "objectType": "scenery_group",
     "properties": {
@@ -168,7 +168,8 @@
             "rct2tt.scenery_large.artdec26",
             "rct2tt.scenery_large.artdec27",
             "rct2tt.scenery_small.jailxx01",
-            "rct2tt.scenery_small.jailxx01",
+            "fidwell.scenery_small.jailxx01",
+            "rct2tt.scenery_small.jailxx02",
             "fidwell.scenery_small.jailxx02",
             "rct2tt.scenery_small.jailxx03",
             "fidwell.scenery_small.jailxx03",
