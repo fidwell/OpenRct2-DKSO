@@ -1,5 +1,6 @@
 5.0 (in development)
 ------------------------------------------------------------------------
+- Major fix: Removed overrides for many objects (particularly trees and bushes) that caused unexpected behavior (particularly unwanted supports).
 - New object: Castle Corner Piece (rct2tt.scenery_small.mcastl09)
 - Fixed object: Tennis Ball (rct2.scenery_small.ball4)
 - Fixed object: Low Bush (rct2ww.scenery_small.1x1atree)

@@ -1,8 +1,7 @@
 {
     "id": "fidwell.scenery_small.tmm1b",
     "authors": ["Chris Sawyer", "Simon Foster"],
-    "version": "1.0",
-    "originalId": "0A188E01|ELLTMM1D|9D4F68F8",
+    "version": "2.0",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {

@@ -1,8 +1,7 @@
 {
     "id": "fidwell.scenery_small.smskull",
     "authors": ["Chris Sawyer", "Simon Foster"],
-    "version": "1.0",
-    "originalId": "0C58B301|TOTSMSKL|4D214D09",
+    "version": "2.0",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {
