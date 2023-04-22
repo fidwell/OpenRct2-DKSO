@@ -1,4 +1,4 @@
-5.0 (in development)
+5.0
 ------------------------------------------------------------------------
 - Major fix: Removed overrides for many objects (particularly trees and bushes) that caused unexpected behavior (particularly unwanted supports).
 - New object: Castle Corner Piece (rct2tt.scenery_small.mcastl09)
