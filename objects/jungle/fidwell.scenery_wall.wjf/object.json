@@ -1,8 +1,7 @@
 {
     "id": "fidwell.scenery_wall.wjf",
     "authors": ["Chris Sawyer", "Simon Foster"],
-    "version": "1.0",
-    "originalId": "0C58B603|ETHCLR10|7591FC1D",
+    "version": "2.0",
     "sourceGame": "custom",
     "objectType": "scenery_wall",
     "properties": {

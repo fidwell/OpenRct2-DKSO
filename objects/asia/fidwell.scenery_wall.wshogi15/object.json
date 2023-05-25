@@ -1,8 +1,7 @@
 {
     "id": "fidwell.scenery_wall.wshogi15",
     "authors": ["Frontier Studios"],
-    "version": "1.0",
-    "originalId": "0CCCCC03|TOTSHOG1|FFFEB2FE",
+    "version": "2.0",
     "sourceGame": "custom",
     "objectType": "scenery_wall",
     "properties": {

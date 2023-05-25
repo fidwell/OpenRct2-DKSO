@@ -1,8 +1,7 @@
 {
     "id": "fidwell.scenery_small.futsky01",
     "authors": ["Frontier Studios"],
-    "version": "1.0",
-    "originalId": "0E24FA01|ETHCLR13|94DE2098",
+    "version": "2.0",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {

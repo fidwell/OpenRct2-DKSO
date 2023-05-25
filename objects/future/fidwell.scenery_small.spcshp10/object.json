@@ -1,8 +1,7 @@
 {
     "id": "fidwell.scenery_small.spcshp10",
     "authors": ["Frontier Studios"],
-    "version": "1.0",
-    "originalId": "0E24FB01|ETHCLR46|7C6B3AAB",
+    "version": "2.0",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {
