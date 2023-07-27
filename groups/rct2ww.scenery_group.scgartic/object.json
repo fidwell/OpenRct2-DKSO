@@ -84,7 +84,7 @@
             "$DAT:0CBD0201|ETHCLR23",
             "rct2ww.scenery_large.sunken"
         ],
-        "priority": 36,
+        "priority": 42,
         "entertainerCostumes": "snowman"
     },
     "images": [
