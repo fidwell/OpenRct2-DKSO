@@ -8,16 +8,16 @@
     "properties": {
         "entries": [
             "rct2.scenery_wall.wallwf32",
-            "fidwell.scenery_wall.wallwf32",
+            "fidwell.v1.scenery_wall.wallwf32",
             "rct2.scenery_small.whoriz",
-            "fidwell.scenery_small.whoriz",
+            "fidwell.v1.scenery_small.whoriz",
             "rct2.footpath_item.jumpfnt1",
             "rct2.scenery_small.wspout",
-            "fidwell.scenery_small.wspout",
+            "fidwell.v1.scenery_small.wspout",
             "rct2.scenery_small.icecube",
-            "fidwell.scenery_small.icecube",
+            "fidwell.v1.scenery_small.icecube",
             "rct2.scenery_small.wdiag",
-            "fidwell.scenery_small.wdiag",
+            "fidwell.v1.scenery_small.wdiag",
             "rct2.scenery_small.ttf",
             "$DAT:00000001|CFOUNTAI"
         ],
