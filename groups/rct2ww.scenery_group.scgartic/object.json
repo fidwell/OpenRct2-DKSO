@@ -1,8 +1,7 @@
 {
     "id": "fidwell.v1.scenery_group.antarctic_dkso",
     "authors": ["fidwell"],
-    "version": "3.1",
-    "originalId": "0C58B507|TABANTAR|16C3AD11",
+    "version": "1.0",
     "sourceGame": "custom",
     "objectType": "scenery_group",
     "properties": {

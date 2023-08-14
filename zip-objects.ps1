@@ -1,3 +1,5 @@
+$verbose = $args.length -eq 1 -and $args[0] -eq '-v'
+
 $homepath = Get-Location
 
 $objectTotal = 0
@@ -32,7 +34,9 @@ foreach ($groupPath in $groupPaths) {
             Remove-Item $outfile -ErrorAction Stop
         }
         
-        Write-Output "Zipping $objectName..."
+        if ($verbose) {
+            Write-Output "Zipping $objectName..."
+        }
         
         # Get file list
         $Files = @(Get-ChildItem "./" -Recurse -File)
