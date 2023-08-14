@@ -30,8 +30,8 @@ $outnames = "fidwell.v1.scenery_group.trees_dkso",
             "fidwell.v1.scenery_group.africa_dkso",
             "fidwell.v1.scenery_group.antarctic_dkso",
             "fidwell.v1.scenery_group.asia_dkso",
-            "fidwell..v1scenery_group.australasia_dkso",
-            "fidwell.scenery_group.europe_dkso",
+            "fidwell.v1.scenery_group.australasia_dkso",
+            "fidwell.v1.scenery_group.europe_dkso",
             "fidwell.v1.scenery_group.namerica_dkso",
             "fidwell.v1.scenery_group.samerica_dkso",
             "fidwell.v1.scenery_group.darkage_dkso",
@@ -40,9 +40,9 @@ $outnames = "fidwell.v1.scenery_group.trees_dkso",
             "fidwell.v1.scenery_group.prehistoric_dkso",
             "fidwell.v1.scenery_group.twenties_dkso",
             "fidwell.v1.scenery_group.twentieswall_dkso",
-            "fidwell.scenery_group.rocknroll_dkso",
+            "fidwell.v1.scenery_group.rocknroll_dkso",
             "fidwell.v1.scenery_group.panda_dkso",
-            "fidwell.scenery_group.sixflags_dkso"
+            "fidwell.v1.scenery_group.sixflags_dkso"
 
 $homepath = Get-Location
 
