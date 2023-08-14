@@ -194,23 +194,23 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Africa Theming",
-            "fr-FR": "DKSO Thème Afrique",
-            "de-DE": "DKSO Afrika-Thema",
-            "es-ES": "DKSO Temática africana",
-            "it-IT": "DKSO Tema africano",
-            "nl-NL": "DKSO Afrikaans thema",
-            "sv-SE": "DKSO Afrikanskt tema",
-            "cs-CZ": "DKSO Afrika",
-            "ko-KR": "DKSO 아프리카 테마",
-            "pl-PL": "DKSO Wystrój afrykański",
-            "ru-RU": "DKSO Тема Африки",
-            "pt-BR": "DKSO Temática Africana",
-            "ja-JP": "DKSO アフリカのテーマ",
-            "eo-ZZ": "DKSO Afrika Temo",
-            "ca-ES": "DKSO Temàtica africana",
-            "fi-FI": "DKSO Afrikkalaisteemaus",
-            "zh-CN": "DKSO 非洲主题"
+            "en-GB": "DKSO v1 Africa Theming",
+            "fr-FR": "DKSO v1 Thème Afrique",
+            "de-DE": "DKSO v1 Afrika-Thema",
+            "es-ES": "DKSO v1 Temática africana",
+            "it-IT": "DKSO v1 Tema africano",
+            "nl-NL": "DKSO v1 Afrikaans thema",
+            "sv-SE": "DKSO v1 Afrikanskt tema",
+            "cs-CZ": "DKSO v1 Afrika",
+            "ko-KR": "DKSO v1 아프리카 테마",
+            "pl-PL": "DKSO v1 Wystrój afrykański",
+            "ru-RU": "DKSO v1 Тема Африки",
+            "pt-BR": "DKSO v1 Temática Africana",
+            "ja-JP": "DKSO v1 アフリカのテーマ",
+            "eo-ZZ": "DKSO v1 Afrika Temo",
+            "ca-ES": "DKSO v1 Temàtica africana",
+            "fi-FI": "DKSO v1 Afrikkalaisteemaus",
+            "zh-CN": "DKSO v1 非洲主题"
         }
     }
 }

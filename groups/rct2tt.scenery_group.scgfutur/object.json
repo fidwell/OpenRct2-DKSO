@@ -167,24 +167,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Future Theming",
-            "fr-FR": "DKSO Thème du futur",
-            "de-DE": "DKSO Zukunftsthema",
-            "es-ES": "DKSO Tema futurista",
-            "it-IT": "DKSO Tema futuristico",
-            "nl-NL": "DKSO Toekomstthema",
-            "sv-SE": "DKSO Framtidstema",
-            "ko-KR": "DKSO 미래 테마",
-            "zh-TW": "DKSO 未來主題區",
-            "pt-BR": "DKSO Temática Futurista",
-            "cs-CZ": "DKSO Budoucnost",
-            "pl-PL": "DKSO Wystrój przyszłościowy",
-            "ru-RU": "DKSO Будущее",
-            "ja-JP": "DKSO 未来のテーマ",
-            "eo-ZZ": "DKSO Estonteca Temo",
-            "ca-ES": "DKSO Temàtica futurística",
-            "fi-FI": "DKSO Tulevaisuusteemaus",
-            "zh-CN": "DKSO 未来主题"
+            "en-GB": "DKSO v1 Future Theming",
+            "fr-FR": "DKSO v1 Thème du futur",
+            "de-DE": "DKSO v1 Zukunftsthema",
+            "es-ES": "DKSO v1 Tema futurista",
+            "it-IT": "DKSO v1 Tema futuristico",
+            "nl-NL": "DKSO v1 Toekomstthema",
+            "sv-SE": "DKSO v1 Framtidstema",
+            "ko-KR": "DKSO v1 미래 테마",
+            "zh-TW": "DKSO v1 未來主題區",
+            "pt-BR": "DKSO v1 Temática Futurista",
+            "cs-CZ": "DKSO v1 Budoucnost",
+            "pl-PL": "DKSO v1 Wystrój przyszłościowy",
+            "ru-RU": "DKSO v1 Будущее",
+            "ja-JP": "DKSO v1 未来のテーマ",
+            "eo-ZZ": "DKSO v1 Estonteca Temo",
+            "ca-ES": "DKSO v1 Temàtica futurística",
+            "fi-FI": "DKSO v1 Tulevaisuusteemaus",
+            "zh-CN": "DKSO v1 未来主题"
         }
     }
 }

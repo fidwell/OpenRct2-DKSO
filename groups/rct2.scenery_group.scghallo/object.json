@@ -49,24 +49,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Creepy Theming",
-            "fr-FR": "DKSO Thème Terreur",
-            "de-DE": "DKSO Gruselthema",
-            "es-ES": "DKSO Temática horripilante",
-            "it-IT": "DKSO Tema spaventoso",
-            "nl-NL": "DKSO Eng thema",
-            "sv-SE": "DKSO Kräldjurstema",
-            "ko-KR": "DKSO 오싹한 테마",
-            "zh-CN": "DKSO 战栗主题",
-            "zh-TW": "DKSO 戰慄主題區",
-            "pt-BR": "DKSO Temática Assustadora",
-            "cs-CZ": "DKSO Strašidelné kulisy",
-            "ja-JP": "DKSO 不気味なテーマ",
-            "pl-PL": "DKSO Wystrój niesamowity",
-            "ru-RU": "DKSO Страшилки",
-            "eo-ZZ": "DKSO Timigeta Temo",
-            "ca-ES": "DKSO Temàtica de por",
-            "fi-FI": "DKSO Värisyttävä teemaus"
+            "en-GB": "DKSO v1 Creepy Theming",
+            "fr-FR": "DKSO v1 Thème Terreur",
+            "de-DE": "DKSO v1 Gruselthema",
+            "es-ES": "DKSO v1 Temática horripilante",
+            "it-IT": "DKSO v1 Tema spaventoso",
+            "nl-NL": "DKSO v1 Eng thema",
+            "sv-SE": "DKSO v1 Kräldjurstema",
+            "ko-KR": "DKSO v1 오싹한 테마",
+            "zh-CN": "DKSO v1 战栗主题",
+            "zh-TW": "DKSO v1 戰慄主題區",
+            "pt-BR": "DKSO v1 Temática Assustadora",
+            "cs-CZ": "DKSO v1 Strašidelné kulisy",
+            "ja-JP": "DKSO v1 不気味なテーマ",
+            "pl-PL": "DKSO v1 Wystrój niesamowity",
+            "ru-RU": "DKSO v1 Страшилки",
+            "eo-ZZ": "DKSO v1 Timigeta Temo",
+            "ca-ES": "DKSO v1 Temàtica de por",
+            "fi-FI": "DKSO v1 Värisyttävä teemaus"
         }
     }
 }

@@ -44,24 +44,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Classical/Roman Theming",
-            "fr-FR": "DKSO Thème classique/romain",
-            "de-DE": "DKSO Klassisches/römisches Thema",
-            "es-ES": "DKSO Temática clásica/romana",
-            "it-IT": "DKSO Tema romano/classico",
-            "nl-NL": "DKSO Klassiek/Romeins thema",
-            "sv-SE": "DKSO Klassiskt/romerskt tema",
-            "ko-KR": "DKSO 클래식/로마 테마",
-            "zh-CN": "DKSO 古典/古罗马主题",
-            "zh-TW": "DKSO 古典/古羅馬主題區",
-            "pt-BR": "DKSO Temática Clássica/Romana",
-            "cs-CZ": "DKSO Klasické/Římské kulisy",
-            "ja-JP": "DKSO クラシック/ローマ風のテーマ",
-            "pl-PL": "DKSO Wystrój klasyczny/rzymski",
-            "ru-RU": "DKSO Рим",
-            "eo-ZZ": "DKSO Klasika / Roma Temo",
-            "ca-ES": "DKSO Temàtica clàssica i romana",
-            "fi-FI": "DKSO Klassinen/roomalainen teemaus"
+            "en-GB": "DKSO v1 Classical/Roman Theming",
+            "fr-FR": "DKSO v1 Thème classique/romain",
+            "de-DE": "DKSO v1 Klassisches/römisches Thema",
+            "es-ES": "DKSO v1 Temática clásica/romana",
+            "it-IT": "DKSO v1 Tema romano/classico",
+            "nl-NL": "DKSO v1 Klassiek/Romeins thema",
+            "sv-SE": "DKSO v1 Klassiskt/romerskt tema",
+            "ko-KR": "DKSO v1 클래식/로마 테마",
+            "zh-CN": "DKSO v1 古典/古罗马主题",
+            "zh-TW": "DKSO v1 古典/古羅馬主題區",
+            "pt-BR": "DKSO v1 Temática Clássica/Romana",
+            "cs-CZ": "DKSO v1 Klasické/Římské kulisy",
+            "ja-JP": "DKSO v1 クラシック/ローマ風のテーマ",
+            "pl-PL": "DKSO v1 Wystrój klasyczny/rzymski",
+            "ru-RU": "DKSO v1 Рим",
+            "eo-ZZ": "DKSO v1 Klasika / Roma Temo",
+            "ca-ES": "DKSO v1 Temàtica clàssica i romana",
+            "fi-FI": "DKSO v1 Klassinen/roomalainen teemaus"
         }
     }
 }

@@ -50,24 +50,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Giant Candy Theming",
-            "fr-FR": "DKSO Thème Bonbon",
-            "de-DE": "DKSO Süßwarenland-Thema",
-            "es-ES": "DKSO Temática caramelolandia",
-            "it-IT": "DKSO Tema paese dei dolci",
-            "nl-NL": "DKSO Gigantisch-snoep-thema",
-            "sv-SE": "DKSO Godislandstema",
-            "ko-KR": "DKSO 대형 사탕 테마",
-            "zh-CN": "DKSO 巨大糖果屋主题",
-            "zh-TW": "DKSO 糖果屋主題",
-            "pt-BR": "DKSO Temática de Terra dos Doces",
-            "cs-CZ": "DKSO Kulisy obrovského cukroví",
-            "ja-JP": "DKSO 巨大キャンディーのテーマ",
-            "pl-PL": "DKSO Wystrój cukierkowy",
-            "ru-RU": "DKSO Конфета",
-            "eo-ZZ": "DKSO Temo de Giganta Dolĉaĵo",
-            "ca-ES": "DKSO Temàtica de dolços gegants",
-            "fi-FI": "DKSO Jättikarkkiteemaus"
+            "en-GB": "DKSO v1 Giant Candy Theming",
+            "fr-FR": "DKSO v1 Thème Bonbon",
+            "de-DE": "DKSO v1 Süßwarenland-Thema",
+            "es-ES": "DKSO v1 Temática caramelolandia",
+            "it-IT": "DKSO v1 Tema paese dei dolci",
+            "nl-NL": "DKSO v1 Gigantisch-snoep-thema",
+            "sv-SE": "DKSO v1 Godislandstema",
+            "ko-KR": "DKSO v1 대형 사탕 테마",
+            "zh-CN": "DKSO v1 巨大糖果屋主题",
+            "zh-TW": "DKSO v1 糖果屋主題",
+            "pt-BR": "DKSO v1 Temática de Terra dos Doces",
+            "cs-CZ": "DKSO v1 Kulisy obrovského cukroví",
+            "ja-JP": "DKSO v1 巨大キャンディーのテーマ",
+            "pl-PL": "DKSO v1 Wystrój cukierkowy",
+            "ru-RU": "DKSO v1 Конфета",
+            "eo-ZZ": "DKSO v1 Temo de Giganta Dolĉaĵo",
+            "ca-ES": "DKSO v1 Temàtica de dolços gegants",
+            "fi-FI": "DKSO v1 Jättikarkkiteemaus"
         }
     }
 }

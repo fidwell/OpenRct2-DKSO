@@ -220,24 +220,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Roaring Twenties Wall Sets",
-            "fr-FR": "DKSO Murs des années folles",
-            "de-DE": "DKSO Mauersätze Die wilden Zwanziger",
-            "es-ES": "DKSO Conjunto de muros de locos años veinte",
-            "it-IT": "DKSO Set di muri dei Ruggenti Anni Venti",
-            "nl-NL": "DKSO ‘Roaring Twenties’-muren",
-            "sv-SE": "DKSO Väggar, glada tjugotalet",
-            "ko-KR": "DKSO 광란의 20년대 벽 세트",
-            "zh-TW": "DKSO 喧騰的20年代牆面集",
-            "pt-BR": "DKSO Conjuntos de Paredes Anos 20",
-            "cs-CZ": "DKSO Bouřlivá 20. léta - stěny",
-            "pl-PL": "DKSO Zestawy ścian dla Ryczących Dwudziestek",
-            "ru-RU": "DKSO Детали стен 20х годов",
-            "ja-JP": "DKSO 1920時代の壁セット",
-            "eo-ZZ": "DKSO Muroaroj de Muĝadaj Dudekaj Jaroj",
-            "ca-ES": "DKSO Conjunt de parets dels esbojarrats anys vint",
-            "fi-FI": "DKSO Kuohuva 20-luku -seinäsetit",
-            "zh-CN": "DKSO 咆哮20年代墙面组合"
+            "en-GB": "DKSO v1 Roaring Twenties Wall Sets",
+            "fr-FR": "DKSO v1 Murs des années folles",
+            "de-DE": "DKSO v1 Mauersätze Die wilden Zwanziger",
+            "es-ES": "DKSO v1 Conjunto de muros de locos años veinte",
+            "it-IT": "DKSO v1 Set di muri dei Ruggenti Anni Venti",
+            "nl-NL": "DKSO v1 ‘Roaring Twenties’-muren",
+            "sv-SE": "DKSO v1 Väggar, glada tjugotalet",
+            "ko-KR": "DKSO v1 광란의 20년대 벽 세트",
+            "zh-TW": "DKSO v1 喧騰的20年代牆面集",
+            "pt-BR": "DKSO v1 Conjuntos de Paredes Anos 20",
+            "cs-CZ": "DKSO v1 Bouřlivá 20. léta - stěny",
+            "pl-PL": "DKSO v1 Zestawy ścian dla Ryczących Dwudziestek",
+            "ru-RU": "DKSO v1 Детали стен 20х годов",
+            "ja-JP": "DKSO v1 1920時代の壁セット",
+            "eo-ZZ": "DKSO v1 Muroaroj de Muĝadaj Dudekaj Jaroj",
+            "ca-ES": "DKSO v1 Conjunt de parets dels esbojarrats anys vint",
+            "fi-FI": "DKSO v1 Kuohuva 20-luku -seinäsetit",
+            "zh-CN": "DKSO v1 咆哮20年代墙面组合"
         }
     }
 }

@@ -31,24 +31,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Six Flags Theming",
-            "fr-FR": "DKSO Thème Six Flags",
-            "de-DE": "DKSO Six-Flags-Thema",
-            "es-ES": "DKSO Temática six flags",
-            "it-IT": "DKSO Tema Six Flags",
-            "nl-NL": "DKSO Six Flags-thema",
-            "sv-SE": "DKSO Six Flags-tema",
-            "ko-KR": "DKSO 식스 플래그 테마",
-            "zh-CN": "DKSO 六旗游乐园主题",
-            "zh-TW": "DKSO 六旗主題區",
-            "pt-BR": "DKSO Temática Six Flags",
-            "cs-CZ": "DKSO Six Flags kulisy",
-            "ja-JP": "DKSO シックスフラッグスのテーマ",
-            "pl-PL": "DKSO Wystrój Sześciu Flag",
-            "ru-RU": "DKSO Шесть Флагов",
-            "eo-ZZ": "DKSO Temo de Six Flags",
-            "ca-ES": "DKSO Temàtica Six Flags",
-            "fi-FI": "DKSO Six Flags -teemaus"
+            "en-GB": "DKSO v1 Six Flags Theming",
+            "fr-FR": "DKSO v1 Thème Six Flags",
+            "de-DE": "DKSO v1 Six-Flags-Thema",
+            "es-ES": "DKSO v1 Temática six flags",
+            "it-IT": "DKSO v1 Tema Six Flags",
+            "nl-NL": "DKSO v1 Six Flags-thema",
+            "sv-SE": "DKSO v1 Six Flags-tema",
+            "ko-KR": "DKSO v1 식스 플래그 테마",
+            "zh-CN": "DKSO v1 六旗游乐园主题",
+            "zh-TW": "DKSO v1 六旗主題區",
+            "pt-BR": "DKSO v1 Temática Six Flags",
+            "cs-CZ": "DKSO v1 Six Flags kulisy",
+            "ja-JP": "DKSO v1 シックスフラッグスのテーマ",
+            "pl-PL": "DKSO v1 Wystrój Sześciu Flag",
+            "ru-RU": "DKSO v1 Шесть Флагов",
+            "eo-ZZ": "DKSO v1 Temo de Six Flags",
+            "ca-ES": "DKSO v1 Temàtica Six Flags",
+            "fi-FI": "DKSO v1 Six Flags -teemaus"
         }
     }
 }

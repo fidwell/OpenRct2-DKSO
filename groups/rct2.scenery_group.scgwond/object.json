@@ -73,24 +73,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Wonderland Theming",
-            "fr-FR": "DKSO Thème Pays des merveilles",
-            "de-DE": "DKSO Wunderland-Thema",
-            "es-ES": "DKSO Temática fantástica",
-            "it-IT": "DKSO Tema del paese delle meraviglie",
-            "nl-NL": "DKSO Wonderlandthema",
-            "sv-SE": "DKSO Underlandstema",
-            "ko-KR": "DKSO 동화나라 테마",
-            "zh-CN": "DKSO 仙境主题",
-            "zh-TW": "DKSO 仙境主題區",
-            "pt-BR": "DKSO Temática de Fantasia",
-            "cs-CZ": "DKSO Kulisy říše divů",
-            "ja-JP": "DKSO 不思議の国のテーマ",
-            "pl-PL": "DKSO Wystrój Krainy Czarów",
-            "ru-RU": "DKSO Чудесная Тема",
-            "eo-ZZ": "DKSO Mirlando-Temo",
-            "ca-ES": "DKSO Temàtica del món de les meravelles",
-            "fi-FI": "DKSO Ihmemaa-teemaus"
+            "en-GB": "DKSO v1 Wonderland Theming",
+            "fr-FR": "DKSO v1 Thème Pays des merveilles",
+            "de-DE": "DKSO v1 Wunderland-Thema",
+            "es-ES": "DKSO v1 Temática fantástica",
+            "it-IT": "DKSO v1 Tema del paese delle meraviglie",
+            "nl-NL": "DKSO v1 Wonderlandthema",
+            "sv-SE": "DKSO v1 Underlandstema",
+            "ko-KR": "DKSO v1 동화나라 테마",
+            "zh-CN": "DKSO v1 仙境主题",
+            "zh-TW": "DKSO v1 仙境主題區",
+            "pt-BR": "DKSO v1 Temática de Fantasia",
+            "cs-CZ": "DKSO v1 Kulisy říše divů",
+            "ja-JP": "DKSO v1 不思議の国のテーマ",
+            "pl-PL": "DKSO v1 Wystrój Krainy Czarów",
+            "ru-RU": "DKSO v1 Чудесная Тема",
+            "eo-ZZ": "DKSO v1 Mirlando-Temo",
+            "ca-ES": "DKSO v1 Temàtica del món de les meravelles",
+            "fi-FI": "DKSO v1 Ihmemaa-teemaus"
         }
     }
 }

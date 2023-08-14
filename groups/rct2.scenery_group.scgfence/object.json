@@ -50,24 +50,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Fences and Walls",
-            "fr-FR": "DKSO Clôtures et façades",
-            "de-DE": "DKSO Zäune und Mauern",
-            "es-ES": "DKSO Vallas y paredes",
-            "it-IT": "DKSO Recinti e muri",
-            "nl-NL": "DKSO Hekken en muren",
-            "sv-SE": "DKSO Staket och murar",
-            "ko-KR": "DKSO 울타리와 벽",
-            "zh-CN": "DKSO 栅栏和墙",
-            "zh-TW": "DKSO 柵欄和牆",
-            "pt-BR": "DKSO Cercas e Muros",
-            "cs-CZ": "DKSO Ploty a stěny",
-            "ja-JP": "DKSO フェンスと壁",
-            "pl-PL": "DKSO Płoty i ściany",
-            "ru-RU": "DKSO Ограды и стены",
-            "eo-ZZ": "DKSO Bariloj kaj Muroj",
-            "ca-ES": "DKSO Tanques i parets",
-            "fi-FI": "DKSO Aidat ja seinät"
+            "en-GB": "DKSO v1 Fences and Walls",
+            "fr-FR": "DKSO v1 Clôtures et façades",
+            "de-DE": "DKSO v1 Zäune und Mauern",
+            "es-ES": "DKSO v1 Vallas y paredes",
+            "it-IT": "DKSO v1 Recinti e muri",
+            "nl-NL": "DKSO v1 Hekken en muren",
+            "sv-SE": "DKSO v1 Staket och murar",
+            "ko-KR": "DKSO v1 울타리와 벽",
+            "zh-CN": "DKSO v1 栅栏和墙",
+            "zh-TW": "DKSO v1 柵欄和牆",
+            "pt-BR": "DKSO v1 Cercas e Muros",
+            "cs-CZ": "DKSO v1 Ploty a stěny",
+            "ja-JP": "DKSO v1 フェンスと壁",
+            "pl-PL": "DKSO v1 Płoty i ściany",
+            "ru-RU": "DKSO v1 Ограды и стены",
+            "eo-ZZ": "DKSO v1 Bariloj kaj Muroj",
+            "ca-ES": "DKSO v1 Tanques i parets",
+            "fi-FI": "DKSO v1 Aidat ja seinät"
         }
     }
 }

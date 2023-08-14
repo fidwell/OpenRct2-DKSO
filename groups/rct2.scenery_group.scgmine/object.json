@@ -66,24 +66,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Mine Theming",
-            "fr-FR": "DKSO Thème Minier",
-            "de-DE": "DKSO Bergwerksthema",
-            "es-ES": "DKSO Temática minera",
-            "it-IT": "DKSO Tema miniera",
-            "nl-NL": "DKSO Mijnthema",
-            "sv-SE": "DKSO Gruv-tema",
-            "ko-KR": "DKSO 광산 테마",
-            "zh-CN": "DKSO 小人国主题",
-            "zh-TW": "DKSO 小人國",
-            "pt-BR": "DKSO Temática de Mina",
-            "cs-CZ": "DKSO Důlní kulisy",
-            "ja-JP": "DKSO 鉱山風のテーマ",
-            "pl-PL": "DKSO Wystrój górniczy",
-            "ru-RU": "DKSO Рудник",
-            "eo-ZZ": "DKSO Mintemo",
-            "ca-ES": "DKSO Temàtica minera",
-            "fi-FI": "DKSO Kaivosteemaus"
+            "en-GB": "DKSO v1 Mine Theming",
+            "fr-FR": "DKSO v1 Thème Minier",
+            "de-DE": "DKSO v1 Bergwerksthema",
+            "es-ES": "DKSO v1 Temática minera",
+            "it-IT": "DKSO v1 Tema miniera",
+            "nl-NL": "DKSO v1 Mijnthema",
+            "sv-SE": "DKSO v1 Gruv-tema",
+            "ko-KR": "DKSO v1 광산 테마",
+            "zh-CN": "DKSO v1 小人国主题",
+            "zh-TW": "DKSO v1 小人國",
+            "pt-BR": "DKSO v1 Temática de Mina",
+            "cs-CZ": "DKSO v1 Důlní kulisy",
+            "ja-JP": "DKSO v1 鉱山風のテーマ",
+            "pl-PL": "DKSO v1 Wystrój górniczy",
+            "ru-RU": "DKSO v1 Рудник",
+            "eo-ZZ": "DKSO v1 Mintemo",
+            "ca-ES": "DKSO v1 Temàtica minera",
+            "fi-FI": "DKSO v1 Kaivosteemaus"
         }
     }
 }

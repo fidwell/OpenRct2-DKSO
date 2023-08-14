@@ -60,24 +60,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Gardens",
-            "fr-FR": "DKSO Jardins",
-            "de-DE": "DKSO Beete",
-            "es-ES": "DKSO Jardines",
-            "it-IT": "DKSO Giardini",
-            "nl-NL": "DKSO Bloemen",
-            "sv-SE": "DKSO Rabatter",
-            "ko-KR": "DKSO 정원",
-            "zh-CN": "DKSO 花园",
-            "zh-TW": "DKSO 花園",
-            "pt-BR": "DKSO Jardins",
-            "cs-CZ": "DKSO Zahrady",
-            "ja-JP": "DKSO 花壇",
-            "pl-PL": "DKSO Ogrody",
-            "ru-RU": "DKSO Клумба",
-            "eo-ZZ": "DKSO Ĝardenoj",
-            "ca-ES": "DKSO Jardins",
-            "fi-FI": "DKSO Kukkapenkit"
+            "en-GB": "DKSO v1 Gardens",
+            "fr-FR": "DKSO v1 Jardins",
+            "de-DE": "DKSO v1 Beete",
+            "es-ES": "DKSO v1 Jardines",
+            "it-IT": "DKSO v1 Giardini",
+            "nl-NL": "DKSO v1 Bloemen",
+            "sv-SE": "DKSO v1 Rabatter",
+            "ko-KR": "DKSO v1 정원",
+            "zh-CN": "DKSO v1 花园",
+            "zh-TW": "DKSO v1 花園",
+            "pt-BR": "DKSO v1 Jardins",
+            "cs-CZ": "DKSO v1 Zahrady",
+            "ja-JP": "DKSO v1 花壇",
+            "pl-PL": "DKSO v1 Ogrody",
+            "ru-RU": "DKSO v1 Клумба",
+            "eo-ZZ": "DKSO v1 Ĝardenoj",
+            "ca-ES": "DKSO v1 Jardins",
+            "fi-FI": "DKSO v1 Kukkapenkit"
         }
     }
 }

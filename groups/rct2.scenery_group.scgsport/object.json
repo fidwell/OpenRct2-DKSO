@@ -38,24 +38,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Sports Theming",
-            "fr-FR": "DKSO Thème Sports",
-            "de-DE": "DKSO Sport-Thema",
-            "es-ES": "DKSO Temática deportiva",
-            "it-IT": "DKSO Tema sportivo",
-            "nl-NL": "DKSO Sportthema",
-            "sv-SE": "DKSO Sportstema",
-            "ko-KR": "DKSO 스포츠 테마",
-            "zh-CN": "DKSO 运动主题",
-            "zh-TW": "DKSO 運動主題區",
-            "pt-BR": "DKSO Temática Esportiva",
-            "cs-CZ": "DKSO Sportovní kulisy",
-            "ja-JP": "DKSO スポーツ風のテーマ",
-            "pl-PL": "DKSO Wystrój sportowy",
-            "ru-RU": "DKSO Спорт",
-            "eo-ZZ": "DKSO Temo de Sportoj",
-            "ca-ES": "DKSO Temàtica esportiva",
-            "fi-FI": "DKSO Urheiluteemaus"
+            "en-GB": "DKSO v1 Sports Theming",
+            "fr-FR": "DKSO v1 Thème Sports",
+            "de-DE": "DKSO v1 Sport-Thema",
+            "es-ES": "DKSO v1 Temática deportiva",
+            "it-IT": "DKSO v1 Tema sportivo",
+            "nl-NL": "DKSO v1 Sportthema",
+            "sv-SE": "DKSO v1 Sportstema",
+            "ko-KR": "DKSO v1 스포츠 테마",
+            "zh-CN": "DKSO v1 运动主题",
+            "zh-TW": "DKSO v1 運動主題區",
+            "pt-BR": "DKSO v1 Temática Esportiva",
+            "cs-CZ": "DKSO v1 Sportovní kulisy",
+            "ja-JP": "DKSO v1 スポーツ風のテーマ",
+            "pl-PL": "DKSO v1 Wystrój sportowy",
+            "ru-RU": "DKSO v1 Спорт",
+            "eo-ZZ": "DKSO v1 Temo de Sportoj",
+            "ca-ES": "DKSO v1 Temàtica esportiva",
+            "fi-FI": "DKSO v1 Urheiluteemaus"
         }
     }
 }

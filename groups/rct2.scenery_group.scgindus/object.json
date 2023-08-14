@@ -46,24 +46,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Mechanical Theming",
-            "fr-FR": "DKSO Thème Mécanique",
-            "de-DE": "DKSO Maschinenthema",
-            "es-ES": "DKSO Temática mecánica",
-            "it-IT": "DKSO Tema meccanico",
-            "nl-NL": "DKSO Mechanisch thema",
-            "sv-SE": "DKSO Mekaniktema",
-            "ko-KR": "DKSO 기계 테마",
-            "zh-CN": "DKSO 机械主题",
-            "zh-TW": "DKSO 機械主題區",
-            "pt-BR": "DKSO Temática Mecânica",
-            "cs-CZ": "DKSO Mechanické kulisy",
-            "ja-JP": "DKSO 機械風のテーマ",
-            "pl-PL": "DKSO Wystrój mechaniczny",
-            "ru-RU": "DKSO Техника",
-            "eo-ZZ": "DKSO Mekanika Temo",
-            "ca-ES": "DKSO Temàtica mecànica",
-            "fi-FI": "DKSO Mekaaninen teemaus"
+            "en-GB": "DKSO v1 Mechanical Theming",
+            "fr-FR": "DKSO v1 Thème Mécanique",
+            "de-DE": "DKSO v1 Maschinenthema",
+            "es-ES": "DKSO v1 Temática mecánica",
+            "it-IT": "DKSO v1 Tema meccanico",
+            "nl-NL": "DKSO v1 Mechanisch thema",
+            "sv-SE": "DKSO v1 Mekaniktema",
+            "ko-KR": "DKSO v1 기계 테마",
+            "zh-CN": "DKSO v1 机械主题",
+            "zh-TW": "DKSO v1 機械主題區",
+            "pt-BR": "DKSO v1 Temática Mecânica",
+            "cs-CZ": "DKSO v1 Mechanické kulisy",
+            "ja-JP": "DKSO v1 機械風のテーマ",
+            "pl-PL": "DKSO v1 Wystrój mechaniczny",
+            "ru-RU": "DKSO v1 Техника",
+            "eo-ZZ": "DKSO v1 Mekanika Temo",
+            "ca-ES": "DKSO v1 Temàtica mecànica",
+            "fi-FI": "DKSO v1 Mekaaninen teemaus"
         }
     }
 }

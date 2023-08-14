@@ -38,24 +38,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Space Theming",
-            "fr-FR": "DKSO Thème Espace",
-            "de-DE": "DKSO Weltraumthema",
-            "es-ES": "DKSO Temática espacial",
-            "it-IT": "DKSO Tema spaziale",
-            "nl-NL": "DKSO Ruimtethema",
-            "sv-SE": "DKSO Rymdtema",
-            "ko-KR": "DKSO 우주 테마",
-            "zh-CN": "DKSO 太空世界主题",
-            "zh-TW": "DKSO 太空世界主題區",
-            "pt-BR": "DKSO Temática Espacial",
-            "cs-CZ": "DKSO Vesmírné kulisy",
-            "ja-JP": "DKSO スペース風のテーマ",
-            "pl-PL": "DKSO Wystrój kosmiczny",
-            "ru-RU": "DKSO Космос",
-            "eo-ZZ": "DKSO Kosma Temo",
-            "ca-ES": "DKSO Temàtica espacial",
-            "fi-FI": "DKSO Avaruusteemaus"
+            "en-GB": "DKSO v1 Space Theming",
+            "fr-FR": "DKSO v1 Thème Espace",
+            "de-DE": "DKSO v1 Weltraumthema",
+            "es-ES": "DKSO v1 Temática espacial",
+            "it-IT": "DKSO v1 Tema spaziale",
+            "nl-NL": "DKSO v1 Ruimtethema",
+            "sv-SE": "DKSO v1 Rymdtema",
+            "ko-KR": "DKSO v1 우주 테마",
+            "zh-CN": "DKSO v1 太空世界主题",
+            "zh-TW": "DKSO v1 太空世界主題區",
+            "pt-BR": "DKSO v1 Temática Espacial",
+            "cs-CZ": "DKSO v1 Vesmírné kulisy",
+            "ja-JP": "DKSO v1 スペース風のテーマ",
+            "pl-PL": "DKSO v1 Wystrój kosmiczny",
+            "ru-RU": "DKSO v1 Космос",
+            "eo-ZZ": "DKSO v1 Kosma Temo",
+            "ca-ES": "DKSO v1 Temàtica espacial",
+            "fi-FI": "DKSO v1 Avaruusteemaus"
         }
     }
 }

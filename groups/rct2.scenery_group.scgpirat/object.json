@@ -61,24 +61,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Pirates Theming",
-            "fr-FR": "DKSO Thème Pirates",
-            "de-DE": "DKSO Piratenthema",
-            "es-ES": "DKSO Temática pirata",
-            "it-IT": "DKSO Tema piratesco",
-            "nl-NL": "DKSO Piratenthema",
-            "sv-SE": "DKSO Pirattema",
-            "ko-KR": "DKSO 해적 테마",
-            "zh-CN": "DKSO 海盗主题馆",
-            "zh-TW": "DKSO 海盜主題館",
-            "pt-BR": "DKSO Temática Pirata",
-            "cs-CZ": "DKSO Pirátské kulisy",
-            "ja-JP": "DKSO 海賊風のテーマ",
-            "pl-PL": "DKSO Wystrój piracki",
-            "ru-RU": "DKSO Пираты",
-            "eo-ZZ": "DKSO Pirato-Temo",
-            "ca-ES": "DKSO Temàtica pirata",
-            "fi-FI": "DKSO Merirosvoteemaus"
+            "en-GB": "DKSO v1 Pirates Theming",
+            "fr-FR": "DKSO v1 Thème Pirates",
+            "de-DE": "DKSO v1 Piratenthema",
+            "es-ES": "DKSO v1 Temática pirata",
+            "it-IT": "DKSO v1 Tema piratesco",
+            "nl-NL": "DKSO v1 Piratenthema",
+            "sv-SE": "DKSO v1 Pirattema",
+            "ko-KR": "DKSO v1 해적 테마",
+            "zh-CN": "DKSO v1 海盗主题馆",
+            "zh-TW": "DKSO v1 海盜主題館",
+            "pt-BR": "DKSO v1 Temática Pirata",
+            "cs-CZ": "DKSO v1 Pirátské kulisy",
+            "ja-JP": "DKSO v1 海賊風のテーマ",
+            "pl-PL": "DKSO v1 Wystrój piracki",
+            "ru-RU": "DKSO v1 Пираты",
+            "eo-ZZ": "DKSO v1 Pirato-Temo",
+            "ca-ES": "DKSO v1 Temàtica pirata",
+            "fi-FI": "DKSO v1 Merirosvoteemaus"
         }
     }
 }

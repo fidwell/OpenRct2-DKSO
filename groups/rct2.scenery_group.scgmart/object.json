@@ -37,24 +37,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Martian Theming",
-            "fr-FR": "DKSO Thème Alien",
-            "de-DE": "DKSO Mars-Thema",
-            "es-ES": "DKSO Temática marciana",
-            "it-IT": "DKSO Tema marziano",
-            "nl-NL": "DKSO Marsthema",
-            "sv-SE": "DKSO Mars-tema",
-            "ko-KR": "DKSO 화성 테마",
-            "zh-CN": "DKSO 火星主题",
-            "zh-TW": "DKSO 火星人主題區",
-            "pt-BR": "DKSO Temática Marciana",
-            "cs-CZ": "DKSO Marťanské kulisy",
-            "ja-JP": "DKSO 火星人風のテーマ",
-            "pl-PL": "DKSO Wystrój marsjański",
-            "ru-RU": "DKSO Марс",
-            "eo-ZZ": "DKSO Marsa Temo",
-            "ca-ES": "DKSO Temàtica marciana",
-            "fi-FI": "DKSO Marsilainen teemaus"
+            "en-GB": "DKSO v1 Martian Theming",
+            "fr-FR": "DKSO v1 Thème Alien",
+            "de-DE": "DKSO v1 Mars-Thema",
+            "es-ES": "DKSO v1 Temática marciana",
+            "it-IT": "DKSO v1 Tema marziano",
+            "nl-NL": "DKSO v1 Marsthema",
+            "sv-SE": "DKSO v1 Mars-tema",
+            "ko-KR": "DKSO v1 화성 테마",
+            "zh-CN": "DKSO v1 火星主题",
+            "zh-TW": "DKSO v1 火星人主題區",
+            "pt-BR": "DKSO v1 Temática Marciana",
+            "cs-CZ": "DKSO v1 Marťanské kulisy",
+            "ja-JP": "DKSO v1 火星人風のテーマ",
+            "pl-PL": "DKSO v1 Wystrój marsjański",
+            "ru-RU": "DKSO v1 Марс",
+            "eo-ZZ": "DKSO v1 Marsa Temo",
+            "ca-ES": "DKSO v1 Temàtica marciana",
+            "fi-FI": "DKSO v1 Marsilainen teemaus"
         }
     }
 }

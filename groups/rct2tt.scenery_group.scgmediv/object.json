@@ -152,24 +152,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Dark Age Theming",
-            "fr-FR": "DKSO Thème du Moyen Age",
-            "de-DE": "DKSO Finsteres-Mittelalter-Thema",
-            "es-ES": "DKSO Tema Edad Media",
-            "it-IT": "DKSO Tema Età Oscura",
-            "nl-NL": "DKSO ‘Donkere eeuwen’-thema",
-            "sv-SE": "DKSO Äldre medeltidstema",
-            "ko-KR": "DKSO 암흑시대 테마",
-            "zh-TW": "DKSO 黑暗時代主題區",
-            "pt-BR": "DKSO Temática da Idade Média",
-            "cs-CZ": "DKSO Starodávné časy",
-            "pl-PL": "DKSO Wystrój średniowieczny",
-            "ru-RU": "DKSO Средневековье",
-            "ja-JP": "DKSO 暗黒時代のテーマ",
-            "eo-ZZ": "DKSO Temo de Malluma Epoko",
-            "ca-ES": "DKSO Temàtica medieval",
-            "fi-FI": "DKSO Keskiajan teemaus",
-            "zh-CN": "DKSO 黑暗时代主题"
+            "en-GB": "DKSO v1 Dark Age Theming",
+            "fr-FR": "DKSO v1 Thème du Moyen Age",
+            "de-DE": "DKSO v1 Finsteres-Mittelalter-Thema",
+            "es-ES": "DKSO v1 Tema Edad Media",
+            "it-IT": "DKSO v1 Tema Età Oscura",
+            "nl-NL": "DKSO v1 ‘Donkere eeuwen’-thema",
+            "sv-SE": "DKSO v1 Äldre medeltidstema",
+            "ko-KR": "DKSO v1 암흑시대 테마",
+            "zh-TW": "DKSO v1 黑暗時代主題區",
+            "pt-BR": "DKSO v1 Temática da Idade Média",
+            "cs-CZ": "DKSO v1 Starodávné časy",
+            "pl-PL": "DKSO v1 Wystrój średniowieczny",
+            "ru-RU": "DKSO v1 Средневековье",
+            "ja-JP": "DKSO v1 暗黒時代のテーマ",
+            "eo-ZZ": "DKSO v1 Temo de Malluma Epoko",
+            "ca-ES": "DKSO v1 Temàtica medieval",
+            "fi-FI": "DKSO v1 Keskiajan teemaus",
+            "zh-CN": "DKSO v1 黑暗时代主题"
         }
     }
 }

@@ -107,24 +107,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Trees",
-            "fr-FR": "DKSO Arbres",
-            "de-DE": "DKSO Bäume",
-            "es-ES": "DKSO Árboles",
-            "it-IT": "DKSO Alberi",
-            "nl-NL": "DKSO Bomen",
-            "sv-SE": "DKSO Träd",
-            "ko-KR": "DKSO 나무",
-            "zh-CN": "DKSO 树",
-            "zh-TW": "DKSO 樹",
-            "pt-BR": "DKSO Árvores",
-            "cs-CZ": "DKSO Stromy",
-            "ja-JP": "DKSO 木",
-            "pl-PL": "DKSO Drzewa",
-            "ru-RU": "DKSO Деревья",
-            "eo-ZZ": "DKSO Arboj",
-            "ca-ES": "DKSO Arbres",
-            "fi-FI": "DKSO Puut"
+            "en-GB": "DKSO v1 Trees",
+            "fr-FR": "DKSO v1 Arbres",
+            "de-DE": "DKSO v1 Bäume",
+            "es-ES": "DKSO v1 Árboles",
+            "it-IT": "DKSO v1 Alberi",
+            "nl-NL": "DKSO v1 Bomen",
+            "sv-SE": "DKSO v1 Träd",
+            "ko-KR": "DKSO v1 나무",
+            "zh-CN": "DKSO v1 树",
+            "zh-TW": "DKSO v1 樹",
+            "pt-BR": "DKSO v1 Árvores",
+            "cs-CZ": "DKSO v1 Stromy",
+            "ja-JP": "DKSO v1 木",
+            "pl-PL": "DKSO v1 Drzewa",
+            "ru-RU": "DKSO v1 Деревья",
+            "eo-ZZ": "DKSO v1 Arboj",
+            "ca-ES": "DKSO v1 Arbres",
+            "fi-FI": "DKSO v1 Puut"
         }
     }
 }

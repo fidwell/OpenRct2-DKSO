@@ -200,23 +200,23 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Asia Theming",
-            "fr-FR": "DKSO Thème Asie",
-            "de-DE": "DKSO Asien-Thema",
-            "es-ES": "DKSO Temática asiática",
-            "it-IT": "DKSO Tema asiatico",
-            "nl-NL": "DKSO Aziatisch thema",
-            "sv-SE": "DKSO Asiatiskt tema",
-            "cs-CZ": "DKSO Asie",
-            "ko-KR": "DKSO 아시아 테마",
-            "pl-PL": "DKSO Wystrój azjatycki",
-            "ru-RU": "DKSO Тема Азии",
-            "pt-BR": "DKSO Temática Asiática",
-            "ja-JP": "DKSO アジアのテーマ",
-            "eo-ZZ": "DKSO Azia Temo",
-            "ca-ES": "DKSO Temàtica asiàtica",
-            "fi-FI": "DKSO Aasialaisteemaus",
-            "zh-CN": "DKSO 亚洲主题"
+            "en-GB": "DKSO v1 Asia Theming",
+            "fr-FR": "DKSO v1 Thème Asie",
+            "de-DE": "DKSO v1 Asien-Thema",
+            "es-ES": "DKSO v1 Temática asiática",
+            "it-IT": "DKSO v1 Tema asiatico",
+            "nl-NL": "DKSO v1 Aziatisch thema",
+            "sv-SE": "DKSO v1 Asiatiskt tema",
+            "cs-CZ": "DKSO v1 Asie",
+            "ko-KR": "DKSO v1 아시아 테마",
+            "pl-PL": "DKSO v1 Wystrój azjatycki",
+            "ru-RU": "DKSO v1 Тема Азии",
+            "pt-BR": "DKSO v1 Temática Asiática",
+            "ja-JP": "DKSO v1 アジアのテーマ",
+            "eo-ZZ": "DKSO v1 Azia Temo",
+            "ca-ES": "DKSO v1 Temàtica asiàtica",
+            "fi-FI": "DKSO v1 Aasialaisteemaus",
+            "zh-CN": "DKSO v1 亚洲主题"
         }
     }
 }

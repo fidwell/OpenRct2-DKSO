@@ -44,24 +44,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Pagoda Theming",
-            "fr-FR": "DKSO Thème Pagode",
-            "de-DE": "DKSO Pagodenthema",
-            "es-ES": "DKSO Temática de pagoda",
-            "it-IT": "DKSO Tema pagoda",
-            "nl-NL": "DKSO Pagodethema",
-            "sv-SE": "DKSO Pagod-tema",
-            "ko-KR": "DKSO 탑 테마",
-            "zh-CN": "DKSO 塔/凉亭主题",
-            "zh-TW": "DKSO 塔/涼亭主題區",
-            "pt-BR": "DKSO Temática Oriental",
-            "cs-CZ": "DKSO Pagoda kulisy",
-            "ja-JP": "DKSO パゴダのテーマ",
-            "pl-PL": "DKSO Wystrój japoński",
-            "ru-RU": "DKSO Пагода",
-            "eo-ZZ": "DKSO Pagodo-Temo",
-            "ca-ES": "DKSO Temàtica amb pagodes",
-            "fi-FI": "DKSO Pagoditeemaus"
+            "en-GB": "DKSO v1 Pagoda Theming",
+            "fr-FR": "DKSO v1 Thème Pagode",
+            "de-DE": "DKSO v1 Pagodenthema",
+            "es-ES": "DKSO v1 Temática de pagoda",
+            "it-IT": "DKSO v1 Tema pagoda",
+            "nl-NL": "DKSO v1 Pagodethema",
+            "sv-SE": "DKSO v1 Pagod-tema",
+            "ko-KR": "DKSO v1 탑 테마",
+            "zh-CN": "DKSO v1 塔/凉亭主题",
+            "zh-TW": "DKSO v1 塔/涼亭主題區",
+            "pt-BR": "DKSO v1 Temática Oriental",
+            "cs-CZ": "DKSO v1 Pagoda kulisy",
+            "ja-JP": "DKSO v1 パゴダのテーマ",
+            "pl-PL": "DKSO v1 Wystrój japoński",
+            "ru-RU": "DKSO v1 Пагода",
+            "eo-ZZ": "DKSO v1 Pagodo-Temo",
+            "ca-ES": "DKSO v1 Temàtica amb pagodes",
+            "fi-FI": "DKSO v1 Pagoditeemaus"
         }
     }
 }

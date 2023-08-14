@@ -38,24 +38,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Abstract Theming",
-            "fr-FR": "DKSO Thème abstrait",
-            "de-DE": "DKSO Abstraktes Thema",
-            "es-ES": "DKSO Temática abstracta",
-            "it-IT": "DKSO Tema astratto",
-            "nl-NL": "DKSO Abstract thema",
-            "sv-SE": "DKSO Abstrakt tema",
-            "ko-KR": "DKSO 추상적인 테마",
-            "zh-CN": "DKSO 现代抽象主题",
-            "zh-TW": "DKSO 現代抽象主題區",
-            "pt-BR": "DKSO Temática Abstrata",
-            "cs-CZ": "DKSO Abstraktní kulisy",
-            "ja-JP": "DKSO 抽象派風のテーマ",
-            "pl-PL": "DKSO Wystrój abstrakcyjny",
-            "ru-RU": "DKSO Абстракция",
-            "eo-ZZ": "DKSO Abstrakta Temo",
-            "ca-ES": "DKSO Temàtica abstracta",
-            "fi-FI": "DKSO Abstrakti teemaus"
+            "en-GB": "DKSO v1 Abstract Theming",
+            "fr-FR": "DKSO v1 Thème abstrait",
+            "de-DE": "DKSO v1 Abstraktes Thema",
+            "es-ES": "DKSO v1 Temática abstracta",
+            "it-IT": "DKSO v1 Tema astratto",
+            "nl-NL": "DKSO v1 Abstract thema",
+            "sv-SE": "DKSO v1 Abstrakt tema",
+            "ko-KR": "DKSO v1 추상적인 테마",
+            "zh-CN": "DKSO v1 现代抽象主题",
+            "zh-TW": "DKSO v1 現代抽象主題區",
+            "pt-BR": "DKSO v1 Temática Abstrata",
+            "cs-CZ": "DKSO v1 Abstraktní kulisy",
+            "ja-JP": "DKSO v1 抽象派風のテーマ",
+            "pl-PL": "DKSO v1 Wystrój abstrakcyjny",
+            "ru-RU": "DKSO v1 Абстракция",
+            "eo-ZZ": "DKSO v1 Abstrakta Temo",
+            "ca-ES": "DKSO v1 Temàtica abstracta",
+            "fi-FI": "DKSO v1 Abstrakti teemaus"
         }
     }
 }

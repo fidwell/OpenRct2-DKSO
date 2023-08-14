@@ -216,23 +216,23 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO North America Theming",
-            "fr-FR": "DKSO Thème Amérique du Nord",
-            "de-DE": "DKSO Nordamerika-Thema",
-            "es-ES": "DKSO Temática norteamericana",
-            "it-IT": "DKSO Tema nordamericano",
-            "nl-NL": "DKSO Noord-Amerikaans thema",
-            "sv-SE": "DKSO Nordamerikanskt tema",
-            "cs-CZ": "DKSO Severní Amerika",
-            "ko-KR": "DKSO 북아메리카 테마",
-            "pl-PL": "DKSO Wystrój północnoamerykański",
-            "ru-RU": "DKSO Тема Северной Америки",
-            "pt-BR": "DKSO Temática Norte-americana",
-            "ja-JP": "DKSO 北アメリカのテーマ",
-            "eo-ZZ": "DKSO Nordamerika Temo",
-            "ca-ES": "DKSO Temàtica nord-americana",
-            "fi-FI": "DKSO Pohjoisamerikkalaisteemaus",
-            "zh-CN": "DKSO 北美洲主题"
+            "en-GB": "DKSO v1 North America Theming",
+            "fr-FR": "DKSO v1 Thème Amérique du Nord",
+            "de-DE": "DKSO v1 Nordamerika-Thema",
+            "es-ES": "DKSO v1 Temática norteamericana",
+            "it-IT": "DKSO v1 Tema nordamericano",
+            "nl-NL": "DKSO v1 Noord-Amerikaans thema",
+            "sv-SE": "DKSO v1 Nordamerikanskt tema",
+            "cs-CZ": "DKSO v1 Severní Amerika",
+            "ko-KR": "DKSO v1 북아메리카 테마",
+            "pl-PL": "DKSO v1 Wystrój północnoamerykański",
+            "ru-RU": "DKSO v1 Тема Северной Америки",
+            "pt-BR": "DKSO v1 Temática Norte-americana",
+            "ja-JP": "DKSO v1 北アメリカのテーマ",
+            "eo-ZZ": "DKSO v1 Nordamerika Temo",
+            "ca-ES": "DKSO v1 Temàtica nord-americana",
+            "fi-FI": "DKSO v1 Pohjoisamerikkalaisteemaus",
+            "zh-CN": "DKSO v1 北美洲主题"
         }
     }
 }

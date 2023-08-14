@@ -121,24 +121,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Prehistoric Theming",
-            "fr-FR": "DKSO Thème de la préhistoire",
-            "de-DE": "DKSO Vorgeschichte-Thema",
-            "es-ES": "DKSO Tema prehistórico",
-            "it-IT": "DKSO Tema preistorico",
-            "nl-NL": "DKSO Prehistorisch thema",
-            "sv-SE": "DKSO Förhistoriskt tema",
-            "ko-KR": "DKSO 선사시대 테마",
-            "zh-TW": "DKSO 史前時代主題區",
-            "pt-BR": "DKSO Temática Pré-Histórica",
-            "cs-CZ": "DKSO Pravěk",
-            "pl-PL": "DKSO Wystrój prehistoryczny",
-            "ru-RU": "DKSO Доисторический Мир",
-            "ja-JP": "DKSO 前史時代のテーマ",
-            "eo-ZZ": "DKSO Praa Temo",
-            "ca-ES": "DKSO Temàtica prehistòrica",
-            "fi-FI": "DKSO Esihistoriallinen teemaus",
-            "zh-CN": "DKSO 史前主题"
+            "en-GB": "DKSO v1 Prehistoric Theming",
+            "fr-FR": "DKSO v1 Thème de la préhistoire",
+            "de-DE": "DKSO v1 Vorgeschichte-Thema",
+            "es-ES": "DKSO v1 Tema prehistórico",
+            "it-IT": "DKSO v1 Tema preistorico",
+            "nl-NL": "DKSO v1 Prehistorisch thema",
+            "sv-SE": "DKSO v1 Förhistoriskt tema",
+            "ko-KR": "DKSO v1 선사시대 테마",
+            "zh-TW": "DKSO v1 史前時代主題區",
+            "pt-BR": "DKSO v1 Temática Pré-Histórica",
+            "cs-CZ": "DKSO v1 Pravěk",
+            "pl-PL": "DKSO v1 Wystrój prehistoryczny",
+            "ru-RU": "DKSO v1 Доисторический Мир",
+            "ja-JP": "DKSO v1 前史時代のテーマ",
+            "eo-ZZ": "DKSO v1 Praa Temo",
+            "ca-ES": "DKSO v1 Temàtica prehistòrica",
+            "fi-FI": "DKSO v1 Esihistoriallinen teemaus",
+            "zh-CN": "DKSO v1 史前主题"
         }
     }
 }
