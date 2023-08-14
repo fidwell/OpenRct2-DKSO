@@ -10,7 +10,7 @@
         "price": 18,
         "removalPrice": 8,
         "cursor": "CURSOR_STATUE_DOWN",
-        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "sceneryGroup": "fidwell.v1.scenery_group.walls_dkso",
         "tiles": [
             {
                 "x": 0,

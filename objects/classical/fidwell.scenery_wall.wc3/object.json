@@ -10,7 +10,7 @@
         "height": 4,
         "price": 110,
         "hasPrimaryColour": true,
-        "sceneryGroup": "fidwell.scenery_group.walls_dkso"
+        "sceneryGroup": "fidwell.v1.scenery_group.walls_dkso"
     },
     "images": [
       { "path": "images/00.png", "x": -29, "y": -33 },

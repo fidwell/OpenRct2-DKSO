@@ -1,7 +1,7 @@
 {
-    "id": "fidwell.scenery_group.fences_dkso",
+    "id": "fidwell.v1.scenery_group.fences_dkso",
     "authors": ["fidwell"],
-    "version": "2.0",
+    "version": "1.0",
     "sourceGame": "custom",
     "objectType": "scenery_group",
     "properties": {
@@ -11,9 +11,9 @@
             "rct2.scenery_wall.wmfg",
             "fidwell.v1.scenery_wall.wmfg",
             "rct2.scenery_wall.wsw",
-            "fidwell.scenery_wall.wsw",
+            "fidwell.v1.scenery_wall.wsw",
             "rct2.scenery_wall.wswg",
-            "fidwell.scenery_wall.wswg",
+            "fidwell.v1.scenery_wall.wswg",
             "rct2.scenery_wall.wfw1",
             "rct2.scenery_wall.wfwg",
             "rct2.scenery_wall.wpf",
@@ -28,14 +28,14 @@
             "rct2.scenery_wall.wbr1",
             "fidwell.v1.scenery_wall.wbr1",
             "rct2.scenery_wall.wbrg",
-            "fidwell.scenery_wall.wbrg",
+            "fidwell.v1.scenery_wall.wbrg",
             "rct2.scenery_wall.wbr2",
             "fidwell.v1.scenery_wall.wbr2",
             "rct2.scenery_wall.wbr3",
             "fidwell.v1.scenery_wall.wbr3",
             "rct2.scenery_wall.wallmm16",
             "rct2.scenery_wall.wallmm17",
-            "fidwell.scenery_wall.wallmm17",
+            "fidwell.v1.scenery_wall.wallmm17",
             "rct1.scenery_wall.wooden_fence_red"
         ],
         "priority": 4
