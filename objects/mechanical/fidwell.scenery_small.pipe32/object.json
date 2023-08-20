@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_small.pipe32",
+    "id": "fidwell.v1.scenery_small.pipe32",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0C58B301|IRPIP32C|F2B46441",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {

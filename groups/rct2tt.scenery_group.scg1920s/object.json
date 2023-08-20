@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_group.twenties_dkso",
+    "id": "fidwell.v1.scenery_group.twenties_dkso",
     "authors": ["fidwell"],
-    "version": "3.0",
-    "originalId": "0C58B507|TABROARN|BF3E39A7",
+    "version": "1.0",
     "sourceGame": "custom",
     "objectType": "scenery_group",
     "properties": {
@@ -51,7 +50,7 @@
             "rct2tt.scenery_small.1920slmp",
             "rct2tt.footpath_item.firhydrt",
             "rct2tt.scenery_small.hrbwal01",
-            "fidwell.scenery_small.hrbwal01",
+            "fidwell.v1.scenery_small.hrbwal01",
             "rct2tt.scenery_small.hrbwal02",
             "rct2tt.scenery_small.hrbwal03",
             "$DAT:0E24FA01|IRHRW03C",
@@ -76,24 +75,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Roaring Twenties Theming",
-            "fr-FR": "DKSO Thème des années folles",
-            "de-DE": "DKSO Wilde-Zwanziger-Thema",
-            "es-ES": "DKSO Tema locos años veinte",
-            "it-IT": "DKSO Tema Ruggenti Anni Venti",
-            "nl-NL": "DKSO ‘Roaring Twenties’-thema",
-            "sv-SE": "DKSO Glada tjugotalet-tema",
-            "ko-KR": "DKSO 광란의 20년대 테마",
-            "zh-TW": "DKSO 喧騰的20年代主題區",
-            "pt-BR": "DKSO Temática Anos 20",
-            "cs-CZ": "DKSO Bouřlivá 20. léta",
-            "pl-PL": "DKSO Wystrój Ryczących Dwudziestek",
-            "ru-RU": "DKSO Двадцатые Годы",
-            "ja-JP": "DKSO 1920時代のテーマ",
-            "eo-ZZ": "DKSO Temo de Muĝadaj Dudekaj Jaroj",
-            "ca-ES": "DKSO Temàtica dels esbojarrats anys vint",
-            "fi-FI": "DKSO Kuohuva 20-luku -teemaus",
-            "zh-CN": "DKSO 咆哮20年代主题"
+            "en-GB": "DKSO v1 Roaring Twenties Theming",
+            "fr-FR": "DKSO v1 Thème des années folles",
+            "de-DE": "DKSO v1 Wilde-Zwanziger-Thema",
+            "es-ES": "DKSO v1 Tema locos años veinte",
+            "it-IT": "DKSO v1 Tema Ruggenti Anni Venti",
+            "nl-NL": "DKSO v1 ‘Roaring Twenties’-thema",
+            "sv-SE": "DKSO v1 Glada tjugotalet-tema",
+            "ko-KR": "DKSO v1 광란의 20년대 테마",
+            "zh-TW": "DKSO v1 喧騰的20年代主題區",
+            "pt-BR": "DKSO v1 Temática Anos 20",
+            "cs-CZ": "DKSO v1 Bouřlivá 20. léta",
+            "pl-PL": "DKSO v1 Wystrój Ryczących Dwudziestek",
+            "ru-RU": "DKSO v1 Двадцатые Годы",
+            "ja-JP": "DKSO v1 1920時代のテーマ",
+            "eo-ZZ": "DKSO v1 Temo de Muĝadaj Dudekaj Jaroj",
+            "ca-ES": "DKSO v1 Temàtica dels esbojarrats anys vint",
+            "fi-FI": "DKSO v1 Kuohuva 20-luku -teemaus",
+            "zh-CN": "DKSO v1 咆哮20年代主题"
         }
     }
 }

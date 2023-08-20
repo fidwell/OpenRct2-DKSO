@@ -1,10 +1,10 @@
 {
-    "id": "fidwell.scenery_small.pandagr",
+    "id": "fidwell.v1.scenery_small.pandagr",
     "authors": [
         "Chris Sawyer",
         "Simon Foster"
     ],
-    "version": "2.0",
+    "version": "1.0",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {
@@ -12,7 +12,7 @@
         "removalPrice": -14,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 64,
-        "sceneryGroup": "fidwell.scenery_group.shrubs_dkso",
+        "sceneryGroup": "fidwell.v1.scenery_group.shrubs_dkso",
         "shape": "1/4",
         "isStackable": true,
         "hasNoSupports": true,

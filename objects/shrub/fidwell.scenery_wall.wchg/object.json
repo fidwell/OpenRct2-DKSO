@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_wall.wchg",
+    "id": "fidwell.v1.scenery_wall.wchg",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0C58B603|IREWCHGC|5795EE4D",
     "sourceGame": "custom",
     "objectType": "scenery_wall",
     "properties": {
@@ -11,7 +10,7 @@
         "height": 3,
         "price": 60,
         "cursor": "CURSOR_TREE_DOWN",
-        "sceneryGroup": "fidwell.scenery_group.fences_dkso"
+        "sceneryGroup": "fidwell.v1.scenery_group.fences_dkso"
     },
     "images": [
       { "path": "images/0.png", "x": -31, "y": -22 },

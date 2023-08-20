@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_small.prcanb",
+    "id": "fidwell.v1.scenery_small.prcanb",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0C58B301|IRPRCANC|466AEE9F",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {

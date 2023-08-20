@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_group.wildwest_dkso",
+    "id": "fidwell.v1.scenery_group.wildwest_dkso",
     "authors": ["fidwell"],
-    "version": "3.0",
-    "originalId": "0C58B507|TABWILDW|FC05CB49",
+    "version": "1.0",
     "sourceGame": "custom",
     "objectType": "scenery_group",
     "properties": {
@@ -14,10 +13,10 @@
             "rct2.scenery_large.saloon",
             "rct2.scenery_large.wwbank",
             "rct2.scenery_small.hang1",
-            "fidwell.scenery_small.hang1",
+            "fidwell.v1.scenery_small.hang1",
             "rct2.scenery_small.totem1",
             "rct2.scenery_small.teepee1",
-            "fidwell.scenery_small.teepee1",
+            "fidwell.v1.scenery_small.teepee1",
             "rct2.footpath_item.litterww"
         ],
         "priority": 38,
@@ -36,24 +35,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO Wild West Theming",
-            "fr-FR": "DKSO Thème Western",
-            "de-DE": "DKSO Wildwest-Thema",
-            "es-ES": "DKSO Temática salvaje oeste",
-            "it-IT": "DKSO Tema far west",
-            "nl-NL": "DKSO Wildwestthema",
-            "sv-SE": "DKSO Vilda västern-tema",
-            "ko-KR": "DKSO 황량한 서부 테마",
-            "zh-CN": "DKSO 西部荒野主题",
-            "zh-TW": "DKSO 西部荒野主題區",
-            "pt-BR": "DKSO Temática do Velho Oeste",
-            "cs-CZ": "DKSO Kulisy divokého západu",
-            "ja-JP": "DKSO 大西部風テーマ",
-            "pl-PL": "DKSO Wystrój Dzikiego Zachodu",
-            "ru-RU": "DKSO Дикий Запад",
-            "eo-ZZ": "DKSO Sovaĝa-Okcidento-Temo",
-            "ca-ES": "DKSO Temàtica del salvatge oest",
-            "fi-FI": "DKSO Villin lännen teemaus"
+            "en-GB": "DKSO v1 Wild West Theming",
+            "fr-FR": "DKSO v1 Thème Western",
+            "de-DE": "DKSO v1 Wildwest-Thema",
+            "es-ES": "DKSO v1 Temática salvaje oeste",
+            "it-IT": "DKSO v1 Tema far west",
+            "nl-NL": "DKSO v1 Wildwestthema",
+            "sv-SE": "DKSO v1 Vilda västern-tema",
+            "ko-KR": "DKSO v1 황량한 서부 테마",
+            "zh-CN": "DKSO v1 西部荒野主题",
+            "zh-TW": "DKSO v1 西部荒野主題區",
+            "pt-BR": "DKSO v1 Temática do Velho Oeste",
+            "cs-CZ": "DKSO v1 Kulisy divokého západu",
+            "ja-JP": "DKSO v1 大西部風テーマ",
+            "pl-PL": "DKSO v1 Wystrój Dzikiego Zachodu",
+            "ru-RU": "DKSO v1 Дикий Запад",
+            "eo-ZZ": "DKSO v1 Sovaĝa-Okcidento-Temo",
+            "ca-ES": "DKSO v1 Temàtica del salvatge oest",
+            "fi-FI": "DKSO v1 Villin lännen teemaus"
         }
     }
 }

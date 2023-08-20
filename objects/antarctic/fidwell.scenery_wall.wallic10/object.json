@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_wall.wallic10",
+    "id": "fidwell.v1.scenery_wall.wallic10",
     "authors": ["Frontier Studios"],
     "version": "1.0",
-    "originalId": "0CBD0103|IRWICE10|4B6EFD66",
     "sourceGame": "custom",
     "objectType": "scenery_wall",
     "properties": {

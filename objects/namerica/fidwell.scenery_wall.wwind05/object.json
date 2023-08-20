@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_wall.wwind05",
+    "id": "fidwell.v1.scenery_wall.wwind05",
     "authors": ["Frontier Studios"],
     "version": "1.0",
-    "originalId": "0CBD0703|IRWSR24C|77DEC683",
     "sourceGame": "custom",
     "objectType": "scenery_wall",
     "properties": {

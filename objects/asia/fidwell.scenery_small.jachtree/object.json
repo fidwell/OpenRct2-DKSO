@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_small.jachtree",
+    "id": "fidwell.v1.scenery_small.jachtree",
     "authors": ["Frontier Studios"],
     "version": "1.0",
-    "originalId": "0CBD0001|IRJACHTC|E3D8B30B",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {
@@ -10,7 +9,7 @@
         "removalPrice": 15,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 64,
-        "sceneryGroup": "fidwell.scenery_group.trees_dkso",
+        "sceneryGroup": "fidwell.v1.scenery_group.trees_dkso",
         "isTree": true,
         "shape": "4/4",
         "hasNoSupports": true,

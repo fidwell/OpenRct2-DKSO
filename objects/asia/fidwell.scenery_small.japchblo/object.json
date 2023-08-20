@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_small.japchblo",
+    "id": "fidwell.v1.scenery_small.japchblo",
     "authors": ["Frontier Studios"],
     "version": "1.0",
-    "originalId": "0CBD0001|IRJAPCHC|D1B8AC4C",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {
@@ -10,7 +9,7 @@
         "removalPrice": 15,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 80,
-        "sceneryGroup": "fidwell.scenery_group.trees_dkso",
+        "sceneryGroup": "fidwell.v1.scenery_group.trees_dkso",
         "isTree": true,
         "shape": "4/4",
         "hasNoSupports": true,

@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_large.scln",
+    "id": "fidwell.v1.scenery_large.scln",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0C58B202|IRESCLNC|621AF65A",
     "sourceGame": "custom",
     "objectType": "scenery_large",
     "properties": {

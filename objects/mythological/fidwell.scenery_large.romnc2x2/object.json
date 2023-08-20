@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_large.romnc2x2",
+    "id": "fidwell.v1.scenery_large.romnc2x2",
     "authors": ["Frontier Studios"],
     "version": "1.0",
-    "originalId": "0E24F802|IRROM2XC|E4505E43",
     "sourceGame": "custom",
     "objectType": "scenery_large",
     "properties": {
@@ -10,7 +9,7 @@
         "removalPrice": -77,
         "cursor": "CURSOR_STATUE_DOWN",
         "isPhotogenic": true,
-        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "sceneryGroup": "fidwell.v1.scenery_group.walls_dkso",
         "hasPrimaryColour": true,
         "tiles": [
             {

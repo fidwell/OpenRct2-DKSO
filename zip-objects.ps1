@@ -1,3 +1,5 @@
+$verbose = $args.length -eq 1 -and $args[0] -eq '-v'
+
 $homepath = Get-Location
 
 $objectTotal = 0
@@ -23,7 +25,8 @@ foreach ($groupPath in $groupPaths) {
             continue
         }
 
-        $objectName = Split-Path -Path (Get-Location) -Leaf
+        # Get object identifier from the file itself
+        $objectName = (Select-String -Path .\object.json '"id": "([\w\.]*)"' -AllMatches).Matches.Groups[1].Value
         $outfile = "$($outdir)/$($objectName).parkobj"
         
         # Remove old zip file, if it exists
@@ -31,7 +34,9 @@ foreach ($groupPath in $groupPaths) {
             Remove-Item $outfile -ErrorAction Stop
         }
         
-        Write-Output "Zipping $objectName..."
+        if ($verbose) {
+            Write-Output "Zipping $objectName..."
+        }
         
         # Get file list
         $Files = @(Get-ChildItem "./" -Recurse -File)

@@ -1,7 +1,7 @@
 {
-    "id": "fidwell.scenery_small.pirroof1",
+    "id": "fidwell.v1.scenery_small.pirroof1",
     "authors": ["Chris Sawyer", "Simon Foster"],
-    "version": "2.0",
+    "version": "1.0",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {
@@ -9,7 +9,7 @@
         "removalPrice": -15,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 16,
-        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "sceneryGroup": "fidwell.v1.scenery_group.walls_dkso",
         "shape": "4/4",
         "hasPrimaryColour": true,
         "hasSecondaryColour": true,

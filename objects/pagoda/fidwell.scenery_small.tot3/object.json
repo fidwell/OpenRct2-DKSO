@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_small.tot3",
+    "id": "fidwell.v1.scenery_small.tot3",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0C58B401|IRETOT3C|11247086",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {
@@ -10,7 +9,7 @@
         "removalPrice": 5,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 36,
-        "sceneryGroup": "fidwell.scenery_group.trees_dkso",
+        "sceneryGroup": "fidwell.v1.scenery_group.trees_dkso",
         "isTree": true,
         "shape": "1/4",
         "hasPrimaryColour": true,

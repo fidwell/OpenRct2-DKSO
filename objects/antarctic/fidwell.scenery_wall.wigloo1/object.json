@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_wall.wigloo1",
+    "id": "fidwell.v1.scenery_wall.wigloo1",
     "authors": ["Frontier Studios"],
     "version": "1.0",
-    "originalId": "0CBD0103|IRWIGL1C|1DBEEC70",
     "sourceGame": "custom",
     "objectType": "scenery_wall",
     "properties": {

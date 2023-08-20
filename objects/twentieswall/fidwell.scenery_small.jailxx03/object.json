@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_small.jailxx03",
+    "id": "fidwell.v1.scenery_small.jailxx03",
     "authors": ["Frontier Studios"],
     "version": "1.0",
-    "originalId": "0E24FA01|IRJAI03C|6C84E978",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {
@@ -10,7 +9,7 @@
         "removalPrice": -12,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 32,
-        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "sceneryGroup": "fidwell.v1.scenery_group.walls_dkso",
         "shape": "2/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,

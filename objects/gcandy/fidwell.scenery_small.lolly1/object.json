@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_small.lolly1",
+    "id": "fidwell.v1.scenery_small.lolly1",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0C58B301|IRLOLLYC|FD466798",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {

@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_small.waztec27",
+    "id": "fidwell.v1.scenery_small.waztec27",
     "authors": ["Frontier Studios"],
     "version": "1.0",
-    "originalId": "0CC31D01|IRZTE27C|7F81F802",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {

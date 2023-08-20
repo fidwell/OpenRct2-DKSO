@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_wall.wallpr34d",
+    "id": "fidwell.v1.scenery_wall.wallpr34d",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0C58B503|IRWPR34C|03A3C674",
     "sourceGame": "custom",
     "objectType": "scenery_wall",
     "properties": {
@@ -11,7 +10,7 @@
         "hasPrimaryColour": true,
         "hasSecondaryColour": true,
         "hasTertiaryColour": true,
-        "sceneryGroup": "fidwell.scenery_group.fences_dkso"
+        "sceneryGroup": "fidwell.v1.scenery_group.fences_dkso"
     },
     "images": [
       { "path": "images/0.png", "x": -32, "y": -34 },

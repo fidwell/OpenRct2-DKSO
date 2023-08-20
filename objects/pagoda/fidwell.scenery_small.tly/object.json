@@ -1,7 +1,7 @@
 {
-    "id": "fidwell.scenery_small.tly",
+    "id": "fidwell.v1.scenery_small.tly",
     "authors": ["Chris Sawyer", "Simon Foster"],
-    "version": "2.0",
+    "version": "1.0",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {
@@ -9,7 +9,7 @@
         "removalPrice": 2,
         "cursor": "CURSOR_FLOWER_DOWN",
         "height": 8,
-        "sceneryGroup": "fidwell.scenery_group.gardens_dkso",
+        "sceneryGroup": "fidwell.v1.scenery_group.gardens_dkso",
         "shape": "4/4",
         "hasPrimaryColour": true,
         "hasSecondaryColour": true,

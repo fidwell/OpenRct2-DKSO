@@ -1,7 +1,7 @@
 {
-    "id": "fidwell.scenery_small.roof4",
+    "id": "fidwell.v1.scenery_small.roof4",
     "authors": ["Chris Sawyer", "Simon Foster"],
-    "version": "2.0",
+    "version": "1.0",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {

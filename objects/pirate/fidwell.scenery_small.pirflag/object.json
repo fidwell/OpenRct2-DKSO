@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_small.pirflag",
+    "id": "fidwell.v1.scenery_small.pirflag",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0C58B301|IRPIRFLC|0D302168",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {

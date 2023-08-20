@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_small.badshut",
+    "id": "fidwell.v1.scenery_small.badshut",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0C58B301|IREBADSC|89675CA8",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {

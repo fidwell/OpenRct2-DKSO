@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_small.tjb3",
+    "id": "fidwell.v1.scenery_small.tjb3",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0C58B401|IRETJB3C|5A593912",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {
@@ -10,7 +9,7 @@
         "removalPrice": 5,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 48,
-        "sceneryGroup": "fidwell.scenery_group.shrubs_dkso",
+        "sceneryGroup": "fidwell.v1.scenery_group.shrubs_dkso",
         "shape": "1/4",
         "hasPrimaryColour": true
     },

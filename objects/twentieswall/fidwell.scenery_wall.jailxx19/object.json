@@ -1,15 +1,14 @@
 {
-    "id": "fidwell.scenery_wall.jailxx19",
+    "id": "fidwell.v1.scenery_wall.jailxx19",
     "authors": ["Frontier Studios"],
     "version": "1.0",
-    "originalId": "0E24FA03|IRJAI19C|B3B9507F",
     "sourceGame": "custom",
     "objectType": "scenery_wall",
     "properties": {
         "isAllowedOnSlope": true,
         "height": 10,
         "price": 70,
-        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "sceneryGroup": "fidwell.v1.scenery_group.walls_dkso",
         "hasPrimaryColour": true
     },
     "images": [

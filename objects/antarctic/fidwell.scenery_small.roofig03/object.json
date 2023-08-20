@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_small.roofig03",
+    "id": "fidwell.v1.scenery_small.roofig03",
     "authors": ["Frontier Studios"],
     "version": "1.0",
-    "originalId": "0CBD0101|FDRFIG03|6F164A63",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {

@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_large.gdstaue1",
+    "id": "fidwell.v1.scenery_large.gdstaue1",
     "authors": ["Frontier Studios"],
     "version": "1.0",
-    "originalId": "0CC31D02|FGDSTAT1|6D92E077",
     "sourceGame": "custom",
     "objectType": "scenery_large",
     "properties": {

@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_small.tgs4",
+    "id": "fidwell.v1.scenery_small.tgs4",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0C58B401|IRETGS4C|DD2299E6",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {

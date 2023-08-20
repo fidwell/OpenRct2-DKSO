@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_small.ball4",
+    "id": "fidwell.v1.scenery_small.ball4",
     "authors": ["Chris Sawyer", "Simon Foster"],
-    "version": "2.0",
-    "originalId": "0C58B301|IRBALL4C|5730FCFB",
+    "version": "1.0",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {

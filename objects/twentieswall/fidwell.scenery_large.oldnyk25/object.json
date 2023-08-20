@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_large.oldnyk25",
+    "id": "fidwell.v1.scenery_large.oldnyk25",
     "authors": ["Frontier Studios"],
     "version": "1.0",
-    "originalId": "0E24F902|IRNYK25C|65364A09",
     "sourceGame": "custom",
     "objectType": "scenery_large",
     "properties": {
@@ -10,7 +9,7 @@
         "price": 28,
         "removalPrice": -22,
         "cursor": "CURSOR_STATUE_DOWN",
-        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "sceneryGroup": "fidwell.v1.scenery_group.walls_dkso",
         "tiles": [
             {
                 "x": 0,

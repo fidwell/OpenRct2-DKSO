@@ -1,8 +1,7 @@
 {
-    "id": "fidwell.scenery_small.chest1",
+    "id": "fidwell.v1.scenery_small.chest1",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
-    "originalId": "0C58B301|IRCHESTC|FB69DC8F",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {

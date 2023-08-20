@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.scenery_small.ttpirf07",
+    "id": "fidwell.v1.scenery_small.ttpirf07",
     "authors": [
         "Simon Foster",
         "ToonTowner"
@@ -12,7 +12,7 @@
         "removalPrice": -15,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 16,
-        "sceneryGroup": "fidwell.scenery_group.walls_dkso",
+        "sceneryGroup": "fidwell.v1.scenery_group.walls_dkso",
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
