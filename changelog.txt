@@ -1,3 +1,7 @@
+7.1
+------------------------------------------------------------------------
+- Cleaned up sprites for fire1 (mechanical theming)
+
 7.0
 ------------------------------------------------------------------------
 - Headline: All objects and groups now use numbered versioning. All item names now prefixed with "v1".
