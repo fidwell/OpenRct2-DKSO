@@ -1,5 +1,9 @@
 "use strict";
 
+const isOldObject = function (id) {
+    return id.indexOf("fidwell.") == 0 && id.indexOf("fidwell.v1.") < 0;
+};
+
 const replace = function () {
     console.log("Starting replacement...");
     var countReplaced = 0;
@@ -13,7 +17,7 @@ const replace = function () {
                     element.type === "large_scenery" ||
                     element.type === "wall") {
                     const loadedObject = objectManager.getObject(element.type, element.object);
-                    if (loadedObject && loadedObject.identifier.indexOf("fidwell.") == 0 && loadedObject.identifier.indexOf("fidwell.v1.") < 0) {
+                    if (loadedObject && isOldObject(loadedObject.identifier)) {
                         var newIdentifier = "fidwell.v1." + loadedObject.identifier.substr(8);
                         const newObject = objectManager.load(newIdentifier);
                         if (newObject !== undefined) {
@@ -28,10 +32,9 @@ const replace = function () {
             }
         }
     }
-    console.executeLegacy("remove_unused_objects");
 
     console.log("Removing old scenery groups...");
-    const allGroups = objectManager.getAllObjects("scenery_group").filter(function (g) { return g.identifier.indexOf("fidwell.") === 0 && g.identifier.indexOf("fidwell.v1." < 0); });
+    const allGroups = objectManager.getAllObjects("scenery_group").filter(function (g) { return isOldObject(g.identifier); });
     for (var g = 0; g < allGroups.length; g++) {
         const newGroup = "fidwell.v1." + allGroups[g].identifier.substr(8);
         objectManager.unload(allGroups[g].identifier);
@@ -39,6 +42,15 @@ const replace = function () {
         for (var o = 0; o < groupObject.items.length; o += 1) {
             objectManager.load(groupObject.items[o]);
         }
+    }
+
+    console.log("Unloading old objects...")
+    const oldObjects = objectManager.getAllObjects("small_scenery")
+        .concat(objectManager.getAllObjects("large_scenery"))
+        .concat(objectManager.getAllObjects("wall"))
+        .filter(function (o) { return isOldObject(o.identifier); });
+    for (var o = 0; o < oldObjects.length; o++) {
+        objectManager.unload(oldObjects[o].identifier);
     }
 
     if (countCouldntReplace > 0) {
