@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_wall.wpw2",
+    "id": "fidwell.v2.scenery_wall.wpw2",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -12,12 +12,12 @@
         "sceneryGroup": "fidwell.v1.scenery_group.fences_dkso"
     },
     "images": [
-      { "path": "images/0.png", "x": -31, "y": -21 },
-      { "path": "images/1.png", "x": -1, "y": -20 },
-      { "path": "images/2.png", "x": -31, "y": -37 },
-      { "path": "images/3.png", "x": -1, "y": -36 },
-      { "path": "images/4.png", "x": -32, "y": -25 },
-      { "path": "images/5.png", "x": -1, "y": -24 }
+        { "path": "images/0.png", "x": -31, "y": -21 },
+        { "path": "images/1.png", "x": -1, "y": -20 },
+        { "path": "images/2.png", "x": -31, "y": -37 },
+        { "path": "images/3.png", "x": -1, "y": -36 },
+        { "path": "images/4.png", "x": -32, "y": -25 },
+        { "path": "images/5.png", "x": -1, "y": -24 }
     ],
     "strings": {
         "name": {
