@@ -1,0 +1,49 @@
+{
+    "id": "fidwell.scenery_small.medstool",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 4,
+        "removalPrice": -2,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 8,
+        "shape": "1/4",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -9, "y": -6 },
+        { "path": "images/1.png", "x": -1, "y": -12 },
+        { "path": "images/2.png", "x": 5, "y": -9 },
+        { "path": "images/3.png", "x": -2, "y": -6 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Stool",
+            "fr-FR": "Tabouret",
+            "de-DE": "Hocker",
+            "es-ES": "Taburete",
+            "it-IT": "Sgabello",
+            "nl-NL": "Krukje",
+            "sv-SE": "Pall",
+            "ko-KR": "변",
+            "zh-TW": "凳子",
+            "pt-BR": "Tamborete",
+            "cs-CZ": "Stolička",
+            "pl-PL": "Stołek",
+            "ru-RU": "Лавка",
+            "ja-JP": "椅子",
+            "eo-ZZ": "Benketo",
+            "ca-ES": "Tamboret",
+            "fi-FI": "Sieni",
+            "zh-CN": "凳子"
+        }
+    }
+}
