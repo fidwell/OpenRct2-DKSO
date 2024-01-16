@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_small.trf2",
+    "id": "fidwell.v2.scenery_small.trf2",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -12,6 +12,7 @@
         "isTree": true,
         "shape": "1/4",
         "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true
     },
     "images": [
