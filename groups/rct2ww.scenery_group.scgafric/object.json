@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_group.africa_dkso",
+    "id": "fidwell.v2.scenery_group.africa_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -103,8 +103,7 @@
             "rct2ww.scenery_wall.wwdaub06",
             "rct2ww.scenery_wall.wwdaub07",
             "rct2ww.scenery_small.rcorr01",
-            "$DAT:0CBD0401|RSTNRF3C",
-            "$DAT:0CBD0401|IRCOR01C",
+            "fidwell.v1.scenery_small.rcorr01",
             "rct2ww.scenery_small.rcorr02",
             "$DAT:0CBD0401|IRRCR02C",
             "rct2ww.scenery_small.rcorr03",
