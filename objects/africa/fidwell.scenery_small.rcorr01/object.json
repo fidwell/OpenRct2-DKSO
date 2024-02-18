@@ -15,7 +15,7 @@
         "isRotatable": true,
         "isStackable": true,
         "hasNoSupports": true,
-        "hasPrimaryColor": true
+        "hasPrimaryColour": true
     },
     "images": [
         { "path": "images/0.png", "x": -32, "y": -15 },

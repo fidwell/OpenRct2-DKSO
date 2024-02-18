@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.v1.scenery_wall.wwdaub04",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -31, "y": -33 },
+        { "path": "images/1.png", "x": -1, "y": -32 },
+        { "path": "images/2.png", "x": -31, "y": -49 },
+        { "path": "images/3.png", "x": -1, "y": -48 },
+        { "path": "images/4.png", "x": -31, "y": -33 },
+        { "path": "images/5.png", "x": -1, "y": -32 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Wattle & Daub Wall",
+            "fr-FR": "Mur en clayonnage",
+            "de-DE": "Lehmflechtwerk-Wand",
+            "es-ES": "Pared de entramado pintado",
+            "it-IT": "Parete di canne e fango",
+            "nl-NL": "Vitselstekmuur",
+            "sv-SE": "Flätverk, vägg",
+            "zh-CN": "泥芭墙",
+            "cs-CZ": "Hliněná zeď",
+            "ko-KR": "초벽 벽",
+            "pl-PL": "Ściana lepianki",
+            "ru-RU": "Стена",
+            "pt-BR": "Parede de Pau a Pique",
+            "ja-JP": "土壁",
+            "eo-ZZ": "Muro el hurdoj kaj tero",
+            "ca-ES": "Paret de fusta i fang",
+            "fi-FI": "Savitalon seinä"
+        }
+    }
+}
