@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_group.walls_dkso",
+    "id": "fidwell.v2.scenery_group.walls_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -22,7 +22,7 @@
             "fidwell.v1.scenery_wall.wallbb8",
             "rct2.scenery_wall.wallbb33",
             "fidwell.v1.scenery_wall.wallbb33",
-            "toontowner.scenery_small.xxbbbr01",
+            "toontowner.scenery_small.xxbbbr01_fix",
             "fidwell.v1.scenery_small.xxbbbr01",
             "rct2.scenery_small.roof5",
             "fidwell.v1.scenery_small.roof5",
@@ -113,24 +113,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v1 Walls and Roofs",
-            "fr-FR": "DKSO v1 Façades et toits",
-            "de-DE": "DKSO v1 Wände und Dächer",
-            "es-ES": "DKSO v1 Paredes y tejados",
-            "it-IT": "DKSO v1 Muri e tetti",
-            "nl-NL": "DKSO v1 Muren en daken",
-            "sv-SE": "DKSO v1 Väggar och tak",
-            "ko-KR": "DKSO v1 벽과 지붕",
-            "zh-CN": "DKSO v1 墙和 屋顶",
-            "zh-TW": "DKSO v1 牆和 屋頂",
-            "pt-BR": "DKSO v1 Paredes e Tetos",
-            "cs-CZ": "DKSO v1 Stěny a střechy",
-            "ja-JP": "DKSO v1 壁と屋根",
-            "pl-PL": "DKSO v1 Ściany i dachy",
-            "ru-RU": "DKSO v1 Стены и крыши",
-            "eo-ZZ": "DKSO v1 Muroj kaj Tegmentoj",
-            "ca-ES": "DKSO v1 Parets i teulades",
-            "fi-FI": "DKSO v1 Seinät ja katot"
+            "en-GB": "DKSO v2 Walls and Roofs",
+            "fr-FR": "DKSO v2 Façades et toits",
+            "de-DE": "DKSO v2 Wände und Dächer",
+            "es-ES": "DKSO v2 Paredes y tejados",
+            "it-IT": "DKSO v2 Muri e tetti",
+            "nl-NL": "DKSO v2 Muren en daken",
+            "sv-SE": "DKSO v2 Väggar och tak",
+            "ko-KR": "DKSO v2 벽과 지붕",
+            "zh-CN": "DKSO v2 墙和 屋顶",
+            "zh-TW": "DKSO v2 牆和 屋頂",
+            "pt-BR": "DKSO v2 Paredes e Tetos",
+            "cs-CZ": "DKSO v2 Stěny a střechy",
+            "ja-JP": "DKSO v2 壁と屋根",
+            "pl-PL": "DKSO v2 Ściany i dachy",
+            "ru-RU": "DKSO v2 Стены и крыши",
+            "eo-ZZ": "DKSO v2 Muroj kaj Tegmentoj",
+            "ca-ES": "DKSO v2 Parets i teulades",
+            "fi-FI": "DKSO v2 Seinät ja katot"
         }
     }
 }
