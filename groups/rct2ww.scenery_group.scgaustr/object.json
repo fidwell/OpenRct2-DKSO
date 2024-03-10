@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_group.australasia_dkso",
+    "id": "fidwell.v2.scenery_group.australasia_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -28,7 +28,9 @@
             "rct2ww.scenery_small.wnauti01",
             "fidwell.v1.scenery_small.wnauti01",
             "rct2ww.scenery_small.wnauti02",
+            "fidwell.v1.scenery_small.wnauti02",
             "rct2ww.scenery_small.wnauti03",
+            "fidwell.v1.scenery_small.wnauti03",
             "rct2ww.scenery_small.wnauti04",
             "rct2ww.scenery_small.wnauti05",
             "rct2ww.scenery_wall.wallna01",
@@ -72,23 +74,23 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v1 Australasian Theming",
-            "fr-FR": "DKSO v1 Thème Australie",
-            "de-DE": "DKSO v1 Australien-Thema",
-            "es-ES": "DKSO v1 Temática australiana",
-            "it-IT": "DKSO v1 Tema australiano",
-            "nl-NL": "DKSO v1 Australisch thema",
-            "sv-SE": "DKSO v1 Australiensiskt tema",
-            "cs-CZ": "DKSO v1 Austrálie",
-            "ko-KR": "DKSO v1 오스트레일리아 테마",
-            "pl-PL": "DKSO v1 Wystrój australoazjatycki",
-            "ru-RU": "DKSO v1 Тема Австралазии",
-            "pt-BR": "DKSO v1 Temática Australiana",
-            "ja-JP": "DKSO v1 オーストラリアのテーマ",
-            "eo-ZZ": "DKSO v1 Aŭstralazia Temo",
-            "ca-ES": "DKSO v1 Temàtica australiana i asiàtica",
-            "fi-FI": "DKSO v1 Australaasialaisteemaus",
-            "zh-CN": "DKSO v1 大洋洲主题"
+            "en-GB": "DKSO v2 Australasian Theming",
+            "fr-FR": "DKSO v2 Thème Australie",
+            "de-DE": "DKSO v2 Australien-Thema",
+            "es-ES": "DKSO v2 Temática australiana",
+            "it-IT": "DKSO v2 Tema australiano",
+            "nl-NL": "DKSO v2 Australisch thema",
+            "sv-SE": "DKSO v2 Australiensiskt tema",
+            "cs-CZ": "DKSO v2 Austrálie",
+            "ko-KR": "DKSO v2 오스트레일리아 테마",
+            "pl-PL": "DKSO v2 Wystrój australoazjatycki",
+            "ru-RU": "DKSO v2 Тема Австралазии",
+            "pt-BR": "DKSO v2 Temática Australiana",
+            "ja-JP": "DKSO v2 オーストラリアのテーマ",
+            "eo-ZZ": "DKSO v2 Aŭstralazia Temo",
+            "ca-ES": "DKSO v2 Temàtica australiana i asiàtica",
+            "fi-FI": "DKSO v2 Australaasialaisteemaus",
+            "zh-CN": "DKSO v2 大洋洲主题"
         }
     }
 }
