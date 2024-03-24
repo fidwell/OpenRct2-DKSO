@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_group.samerica_dkso",
+    "id": "fidwell.v2.scenery_group.samerica_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -180,6 +180,7 @@
             "rct2ww.scenery_small.1x1jugt2",
             "rct2ww.scenery_small.1x1jugt3",
             "rct2ww.scenery_large.3x3mantr",
+            "fidwell.v1.scenery_large.3x3mantr",
             "rct2ww.scenery_large.largeju1",
             "rct2ww.scenery_large.gdstaue1",
             "fidwell.v1.scenery_large.gdstaue1",
@@ -198,23 +199,23 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v1 South America Theming",
-            "fr-FR": "DKSO v1 Thème Amérique du Sud",
-            "de-DE": "DKSO v1 Südamerika-Thema",
-            "es-ES": "DKSO v1 Temática sudamericana",
-            "it-IT": "DKSO v1 Tema sudamericano",
-            "nl-NL": "DKSO v1 Zuid-Amerikaans thema",
-            "sv-SE": "DKSO v1 Sydamerikanskt tema",
-            "cs-CZ": "DKSO v1 Jižní Amerika",
-            "ko-KR": "DKSO v1 남아메리카 테마",
-            "pl-PL": "DKSO v1 Wystrój południowoamerykański",
-            "ru-RU": "DKSO v1 Тема Северной Америки",
-            "pt-BR": "DKSO v1 Temática Sul-americana",
-            "ja-JP": "DKSO v1 南アメリカのテーマ",
-            "eo-ZZ": "DKSO v1 Sudamerika Temo",
-            "ca-ES": "DKSO v1 Temàtica sud-americana",
-            "fi-FI": "DKSO v1 Eteläamerikkalaisteemaus",
-            "zh-CN": "DKSO v1 南美洲主题"
+            "en-GB": "DKSO v2 South America Theming",
+            "fr-FR": "DKSO v2 Thème Amérique du Sud",
+            "de-DE": "DKSO v2 Südamerika-Thema",
+            "es-ES": "DKSO v2 Temática sudamericana",
+            "it-IT": "DKSO v2 Tema sudamericano",
+            "nl-NL": "DKSO v2 Zuid-Amerikaans thema",
+            "sv-SE": "DKSO v2 Sydamerikanskt tema",
+            "cs-CZ": "DKSO v2 Jižní Amerika",
+            "ko-KR": "DKSO v2 남아메리카 테마",
+            "pl-PL": "DKSO v2 Wystrój południowoamerykański",
+            "ru-RU": "DKSO v2 Тема Северной Америки",
+            "pt-BR": "DKSO v2 Temática Sul-americana",
+            "ja-JP": "DKSO v2 南アメリカのテーマ",
+            "eo-ZZ": "DKSO v2 Sudamerika Temo",
+            "ca-ES": "DKSO v2 Temàtica sud-americana",
+            "fi-FI": "DKSO v2 Eteläamerikkalaisteemaus",
+            "zh-CN": "DKSO v2 南美洲主题"
         }
     }
 }
