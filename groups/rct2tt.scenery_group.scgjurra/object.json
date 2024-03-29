@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_group.prehistoric_dkso",
+    "id": "fidwell.v2.scenery_group.prehistoric_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -48,6 +48,7 @@
             "rct2tt.scenery_small.tarpit03",
             "fidwell.v1.scenery_small.tarpit03",
             "rct2tt.scenery_small.tarpit04",
+            "fidwell.v1.scenery_small.tarpit04",
             "rct2tt.scenery_small.tarpit05",
             "rct2tt.scenery_small.tarpit06",
             "rct2tt.scenery_small.tarpit07",
@@ -120,24 +121,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v1 Prehistoric Theming",
-            "fr-FR": "DKSO v1 Thème de la préhistoire",
-            "de-DE": "DKSO v1 Vorgeschichte-Thema",
-            "es-ES": "DKSO v1 Tema prehistórico",
-            "it-IT": "DKSO v1 Tema preistorico",
-            "nl-NL": "DKSO v1 Prehistorisch thema",
-            "sv-SE": "DKSO v1 Förhistoriskt tema",
-            "ko-KR": "DKSO v1 선사시대 테마",
-            "zh-TW": "DKSO v1 史前時代主題區",
-            "pt-BR": "DKSO v1 Temática Pré-Histórica",
-            "cs-CZ": "DKSO v1 Pravěk",
-            "pl-PL": "DKSO v1 Wystrój prehistoryczny",
-            "ru-RU": "DKSO v1 Доисторический Мир",
-            "ja-JP": "DKSO v1 前史時代のテーマ",
-            "eo-ZZ": "DKSO v1 Praa Temo",
-            "ca-ES": "DKSO v1 Temàtica prehistòrica",
-            "fi-FI": "DKSO v1 Esihistoriallinen teemaus",
-            "zh-CN": "DKSO v1 史前主题"
+            "en-GB": "DKSO v2 Prehistoric Theming",
+            "fr-FR": "DKSO v2 Thème de la préhistoire",
+            "de-DE": "DKSO v2 Vorgeschichte-Thema",
+            "es-ES": "DKSO v2 Tema prehistórico",
+            "it-IT": "DKSO v2 Tema preistorico",
+            "nl-NL": "DKSO v2 Prehistorisch thema",
+            "sv-SE": "DKSO v2 Förhistoriskt tema",
+            "ko-KR": "DKSO v2 선사시대 테마",
+            "zh-TW": "DKSO v2 史前時代主題區",
+            "pt-BR": "DKSO v2 Temática Pré-Histórica",
+            "cs-CZ": "DKSO v2 Pravěk",
+            "pl-PL": "DKSO v2 Wystrój prehistoryczny",
+            "ru-RU": "DKSO v2 Доисторический Мир",
+            "ja-JP": "DKSO v2 前史時代のテーマ",
+            "eo-ZZ": "DKSO v2 Praa Temo",
+            "ca-ES": "DKSO v2 Temàtica prehistòrica",
+            "fi-FI": "DKSO v2 Esihistoriallinen teemaus",
+            "zh-CN": "DKSO v2 史前主题"
         }
     }
 }
