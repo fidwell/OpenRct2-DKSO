@@ -1,11 +1,12 @@
 {
-    "id": "fidwell.v1.scenery_wall.wsw2",
+    "id": "fidwell.v2.scenery_wall.wsw2",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "custom",
     "objectType": "scenery_wall",
     "properties": {
         "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
         "isOpaque": true,
         "height": 3,
         "price": 50
