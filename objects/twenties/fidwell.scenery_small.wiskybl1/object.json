@@ -1,0 +1,48 @@
+{
+    "id": "fidwell.v1.scenery_small.wiskybl1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 14,
+        "removalPrice": -8,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 16,
+        "shape": "4/4",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -6, "y": -13 },
+        { "path": "images/1.png", "x": -6, "y": -13 },
+        { "path": "images/2.png", "x": -6, "y": -13 },
+        { "path": "images/3.png", "x": -6, "y": -13 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Whisky Barrel",
+            "fr-FR": "Fût de whisky",
+            "de-DE": "Whiskyfass",
+            "es-ES": "Barril de whisky",
+            "it-IT": "Barile di whisky",
+            "nl-NL": "Whiskyvat",
+            "sv-SE": "Whiskytunna",
+            "ko-KR": "위스키 통",
+            "zh-TW": "威士忌桶",
+            "pt-BR": "Barril de Uísque",
+            "cs-CZ": "Whisky barel",
+            "pl-PL": "Baryłka whisky",
+            "ru-RU": "Бочка виски",
+            "ja-JP": "ウィスキー樽",
+            "eo-ZZ": "Viskio-Barelo",
+            "ca-ES": "Barril de whisky",
+            "fi-FI": "Viskitynnyri",
+            "zh-CN": "威士忌桶",
+            "hu-HU": "Whiskys hordó"
+        }
+    }
+}
