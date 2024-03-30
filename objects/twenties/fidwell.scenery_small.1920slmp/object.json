@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.v1.scenery_small.1920slmp",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "price": 12,
+        "removalPrice": -9,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 72,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+      { "path": "images/0.png", "x": -12, "y": -65 },
+      { "path": "images/1.png", "x": -12, "y": -64 },
+      { "path": "images/2.png", "x": -13, "y": -65 },
+      { "path": "images/3.png", "x": -13, "y": -65 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Period Street Lamps",
+            "fr-FR": "Réverbères d’époque",
+            "de-DE": "Antike Straßenlaternen",
+            "es-ES": "Punto de farolas",
+            "it-IT": "Lampioni ricorrenti",
+            "nl-NL": "Antieke straatlantaarns",
+            "sv-SE": "Historiska gatlyktor",
+            "ko-KR": "기간 가로등",
+            "zh-TW": "區間路燈",
+            "pt-BR": "Postes de Luz de Época",
+            "cs-CZ": "Stará pouliční lampa",
+            "pl-PL": "Stylowe lampy uliczne",
+            "ru-RU": "Уличные фонари",
+            "ja-JP": "1920時代のStreet Lamps",
+            "eo-ZZ": "Historiaj Stratlumoj",
+            "ca-ES": "Faroles d’època",
+            "fi-FI": "Aikakauden katuvalo",
+            "zh-CN": "老式-路灯"
+        }
+    }
+}
