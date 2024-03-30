@@ -1,0 +1,87 @@
+{
+    "id": "fidwell.v1.scenery_large.easerlnd",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 136,
+        "removalPrice": -118,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "hasPrimaryColour": true,
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 138,
+                "hasSupports": true,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 138,
+                "hasSupports": true,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 138,
+                "hasSupports": true,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 138,
+                "hasSupports": true,
+                "walls": 2
+            }
+        ]
+    },
+    "images": [
+        { "path": "images/00.png", "x": -32, "y": 10 },
+        { "path": "images/01.png", "x": -30, "y": 1 },
+        { "path": "images/02.png", "x": -29, "y": 8 },
+        { "path": "images/03.png", "x": -32, "y": 18 },
+        { "path": "images/04.png", "x": 0, "y": 0 },
+        { "path": "images/05.png", "x": 0, "y": -28 },
+        { "path": "images/06.png", "x": -32, "y": -112 },
+        { "path": "images/07.png", "x": -10, "y": -46 },
+        { "path": "images/08.png", "x": 0, "y": -1 },
+        { "path": "images/09.png", "x": -32, "y": -113 },
+        { "path": "images/10.png", "x": -8, "y": -9 },
+        { "path": "images/11.png", "x": 0, "y": 0 },
+        { "path": "images/12.png", "x": -9, "y": -28 },
+        { "path": "images/13.png", "x": 0, "y": 0 },
+        { "path": "images/14.png", "x": 0, "y": -5 },
+        { "path": "images/15.png", "x": -32, "y": -101 },
+        { "path": "images/16.png", "x": -32, "y": -104 },
+        { "path": "images/17.png", "x": -7, "y": 2 },
+        { "path": "images/18.png", "x": 0, "y": 0 },
+        { "path": "images/19.png", "x": 0, "y": -8 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Easter Island Statue",
+            "fr-FR": "Statue de l’île de Pâques 1",
+            "de-DE": "Osterinselstatue",
+            "es-ES": "Estatua de la isla de Pascua 1",
+            "it-IT": "Statua dell’isola di Pasqua 1",
+            "nl-NL": "Beeld Paaseiland 1",
+            "sv-SE": "Påskö-staty 1",
+            "cs-CZ": "Socha Velikonočního ostrova",
+            "ko-KR": "이스터 섬 조각상",
+            "pl-PL": "Posąg z Wyspy Wielkanocnej",
+            "ru-RU": "Статуя о. Пасхи",
+            "pt-BR": "Estátua da Ilha de Páscoa",
+            "ja-JP": "イースター島の像",
+            "eo-ZZ": "Statuo de Paskinsulo",
+            "ca-ES": "Estàtua de l’illa de Pasqua",
+            "fi-FI": "Pääsiäissaarten patsas",
+            "zh-CN": "复活节岛雕像"
+        }
+    }
+}
