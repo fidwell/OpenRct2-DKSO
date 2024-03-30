@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_small.tarpit03",
+    "id": "fidwell.v2.scenery_small.tarpit03",
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -112,7 +112,8 @@
             "eo-ZZ": "Bobelanta Gudrejo",
             "ca-ES": "Pou de brea bombollejant",
             "fi-FI": "Kupliva tervahauta",
-            "zh-CN": "冒泡的焦油坑"
+            "zh-CN": "冒泡的焦油坑",
+            "hu-HU": "Fortyogó kátránygödör"
         }
     }
 }
