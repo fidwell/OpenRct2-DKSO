@@ -1,18 +1,23 @@
 {
-    "id": "fidwell.v1.scenery_wall.wallig16",
+    "id": "fidwell.v2.scenery_wall.wallig16",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "custom",
     "objectType": "scenery_wall",
     "properties": {
+        "isAllowedOnSlope": true,
         "hasPrimaryColour": true,
         "height": 2,
         "price": 50,
-        "sceneryGroup": "fidwell.v1.scenery_group.walls_dkso"
+        "sceneryGroup": "fidwell.v2.scenery_group.walls_dkso"
     },
     "images": [
       { "path": "images/0.png", "x": -31, "y": -16 },
-      { "path": "images/1.png", "x": -1, "y": -16 }
+      { "path": "images/1.png", "x": -1, "y": -16 },
+      { "path": "images/2.png", "x": -31, "y": -32 },
+      { "path": "images/3.png", "x": -1, "y": -31 },
+      { "path": "images/4.png", "x": -31, "y": -17 },
+      { "path": "images/5.png", "x": -1, "y": -16 }
     ],
     "strings": {
         "name": {
