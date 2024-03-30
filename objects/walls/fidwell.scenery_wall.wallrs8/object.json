@@ -1,17 +1,22 @@
 {
-    "id": "fidwell.v1.scenery_wall.wallrs8",
+    "id": "fidwell.v2.scenery_wall.wallrs8",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "custom",
     "objectType": "scenery_wall",
     "properties": {
+        "isAllowedOnSlope": true,
         "hasPrimaryColour": true,
         "height": 1,
         "price": 40
     },
     "images": [
       { "path": "images/0.png", "x": -31, "y": -9 },
-      { "path": "images/1.png", "x": -1, "y": -8 }
+      { "path": "images/1.png", "x": -1, "y": -8 },
+      { "path": "images/2.png", "x": -31, "y": -25 },
+      { "path": "images/3.png", "x": -1, "y": -24 },
+      { "path": "images/4.png", "x": -31, "y": -9 },
+      { "path": "images/5.png", "x": -1, "y": -8 }
     ],
     "strings": {
         "name": {
