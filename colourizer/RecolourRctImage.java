@@ -39,7 +39,7 @@ public class RecolourRctImage {
 			imageDataBufferElementsCopy[i] = imageDataBuffer.getElem(i);
 		}
 		
-		int[] fromIndexes = { 10, 22, 34, 46, 58, 70, 82, 94, 106, 118, 130, 142, 154, 166, 178, 190, 214 };
+		int[] fromIndexes = { 10, 22, 34, 46, 58, 70, 82, 94, 106, 118, 130, 142, 154, 166, 178, 190, 202, 214 };
 		int targetIndex = 243;
 		int rangeSize = 12;
 		
