@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_small.badshut",
+    "id": "fidwell.v2.scenery_small.badshut",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -17,9 +17,9 @@
     },
     "images": [
       { "path": "images/0.png", "x": -11, "y": -28 },
-      { "path": "images/1.png", "x": -11, "y": -28 },
-      { "path": "images/2.png", "x": -11, "y": -28 },
-      { "path": "images/3.png", "x": -11, "y": -28 }
+      { "path": "images/0.png", "x": -11, "y": -28 },
+      { "path": "images/0.png", "x": -11, "y": -28 },
+      { "path": "images/0.png", "x": -11, "y": -28 }
     ],
     "strings": {
         "name": {
