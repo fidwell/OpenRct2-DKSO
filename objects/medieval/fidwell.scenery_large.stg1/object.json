@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_large.stg1",
+    "id": "fidwell.v2.scenery_large.stg1",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -10,6 +10,7 @@
         "cursor": "CURSOR_HOUSE_DOWN",
         "hasPrimaryColour": true,
         "hasSecondaryColour": true,
+        "hasTertiaryColour": true,
         "tiles": [
             {
                 "x": 0,
