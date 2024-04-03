@@ -1,0 +1,84 @@
+{
+    "id": "fidwell.v1.scenery_large.mcastl01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "hasPrimaryColour": true,
+        "price": 28,
+        "removalPrice": -24,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "sceneryGroup": "fidwell.v2.scenery_group.walls_dkso",
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 160,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 160,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 160,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 160,
+                "walls": 2
+            }
+        ]
+    },
+    "images": [
+        { "path": "images/00.png", "x": -32, "y": 10 },
+        { "path": "images/01.png", "x": -16, "y": 2 },
+        { "path": "images/02.png", "x": -32, "y": 5 },
+        { "path": "images/03.png", "x": -26, "y": 8 },
+        { "path": "images/04.png", "x": 0, "y": 0 },
+        { "path": "images/05.png", "x": 31, "y": 40 },
+        { "path": "images/06.png", "x": -32, "y": -141 },
+        { "path": "images/07.png", "x": -1, "y": 42 },
+        { "path": "images/08.png", "x": 0, "y": -133 },
+        { "path": "images/09.png", "x": -16, "y": -152 },
+        { "path": "images/10.png", "x": -8, "y": -109 },
+        { "path": "images/11.png", "x": 0, "y": 0 },
+        { "path": "images/12.png", "x": -8, "y": -133 },
+        { "path": "images/13.png", "x": 0, "y": 0 },
+        { "path": "images/14.png", "x": 0, "y": -109 },
+        { "path": "images/15.png", "x": -32, "y": -153 },
+        { "path": "images/16.png", "x": -32, "y": -149 },
+        { "path": "images/17.png", "x": -1, "y": 40 },
+        { "path": "images/18.png", "x": 0, "y": 0 },
+        { "path": "images/19.png", "x": 31, "y": 42 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Castle Inverted Corner",
+            "fr-FR": "Coin inversé du château",
+            "de-DE": "Umgedrehte Schlossecke",
+            "es-ES": "Esquina inversa de castillo",
+            "it-IT": "Curva invertita del Castello",
+            "nl-NL": "Omgekeerde bocht kasteel",
+            "sv-SE": "Omvänt hörn, slott",
+            "ko-KR": "반전된 성 구석",
+            "zh-TW": "反向城堡牆角塊",
+            "pt-BR": "Canto Invertido de Castelo",
+            "cs-CZ": "Hradní obrácený roh",
+            "pl-PL": "Zamkowy odwrócony narożnik",
+            "ru-RU": "Деталь замка",
+            "ja-JP": "城のコーナー部分（反転）",
+            "eo-ZZ": "Inversigita Angulo de Kastelo",
+            "ca-ES": "Cantonada inversa de castell",
+            "fi-FI": "Linnan sisäkulmaosa",
+            "zh-CN": "城堡-内角"
+        }
+    }
+}

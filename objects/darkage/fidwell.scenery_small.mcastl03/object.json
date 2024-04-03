@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.v1.scenery_small.mcastl03",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "hasPrimaryColour": true,
+        "price": 24,
+        "removalPrice": -18,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 128,
+        "sceneryGroup": "fidwell.v2.scenery_group.walls_dkso",
+        "shape": "2/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -8, "y": -133 },
+        { "path": "images/1.png", "x": -8, "y": -121 },
+        { "path": "images/2.png", "x": -32, "y": -117 },
+        { "path": "images/3.png", "x": -32, "y": -129 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Castle Wall",
+            "fr-FR": "Mur du château",
+            "de-DE": "Schlossmauer",
+            "es-ES": "Muro de castillo",
+            "it-IT": "Muro del Castello",
+            "nl-NL": "Kasteelmuur",
+            "sv-SE": "Slottsvägg",
+            "ko-KR": "성벽",
+            "zh-TW": "城堡牆",
+            "pt-BR": "Muro de Castelo",
+            "cs-CZ": "Hradní stěna",
+            "pl-PL": "Mur zamkowy",
+            "ru-RU": "Стена замка",
+            "ja-JP": "城の壁",
+            "eo-ZZ": "Muro de Kastelo",
+            "ca-ES": "Muralla de castell",
+            "fi-FI": "Linnan seinä",
+            "zh-CN": "城堡-墙"
+        }
+    }
+}
