@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_wall.wc7",
+    "id": "fidwell.v2.scenery_wall.wc7",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -8,9 +8,10 @@
         "isAllowedOnSlope": true,
         "height": 9,
         "price": 100,
-        "sceneryGroup": "fidwell.v1.scenery_group.fences_dkso",
+        "sceneryGroup": "fidwell.v2.scenery_group.fences_dkso",
         "hasPrimaryColour": true,
-        "hasSecondaryColour": true
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true
     },
     "images": [
       { "path": "images/0.png", "x": -32, "y": -68 },
