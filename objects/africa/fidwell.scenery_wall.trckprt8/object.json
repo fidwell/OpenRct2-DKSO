@@ -1,0 +1,45 @@
+{
+  "id": "fidwell.v1.scenery_small.trckprt8",
+  "authors": ["Frontier Studios"],
+  "version": "1.0",
+  "sourceGame": "custom",
+  "objectType": "scenery_small",
+  "properties": {
+    "price": 20,
+    "removalPrice": -15,
+    "cursor": "CURSOR_STATUE_DOWN",
+    "height": 32,
+    "shape": "4/4",
+    "isRotatable": true,
+    "isStackable": true,
+    "hasPrimaryColour": true,
+    "hasSecondaryColour": true
+  },
+  "images": [
+    { "path": "images/0.png", "x": -23, "y": -12 },
+    { "path": "images/1.png", "x": -21, "y": -12 },
+    { "path": "images/2.png", "x": -22, "y": -12 },
+    { "path": "images/3.png", "x": -22, "y": -13 }
+  ],
+  "strings": {
+    "name": {
+      "en-GB": "Track Split",
+      "fr-FR": "Bifurcation de voie",
+      "de-DE": "Streckenverzweigung",
+      "es-ES": "División de railes",
+      "it-IT": "Diramazione dei binari",
+      "nl-NL": "Mijnspoor met wissel",
+      "sv-SE": "Spårförgrening",
+      "zh-CN": "轨道裂缝",
+      "cs-CZ": "Rozpůlení tratě",
+      "ko-KR": "분기 트랙",
+      "pl-PL": "Rozwidlenie toru",
+      "ru-RU": "Трек",
+      "pt-BR": "Divisão de Trilho",
+      "ja-JP": "線路 分岐",
+      "eo-ZZ": "Fendata Trako",
+      "ca-ES": "Separació de vies",
+      "fi-FI": "Radan vaihde"
+    }
+  }
+}

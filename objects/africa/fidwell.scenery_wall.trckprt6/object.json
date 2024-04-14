@@ -1,0 +1,45 @@
+{
+  "id": "fidwell.v1.scenery_small.trckprt6",
+  "authors": ["Frontier Studios"],
+  "version": "1.0",
+  "sourceGame": "custom",
+  "objectType": "scenery_small",
+  "properties": {
+    "price": 20,
+    "removalPrice": -15,
+    "cursor": "CURSOR_STATUE_DOWN",
+    "height": 32,
+    "shape": "4/4",
+    "isRotatable": true,
+    "isStackable": true,
+    "hasPrimaryColour": true,
+    "hasSecondaryColour": true
+  },
+  "images": [
+    { "path": "images/0.png", "x": -23, "y": -25 },
+    { "path": "images/1.png", "x": -21, "y": -22 },
+    { "path": "images/2.png", "x": -23, "y": -22 },
+    { "path": "images/3.png", "x": -20, "y": -25 }
+  ],
+  "strings": {
+    "name": {
+      "en-GB": "Track Broke",
+      "fr-FR": "Voie cassée",
+      "de-DE": "Beschädigte Strecke",
+      "es-ES": "Railes rotos",
+      "it-IT": "Binari rotti",
+      "nl-NL": "Kapot stuk mijnspoor",
+      "sv-SE": "Trasigt spår",
+      "zh-CN": "破损轨道",
+      "cs-CZ": "Rozbitá trať",
+      "ko-KR": "끊어진 트랙",
+      "pl-PL": "Zerwany tor",
+      "ru-RU": "Трек",
+      "pt-BR": "Trilho Quebrado",
+      "ja-JP": "線路 故障",
+      "eo-ZZ": "Rompita Trako",
+      "ca-ES": "Via trencada",
+      "fi-FI": "Rikkinäinen rata"
+    }
+  }
+}

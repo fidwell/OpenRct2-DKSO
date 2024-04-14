@@ -1,0 +1,45 @@
+{
+  "id": "fidwell.v1.scenery_small.trckprt7",
+  "authors": ["Frontier Studios"],
+  "version": "1.0",
+  "sourceGame": "custom",
+  "objectType": "scenery_small",
+  "properties": {
+    "price": 20,
+    "removalPrice": -15,
+    "cursor": "CURSOR_STATUE_DOWN",
+    "height": 32,
+    "shape": "4/4",
+    "isRotatable": true,
+    "isStackable": true,
+    "hasPrimaryColour": true,
+    "hasSecondaryColour": true
+  },
+  "images": [
+    { "path": "images/0.png", "x": -23, "y": -15 },
+    { "path": "images/1.png", "x": -20, "y": -14 },
+    { "path": "images/2.png", "x": -21, "y": -24 },
+    { "path": "images/3.png", "x": -21, "y": -24 }
+  ],
+  "strings": {
+    "name": {
+      "en-GB": "Track End",
+      "fr-FR": "Fin de voie",
+      "de-DE": "Streckenende",
+      "es-ES": "Final de railes",
+      "it-IT": "Fine binari",
+      "nl-NL": "Mijnspoor met stootblok",
+      "sv-SE": "Spårände",
+      "zh-CN": "轨道终点",
+      "cs-CZ": "Konec tratě",
+      "ko-KR": "끄트머리 트랙",
+      "pl-PL": "Koniec toru",
+      "ru-RU": "Трек",
+      "pt-BR": "Fim de Trilho",
+      "ja-JP": "線路 末端",
+      "eo-ZZ": "Fino de Trako",
+      "ca-ES": "Final de via",
+      "fi-FI": "Radan pääte"
+    }
+  }
+}

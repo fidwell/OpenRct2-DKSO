@@ -1,0 +1,45 @@
+{
+  "id": "fidwell.v1.scenery_small.trckprt9",
+  "authors": ["Frontier Studios"],
+  "version": "1.0",
+  "sourceGame": "custom",
+  "objectType": "scenery_small",
+  "properties": {
+    "price": 20,
+    "removalPrice": -15,
+    "cursor": "CURSOR_STATUE_DOWN",
+    "height": 32,
+    "shape": "4/4",
+    "isRotatable": true,
+    "isStackable": true,
+    "hasPrimaryColour": true,
+    "hasSecondaryColour": true
+  },
+  "images": [
+    { "path": "images/0.png", "x": -24, "y": -13 },
+    { "path": "images/1.png", "x": -21, "y": -13 },
+    { "path": "images/2.png", "x": -22, "y": -12 },
+    { "path": "images/3.png", "x": -21, "y": -12 }
+  ],
+  "strings": {
+    "name": {
+      "en-GB": "Track Straight",
+      "fr-FR": "Voie en ligne droite",
+      "de-DE": "Gerade Strecke",
+      "es-ES": "Recta de railes",
+      "it-IT": "Binari diritti",
+      "nl-NL": "Recht stuk mijnspoor",
+      "sv-SE": "Rak spårdel",
+      "zh-CN": "笔直轨道",
+      "cs-CZ": "Rovná trať",
+      "ko-KR": "직선 트랙",
+      "pl-PL": "Prosty tor",
+      "ru-RU": "Трек",
+      "pt-BR": "Reta do Trilho",
+      "ja-JP": "線路 直線",
+      "eo-ZZ": "Rekta Trako",
+      "ca-ES": "Via recta",
+      "fi-FI": "Radan suora osa"
+    }
+  }
+}
