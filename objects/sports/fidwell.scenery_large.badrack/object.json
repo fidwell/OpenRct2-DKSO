@@ -1,0 +1,67 @@
+{
+  "id": "fidwell.v1.scenery_large.badrack",
+  "authors": ["Chris Sawyer", "Simon Foster"],
+  "version": "1.0",
+  "sourceGame": "custom",
+  "objectType": "scenery_large",
+  "properties": {
+    "price": 23,
+    "removalPrice": -13,
+    "cursor": "CURSOR_ENTRANCE_DOWN",
+    "hasPrimaryColour": true,
+    "hasSecondaryColour": true,
+    "hasTertiaryColour": true,
+    "tiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "clearance": 8,
+        "hasSupports": true,
+        "walls": 14
+      },
+      {
+        "x": -32,
+        "y": 0,
+        "clearance": 8,
+        "hasSupports": true,
+        "walls": 11
+      }
+    ]
+  },
+  "images": [
+    { "path": "images/00.png", "x": -32, "y": 26 },
+    { "path": "images/01.png", "x": -32, "y": 25 },
+    { "path": "images/02.png", "x": -32, "y": 22 },
+    { "path": "images/03.png", "x": -32, "y": 18 },
+    { "path": "images/04.png", "x": -18, "y": 6 },
+    { "path": "images/05.png", "x": -17, "y": 3 },
+    { "path": "images/06.png", "x": -18, "y": 3 },
+    { "path": "images/07.png", "x": -15, "y": 6 },
+    { "path": "images/08.png", "x": -18, "y": 3 },
+    { "path": "images/09.png", "x": -14, "y": 6 },
+    { "path": "images/10.png", "x": -20, "y": 6 },
+    { "path": "images/11.png", "x": -20, "y": 3 }
+  ],
+  "strings": {
+    "name": {
+      "en-GB": "Badminton Racket",
+      "fr-FR": "Raquette de badminton",
+      "de-DE": "Badminton-Schläger",
+      "es-ES": "Raqueta de badminton",
+      "it-IT": "Racchetta da volano",
+      "nl-NL": "Badmintonracket",
+      "sv-SE": "Badmintonracket",
+      "ko-KR": "배드민턴 라켓",
+      "zh-CN": "羽毛球拍",
+      "zh-TW": "羽毛球拍",
+      "pt-BR": "Raquete de Badminton",
+      "cs-CZ": "Raketa na badminton",
+      "ja-JP": "バドミントンラケット",
+      "pl-PL": "Rakieta do badmintona",
+      "ru-RU": "Ракетка",
+      "eo-ZZ": "Volanbatilo",
+      "ca-ES": "Raqueta de bàdminton",
+      "fi-FI": "Sulkapallomaila"
+    }
+  }
+}
