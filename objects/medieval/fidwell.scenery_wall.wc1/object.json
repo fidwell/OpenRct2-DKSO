@@ -15,10 +15,10 @@
     "images": [
       { "path": "images/0.png", "x": -32, "y": -20 },
       { "path": "images/1.png", "x": -1, "y": -19 },
-      { "path": "images/2.png", "x": -32, "y": -32 },
-      { "path": "images/3.png", "x": -1, "y": -32 },
-      { "path": "images/4.png", "x": -32, "y": -20 },
-      { "path": "images/5.png", "x": -1, "y": -22 }
+      { "path": "images/2.png", "x": -32, "y": -35 },
+      { "path": "images/3.png", "x": -1, "y": -34 },
+      { "path": "images/4.png", "x": -32, "y": -22 },
+      { "path": "images/5.png", "x": -1, "y": -21 }
     ],
     "strings": {
         "name": {
