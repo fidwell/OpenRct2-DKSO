@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_small.roof7",
+    "id": "fidwell.v2.scenery_small.roof7",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -16,13 +16,14 @@
         "isStackable": true,
         "prohibitWalls": true,
         "hasNoSupports": true,
-        "hasPrimaryColour": true
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
     },
     "images": [
       { "path": "images/0.png", "x": -32, "y": -1 },
       { "path": "images/1.png", "x": -32, "y": -1 },
-      { "path": "images/2.png", "x": -32, "y": -1 },
-      { "path": "images/3.png", "x": -32, "y": -1 }
+      { "path": "images/0.png", "x": -32, "y": -1 },
+      { "path": "images/1.png", "x": -32, "y": -1 }
     ],
     "strings": {
         "name": {
