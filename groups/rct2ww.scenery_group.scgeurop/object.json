@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_group.europe_dkso",
+    "id": "fidwell.v2.scenery_group.europe_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -178,6 +178,7 @@
             "rct2ww.scenery_small.wgeorg12",
             "rct2ww.scenery_small.rtudor01",
             "rct2ww.scenery_small.rtudor02",
+            "$DAT:0CCE9D01|CRTUD02 ",
             "rct2ww.scenery_small.rtudor03",
             "rct2ww.scenery_large.rtudor05",
             "rct2ww.scenery_large.rtudor06",
@@ -220,23 +221,23 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v1 Europe Theming",
-            "fr-FR": "DKSO v1 Thème Europe",
-            "de-DE": "DKSO v1 Europa-Thema",
-            "es-ES": "DKSO v1 Temática europea",
-            "it-IT": "DKSO v1 Tema europeo",
-            "nl-NL": "DKSO v1 Europees thema",
-            "sv-SE": "DKSO v1 Europeiskt tema",
-            "cs-CZ": "DKSO v1 Evropa",
-            "ko-KR": "DKSO v1 유럽 테마",
-            "pl-PL": "DKSO v1 Wystrój europejski",
-            "ru-RU": "DKSO v1 Тема Европы",
-            "pt-BR": "DKSO v1 Temática Europeia",
-            "ja-JP": "DKSO v1 ヨーロッパのテーマ",
-            "eo-ZZ": "DKSO v1 Eŭropa Temo",
-            "ca-ES": "DKSO v1 Temàtica europea",
-            "fi-FI": "DKSO v1 Eurooppalaisteemaus",
-            "zh-CN": "DKSO v1 欧洲主题"
+            "en-GB": "DKSO v2 Europe Theming",
+            "fr-FR": "DKSO v2 Thème Europe",
+            "de-DE": "DKSO v2 Europa-Thema",
+            "es-ES": "DKSO v2 Temática europea",
+            "it-IT": "DKSO v2 Tema europeo",
+            "nl-NL": "DKSO v2 Europees thema",
+            "sv-SE": "DKSO v2 Europeiskt tema",
+            "cs-CZ": "DKSO v2 Evropa",
+            "ko-KR": "DKSO v2 유럽 테마",
+            "pl-PL": "DKSO v2 Wystrój europejski",
+            "ru-RU": "DKSO v2 Тема Европы",
+            "pt-BR": "DKSO v2 Temática Europeia",
+            "ja-JP": "DKSO v2 ヨーロッパのテーマ",
+            "eo-ZZ": "DKSO v2 Eŭropa Temo",
+            "ca-ES": "DKSO v2 Temàtica europea",
+            "fi-FI": "DKSO v2 Eurooppalaisteemaus",
+            "zh-CN": "DKSO v2 欧洲主题"
         }
     }
 }
