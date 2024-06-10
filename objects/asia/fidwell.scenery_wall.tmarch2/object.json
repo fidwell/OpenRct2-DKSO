@@ -14,7 +14,10 @@
     "images": [
         { "path": "images/00.png", "x": -31, "y": -69 },
         { "path": "images/01.png", "x": -1, "y": -72 },
-        { }, { }, { }, { },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
         { "path": "images/06.png", "x": -31, "y": -72 },
         { "path": "images/07.png", "x": -1, "y": -69 }
     ],
