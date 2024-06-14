@@ -12,12 +12,8 @@
         "price": 50
     },
     "images": [
-      { "path": "images/0.png", "x": -31, "y": -16 },
-      { "path": "images/1.png", "x": -1, "y": -16 },
-      { "path": "images/2.png", "x": -31, "y": -28 },
-      { "path": "images/3.png", "x": -1, "y": -28 },
-      { "path": "images/4.png", "x": -31, "y": -20 },
-      { "path": "images/5.png", "x": -1, "y": -22 }
+        { "path": "images/0.png", "x": -31, "y": -17 },
+        { "path": "images/1.png", "x": -1, "y": -16 }
     ],
     "strings": {
         "name": {
