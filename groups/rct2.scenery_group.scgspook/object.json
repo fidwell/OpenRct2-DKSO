@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_group.spooky_dkso",
+    "id": "fidwell.v2.scenery_group.spooky_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -32,7 +32,7 @@
             "rct2.scenery_small.smskull",
             "fidwell.v1.scenery_small.smskull",
             "rct2.scenery_wall.wallrk32",
-            "fidwell.v1.scenery_wall.wallrk32"
+            "fidwell.v2.scenery_wall.wallrk32"
         ],
         "priority": 32
     },
@@ -46,24 +46,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v1 Spooky Theming",
-            "fr-FR": "DKSO v1 Thème Terreur",
-            "de-DE": "DKSO v1 Spukthema",
-            "es-ES": "DKSO v1 Temática fantasmal",
-            "it-IT": "DKSO v1 Tema spettrale",
-            "nl-NL": "DKSO v1 Spookthema",
-            "sv-SE": "DKSO v1 Spöktema",
-            "ko-KR": "DKSO v1 으스스한 테마",
-            "zh-CN": "DKSO v1 幽灵主题",
-            "zh-TW": "DKSO v1 幽靈主題區",
-            "pt-BR": "DKSO v1 Temática Fantasmagórica",
-            "cs-CZ": "DKSO v1 Strašidelné kulisy",
-            "ja-JP": "DKSO v1 薄気味悪いテーマ",
-            "pl-PL": "DKSO v1 Wystrój straszliwy",
-            "ru-RU": "DKSO v1 Страшилки",
-            "eo-ZZ": "DKSO v1 Timigeta Temo",
-            "ca-ES": "DKSO v1 Temàtica fantasmagòrica",
-            "fi-FI": "DKSO v1 Aavemainen teemaus"
+            "en-GB": "DKSO v2 Spooky Theming",
+            "fr-FR": "DKSO v2 Thème Terreur",
+            "de-DE": "DKSO v2 Spukthema",
+            "es-ES": "DKSO v2 Temática fantasmal",
+            "it-IT": "DKSO v2 Tema spettrale",
+            "nl-NL": "DKSO v2 Spookthema",
+            "sv-SE": "DKSO v2 Spöktema",
+            "ko-KR": "DKSO v2 으스스한 테마",
+            "zh-CN": "DKSO v2 幽灵主题",
+            "zh-TW": "DKSO v2 幽靈主題區",
+            "pt-BR": "DKSO v2 Temática Fantasmagórica",
+            "cs-CZ": "DKSO v2 Strašidelné kulisy",
+            "ja-JP": "DKSO v2 薄気味悪いテーマ",
+            "pl-PL": "DKSO v2 Wystrój straszliwy",
+            "ru-RU": "DKSO v2 Страшилки",
+            "eo-ZZ": "DKSO v2 Timigeta Temo",
+            "ca-ES": "DKSO v2 Temàtica fantasmagòrica",
+            "fi-FI": "DKSO v2 Aavemainen teemaus"
         }
     }
 }
