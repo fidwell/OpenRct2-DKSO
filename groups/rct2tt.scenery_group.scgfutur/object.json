@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_group.future_dkso",
+    "id": "fidwell.v2.scenery_group.future_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -108,7 +108,7 @@
             "fidwell.v1.scenery_small.spcshp08",
             "rct2tt.scenery_small.spcshp09",
             "rct2tt.scenery_small.spcshp10",
-            "fidwell.v1.scenery_small.spcshp10",
+            "fidwell.v2.scenery_small.spcshp10",
             "rct2tt.scenery_small.spcshp11",
             "rct2tt.scenery_small.spcshp12",
             "rct2tt.scenery_small.alnstr01",
@@ -166,24 +166,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v1 Future Theming",
-            "fr-FR": "DKSO v1 Thème du futur",
-            "de-DE": "DKSO v1 Zukunftsthema",
-            "es-ES": "DKSO v1 Tema futurista",
-            "it-IT": "DKSO v1 Tema futuristico",
-            "nl-NL": "DKSO v1 Toekomstthema",
-            "sv-SE": "DKSO v1 Framtidstema",
-            "ko-KR": "DKSO v1 미래 테마",
-            "zh-TW": "DKSO v1 未來主題區",
-            "pt-BR": "DKSO v1 Temática Futurista",
-            "cs-CZ": "DKSO v1 Budoucnost",
-            "pl-PL": "DKSO v1 Wystrój przyszłościowy",
-            "ru-RU": "DKSO v1 Будущее",
-            "ja-JP": "DKSO v1 未来のテーマ",
-            "eo-ZZ": "DKSO v1 Estonteca Temo",
-            "ca-ES": "DKSO v1 Temàtica futurística",
-            "fi-FI": "DKSO v1 Tulevaisuusteemaus",
-            "zh-CN": "DKSO v1 未来主题"
+            "en-GB": "DKSO v2 Future Theming",
+            "fr-FR": "DKSO v2 Thème du futur",
+            "de-DE": "DKSO v2 Zukunftsthema",
+            "es-ES": "DKSO v2 Tema futurista",
+            "it-IT": "DKSO v2 Tema futuristico",
+            "nl-NL": "DKSO v2 Toekomstthema",
+            "sv-SE": "DKSO v2 Framtidstema",
+            "ko-KR": "DKSO v2 미래 테마",
+            "zh-TW": "DKSO v2 未來主題區",
+            "pt-BR": "DKSO v2 Temática Futurista",
+            "cs-CZ": "DKSO v2 Budoucnost",
+            "pl-PL": "DKSO v2 Wystrój przyszłościowy",
+            "ru-RU": "DKSO v2 Будущее",
+            "ja-JP": "DKSO v2 未来のテーマ",
+            "eo-ZZ": "DKSO v2 Estonteca Temo",
+            "ca-ES": "DKSO v2 Temàtica futurística",
+            "fi-FI": "DKSO v2 Tulevaisuusteemaus",
+            "zh-CN": "DKSO v2 未来主题"
         }
     }
 }
