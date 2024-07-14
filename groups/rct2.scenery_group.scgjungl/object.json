@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v2.scenery_group.jungle_dkso",
+    "id": "fidwell.v3.scenery_group.jungle_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -39,7 +39,7 @@
             "rct2.scenery_wall.wjf",
             "fidwell.v1.scenery_wall.wjf",
             "couger.scenery_wall.acwwf32",
-            "fidwell.v1.scenery_wall.acwwf32",
+            "fidwell.v2.scenery_wall.acwwf32",
             "couger.scenery_wall.acww33",
             "fidwell.v1.scenery_wall.acww33",
             "rct2.footpath_banner.bn2",
@@ -64,24 +64,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v2 Jungle Theming",
-            "fr-FR": "DKSO v2 Thème Jungle",
-            "de-DE": "DKSO v2 Dschungelthema",
-            "es-ES": "DKSO v2 Temática de jungla",
-            "it-IT": "DKSO v2 Tema tropicale",
-            "nl-NL": "DKSO v2 Junglethema",
-            "sv-SE": "DKSO v2 Djungeltema",
-            "ko-KR": "DKSO v2 정글 테마",
-            "zh-CN": "DKSO v2 丛林主题",
-            "zh-TW": "DKSO v2 叢林主題區",
-            "pt-BR": "DKSO v2 Temática de Selva",
-            "cs-CZ": "DKSO v2 Jungle kulisy",
-            "ja-JP": "DKSO v2 ジャングル風のテーマ",
-            "pl-PL": "DKSO v2 Wystrój tropikalny",
-            "ru-RU": "DKSO v2 Джунгли",
-            "eo-ZZ": "DKSO v2 Ĝangalo-Temo",
-            "ca-ES": "DKSO v2 Temàtica de la jungla",
-            "fi-FI": "DKSO v2 Viidakkoteemaus"
+            "en-GB": "DKSO v3 Jungle Theming",
+            "fr-FR": "DKSO v3 Thème Jungle",
+            "de-DE": "DKSO v3 Dschungelthema",
+            "es-ES": "DKSO v3 Temática de jungla",
+            "it-IT": "DKSO v3 Tema tropicale",
+            "nl-NL": "DKSO v3 Junglethema",
+            "sv-SE": "DKSO v3 Djungeltema",
+            "ko-KR": "DKSO v3 정글 테마",
+            "zh-CN": "DKSO v3 丛林主题",
+            "zh-TW": "DKSO v3 叢林主題區",
+            "pt-BR": "DKSO v3 Temática de Selva",
+            "cs-CZ": "DKSO v3 Jungle kulisy",
+            "ja-JP": "DKSO v3 ジャングル風のテーマ",
+            "pl-PL": "DKSO v3 Wystrój tropikalny",
+            "ru-RU": "DKSO v3 Джунгли",
+            "eo-ZZ": "DKSO v3 Ĝangalo-Temo",
+            "ca-ES": "DKSO v3 Temàtica de la jungla",
+            "fi-FI": "DKSO v3 Viidakkoteemaus"
         }
     }
 }
