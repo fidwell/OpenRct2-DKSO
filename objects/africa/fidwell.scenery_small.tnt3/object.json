@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.scenery_small.tnt3",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -21, "y": -19 },
+        { "path": "images/1.png", "x": -24, "y": -23 },
+        { "path": "images/2.png", "x": -18, "y": -22 },
+        { "path": "images/3.png", "x": -9, "y": -14 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "TNT Detonator",
+            "fr-FR": "Détonateur de T.N.T.",
+            "de-DE": "TNT-Zünder",
+            "es-ES": "Detonador de TNT",
+            "it-IT": "Detonatore per TNT",
+            "nl-NL": "TNT-ontsteker",
+            "sv-SE": "TNT-detonator",
+            "zh-CN": "炸药雷管",
+            "cs-CZ": "Rozbuška",
+            "ko-KR": "TNT 기폭장치",
+            "pl-PL": "Detonator",
+            "ru-RU": "Детонатор ТНТ",
+            "pt-BR": "Detonador de TNT",
+            "ja-JP": "TNTの雷管",
+            "eo-ZZ": "Eksplodigilo de TNT",
+            "ca-ES": "Detonador de dinamita",
+            "fi-FI": "TNT-räjäytin"
+        }
+    }
+}

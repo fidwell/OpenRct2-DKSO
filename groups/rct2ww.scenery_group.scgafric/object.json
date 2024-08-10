@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v2.scenery_group.africa_dkso",
+    "id": "fidwell.v3.scenery_group.africa_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -156,7 +156,7 @@
             "rct2ww.scenery_small.tnt2",
             "$DAT:0CBD0501|IRETNT2C",
             "rct2ww.scenery_small.tnt3",
-            "$DAT:0CBD0501|IRETNT3C",
+            "fidwell.scenery_small.tnt3",
             "rct2ww.scenery_small.tnt4",
             "$DAT:0CBD0501|IRETNT4C",
             "rct2ww.scenery_large.afrclion",
@@ -204,23 +204,23 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v2 Africa Theming",
-            "fr-FR": "DKSO v2 Thème Afrique",
-            "de-DE": "DKSO v2 Afrika-Thema",
-            "es-ES": "DKSO v2 Temática africana",
-            "it-IT": "DKSO v2 Tema africano",
-            "nl-NL": "DKSO v2 Afrikaans thema",
-            "sv-SE": "DKSO v2 Afrikanskt tema",
-            "cs-CZ": "DKSO v2 Afrika",
-            "ko-KR": "DKSO v2 아프리카 테마",
-            "pl-PL": "DKSO v2 Wystrój afrykański",
-            "ru-RU": "DKSO v2 Тема Африки",
-            "pt-BR": "DKSO v2 Temática Africana",
-            "ja-JP": "DKSO v2 アフリカのテーマ",
-            "eo-ZZ": "DKSO v2 Afrika Temo",
-            "ca-ES": "DKSO v2 Temàtica africana",
-            "fi-FI": "DKSO v2 Afrikkalaisteemaus",
-            "zh-CN": "DKSO v2 非洲主题"
+            "en-GB": "DKSO v3 Africa Theming",
+            "fr-FR": "DKSO v3 Thème Afrique",
+            "de-DE": "DKSO v3 Afrika-Thema",
+            "es-ES": "DKSO v3 Temática africana",
+            "it-IT": "DKSO v3 Tema africano",
+            "nl-NL": "DKSO v3 Afrikaans thema",
+            "sv-SE": "DKSO v3 Afrikanskt tema",
+            "cs-CZ": "DKSO v3 Afrika",
+            "ko-KR": "DKSO v3 아프리카 테마",
+            "pl-PL": "DKSO v3 Wystrój afrykański",
+            "ru-RU": "DKSO v3 Тема Африки",
+            "pt-BR": "DKSO v3 Temática Africana",
+            "ja-JP": "DKSO v3 アフリカのテーマ",
+            "eo-ZZ": "DKSO v3 Afrika Temo",
+            "ca-ES": "DKSO v3 Temàtica africana",
+            "fi-FI": "DKSO v3 Afrikkalaisteemaus",
+            "zh-CN": "DKSO v3 非洲主题"
         }
     }
 }
