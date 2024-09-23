@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v2.scenery_group.martian_dkso",
+    "id": "fidwell.v2.1.scenery_group.martian_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -20,7 +20,7 @@
             "rct2.scenery_large.svlc",
             "fidwell.v1.scenery_large.svlc",
             "rct2.scenery_wall.wmw",
-            "fidwell.v2.scenery_wall.wmw",
+            "fidwell.v3.scenery_wall.wmw",
             "rct2.footpath_item.lamp4"
         ],
         "priority": 26,
@@ -36,24 +36,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v2 Martian Theming",
-            "fr-FR": "DKSO v2 Thème Alien",
-            "de-DE": "DKSO v2 Mars-Thema",
-            "es-ES": "DKSO v2 Temática marciana",
-            "it-IT": "DKSO v2 Tema marziano",
-            "nl-NL": "DKSO v2 Marsthema",
-            "sv-SE": "DKSO v2 Mars-tema",
-            "ko-KR": "DKSO v2 화성 테마",
-            "zh-CN": "DKSO v2 火星主题",
-            "zh-TW": "DKSO v2 火星人主題區",
-            "pt-BR": "DKSO v2 Temática Marciana",
-            "cs-CZ": "DKSO v2 Marťanské kulisy",
-            "ja-JP": "DKSO v2 火星人風のテーマ",
-            "pl-PL": "DKSO v2 Wystrój marsjański",
-            "ru-RU": "DKSO v2 Марс",
-            "eo-ZZ": "DKSO v2 Marsa Temo",
-            "ca-ES": "DKSO v2 Temàtica marciana",
-            "fi-FI": "DKSO v2 Marsilainen teemaus"
+            "en-GB": "DKSO v2.1 Martian Theming",
+            "fr-FR": "DKSO v2.1 Thème Alien",
+            "de-DE": "DKSO v2.1 Mars-Thema",
+            "es-ES": "DKSO v2.1 Temática marciana",
+            "it-IT": "DKSO v2.1 Tema marziano",
+            "nl-NL": "DKSO v2.1 Marsthema",
+            "sv-SE": "DKSO v2.1 Mars-tema",
+            "ko-KR": "DKSO v2.1 화성 테마",
+            "zh-CN": "DKSO v2.1 火星主题",
+            "zh-TW": "DKSO v2.1 火星人主題區",
+            "pt-BR": "DKSO v2.1 Temática Marciana",
+            "cs-CZ": "DKSO v2.1 Marťanské kulisy",
+            "ja-JP": "DKSO v2.1 火星人風のテーマ",
+            "pl-PL": "DKSO v2.1 Wystrój marsjański",
+            "ru-RU": "DKSO v2.1 Марс",
+            "eo-ZZ": "DKSO v2.1 Marsa Temo",
+            "ca-ES": "DKSO v2.1 Temàtica marciana",
+            "fi-FI": "DKSO v2.1 Marsilainen teemaus"
         }
     }
 }
