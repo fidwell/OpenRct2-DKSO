@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.v1.scenery_small.tnt4",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -28, "y": -36 },
+        { "path": "images/1.png", "x": -29, "y": -36 },
+        { "path": "images/2.png", "x": -25, "y": -37 },
+        { "path": "images/3.png", "x": -26, "y": -35 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "TNT Crates",
+            "fr-FR": "Caisses de T.N.T.",
+            "de-DE": "TNT-Kisten",
+            "es-ES": "Cajas de TNT",
+            "it-IT": "Casse di TNT",
+            "nl-NL": "TNT-kisten",
+            "sv-SE": "TNT-lådor",
+            "zh-CN": "装炸药箱",
+            "cs-CZ": "Bedna dynamitu",
+            "ko-KR": "TNT 상자",
+            "pl-PL": "Skrzynie z dynamitem",
+            "ru-RU": "ТНТ",
+            "pt-BR": "Caixa de TNT",
+            "ja-JP": "TNTの木枠",
+            "eo-ZZ": "Kestoj da TNT",
+            "ca-ES": "Caixes de dinamita",
+            "fi-FI": "TNT-laatikoita"
+        }
+    }
+}

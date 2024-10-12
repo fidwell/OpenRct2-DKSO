@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.v1.scenery_small.tnt1",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 48,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -31, "y": -43 },
+        { "path": "images/1.png", "x": -31, "y": -45 },
+        { "path": "images/2.png", "x": -30, "y": -45 },
+        { "path": "images/3.png", "x": -30, "y": -43 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "TNT Stack",
+            "fr-FR": "Bâtons de T.N.T.",
+            "de-DE": "TNT-Stapel",
+            "es-ES": "Pila de TNT",
+            "it-IT": "Candelotti di TNT",
+            "nl-NL": "TNT-stapel",
+            "sv-SE": "TNT-trave",
+            "zh-CN": "炸药堆",
+            "cs-CZ": "Dynamit",
+            "ko-KR": "TNT 무더기",
+            "pl-PL": "Stosik dynamitu",
+            "ru-RU": "Куча ТНТ",
+            "pt-BR": "Pilha de TNT",
+            "ja-JP": "TNTの束",
+            "eo-ZZ": "Stako da TNT",
+            "ca-ES": "Pila de dinamita",
+            "fi-FI": "TNT-pino"
+        }
+    }
+}
