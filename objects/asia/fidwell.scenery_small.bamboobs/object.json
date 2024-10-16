@@ -1,0 +1,46 @@
+{
+  "id": "fidwell.v1.scenery_small.bamboobs",
+  "authors": ["Frontier Studios"],
+  "version": "1.0",
+  "sourceGame": "custom",
+  "objectType": "scenery_small",
+  "properties": {
+      "price": 20,
+      "removalPrice": 15,
+      "cursor": "CURSOR_TREE_DOWN",
+      "height": 96,
+      "sceneryGroup": "fidwell.v2.scenery_group.trees_dkso",
+      "isTree": true,
+      "shape": "4/4",
+      "hasNoSupports": true,
+      "hasPrimaryColour": true,
+      "hasSecondaryColour": true
+  },
+  "images": [
+    { "path": "images/0.png", "x": -25, "y": -100 },
+    { "path": "images/1.png", "x": -29, "y": -97 },
+    { "path": "images/2.png", "x": -26, "y": -101 },
+    { "path": "images/3.png", "x": -32, "y": -96 }
+  ],
+  "strings": {
+      "name": {
+          "en-GB": "Bamboo Bush",
+          "fr-FR": "Haie de bambous",
+          "de-DE": "Bambus-Busch",
+          "es-ES": "Arbusto de bambú",
+          "it-IT": "Canneto di bambù",
+          "nl-NL": "Bamboestruik",
+          "sv-SE": "Bambubuske",
+          "zh-CN": "竹子林",
+          "cs-CZ": "Bambus",
+          "ko-KR": "대나무 수풀",
+          "ru-RU": "Бамбук",
+          "pt-BR": "Arbusto de Bambu",
+          "ja-JP": "竹やぶ",
+          "pl-PL": "Bambusowy busz",
+          "eo-ZZ": "Bambuo-Arbeto",
+          "ca-ES": "Arbust de bambú",
+          "fi-FI": "Bambupuska"
+      }
+  }
+}
