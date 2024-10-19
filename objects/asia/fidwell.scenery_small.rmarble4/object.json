@@ -1,0 +1,49 @@
+{
+    "id": "fidwell.v1.scenery_small.rmarble4",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 34,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -23 },
+        { "path": "images/0.png", "x": -32, "y": -23 },
+        { "path": "images/0.png", "x": -32, "y": -23 },
+        { "path": "images/0.png", "x": -32, "y": -23 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Marble Roof",
+            "fr-FR": "Toit de marbre",
+            "de-DE": "Marmordach",
+            "es-ES": "Techo de mármol",
+            "it-IT": "Tetto di marmo",
+            "nl-NL": "Dak van marmer",
+            "sv-SE": "Marmortak",
+            "zh-CN": "大理石墙",
+            "cs-CZ": "Mramorová střecha",
+            "ko-KR": "대리석 지붕",
+            "pl-PL": "Dach marmurowy",
+            "ru-RU": "Крыша",
+            "pt-BR": "Teto de Mármore",
+            "ja-JP": "大理石の屋根",
+            "eo-ZZ": "Marmora Tegmento",
+            "ca-ES": "Sostre de marbre",
+            "fi-FI": "Marmorikatto"
+        }
+    }
+}

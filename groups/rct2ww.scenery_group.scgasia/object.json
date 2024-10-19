@@ -113,13 +113,13 @@
             "rct2ww.scenery_large.adultele",
             "rct2ww.scenery_small.babyele",
             "rct2ww.scenery_small.rmarble1",
-            "$DAT:0CBD0001|IRRMAR1C",
+            "fidwell.v1.scenery_small.rmarble1",
             "rct2ww.scenery_small.rmarble2",
-            "$DAT:0CBD0001|IRRMAR2C",
+            "fidwell.v1.scenery_small.rmarble2",
             "rct2ww.scenery_small.rmarble3",
-            "$DAT:0CBD0001|IRRMAR3C",
+            "fidwell.v1.scenery_small.rmarble3",
             "rct2ww.scenery_small.rmarble4",
-            "$DAT:0CBD0001|IRRMAR4C",
+            "fidwell.v1.scenery_small.rmarble4",
             "rct2ww.scenery_large.shiva",
             "rct2ww.scenery_wall.wshogi01",
             "fidwell.v1.scenery_wall.wshogi01",
@@ -177,7 +177,7 @@
             "rct2ww.scenery_small.rshogi2",
             "fidwell.v1.scenery_small.rshogi2",
             "rct2ww.scenery_small.rshogi3",
-            "$DAT:0CCE9601|KSHOGI3 "
+            "fidwell.v1.scenery_small.rshogi3"
         ],
         "priority": 43
     },
