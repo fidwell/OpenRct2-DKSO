@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v2.1.scenery_group.asia_dkso",
+    "id": "fidwell.v3.scenery_group.asia_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -195,23 +195,23 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v2.1 Asia Theming",
-            "fr-FR": "DKSO v2.1 Thème Asie",
-            "de-DE": "DKSO v2.1 Asien-Thema",
-            "es-ES": "DKSO v2.1 Temática asiática",
-            "it-IT": "DKSO v2.1 Tema asiatico",
-            "nl-NL": "DKSO v2.1 Aziatisch thema",
-            "sv-SE": "DKSO v2.1 Asiatiskt tema",
-            "cs-CZ": "DKSO v2.1 Asie",
-            "ko-KR": "DKSO v2.1 아시아 테마",
-            "pl-PL": "DKSO v2.1 Wystrój azjatycki",
-            "ru-RU": "DKSO v2.1 Тема Азии",
-            "pt-BR": "DKSO v2.1 Temática Asiática",
-            "ja-JP": "DKSO v2.1 アジアのテーマ",
-            "eo-ZZ": "DKSO v2.1 Azia Temo",
-            "ca-ES": "DKSO v2.1 Temàtica asiàtica",
-            "fi-FI": "DKSO v2.1 Aasialaisteemaus",
-            "zh-CN": "DKSO v2.1 亚洲主题"
+            "en-GB": "DKSO v3 Asia Theming",
+            "fr-FR": "DKSO v3 Thème Asie",
+            "de-DE": "DKSO v3 Asien-Thema",
+            "es-ES": "DKSO v3 Temática asiática",
+            "it-IT": "DKSO v3 Tema asiatico",
+            "nl-NL": "DKSO v3 Aziatisch thema",
+            "sv-SE": "DKSO v3 Asiatiskt tema",
+            "cs-CZ": "DKSO v3 Asie",
+            "ko-KR": "DKSO v3 아시아 테마",
+            "pl-PL": "DKSO v3 Wystrój azjatycki",
+            "ru-RU": "DKSO v3 Тема Азии",
+            "pt-BR": "DKSO v3 Temática Asiática",
+            "ja-JP": "DKSO v3 アジアのテーマ",
+            "eo-ZZ": "DKSO v3 Azia Temo",
+            "ca-ES": "DKSO v3 Temàtica asiàtica",
+            "fi-FI": "DKSO v3 Aasialaisteemaus",
+            "zh-CN": "DKSO v3 亚洲主题"
         }
     }
 }
