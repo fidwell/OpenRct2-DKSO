@@ -1,0 +1,205 @@
+{
+    "id": "fidwell.v1.scenery_large.tajmdome",
+    "authors": [ "Frontier Studios" ],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 246,
+        "removalPrice": -198,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "isPhotogenic": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 255,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 255,
+                "walls": 1
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 255,
+                "walls": 1
+            },
+            {
+                "x": 0,
+                "y": 96,
+                "clearance": 255,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 255,
+                "walls": 8
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 255,
+                "walls": 0
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "clearance": 255,
+                "walls": 0
+            },
+            {
+                "x": 32,
+                "y": 96,
+                "clearance": 255,
+                "walls": 2
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 255,
+                "walls": 8
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "clearance": 255,
+                "walls": 0
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "clearance": 255,
+                "walls": 0
+            },
+            {
+                "x": 64,
+                "y": 96,
+                "clearance": 255,
+                "walls": 2
+            },
+            {
+                "x": 96,
+                "y": 0,
+                "clearance": 255,
+                "walls": 12
+            },
+            {
+                "x": 96,
+                "y": 32,
+                "clearance": 255,
+                "walls": 4
+            },
+            {
+                "x": 96,
+                "y": 64,
+                "clearance": 255,
+                "walls": 4
+            },
+            {
+                "x": 96,
+                "y": 96,
+                "clearance": 255,
+                "walls": 6
+            }
+        ]
+    },
+    "images": [
+        { "path": "images/00.png", "x": -28, "y": 30 },
+        { "path": "images/00.png", "x": -28, "y": 30 },
+        { "path": "images/00.png", "x": -28, "y": 30 },
+        { "path": "images/00.png", "x": -28, "y": 30 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 31, "y": 65 },
+        { "path": "images/02.png", "x": -32, "y": -226 },
+        { "path": "images/99.png", "x": -1, "y": 65 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/01.png", "x": 0, "y": -115 },
+        { "path": "images/03.png", "x": -32, "y": -154 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/04.png", "x": 0, "y": -154 },
+        { "path": "images/05.png", "x": -26, "y": -117 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 31, "y": 65 },
+        { "path": "images/02.png", "x": -32, "y": -226 },
+        { "path": "images/99.png", "x": -1, "y": 65 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/04.png", "x": 0, "y": -154 },
+        { "path": "images/05.png", "x": -26, "y": -117 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/01.png", "x": 0, "y": -115 },
+        { "path": "images/03.png", "x": -32, "y": -154 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/01.png", "x": 0, "y": -115 },
+        { "path": "images/03.png", "x": -32, "y": -154 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/04.png", "x": 0, "y": -154 },
+        { "path": "images/05.png", "x": -26, "y": -115 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": -1, "y": 65 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 31, "y": 65 },
+        { "path": "images/02.png", "x": -32, "y": -226 },
+        { "path": "images/05.png", "x": -26, "y": -115 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/04.png", "x": 0, "y": -154 },
+        { "path": "images/03.png", "x": -32, "y": -154 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/01.png", "x": 0, "y": -115 },
+        { "path": "images/02.png", "x": -32, "y": -226 },
+        { "path": "images/99.png", "x": -1, "y": 65 },
+        { "path": "images/99.png", "x": 0, "y": 0 },
+        { "path": "images/99.png", "x": 31, "y": 65 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Maharaja Palace Dome",
+            "fr-FR": "Dôme du palais du maharajah",
+            "de-DE": "Maharadschapalast - Kuppel",
+            "es-ES": "Bóveda del palacio del Maharajá",
+            "it-IT": "Cupola del palazzo del Maragià",
+            "nl-NL": "Koepel Maharadjapaleis",
+            "sv-SE": "Maharadjans palats, kupol",
+            "zh-CN": "印度邦主皇宫-圆屋顶",
+            "cs-CZ": "Mahárádžův palác",
+            "ko-KR": "마하라자 궁전 돔",
+            "pl-PL": "Pałac maharadży - kopuła",
+            "ru-RU": "Купол дворца Махараджа",
+            "pt-BR": "Domo de Palácio do Marajá",
+            "ja-JP": "マハーラージャ宮殿 ドーム",
+            "eo-ZZ": "Volbo de Maharaĝo-Palaco",
+            "ca-ES": "Cúpula del palau del maharajà",
+            "fi-FI": "Maharajan palatsin kupu"
+        }
+    }
+}
