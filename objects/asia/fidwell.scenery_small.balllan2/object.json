@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.v1.scenery_small.balllan2",
+    "authors": [ "Frontier Studios" ],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 26,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -18, "y": -38 },
+        { "path": "images/1.png", "x": -17, "y": -38 },
+        { "path": "images/0.png", "x": -18, "y": -38 },
+        { "path": "images/1.png", "x": -17, "y": -38 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Ball Lantern",
+            "fr-FR": "Lanterne chinoise",
+            "de-DE": "Chinesische Laterne",
+            "es-ES": "Linterna Bola",
+            "it-IT": "Lanterna sferica",
+            "nl-NL": "Bolvormige Lantaarn",
+            "sv-SE": "Klotlykta",
+            "zh-CN": "球形灯笼",
+            "cs-CZ": "Čínské lampióny",
+            "ko-KR": "공 모양 초롱",
+            "pl-PL": "Latarnia balowa",
+            "ru-RU": "Шарообразная лампа",
+            "pt-BR": "Lanterna Chinesa",
+            "ja-JP": "提灯",
+            "eo-ZZ": "Bulo-Lanterno",
+            "ca-ES": "Fanalet xinès",
+            "fi-FI": "Paperilyhdyt"
+        }
+    }
+}
