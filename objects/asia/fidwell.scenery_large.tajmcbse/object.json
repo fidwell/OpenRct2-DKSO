@@ -1,0 +1,83 @@
+{
+    "id": "fidwell.v1.scenery_large.tajmcbse",
+    "authors": [ "Frontier Studios" ],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 82,
+        "removalPrice": -77,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 96,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 96,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 96,
+                "walls": 12
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 96,
+                "walls": 6
+            }
+        ]
+    },
+    "images": [
+        { "path": "images/00.png", "x": -32, "y": 9 },
+        { "path": "images/00.png", "x": -32, "y": 9 },
+        { "path": "images/00.png", "x": -32, "y": 9 },
+        { "path": "images/00.png", "x": -32, "y": 9 },
+        { "path": "images/04.png", "x": 0, "y": 0 },
+        { "path": "images/05.png", "x": 0, "y": -83 },
+        { "path": "images/06.png", "x": -32, "y": -112 },
+        { "path": "images/07.png", "x": -32, "y": -32 },
+        { "path": "images/08.png", "x": 0, "y": -82 },
+        { "path": "images/09.png", "x": -32, "y": -112 },
+        { "path": "images/10.png", "x": -9, "y": -81 },
+        { "path": "images/11.png", "x": 0, "y": 0 },
+        { "path": "images/12.png", "x": -2, "y": -20 },
+        { "path": "images/13.png", "x": 0, "y": 0 },
+        { "path": "images/14.png", "x": 0, "y": -16 },
+        { "path": "images/15.png", "x": -32, "y": -112 },
+        { "path": "images/16.png", "x": -32, "y": -111 },
+        { "path": "images/17.png", "x": -3, "y": -19 },
+        { "path": "images/18.png", "x": 0, "y": 0 },
+        { "path": "images/19.png", "x": 0, "y": -84 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Maharaja Palace Tower Base",
+            "fr-FR": "Pied de la tour du palais du maharajah",
+            "de-DE": "Maharadschapalast - Turmbasis",
+            "es-ES": "Base de torre del palacio del Maharajá",
+            "it-IT": "Base di torre del palazzo del Maragià",
+            "nl-NL": "Basis Toren Maharadjapaleis",
+            "sv-SE": "Maharadjans palats, tornbas",
+            "zh-CN": "印度邦主皇宫-高楼基部",
+            "cs-CZ": "Mahárádžův palác - věž",
+            "ko-KR": "마하라자 궁전 탑 기본",
+            "pl-PL": "Pałac maharadży - podstawa wieży",
+            "ru-RU": "Основание башни дворца Махараджа",
+            "pt-BR": "Base de Torre do Palácio do Marajá",
+            "ja-JP": "マハーラージャ宮殿 タワー土台",
+            "eo-ZZ": "Bazo de Turo de Maharaĝo-Palaco",
+            "ca-ES": "Base de la torre del palau del maharajà",
+            "fi-FI": "Maharajan palatsin tornin perusta"
+        }
+    }
+}

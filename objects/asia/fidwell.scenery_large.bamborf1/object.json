@@ -1,0 +1,83 @@
+{
+    "id": "fidwell.v1.scenery_large.bamborf1",
+    "authors": [ "Frontier Studios" ],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 28,
+        "removalPrice": -24,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 64,
+                "walls": 12
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 64,
+                "walls": 6
+            }
+        ]
+    },
+    "images": [
+        { "path": "images/00.png", "x": -31, "y": 8 },
+        { "path": "images/01.png", "x": -22, "y": 37 },
+        { "path": "images/02.png", "x": -32, "y": 26 },
+        { "path": "images/03.png", "x": -32, "y": 27 },
+        { "path": "images/04.png", "x": 0, "y": 0 },
+        { "path": "images/05.png", "x": 0, "y": -11 },
+        { "path": "images/06.png", "x": -32, "y": -18 },
+        { "path": "images/07.png", "x": -32, "y": -10 },
+        { "path": "images/08.png", "x": 0, "y": -4 },
+        { "path": "images/09.png", "x": -13, "y": -23 },
+        { "path": "images/10.png", "x": -5, "y": 25 },
+        { "path": "images/11.png", "x": 0, "y": 0 },
+        { "path": "images/12.png", "x": -6, "y": -6 },
+        { "path": "images/13.png", "x": 0, "y": 0 },
+        { "path": "images/14.png", "x": 0, "y": 24 },
+        { "path": "images/15.png", "x": -32, "y": -22 },
+        { "path": "images/16.png", "x": -32, "y": -58 },
+        { "path": "images/17.png", "x": -1, "y": 49 },
+        { "path": "images/18.png", "x": 0, "y": 0 },
+        { "path": "images/19.png", "x": 31, "y": 49 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Bamboo Roof Corner",
+            "fr-FR": "Toit de bambou",
+            "de-DE": "Bambusdach",
+            "es-ES": "Tejado de bambú",
+            "it-IT": "Tetto di bambù",
+            "nl-NL": "Bamboedak",
+            "sv-SE": "Taknock på bambutak",
+            "zh-CN": "竹顶",
+            "cs-CZ": "Bambusová střecha",
+            "ko-KR": "대나무 지붕",
+            "ru-RU": "Угол бамбуковой крыши",
+            "pt-BR": "Telhado de Bambu",
+            "ja-JP": "竹の屋根",
+            "pl-PL": "Bambusowy róg dachu",
+            "eo-ZZ": "Bambua Tegmentangulo",
+            "ca-ES": "Cantonada de teulada de bambú",
+            "fi-FI": "Bambukaton kulma"
+        }
+    }
+}

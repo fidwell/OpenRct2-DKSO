@@ -1,0 +1,44 @@
+{
+    "id": "fidwell.v1.scenery_small.terrarmy",
+    "authors": [ "Frontier Studios" ],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -39 },
+        { "path": "images/1.png", "x": -30, "y": -38 },
+        { "path": "images/2.png", "x": -32, "y": -37 },
+        { "path": "images/3.png", "x": -30, "y": -38 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Terracotta Army",
+            "fr-FR": "Armée de terre cuite",
+            "de-DE": "Terrakotta-Armee",
+            "es-ES": "Ejército de terracota",
+            "it-IT": "Esercito di terracotta",
+            "nl-NL": "Terracottaleger",
+            "sv-SE": "Terrakottaarmé",
+            "zh-CN": "兵马俑",
+            "cs-CZ": "Terakotová armáda",
+            "ko-KR": "병마용",
+            "pl-PL": "Wojska z terakoty",
+            "ru-RU": "Армия из терракоты",
+            "pt-BR": "Exército de Terracota",
+            "ja-JP": "兵馬俑",
+            "eo-ZZ": "Terakota Armeo",
+            "ca-ES": "Exèrcit de terracota",
+            "fi-FI": "Terrakotta-armeija"
+        }
+    }
+}

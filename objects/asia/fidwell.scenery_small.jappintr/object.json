@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.v1.scenery_small.jappintr",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": 15,
+        "cursor": "CURSOR_TREE_DOWN",
+        "height": 64,
+        "sceneryGroup": "fidwell.v2.scenery_group.trees_dkso",
+        "isTree": true,
+        "shape": "4/4",
+        "hasNoSupports": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -31, "y": -75 },
+        { "path": "images/1.png", "x": -32, "y": -68 },
+        { "path": "images/2.png", "x": -30, "y": -66 },
+        { "path": "images/3.png", "x": -31, "y": -72 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Japanese Pine Tree",
+            "fr-FR": "Pin du Japon",
+            "de-DE": "Japanische Kiefer",
+            "es-ES": "Pino japonés",
+            "it-IT": "Pino giapponese",
+            "nl-NL": "Japanse Pijnboom",
+            "sv-SE": "Japansk tall",
+            "zh-CN": "日本-松树",
+            "cs-CZ": "Borovice Thunbergova",
+            "ko-KR": "일본 소나무",
+            "pl-PL": "Japońska sosna",
+            "ru-RU": "Сосна",
+            "pt-BR": "Árvore Pinheiro japonês",
+            "ja-JP": "日本の松",
+            "eo-ZZ": "Japana Pinoarbo",
+            "ca-ES": "Pi japonès",
+            "fi-FI": "Japaninmustamänty"
+        }
+    }
+}

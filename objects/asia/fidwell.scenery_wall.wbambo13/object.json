@@ -1,0 +1,42 @@
+{
+    "id": "fidwell.v1.scenery_wall.wbambo13",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 3,
+        "price": 50,
+        "hasPrimaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -31, "y": -24 },
+        { "path": "images/1.png", "x": -1, "y": -23 },
+        { "path": "images/2.png", "x": -31, "y": -41 },
+        { "path": "images/3.png", "x": -1, "y": -40 },
+        { "path": "images/4.png", "x": -31, "y": -23 },
+        { "path": "images/5.png", "x": -1, "y": -22 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Bamboo Wall",
+            "fr-FR": "Cloison de bambou",
+            "de-DE": "Bambuswand",
+            "es-ES": "Pared de bambú",
+            "it-IT": "Parete di bambù",
+            "nl-NL": "Bamboemuur",
+            "sv-SE": "Bambuvägg",
+            "zh-CN": "竹墙",
+            "cs-CZ": "Bambusová zeď",
+            "ko-KR": "대나무 벽",
+            "ru-RU": "Стена",
+            "pt-BR": "Parede de Bambu",
+            "ja-JP": "竹の壁",
+            "pl-PL": "Ściana bambusowa",
+            "eo-ZZ": "Bambua Muro",
+            "ca-ES": "Paret de bambú",
+            "fi-FI": "Bambuseinä"
+        }
+    }
+}
