@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.v1.scenery_small.oriegong",
+    "authors": [ "Frontier Studios" ],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -22, "y": -33 },
+        { "path": "images/1.png", "x": -20, "y": -33 },
+        { "path": "images/2.png", "x": -21, "y": -32 },
+        { "path": "images/3.png", "x": -21, "y": -32 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Asian Gong",
+            "fr-FR": "Gong",
+            "de-DE": "Asiatischer Gong",
+            "es-ES": "Gong asiático",
+            "it-IT": "Gong asiatico",
+            "nl-NL": "Aziatische Gong",
+            "sv-SE": "Asiatisk gong-gong",
+            "zh-CN": "亚洲的铜锣",
+            "cs-CZ": "Gong",
+            "ko-KR": "징",
+            "pl-PL": "Gong azjatycki",
+            "ru-RU": "Азиатский гонг",
+            "pt-BR": "Gongo Asiático",
+            "ja-JP": "アジアのゴング",
+            "eo-ZZ": "Azia Gongo",
+            "ca-ES": "Gong asiàtic",
+            "fi-FI": "Aasialainen gongi"
+        }
+    }
+}
