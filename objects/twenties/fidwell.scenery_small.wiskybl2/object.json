@@ -1,0 +1,49 @@
+{
+    "id": "fidwell.v1.scenery_small.wiskybl2",
+    "authors": [ "Frontier Studios" ],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -18, "y": -10 },
+        { "path": "images/1.png", "x": -22, "y": -9 },
+        { "path": "images/2.png", "x": -15, "y": -9 },
+        { "path": "images/3.png", "x": -13, "y": -9 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Whisky Barrels",
+            "fr-FR": "Fûts de Whisky",
+            "de-DE": "Whiskyfässer",
+            "es-ES": "Barriles de whisky",
+            "it-IT": "Barili di whisky",
+            "nl-NL": "Whiskyvaten",
+            "sv-SE": "Whiskytunnor",
+            "ko-KR": "위스키 통",
+            "zh-TW": "威士忌桶",
+            "pt-BR": "Barris de Uísque",
+            "cs-CZ": "Whisky barely",
+            "pl-PL": "Baryłki whisky",
+            "ru-RU": "Бочки виски",
+            "ja-JP": "ウィスキー樽",
+            "eo-ZZ": "Viskio-Bareloj",
+            "ca-ES": "Barrils de whisky",
+            "fi-FI": "Viskitynnyrit",
+            "zh-CN": "威士忌桶",
+            "hu-HU": "Whiskys hordók"
+        }
+    }
+}
