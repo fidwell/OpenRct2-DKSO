@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v2.scenery_group.creepy_dkso",
+    "id": "fidwell.v3.scenery_group.creepy_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -18,7 +18,7 @@
             "rct2.scenery_wall.wc14",
             "fidwell.v2.scenery_wall.wc14",
             "rct2.scenery_wall.wc15",
-            "fidwell.v1.scenery_wall.wc15",
+            "fidwell.v2.scenery_wall.wc15",
             "rct2.scenery_small.tl0",
             "fidwell.v2.scenery_small.tl0",
             "rct2.scenery_small.tl1",
@@ -48,24 +48,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v2 Creepy Theming",
-            "fr-FR": "DKSO v2 Thème Terreur",
-            "de-DE": "DKSO v2 Gruselthema",
-            "es-ES": "DKSO v2 Temática horripilante",
-            "it-IT": "DKSO v2 Tema spaventoso",
-            "nl-NL": "DKSO v2 Eng thema",
-            "sv-SE": "DKSO v2 Kräldjurstema",
-            "ko-KR": "DKSO v2 오싹한 테마",
-            "zh-CN": "DKSO v2 战栗主题",
-            "zh-TW": "DKSO v2 戰慄主題區",
-            "pt-BR": "DKSO v2 Temática Assustadora",
-            "cs-CZ": "DKSO v2 Strašidelné kulisy",
-            "ja-JP": "DKSO v2 不気味なテーマ",
-            "pl-PL": "DKSO v2 Wystrój niesamowity",
-            "ru-RU": "DKSO v2 Страшилки",
-            "eo-ZZ": "DKSO v2 Timigeta Temo",
-            "ca-ES": "DKSO v2 Temàtica de por",
-            "fi-FI": "DKSO v2 Värisyttävä teemaus"
+            "en-GB": "DKSO v3 Creepy Theming",
+            "fr-FR": "DKSO v3 Thème Terreur",
+            "de-DE": "DKSO v3 Gruselthema",
+            "es-ES": "DKSO v3 Temática horripilante",
+            "it-IT": "DKSO v3 Tema spaventoso",
+            "nl-NL": "DKSO v3 Eng thema",
+            "sv-SE": "DKSO v3 Kräldjurstema",
+            "ko-KR": "DKSO v3 오싹한 테마",
+            "zh-CN": "DKSO v3 战栗主题",
+            "zh-TW": "DKSO v3 戰慄主題區",
+            "pt-BR": "DKSO v3 Temática Assustadora",
+            "cs-CZ": "DKSO v3 Strašidelné kulisy",
+            "ja-JP": "DKSO v3 不気味なテーマ",
+            "pl-PL": "DKSO v3 Wystrój niesamowity",
+            "ru-RU": "DKSO v3 Страшилки",
+            "eo-ZZ": "DKSO v3 Timigeta Temo",
+            "ca-ES": "DKSO v3 Temàtica de por",
+            "fi-FI": "DKSO v3 Värisyttävä teemaus"
         }
     }
 }
