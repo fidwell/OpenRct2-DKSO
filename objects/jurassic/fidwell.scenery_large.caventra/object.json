@@ -1,0 +1,65 @@
+{
+    "id": "fidwell.v1.scenery_large.caventra",
+    "authors": [ "Frontier Studios" ],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "hasPrimaryColour": true,
+        "price": 38,
+        "removalPrice": -30,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 80,
+                "walls": 11
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 80,
+                "walls": 14
+            }
+        ]
+    },
+    "images": [
+        { "path": "images/00.png", "x": -32, "y": 1 },
+        { "path": "images/01.png", "x": -32, "y": 1 },
+        { "path": "images/02.png", "x": -32, "y": 1 },
+        { "path": "images/03.png", "x": -32, "y": 1 },
+        { "path": "images/04.png", "x": 0, "y": -44 },
+        { "path": "images/05.png", "x": -32, "y": -78 },
+        { "path": "images/06.png", "x": -21, "y": -60 },
+        { "path": "images/07.png", "x": -32, "y": -51 },
+        { "path": "images/08.png", "x": -31, "y": -75 },
+        { "path": "images/09.png", "x": -26, "y": -44 },
+        { "path": "images/10.png", "x": 0, "y": -51 },
+        { "path": "images/11.png", "x": -32, "y": -58 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Cave Entrance",
+            "fr-FR": "Entrée de la caverne",
+            "de-DE": "Höhleneingang",
+            "es-ES": "Entrada de cueva",
+            "it-IT": "Entrata della caverna",
+            "nl-NL": "Ingang grot",
+            "sv-SE": "Grottentré",
+            "ko-KR": "동굴 입구",
+            "zh-TW": "洞穴入口",
+            "pt-BR": "Entrada de Caverna",
+            "cs-CZ": "Vstup do jeskyně",
+            "pl-PL": "Wejście do jaskini",
+            "ru-RU": "Вход в пещеру",
+            "ja-JP": "洞窟の入り口",
+            "eo-ZZ": "Enirejo de Kavo",
+            "ca-ES": "Entrada de cova",
+            "fi-FI": "Luolan suu",
+            "zh-CN": "洞穴入口",
+            "hu-HU": "Barlangbejárat"
+        }
+    }
+}
