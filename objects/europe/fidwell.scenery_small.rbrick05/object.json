@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.v1.scenery_small.rbrick05",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -16 },
+        { "path": "images/1.png", "x": -32, "y": -16 },
+        { "path": "images/2.png", "x": -32, "y": -16 },
+        { "path": "images/3.png", "x": -32, "y": -16 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Red Brick Roof Piece 2",
+            "fr-FR": "Pan de toit de brique rouge 2",
+            "de-DE": "Backsteindach-Bauteil 2",
+            "es-ES": "Pieza de tejado de ladrillo rojo 2",
+            "it-IT": "Pezzo di tetto di mattoni rossi 2",
+            "nl-NL": "Stuk dak van rode baksteen 2",
+            "sv-SE": "Röd tegeltakdel 2",
+            "cs-CZ": "Červená střecha 2",
+            "ko-KR": "붉은 벽돌 지붕 조각 2",
+            "pl-PL": "Czerwona cegła - segment dachu 2",
+            "ru-RU": "Часть красной кирпичной крыши 2",
+            "pt-BR": "Peça de Telhado de Tijolo Vermelho 2",
+            "ja-JP": "赤レンガの屋2",
+            "eo-ZZ": "Ruĝa Brika Tegmentoparto 2",
+            "ca-ES": "Part de teulada de maó roig 2",
+            "fi-FI": "Tiilitalon katon osa 2",
+            "zh-CN": "红砖屋顶2"
+        }
+    }
+}
