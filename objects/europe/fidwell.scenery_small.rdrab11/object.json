@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.v1.scenery_small.rdrab11",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -16 },
+        { "path": "images/1.png", "x": -32, "y": -16 },
+        { "path": "images/2.png", "x": -32, "y": -16 },
+        { "path": "images/3.png", "x": -32, "y": -16 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Drab Roof Piece 1",
+            "fr-FR": "Pan de toit terne 1",
+            "de-DE": "Düsteres Dach-Bauteil 1",
+            "es-ES": "Pieza de tejado apagado 1",
+            "it-IT": "Pezzo di tetto smorto 1",
+            "nl-NL": "Vaal stuk dak 1",
+            "sv-SE": "Gråbrun takdel 1",
+            "cs-CZ": "Střecha 1",
+            "ko-KR": "칙칙한 지붕 조각 1",
+            "pl-PL": "Płowy segment dachu 1",
+            "ru-RU": "Старая крыша 1",
+            "pt-BR": "Peça de Telhado Gris 1",
+            "ja-JP": "壊れた壁のピース 1",
+            "eo-ZZ": "Dubekolora Tegmentoparto 1",
+            "ca-ES": "Part de teulada antiga 1",
+            "fi-FI": "Ränsistyneen katon osa 1",
+            "zh-CN": "褐色-屋顶1"
+        }
+    }
+}

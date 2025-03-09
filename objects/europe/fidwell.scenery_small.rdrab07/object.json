@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.v1.scenery_small.rdrab07",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 64,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -23, "y": -71 },
+{ "path": "images/1.png", "x": -22, "y": -71 },
+{ "path": "images/2.png", "x": -22, "y": -71 },
+{ "path": "images/3.png", "x": -23, "y": -71 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Drab Small Tower Base",
+            "fr-FR": "Base de petite tour terne",
+            "de-DE": "Düsterer Kleiner Turm - Basis",
+            "es-ES": "Base de torre pequeña apagada",
+            "it-IT": "Base di torre piccola smorta",
+            "nl-NL": "Vale basis kleine toren",
+            "sv-SE": "Gråbrun liten tornbas",
+            "cs-CZ": "Základna malé věže",
+            "ko-KR": "칙칙하고 작은 탑 기본",
+            "pl-PL": "Płowa wieżyczka - podstawa",
+            "ru-RU": "Основание старой башни",
+            "pt-BR": "Base de Pequena Torre Gris",
+            "ja-JP": "壊れた小さな塔の土台",
+            "eo-ZZ": "Bazo de Dubekolora Malgranda Turo",
+            "ca-ES": "Base de torre antiga petita",
+            "fi-FI": "Ränsistyneen pienen tornin perusta",
+            "zh-CN": "褐色-小塔底座"
+        }
+    }
+}

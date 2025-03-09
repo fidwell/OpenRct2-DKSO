@@ -1,0 +1,82 @@
+{
+    "id": "fidwell.v1.scenery_large.rdrab04",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 44,
+        "removalPrice": -38,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "hasPrimaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 64,
+                "walls": 12
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 64,
+                "walls": 6
+            }
+        ]
+    },
+    "images": [
+        { "path": "images/00.png", "x": -31, "y": 1 },
+        { "path": "images/01.png", "x": -29, "y": 11 },
+        { "path": "images/02.png", "x": -32, "y": 1 },
+        { "path": "images/03.png", "x": -26, "y": 7 },
+        { "path": "images/04.png", "x": 0, "y": 0 },
+        { "path": "images/05.png", "x": 0, "y": -50 },
+        { "path": "images/06.png", "x": -32, "y": -70 },
+        { "path": "images/07.png", "x": -9, "y": -58 },
+        { "path": "images/08.png", "x": 0, "y": -60 },
+        { "path": "images/09.png", "x": -32, "y": -72 },
+        { "path": "images/10.png", "x": -10, "y": -50 },
+        { "path": "images/11.png", "x": 0, "y": 0 },
+        { "path": "images/12.png", "x": -13, "y": 12 },
+        { "path": "images/13.png", "x": 0, "y": 0 },
+        { "path": "images/14.png", "x": 0, "y": 3 },
+        { "path": "images/15.png", "x": -32, "y": -84 },
+        { "path": "images/16.png", "x": -32, "y": -82 },
+        { "path": "images/17.png", "x": -2, "y": 10 },
+        { "path": "images/18.png", "x": 0, "y": 0 },
+        { "path": "images/19.png", "x": 0, "y": 14 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Drab Large Tower Broken Base",
+            "fr-FR": "Base cassée de grande tour terne",
+            "de-DE": "Düsterer Großer Turm - Beschädigte Basis",
+            "es-ES": "Base rota de torre grande apagada",
+            "it-IT": "Base rotta di torre grande smorta",
+            "nl-NL": "Vale kapotte basis grote toren",
+            "sv-SE": "Trasig stor gråbrun tornbas",
+            "cs-CZ": "Velká věž",
+            "ko-KR": "칙칙한 대형 탑 부서진 기본",
+            "pl-PL": "Płowa wieża - uszkodzona podstawa",
+            "ru-RU": "Сломанное основание старой большой башни",
+            "pt-BR": "Base Quebrada de Grande Torre Gris",
+            "ja-JP": "壊れた巨大タワーの壊れた土台",
+            "eo-ZZ": "Rompita Bazo de Dubekolora Granda Turo",
+            "ca-ES": "Base trencada de torre grossa antiga",
+            "fi-FI": "Ränsistyneen suuren tornin rikkinäinen perusta",
+            "zh-CN": "褐色-高塔损坏的底座"
+        }
+    }
+}
