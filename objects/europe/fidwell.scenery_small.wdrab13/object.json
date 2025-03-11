@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.v1.scenery_small.wdrab13",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 48,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -66 },
+        { "path": "images/1.png", "x": -4, "y": -81 },
+        { "path": "images/2.png", "x": -3, "y": -66 },
+        { "path": "images/3.png", "x": -32, "y": -50 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Drab Step-up Piece 2",
+            "fr-FR": "Pièce de montée terne 2",
+            "de-DE": "Düsteres Treppen-Bauteil 2",
+            "es-ES": "Pieza de sección de escaleras apagadas 2",
+            "it-IT": "Pezzo di rialzo smorto 2",
+            "nl-NL": "Vaal Uitspringend stuk 2",
+            "sv-SE": "Gråbrun trappa 2",
+            "cs-CZ": "Khaki stěna - část 2",
+            "ko-KR": "칙칙하고 점진적인 조각 2",
+            "pl-PL": "Płowy segment wznoszący 2",
+            "ru-RU": "Старая ступень 2",
+            "pt-BR": "Peça de Subida Gris 9",
+            "ja-JP": "壊れたステップアップの部分2",
+            "eo-ZZ": "Dubekolora Ŝtupoparto 2",
+            "ca-ES": "Part de secció d’escala antiga 2",
+            "fi-FI": "Ränsistynyt nouseva osa 2",
+            "zh-CN": "褐色-上升2"
+        }
+    }
+}

@@ -11,7 +11,8 @@ function ExtractSprites(
     [string]$rctIdentifier,
     [string]$imagesJson,
     [bool]$useOriginalImages,
-    [string]$tempPath)
+    [string]$tempPath,
+    [bool]$shouldRecolour)
 {
     Write-Host "Creating directories..."
     New-Item -Path $objectPath -ItemType Directory -Force | Out-Null
@@ -19,17 +20,16 @@ function ExtractSprites(
 
     $useCustomObject = $customIdentifier.Length -gt 0
     $command = ""
-    $shouldRecolour = $false
     if ($useCustomObject)
     {
         Write-Host "Extracting custom object..."
         $command = "$($openRct2com) sprite exportalldat $($customIdentifier.ToUpper()) $($imagePath) > $($imagesJson)"
+        $shouldRecolour = false
     }
     else
     {
         Write-Host "Extracting vanilla object..."
         $command = "$($openRct2com) sprite exportalldat $($rctIdentifier.ToUpper()) $($imagePath) > $($imagesJson)"
-        $shouldRecolour = $true
     }
 
     Invoke-Expression -Command $command
@@ -98,6 +98,7 @@ function EditJson(
 function ConvertDat(
     [string]$groupId,
     [string]$openRct2Identifier,
+    [string]$shouldRecolourStr,
     [string]$customIdentifier,
     [string]$useOriginalImagesStr
 )
@@ -114,16 +115,17 @@ function ConvertDat(
     $imagesJson = "$($objectPath)\images.json"
     $tempPath = ".\objects\temp"
     $useOriginalImages = $useOriginalImagesStr.Length -gt 0
+    $shouldRecolour = $shouldRecolourStr -eq "true"
     
-    ExtractSprites $objectPath $imagePath $customIdentifier $objectName $imagesJson $useOriginalImages $tempPath
+    ExtractSprites $objectPath $imagePath $customIdentifier $objectName $imagesJson $useOriginalImages $tempPath $shouldRecolour
     CopyData $openRct2bin $originalGame $objectType $openRct2Identifier $objectJson
     EditJson $openRct2Identifier $objectJson $newIdentifier $groupId $imagesJson
 
     Write-Host "Done"
 }
 
-if ($args.length -gt 1) {
-    ConvertDat $args[0] $args[1] $args[2] $args[3]
+if ($args.length -gt 2) {
+    ConvertDat $args[0] $args[1] $args[2] $args[3] $args[4]
 } else {
-    Write-Host "Usage: dat-convert groupId openRct2Identifier [customIdentifier] [useOriginalImages]"
+    Write-Host "Usage: dat-convert groupId openRct2Identifier shouldRecolour [customIdentifier] [useOriginalImages]"
 }

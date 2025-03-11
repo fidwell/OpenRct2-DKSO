@@ -1,0 +1,47 @@
+{
+  "id": "fidwell.v1.scenery_small.rtudor02",
+  "authors": ["Frontier Studios"],
+  "version": "1.0",
+  "sourceGame": "custom",
+  "objectType": "scenery_small",
+  "properties": {
+    "price": 20,
+    "removalPrice": -15,
+    "cursor": "CURSOR_HOUSE_DOWN",
+    "height": 32,
+    "shape": "4/4",
+    "isRotatable": true,
+    "isStackable": true,
+    "hasNoSupports": true,
+    "hasPrimaryColour": true,
+    "hasSecondaryColour": true,
+    "hasTertiaryColour": true
+  },
+  "images": [
+    { "path": "images/0.png", "x": -32, "y": -34 },
+    { "path": "images/1.png", "x": -17, "y": -32 },
+    { "path": "images/2.png", "x": -16, "y": -35 },
+    { "path": "images/3.png", "x": -32, "y": -35 }
+  ],
+  "strings": {
+    "name": {
+        "en-GB": "Tudor Roof Piece 1 Extender Piece",
+        "fr-FR": "Pan d’extension de toit Tudor 1",
+        "de-DE": "Tudor-Dach-Bauteil 1 - Ausbauteil",
+        "es-ES": "Pieza de tejado Tudor 1 pieza de extensión",
+        "it-IT": "Pezzo di estensione di tetto Tudor",
+        "nl-NL": "Verlengend stuk dak in Tudorstijl",
+        "sv-SE": "Tudor-takdel 1 förlängning",
+        "cs-CZ": "Tudorská střecha",
+        "ko-KR": "튜더식 지붕 조각 1 확장 조각",
+        "pl-PL": "Elżbietański segment dachu 1 przedłużenie",
+        "ru-RU": "Удлинитель крыши Тюдора 1",
+        "pt-BR": "Peça de Telhado Tudor 1 Peça de Extensão",
+        "ja-JP": "チューダーの屋1（延出片）",
+        "eo-ZZ": "Plilongilo de Tudorstila Tegmentoparto 1",
+        "ca-ES": "Part d’extensió de teulada Tudor 1",
+        "fi-FI": "Tudor-talon katon osan 1 jatko-osa",
+        "zh-CN": "都铎王朝-房顶1延长"
+    }
+  }
+}

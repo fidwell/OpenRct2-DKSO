@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.v1.scenery_small.rdrab05",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 64,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -22, "y": -74 },
+        { "path": "images/1.png", "x": -22, "y": -74 },
+        { "path": "images/2.png", "x": -22, "y": -74 },
+        { "path": "images/3.png", "x": -21, "y": -74 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Drab Small Tower Minaret Base",
+            "fr-FR": "Base de petite tour de dôme terne",
+            "de-DE": "Düsterer Kleiner Turm - Zwiebelkuppel-Basis",
+            "es-ES": "Base de torre pequeña de minareteapagado",
+            "it-IT": "Base di torre piccola smorta a minareto",
+            "nl-NL": "Vale basis kleine Minaret-toren",
+            "sv-SE": "Gråbrun bas för litet minarettorn",
+            "cs-CZ": "Základna malého minaretu",
+            "ko-KR": "칙칙하고 작은 뾰족탑 기본",
+            "pl-PL": "Płowa wieżyczka - podstawa minaretu",
+            "ru-RU": "Основание старого минарета",
+            "pt-BR": "Base de Pequena Torre de Minarete Gris",
+            "ja-JP": "壊れた小さな塔のミナレットの土台",
+            "eo-ZZ": "Bazo de Dubekolora Malgranda Turo-Minareto",
+            "ca-ES": "Base de minaret de torre antiga petita",
+            "fi-FI": "Ränsistyneen pienen tornin minareetin perusta",
+            "zh-CN": "褐色-小塔尖塔底座"
+        }
+    }
+}
