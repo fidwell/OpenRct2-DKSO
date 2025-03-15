@@ -141,9 +141,13 @@
             "rct2tt.scenery_small.drgnattk",
             "rct2tt.scenery_small.clnsmen1",
             "rct2tt.scenery_small.dkfight1",
+            "fidwell.v1.scenery_small.dkfight1",
             "rct2tt.scenery_small.dkfight2",
+            "fidwell.v1.scenery_small.dkfight2",
             "rct2tt.scenery_small.knfight1",
-            "rct2tt.scenery_small.knfight2"
+            "fidwell.v1.scenery_small.knfight1",
+            "rct2tt.scenery_small.knfight2",
+            "fidwell.v1.scenery_small.knfight2"
         ],
         "priority": 53,
         "entertainerCostumes": "knight"
