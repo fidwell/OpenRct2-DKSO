@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_group.panda_dkso",
+    "id": "fidwell.v2.scenery_group.panda_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -7,8 +7,9 @@
     "properties": {
         "entries": [
             "rct2dlc.scenery_small.bigpanda",
+            "fidwell.v1.scenery_small.bigpanda",
             "rct2dlc.scenery_small.pandagr",
-            "fidwell.v1.scenery_small.pandagr",
+            "fidwell.v2.scenery_small.pandagr",
             "rct2dlc.footpath_item.litterpa"
         ],
         "priority": 40
@@ -23,23 +24,23 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v1 Panda Theming",
-            "fr-FR": "DKSO v1 Thème Panda",
-            "de-DE": "DKSO v1 Pandathema",
-            "es-ES": "DKSO v1 Temática Panda",
-            "it-IT": "DKSO v1 Tema panda",
-            "nl-NL": "DKSO v1 Pandathema",
-            "sv-SE": "DKSO v1 Pandatema",
-            "ko-KR": "DKSO v1 판다 테마",
-            "zh-TW": "DKSO v1 熊貓主題區",
-            "pt-BR": "DKSO v1 Temática Panda",
-            "ar_EG": "DKSO v1 ثيم الباندا",
-            "ja-JP": "DKSO v1 パンダのテーマ",
-            "pl-PL": "DKSO v1 Wystrój pandowy",
-            "eo-ZZ": "DKSO v1 Pando-Temo",
-            "ca-ES": "DKSO v1 Temàtica amb óssos panda",
-            "fi-FI": "DKSO v1 Pandateemaus",
-            "zh-CN": "DKSO v1 熊猫主题"
+            "en-GB": "DKSO v2 Panda Theming",
+            "fr-FR": "DKSO v2 Thème Panda",
+            "de-DE": "DKSO v2 Pandathema",
+            "es-ES": "DKSO v2 Temática Panda",
+            "it-IT": "DKSO v2 Tema panda",
+            "nl-NL": "DKSO v2 Pandathema",
+            "sv-SE": "DKSO v2 Pandatema",
+            "ko-KR": "DKSO v2 판다 테마",
+            "zh-TW": "DKSO v2 熊貓主題區",
+            "pt-BR": "DKSO v2 Temática Panda",
+            "ar_EG": "DKSO v2 ثيم الباندا",
+            "ja-JP": "DKSO v2 パンダのテーマ",
+            "pl-PL": "DKSO v2 Wystrój pandowy",
+            "eo-ZZ": "DKSO v2 Pando-Temo",
+            "ca-ES": "DKSO v2 Temàtica amb óssos panda",
+            "fi-FI": "DKSO v2 Pandateemaus",
+            "zh-CN": "DKSO v2 熊猫主题"
         }
     }
 }

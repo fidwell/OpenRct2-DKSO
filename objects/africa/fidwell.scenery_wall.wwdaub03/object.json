@@ -1,8 +1,6 @@
 {
-    "id": "fidwell.v1.scenery_wall.wwdaub03",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "id": "fidwell.v2.scenery_wall.wwdaub03",
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "sourceGame": "custom",
     "objectType": "scenery_wall",
@@ -11,7 +9,8 @@
         "height": 4,
         "price": 50,
         "hasPrimaryColour": true,
-        "hasSecondaryColour": true
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true
     },
     "images": [
         { "path": "images/0.png", "x": -31, "y": -33 },
@@ -34,7 +33,7 @@
             "cs-CZ": "Hliněná zeď",
             "ko-KR": "초벽 벽",
             "pl-PL": "Ściana lepianki",
-            "ru-RU": "Стена",
+            "ru-RU": "Стена Wattle & Daub",
             "pt-BR": "Parede de Pau a Pique",
             "ja-JP": "土壁",
             "eo-ZZ": "Muro el hurdoj kaj tero",
