@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.v1.scenery_small.rgeorg11",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 16,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -31, "y": -16 },
+        { "path": "images/1.png", "x": -32, "y": -28 },
+        { "path": "images/2.png", "x": -32, "y": -28 },
+        { "path": "images/3.png", "x": -32, "y": -28 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Georgian Flat Roof Corner",
+            "fr-FR": "Coin de toit plat géorgien",
+            "de-DE": "Georgianische Flachdachecke",
+            "es-ES": "Esquina de tejado plano georgiano",
+            "it-IT": "Angolo di tetto piatto georgiano",
+            "nl-NL": "Hoekstuk plat dak in Georgiaanse stijl",
+            "sv-SE": "Georgianskt platt takhörn",
+            "cs-CZ": "Gregoriánská plochá střecha",
+            "ko-KR": "조지아식 평평한 지붕 구석",
+            "pl-PL": "Georgiański narożnik płaskiego dachu",
+            "ru-RU": "Плоский угол грузинской крыши",
+            "pt-BR": "Canto de Telhado Georgiano Plano",
+            "ja-JP": "ジョージア風の平屋根 コーナー",
+            "eo-ZZ": "Georgia Plata Tegmentangulo",
+            "ca-ES": "Cantonada de teulada plana georgiana",
+            "fi-FI": "Yrjöläisen tasakaton kulmaosa",
+            "zh-CN": "格鲁吉亚-平屋顶转角"
+        }
+    }
+}

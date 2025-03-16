@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.v1.scenery_small.wtudor13",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -48 },
+        { "path": "images/1.png", "x": -2, "y": -48 },
+        { "path": "images/2.png", "x": -2, "y": -32 },
+        { "path": "images/3.png", "x": -32, "y": -32 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Tudor Ground Bay Wall Piece",
+            "fr-FR": "Pan de baie de rez-de-chaussée Tudor",
+            "de-DE": "Tudor-Erdgeschoss-Erkerwandbauteil",
+            "es-ES": "Pieza de pared de bahía de suelo Tudor",
+            "it-IT": "Pezzo di rientro a terra di muro Tudor",
+            "nl-NL": "Stuk muur nis in Tudorstijl",
+            "sv-SE": "Tudor-väggdel för nedre burspråk",
+            "cs-CZ": "Tudorská stěna",
+            "ko-KR": "튜더식 지면 바닥 벽 조각",
+            "pl-PL": "Elżbietański segment ściany z balkonem",
+            "ru-RU": "Стена причала Тюдора",
+            "pt-BR": "Peça de Parede de Baía de Solo Tudor 4",
+            "ja-JP": "チューダー1階の壁",
+            "eo-ZZ": "Tudorstila Tergolfo-Muroparto",
+            "ca-ES": "Part de paret amb finestral Tudor",
+            "fi-FI": "Tudor-talon alakerran ikkunauloke",
+            "zh-CN": "都铎王朝-突出墙体"
+        }
+    }
+}

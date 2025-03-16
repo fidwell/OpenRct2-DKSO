@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.v1.scenery_small.rgeorg04",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -48 },
+        { "path": "images/1.png", "x": -32, "y": -48 },
+        { "path": "images/2.png", "x": -32, "y": -31 },
+        { "path": "images/3.png", "x": -32, "y": -46 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Georgian Roof Piece 2",
+            "fr-FR": "Pan de toit géorgien 2",
+            "de-DE": "Georgianisches Dach-Bauteil 2",
+            "es-ES": "Pieza de tejado georgiano 2",
+            "it-IT": "Pezzo di tetto georgiano 2",
+            "nl-NL": "Stuk dak in Georgiaanse stijl 2",
+            "sv-SE": "Georgiansk takdel 2",
+            "cs-CZ": "Gregoriánská střecha",
+            "ko-KR": "조지아식 지붕 조각 2",
+            "pl-PL": "Georgiański segment dachu 2",
+            "ru-RU": "Грузинская крыша 2",
+            "pt-BR": "Peça de Telhado Georgiano 2",
+            "ja-JP": "ジョージア風の 屋根部分 2",
+            "eo-ZZ": "Georgia Tegmentoparto 2",
+            "ca-ES": "Part de teulada georgiana 2",
+            "fi-FI": "Yrjöläisen katon osa 2",
+            "zh-CN": "格鲁吉亚-屋顶2"
+        }
+    }
+}

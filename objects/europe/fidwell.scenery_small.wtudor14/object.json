@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.v1.scenery_small.wtudor14",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -48 },
+        { "path": "images/1.png", "x": -10, "y": -48 },
+        { "path": "images/2.png", "x": -10, "y": -37 },
+        { "path": "images/3.png", "x": -32, "y": -37 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Tudor Ground Floor Wall Piece 1",
+            "fr-FR": "Pan de mur de rez-de-chaussée Tudor 1",
+            "de-DE": "Tudor-Erdgeschoss-Wandbauteil 1",
+            "es-ES": "Pieza de pared de suelo Tudor 1",
+            "it-IT": "Pezzo di muro Tudor del piano terra 1",
+            "nl-NL": "Grondstuk muur in Tudorstijl 1",
+            "sv-SE": "Tudor-väggdel för nedre våning 1",
+            "cs-CZ": "Tudorská přízemní stěna - část 1",
+            "ko-KR": "튜더식 지면 바닥 벽 조각 1",
+            "pl-PL": "Elżbietański segment ściany parteru 1",
+            "ru-RU": "Стена первого этажа Тюдора 1",
+            "pt-BR": "Peça da Parede do Andar Térreo Tudor 1",
+            "ja-JP": "チューダー1階の壁1",
+            "eo-ZZ": "Tudorstila Ternivela Muroparto 1",
+            "ca-ES": "Part inferior de paret Tudor 1",
+            "fi-FI": "Tudor-talon alakerran seinän osa 1",
+            "zh-CN": "都铎王朝-底层墙体1"
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "id": "fidwell.v1.scenery_large.rdrab01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 46,
+        "removalPrice": -40,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "hasPrimaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 64,
+                "walls": 9
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 64,
+                "walls": 3
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 64,
+                "walls": 12
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "clearance": 64,
+                "walls": 6
+            }
+        ]
+    },
+    "images": [
+        { "path": "images/00.png", "x": -32, "y": 3 },
+        { "path": "images/01.png", "x": -32, "y": 3 },
+        { "path": "images/02.png", "x": -32, "y": 6 },
+        { "path": "images/03.png", "x": -32, "y": 5 },
+        { "path": "images/04.png", "x": 0, "y": 0 },
+        { "path": "images/05.png", "x": 0, "y": -56 },
+        { "path": "images/06.png", "x": -32, "y": -83 },
+        { "path": "images/07.png", "x": -6, "y": -56 },
+        { "path": "images/08.png", "x": 0, "y": -56 },
+        { "path": "images/09.png", "x": -32, "y": -84 },
+        { "path": "images/10.png", "x": -6, "y": -56 },
+        { "path": "images/11.png", "x": 0, "y": 0 },
+        { "path": "images/12.png", "x": -6, "y": -56 },
+        { "path": "images/13.png", "x": 0, "y": 0 },
+        { "path": "images/14.png", "x": 0, "y": -56 },
+        { "path": "images/15.png", "x": -32, "y": -84 },
+        { "path": "images/16.png", "x": -32, "y": -84 },
+        { "path": "images/17.png", "x": -3, "y": -56 },
+        { "path": "images/18.png", "x": 0, "y": 0 },
+        { "path": "images/19.png", "x": 0, "y": -55 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Drab Large Tower Mid-Section",
+            "fr-FR": "Section moyenne de grande tour terne",
+            "de-DE": "Düsterer Großer Turm - Mitte",
+            "es-ES": "Sección intermedia de torre grande apagada",
+            "it-IT": "Sezione centrale di torre grande smorta",
+            "nl-NL": "Vaal middengedeelte grote toren",
+            "sv-SE": "Gråbrunt mittparti för stort torn",
+            "cs-CZ": "Velká věž",
+            "ko-KR": "칙칙한 대형 탑 중간 조각",
+            "pl-PL": "Płowa wieża - część środkowa",
+            "ru-RU": "Средняя секция старой большой башни",
+            "pt-BR": "Seção Intermediária de Grande Torre Gris",
+            "ja-JP": "壊れた巨大タワーの中間部分",
+            "eo-ZZ": "Mezparto de Dubekolora Granda Turo",
+            "ca-ES": "Secció central de torre grossa antiga",
+            "fi-FI": "Ränsistyneen suuren tornin keskiosa",
+            "zh-CN": "褐色-高塔中部"
+        }
+    }
+}
