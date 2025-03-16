@@ -1,0 +1,51 @@
+{
+    "id": "fidwell.v1.scenery_small.medtrget",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 24,
+        "shape": "1/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -7, "y": -19 },
+        { "path": "images/1.png", "x": -10, "y": -23 },
+        { "path": "images/2.png", "x": -6, "y": -22 },
+        { "path": "images/3.png", "x": -5, "y": -20 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Archery Target",
+            "fr-FR": "Cible de tir à l’arc",
+            "de-DE": "Bogenschießen-Zielscheibe",
+            "es-ES": "Objetivo de arquería",
+            "it-IT": "Bersaglio del tiro con l’arco",
+            "nl-NL": "Schietschijf",
+            "sv-SE": "Pilbågstavla",
+            "ko-KR": "화살 과녁",
+            "zh-TW": "箭靶",
+            "pt-BR": "Alvo de Flechas",
+            "cs-CZ": "Terč",
+            "pl-PL": "Tarcza łucznicza",
+            "ru-RU": "Мишень",
+            "ja-JP": "アーチェリーの",
+            "eo-ZZ": "Celdisko por Arkopafo",
+            "ca-ES": "Diana",
+            "fi-FI": "Jousitaulu",
+            "zh-CN": "箭靶子",
+            "hu-HU": "Íjászati céltábla"
+        }
+    }
+}
