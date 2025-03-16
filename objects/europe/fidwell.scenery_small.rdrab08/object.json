@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.v1.scenery_small.rdrab08",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -19, "y": -24 },
+        { "path": "images/1.png", "x": -21, "y": -23 },
+        { "path": "images/2.png", "x": -18, "y": -24 },
+        { "path": "images/3.png", "x": -20, "y": -24 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Drab Minaret Piece 1",
+            "fr-FR": "Pièce de dôme terne 1",
+            "de-DE": "Düsteres Zwiebelkuppel-Bauteil 1",
+            "es-ES": "Pieza de minarete apagado 1",
+            "it-IT": "Pezzo di minareto smorto 1",
+            "nl-NL": "Vaal stuk Minaret 1",
+            "sv-SE": "Gråbrun minaretdel 1",
+            "cs-CZ": "Minaret 1",
+            "ko-KR": "칙칙한 뾰족탑 조각 1",
+            "pl-PL": "Płowy minaret fragment 1",
+            "ru-RU": "Старый минарет 1",
+            "pt-BR": "Peça de Minarete Gris 1",
+            "ja-JP": "壊れたミナレットのピース 1",
+            "eo-ZZ": "Dubekolora Minaretoparto 1",
+            "ca-ES": "Part de minaret antic 1",
+            "fi-FI": "Ränsistyneen minareetin osa 1",
+            "zh-CN": "褐色-塔尖1"
+        }
+    }
+}

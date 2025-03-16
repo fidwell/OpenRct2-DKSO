@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.v1.scenery_small.rgeorg02",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -48 },
+        { "path": "images/1.png", "x": -32, "y": -48 },
+        { "path": "images/2.png", "x": -32, "y": -46 },
+        { "path": "images/3.png", "x": -32, "y": -33 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Georgian Roof End Piece 2",
+            "fr-FR": "Fin de toit géorgien 2",
+            "de-DE": "Georgianisches Dachende-Bauteil 2",
+            "es-ES": "Pieza final de tejado georgiano 2",
+            "it-IT": "Pezzo di orlo di tetto georgiano 1",
+            "nl-NL": "Eindstuk dak in Georgiaanse stijl 2",
+            "sv-SE": "Slutdel för georgianskt tak 2",
+            "cs-CZ": "Gregoriánská střecha 6",
+            "ko-KR": "조지아식 지붕 끄트머리 조각 2",
+            "pl-PL": "Georgiański końcowy segment dachu 2",
+            "ru-RU": "Конец грузинской крыши 2",
+            "pt-BR": "Peça Final de Telhado Georgiano 2",
+            "ja-JP": "ジョージア風の 軒部分 2",
+            "eo-ZZ": "Georgia Finoparto de Tegmento 2",
+            "ca-ES": "Part final de teulada georgiana 2",
+            "fi-FI": "Yrjöläisen katon pääteosa 2",
+            "zh-CN": "格鲁吉亚-屋顶边缘2"
+        }
+    }
+}

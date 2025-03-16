@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.v1.scenery_small.wgeorg10",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true,
+        "isStackable": true,
+        "hasNoSupports": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -32 },
+        { "path": "images/1.png", "x": -32, "y": -48 },
+        { "path": "images/2.png", "x": -32, "y": -48 },
+        { "path": "images/3.png", "x": -1, "y": -48 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Georgian Wall Piece 4",
+            "fr-FR": "Pan de mur géorgien 4",
+            "de-DE": "Georgianisches Wand-Bauteil 4",
+            "es-ES": "Pieza de pared georgiana 4",
+            "it-IT": "Pezzo di muro georgiano 4",
+            "nl-NL": "Stuk muur in Georgiaanse stijl 4",
+            "sv-SE": "Georgiansk väggdel 4",
+            "cs-CZ": "Gregoriánská stěna - část 4",
+            "ko-KR": "조지아식 벽 조각 4",
+            "pl-PL": "Georgiański segment ściany 4",
+            "ru-RU": "Грузинская стена 4",
+            "pt-BR": "Peça de Parede Georgiana 4",
+            "ja-JP": "ジョージア風の 壁部分 4",
+            "eo-ZZ": "Georgia Muroparto 4",
+            "ca-ES": "Part de paret georgiana 4",
+            "fi-FI": "Yrjöläisen seinän osa 4",
+            "zh-CN": "格鲁吉亚-墙4"
+        }
+    }
+}

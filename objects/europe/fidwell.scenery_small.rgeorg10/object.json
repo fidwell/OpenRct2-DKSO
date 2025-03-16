@@ -1,0 +1,47 @@
+{
+    "id": "fidwell.v1.scenery_small.rgeorg10",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 16,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -16 },
+        { "path": "images/1.png", "x": -32, "y": -16 },
+        { "path": "images/2.png", "x": -32, "y": -28 },
+        { "path": "images/3.png", "x": -32, "y": -28 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Georgian Flat Roof Edge 2",
+            "fr-FR": "Bord de toit plat géorgien 2",
+            "de-DE": "Georgianische Flachdachkante 2",
+            "es-ES": "Borde de tejado plano georgiano 2",
+            "it-IT": "Orlo di tetto piatto georgiano 2",
+            "nl-NL": "Rand plat dak in Georgiaanse stijl 2",
+            "sv-SE": "Georgiansk platt tak-kant 2",
+            "cs-CZ": "Gregoriánská střecha",
+            "ko-KR": "조지아식 평평한 지붕 가장자리 2",
+            "pl-PL": "Georgiański skraj płaskiego dachu 2",
+            "ru-RU": "Плоский край грузинской крыши 2",
+            "pt-BR": "Borda de Telhado Georgiano 2",
+            "ja-JP": "ジョージア風の平屋根 角 2",
+            "eo-ZZ": "Georgia Plata Tegmentobordo 2",
+            "ca-ES": "Vora de teulada plana georgiana 2",
+            "fi-FI": "Yrjöläisen tasakaton reunaosa 2",
+            "zh-CN": "格鲁吉亚-平屋顶边缘2"
+        }
+    }
+}
