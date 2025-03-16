@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.v1.scenery_small.postbox",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 52,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -14, "y": -58 },
+        { "path": "images/1.png", "x": -13, "y": -58 },
+        { "path": "images/2.png", "x": -13, "y": -58 },
+        { "path": "images/3.png", "x": -14, "y": -58 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "British Post Box",
+            "fr-FR": "Boîte à lettres anglaise",
+            "de-DE": "Britischer Briefkasten",
+            "es-ES": "Cabina postal británica",
+            "it-IT": "Casella postale inglese",
+            "nl-NL": "Engelse Brievenbus",
+            "sv-SE": "Brittisk postlåda",
+            "zh-CN": "英国邮筒",
+            "cs-CZ": "Britská poštovní schránka",
+            "ko-KR": "영국식 우편함",
+            "pl-PL": "Angielska skrzynka pocztowa",
+            "ru-RU": "Британскйи почтовый ящик",
+            "pt-BR": "Caixa Postal Inglesa",
+            "ja-JP": "イギリス風郵便ポスト",
+            "eo-ZZ": "Brita Poŝtujo",
+            "ca-ES": "Bústia britànica",
+            "fi-FI": "Brittiläinen postilaatikko"
+        }
+    }
+}
