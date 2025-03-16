@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.v1.scenery_small.trckprt2",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -24, "y": -31 },
+        { "path": "images/1.png", "x": -21, "y": -31 },
+        { "path": "images/2.png", "x": -22, "y": -31 },
+        { "path": "images/3.png", "x": -21, "y": -30 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Empty Cart",
+            "fr-FR": "Chariot vide",
+            "de-DE": "Leerer Wagen",
+            "es-ES": "Vagoneta vacía",
+            "it-IT": "Carrozza vuota",
+            "nl-NL": "Mijnspoor met leeg karretje",
+            "sv-SE": "Tom vagn",
+            "zh-CN": "空空的推车",
+            "cs-CZ": "Prázdný košík",
+            "ko-KR": "빈 카트",
+            "pl-PL": "Pusty wózek",
+            "ru-RU": "Пустая вагонетка",
+            "pt-BR": "Carroça Vazia",
+            "ja-JP": "空のカート",
+            "eo-ZZ": "Malplena Ĉaro",
+            "ca-ES": "Vagoneta buida",
+            "fi-FI": "Tyhjä kärry"
+        }
+    }
+}
