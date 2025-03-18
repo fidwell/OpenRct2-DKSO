@@ -9,8 +9,7 @@
         "height": 4,
         "price": 50,
         "hasPrimaryColour": true,
-        "hasSecondaryColour": true,
-        "hasTertiaryColour": true
+        "hasSecondaryColour": true
     },
     "images": [
         { "path": "images/0.png", "x": -31, "y": -33 },
