@@ -1,0 +1,52 @@
+{
+    "id": "fidwell.v1.scenery_small.tstd",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 21,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 48,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -25, "y": -31 },
+        { "path": "images/1.png", "x": -25, "y": -24 },
+        { "path": "images/2.png", "x": -25, "y": -26 },
+        { "path": "images/3.png", "x": -25, "y": -30 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Dolphins Statue",
+            "fr-FR": "Statue de dauphin",
+            "de-DE": "Delfinstatue",
+            "es-ES": "Estatua de delfín",
+            "it-IT": "Statua di delfini",
+            "nl-NL": "Dolfijnenstandbeeld",
+            "sv-SE": "Delfinstaty",
+            "ko-KR": "돌고래 동상",
+            "zh-CN": "海豚雕像",
+            "zh-TW": "海豚雕像",
+            "pt-BR": "Estátua de Golfinhos",
+            "cs-CZ": "Socha delfína",
+            "ja-JP": "イルカの像",
+            "pl-PL": "Posąg z delfinami",
+            "ru-RU": "Статуя-дельфин",
+            "eo-ZZ": "Statuo de Delfenoj",
+            "ca-ES": "Estàtua de dofins",
+            "fi-FI": "Delfiinipatsas"
+        }
+    }
+}
