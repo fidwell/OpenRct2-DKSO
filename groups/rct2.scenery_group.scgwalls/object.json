@@ -104,7 +104,60 @@
             "rct2.scenery_small.suppleg2",
             "rct2.scenery_small.sumrf",
             "fidwell.v1.scenery_small.sumrf",
-            "rct2.scenery_wall.wallrh32"
+            "rct2.scenery_wall.wallrh32",
+
+            // wonderland
+            "rct2.scenery_small.chbbase",
+            "fidwell.v1.scenery_small.chbbase",
+            
+            // abstract
+            "rct2.scenery_small.georoof1",
+            "toontowner.scenery_small.ttrfgl01",
+            "toontowner.scenery_small.ttrfgl02",
+            "rct2.scenery_small.georoof2",
+            "toontowner.scenery_small.ttrfgl03",
+
+            // snow
+            "rct2.scenery_small.igroof",
+            "fidwell.v1.scenery_small.igroof",
+
+            // roman
+            "rct2.scenery_small.romroof2",
+            "fidwell.v1.scenery_small.romroof2",
+            "rct2.scenery_small.romroof1",
+            "fidwell.v1.scenery_small.romroof1",
+
+            // mars roof
+            // jungle roof 1-2
+            // pirate roofs 1-7
+            // mine roofs 1-9
+            // mine block
+            // mechanical blocks 1
+            // mechanical blocks 2
+            // mechanical walls 1
+            // mechanical walls 2
+            
+            // wacky worlds
+            // time twister
+
+            // fences with slopes
+            // abstract 1-3
+            // igloo 1-2
+            // castle drawbridge 1-2
+            // rock
+            // roman 1-2
+            // mechanical 1-4
+            // pagoda
+            // misc 1-2
+            // castle 1-4
+            // urban 1-2
+            // mars
+            // pirate
+            // wooden 1-3
+            // mining 1-4
+            // bamboo
+            // prison fence
+            // spiked fence
         ],
         "priority": 5
     },
