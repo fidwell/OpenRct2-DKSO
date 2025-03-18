@@ -1,0 +1,66 @@
+{
+    "id": "fidwell.v1.scenery_large.gschlbus",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 104,
+        "removalPrice": -72,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "hasPrimaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 32,
+                "hasSupports": true,
+                "walls": 11
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 32,
+                "hasSupports": true,
+                "walls": 14
+            }
+        ]
+    },
+    "images": [
+        { "path": "images/00.png", "x": -21, "y": 6 },
+        { "path": "images/01.png", "x": -30, "y": 10 },
+        { "path": "images/02.png", "x": -26, "y": 8 },
+        { "path": "images/03.png", "x": -31, "y": 11 },
+        { "path": "images/04.png", "x": -29, "y": -18 },
+        { "path": "images/05.png", "x": -32, "y": -23 },
+        { "path": "images/06.png", "x": -21, "y": -24 },
+        { "path": "images/07.png", "x": -19, "y": -18 },
+        { "path": "images/08.png", "x": -23, "y": -24 },
+        { "path": "images/09.png", "x": -23, "y": -25 },
+        { "path": "images/10.png", "x": -29, "y": -25 },
+        { "path": "images/11.png", "x": -32, "y": -24 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "School Bus",
+            "fr-FR": "Bus scolaire",
+            "de-DE": "Schulbus",
+            "es-ES": "Autocar escolar",
+            "it-IT": "Scuolabus",
+            "nl-NL": "Schoolbus",
+            "sv-SE": "Skolbuss",
+            "ko-KR": "스쿨 버스",
+            "zh-TW": "校車",
+            "pt-BR": "Ônibus Escolar",
+            "cs-CZ": "Americký školní autobus",
+            "pl-PL": "Gimbus",
+            "ru-RU": "Школьный автобус",
+            "ja-JP": "スクールバス",
+            "eo-ZZ": "Lernejo-Buso",
+            "ca-ES": "Autobús escolar",
+            "fi-FI": "Koulubussi",
+            "zh-CN": "校车"
+        }
+    }
+}

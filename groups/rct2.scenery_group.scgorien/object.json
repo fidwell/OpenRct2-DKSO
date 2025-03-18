@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v2.scenery_group.pagoda_dkso",
+    "id": "fidwell.v3.scenery_group.pagoda_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -14,6 +14,7 @@
             "rct2.scenery_small.toh1",
             "fidwell.v1.scenery_small.toh1",
             "rct2.scenery_small.toh2",
+            "fidwell.v1.scenery_small.toh2",
             "rct2.scenery_small.tot1",
             "fidwell.v1.scenery_small.tot1",
             "rct2.scenery_small.tot2",
@@ -44,24 +45,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v2 Pagoda Theming",
-            "fr-FR": "DKSO v2 Thème Pagode",
-            "de-DE": "DKSO v2 Pagodenthema",
-            "es-ES": "DKSO v2 Temática de pagoda",
-            "it-IT": "DKSO v2 Tema pagoda",
-            "nl-NL": "DKSO v2 Pagodethema",
-            "sv-SE": "DKSO v2 Pagod-tema",
-            "ko-KR": "DKSO v2 탑 테마",
-            "zh-CN": "DKSO v2 塔/凉亭主题",
-            "zh-TW": "DKSO v2 塔/涼亭主題區",
-            "pt-BR": "DKSO v2 Temática Oriental",
-            "cs-CZ": "DKSO v2 Pagoda kulisy",
-            "ja-JP": "DKSO v2 パゴダのテーマ",
-            "pl-PL": "DKSO v2 Wystrój japoński",
-            "ru-RU": "DKSO v2 Пагода",
-            "eo-ZZ": "DKSO v2 Pagodo-Temo",
-            "ca-ES": "DKSO v2 Temàtica amb pagodes",
-            "fi-FI": "DKSO v2 Pagoditeemaus"
+            "en-GB": "DKSO v3 Pagoda Theming",
+            "fr-FR": "DKSO v3 Thème Pagode",
+            "de-DE": "DKSO v3 Pagodenthema",
+            "es-ES": "DKSO v3 Temática de pagoda",
+            "it-IT": "DKSO v3 Tema pagoda",
+            "nl-NL": "DKSO v3 Pagodethema",
+            "sv-SE": "DKSO v3 Pagod-tema",
+            "ko-KR": "DKSO v3 탑 테마",
+            "zh-CN": "DKSO v3 塔/凉亭主题",
+            "zh-TW": "DKSO v3 塔/涼亭主題區",
+            "pt-BR": "DKSO v3 Temática Oriental",
+            "cs-CZ": "DKSO v3 Pagoda kulisy",
+            "ja-JP": "DKSO v3 パゴダのテーマ",
+            "pl-PL": "DKSO v3 Wystrój japoński",
+            "ru-RU": "DKSO v3 Пагода",
+            "eo-ZZ": "DKSO v3 Pagodo-Temo",
+            "ca-ES": "DKSO v3 Temàtica amb pagodes",
+            "fi-FI": "DKSO v3 Pagoditeemaus"
         }
     }
 }
