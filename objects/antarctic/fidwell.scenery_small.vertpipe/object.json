@@ -1,0 +1,44 @@
+{
+    "id": "fidwell.v1.scenery_small.vertpipe",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -48 },
+        { "path": "images/1.png", "x": -32, "y": -48 },
+        { "path": "images/2.png", "x": -32, "y": -48 },
+        { "path": "images/3.png", "x": -32, "y": -48 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Ice Pipe Section",
+            "fr-FR": "Section de tuyau de glace",
+            "de-DE": "Eisröhren-Sektion",
+            "es-ES": "Sección de tubería de hielo",
+            "it-IT": "Sezione di tubo di ghiaccio",
+            "nl-NL": "Stuk IJspijp",
+            "sv-SE": "Isrörsavsnitt",
+            "zh-CN": "冰块导管区段",
+            "cs-CZ": "Ledová trubka",
+            "ko-KR": "얼음 파이프 섹션",
+            "pl-PL": "Segment rury lodowej",
+            "ru-RU": "Секция ледяной трубы",
+            "pt-BR": "Seção de Tubos de Gelo",
+            "ja-JP": "氷のパイプ　中間部分",
+            "eo-ZZ": "Tuboparto el Glacio",
+            "ca-ES": "Secció de canonada de gel",
+            "fi-FI": "Jäätikköputken osa"
+        }
+    }
+}

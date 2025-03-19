@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.v1.scenery_small.sb2sky01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 60,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -80 },
+        { "path": "images/1.png", "x": -19, "y": -80 },
+        { "path": "images/2.png", "x": -16, "y": -66 },
+        { "path": "images/3.png", "x": -32, "y": -72 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Stone Skyscraper Stairway Base",
+            "fr-FR": "Rez-de-chaussée de gratte-ciel de pierre",
+            "de-DE": "Steinwolkenkratzer-Treppenbasis",
+            "es-ES": "Base de la escalinata del rascacielos de piedra",
+            "it-IT": "Base delle scale di grattacielo di pietra",
+            "nl-NL": "Stenen wolkenkrabber Basis Trappen",
+            "sv-SE": "Trappbas till stenskrapa",
+            "zh-CN": "石制摩天大楼楼梯基底",
+            "cs-CZ": "Kamenné schodiště mrakodrapu",
+            "ko-KR": "석재 마천루 계단 기본",
+            "pl-PL": "Kamienny wieżowiec - dół schodów",
+            "ru-RU": "Основание лестницы каменного небоскрёба",
+            "pt-BR": "Base de Escadaria do Arranha-céu de Pedra",
+            "ja-JP": "石の超高層ビル　階段　土台",
+            "eo-ZZ": "Ŝtuparobazo de Ŝtona Ĉielskrapanto",
+            "ca-ES": "Base d’escala de gratacel de pedra",
+            "fi-FI": "Kivipilvenpiirtäjän portaikon perusta"
+        }
+    }
+}

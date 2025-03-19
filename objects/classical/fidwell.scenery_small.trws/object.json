@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_small.trws",
+    "id": "fidwell.v2.scenery_small.trws",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -7,6 +7,7 @@
     "properties": {
         "hasPrimaryColour": true,
         "hasSecondaryColour": true,
+        "hasTertiaryColour": true,
         "price": 20,
         "removalPrice": -15,
         "cursor": "CURSOR_STATUE_DOWN",
