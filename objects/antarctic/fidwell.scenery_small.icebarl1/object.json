@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.v1.scenery_small.icebarl1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -30, "y": -30 },
+        { "path": "images/1.png", "x": -31, "y": -32 },
+        { "path": "images/2.png", "x": -31, "y": -30 },
+        { "path": "images/3.png", "x": -31, "y": -30 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Iced Barrels",
+            "fr-FR": "Tonneaux glacés",
+            "de-DE": "Vereiste Fässer",
+            "es-ES": "Barriles helados",
+            "it-IT": "Fusti congelati",
+            "nl-NL": "Bevroren Vaten",
+            "sv-SE": "Istunnor",
+            "zh-CN": "冰桶",
+            "cs-CZ": "Ledové barely",
+            "ko-KR": "눈 덮인 통",
+            "pl-PL": "Oblodzone beczułki",
+            "ru-RU": "Бочки со льдом",
+            "pt-BR": "Barris Congelados",
+            "ja-JP": "氷の樽",
+            "eo-ZZ": "Glaciaj Bareloj",
+            "ca-ES": "Barrils congelats",
+            "fi-FI": "Jäiset tynnyrit"
+        }
+    }
+}
