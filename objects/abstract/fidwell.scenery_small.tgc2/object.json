@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_small.tgc2",
+    "id": "fidwell.v2.scenery_small.tgc2",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -19,7 +19,7 @@
       { "path": "images/0.png", "x": -13, "y": -30 },
       { "path": "images/1.png", "x": -14, "y": -34 },
       { "path": "images/2.png", "x": -13, "y": -34 },
-      { "path": "images/3.png", "x": -13, "y": -33 }
+      { "path": "images/2.png", "x": -13, "y": -33 }
     ],
     "strings": {
         "name": {
