@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_large.oldnyk25",
+    "id": "fidwell.v2.scenery_large.oldnyk25",
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -27,13 +27,13 @@
                 "x": 32,
                 "y": 0,
                 "clearance": 8,
-                "walls": 8
+                "walls": 12
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 8,
-                "walls": 2
+                "walls": 6
             }
         ]
     },
