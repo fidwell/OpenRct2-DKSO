@@ -155,8 +155,7 @@
             "rct2tt.scenery_small.knfight2",
             "fidwell.v1.scenery_small.knfight2"
         ],
-        "priority": 53,
-        "entertainerCostumes": "knight"
+        "priority": 53
     },
     "images": [
         {

@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v2.scenery_group.trees_dkso",
+    "id": "fidwell.v3.scenery_group.trees_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -89,12 +89,7 @@
             "rct2.scenery_small.tropt1",
             "fidwell.v1.scenery_small.tropt1"
         ],
-        "priority": 1,
-        "entertainerCostumes": [
-            "panda",
-            "tiger",
-            "elephant"
-        ]
+        "priority": 1
     },
     "images": [
         {
@@ -106,24 +101,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v2 Trees",
-            "fr-FR": "DKSO v2 Arbres",
-            "de-DE": "DKSO v2 Bäume",
-            "es-ES": "DKSO v2 Árboles",
-            "it-IT": "DKSO v2 Alberi",
-            "nl-NL": "DKSO v2 Bomen",
-            "sv-SE": "DKSO v2 Träd",
-            "ko-KR": "DKSO v2 나무",
-            "zh-CN": "DKSO v2 树",
-            "zh-TW": "DKSO v2 樹",
-            "pt-BR": "DKSO v2 Árvores",
-            "cs-CZ": "DKSO v2 Stromy",
-            "ja-JP": "DKSO v2 木",
-            "pl-PL": "DKSO v2 Drzewa",
-            "ru-RU": "DKSO v2 Деревья",
-            "eo-ZZ": "DKSO v2 Arboj",
-            "ca-ES": "DKSO v2 Arbres",
-            "fi-FI": "DKSO v2 Puut"
+            "en-GB": "DKSO v3 Trees",
+            "fr-FR": "DKSO v3 Arbres",
+            "de-DE": "DKSO v3 Bäume",
+            "es-ES": "DKSO v3 Árboles",
+            "it-IT": "DKSO v3 Alberi",
+            "nl-NL": "DKSO v3 Bomen",
+            "sv-SE": "DKSO v3 Träd",
+            "ko-KR": "DKSO v3 나무",
+            "zh-CN": "DKSO v3 树",
+            "zh-TW": "DKSO v3 樹",
+            "pt-BR": "DKSO v3 Árvores",
+            "cs-CZ": "DKSO v3 Stromy",
+            "ja-JP": "DKSO v3 木",
+            "pl-PL": "DKSO v3 Drzewa",
+            "ru-RU": "DKSO v3 Деревья",
+            "eo-ZZ": "DKSO v3 Arboj",
+            "ca-ES": "DKSO v3 Arbres",
+            "fi-FI": "DKSO v3 Puut"
         }
     }
 }

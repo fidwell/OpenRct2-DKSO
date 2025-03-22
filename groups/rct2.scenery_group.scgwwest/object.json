@@ -20,11 +20,7 @@
             "fidwell.v1.scenery_small.teepee1",
             "rct2.footpath_item.litterww"
         ],
-        "priority": 38,
-        "entertainerCostumes": [
-            "bandit",
-            "sheriff"
-        ]
+        "priority": 38
     },
     "images": [
         {
