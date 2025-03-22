@@ -105,59 +105,118 @@
             "rct2.scenery_small.sumrf",
             "fidwell.v1.scenery_small.sumrf",
             "rct2.scenery_wall.wallrh32",
-
-            // wonderland
             "rct2.scenery_small.chbbase",
             "fidwell.v1.scenery_small.chbbase",
-            
-            // abstract
             "rct2.scenery_small.georoof1",
             "toontowner.scenery_small.ttrfgl01",
             "toontowner.scenery_small.ttrfgl02",
             "rct2.scenery_small.georoof2",
             "toontowner.scenery_small.ttrfgl03",
-
-            // snow
             "rct2.scenery_small.igroof",
             "fidwell.v1.scenery_small.igroof",
-
-            // roman
             "rct2.scenery_small.romroof2",
             "fidwell.v1.scenery_small.romroof2",
             "rct2.scenery_small.romroof1",
             "fidwell.v1.scenery_small.romroof1",
+            "rct2.scenery_small.spcroof1",
+            "fidwell.v1.scenery_small.spcroof1",
+            "rct2.scenery_small.jngroof1",
+            "fidwell.v1.scenery_small.jngroof1",
+            "rct2.scenery_small.roof14",
+            "fidwell.v1.scenery_small.roof14",
+            "rct2.scenery_small.pirroof1",
+            "fidwell.v1.scenery_small.pirroof1",
+            "rct2.scenery_small.pirroof2",
+            "fidwell.v1.scenery_small.pirroof2",
+            "toontowner.scenery_small.ttpirf02",
+            "fidwell.v1.scenery_small.ttpirf02",
+            "toontowner.scenery_small.ttpirf03",
+            "fidwell.v1.scenery_small.ttpirf03",
+            "toontowner.scenery_small.ttpirf04",
+            "fidwell.v1.scenery_small.ttpirf04",
+            "toontowner.scenery_small.ttpirf07",
+            "fidwell.v1.scenery_small.ttpirf07",
+            "toontowner.scenery_small.ttpirf08",
+            "fidwell.v1.scenery_small.ttpirf08",
+            "rct2.scenery_small.minroof1",
+            "fidwell.v1.scenery_small.minroof1",
+            "rct2.scenery_small.roof13",
+            "fidwell.v1.scenery_small.roof13",
+            "toontowner.scenery_small.ttrfwd01",
+            "fidwell.v1.scenery_small.ttrfwd01",
+            "toontowner.scenery_small.ttrfwd02",
+            "fidwell.v1.scenery_small.ttrfwd02",
+            "toontowner.scenery_small.ttrfwd03",
+            "fidwell.v1.scenery_small.ttrfwd03",
+            "toontowner.scenery_small.ttrfwd04",
+            "fidwell.v1.scenery_small.ttrfwd04",
+            "toontowner.scenery_small.ttrfwd06",
+            "fidwell.v1.scenery_small.ttrfwd06",
+            "toontowner.scenery_small.ttrfwd07",
+            "fidwell.v1.scenery_small.ttrfwd07",
+            "toontowner.scenery_small.ttrfwd08",
+            "fidwell.v1.scenery_small.ttrfwd08",
+            "rct2.scenery_small.wdbase",
+            "rct2.scenery_small.stlbaset",
+            "rct2.scenery_small.stbase",
+            "rct2.scenery_small.stldw",
+            "rct2.scenery_small.stldw2",
 
-            // mars roof
-            // jungle roof 1-2
-            // pirate roofs 1-7
-            // mine roofs 1-9
-            // mine block
-            // mechanical blocks 1
-            // mechanical blocks 2
-            // mechanical walls 1
-            // mechanical walls 2
-            
             // wacky worlds
             // time twister
-
-            // fences with slopes
-            // abstract 1-3
-            // igloo 1-2
-            // castle drawbridge 1-2
-            // rock
-            // roman 1-2
-            // mechanical 1-4
-            // pagoda
-            // misc 1-2
-            // castle 1-4
-            // urban 1-2
-            // mars
-            // pirate
-            // wooden 1-3
-            // mining 1-4
-            // bamboo
-            // prison fence
-            // spiked fence
+            
+            "rct2.scenery_wall.wallgl8",
+            "rct2.scenery_wall.wallgl16",
+            "rct2.scenery_wall.wallgl32",
+            "rct2.scenery_wall.wallig16",
+            "fidwell.v2.scenery_wall.wallig16",
+            "rct2.scenery_wall.wallig24",
+            "fidwell.v1.scenery_wall.wallig24",
+            "rct2.scenery_wall.wallcfpc",
+            "rct2.scenery_wall.wallcbpc",
+            "rct2.scenery_wall.wallrk32",
+            "fidwell.v2.scenery_wall.wallrk32",
+            "rct2.scenery_wall.wrw",
+            "fidwell.v1.scenery_wall.wrw",
+            "rct2.scenery_wall.wrwa",
+            "fidwell.v1.scenery_wall.wrwa",
+            "rct2.scenery_wall.wallst8",
+            "rct2.scenery_wall.wallst16",
+            "rct2.scenery_wall.wallstwn",
+            "rct2.scenery_wall.wallst32",
+            "rct2.scenery_wall.wallpg32",
+            "fidwell.v1.scenery_wall.wallpg32",
+            "rct2.scenery_wall.wallmn32",
+            "fidwell.v1.scenery_wall.wallmn32",
+            "rct2.scenery_wall.walljn32",
+            "fidwell.v1.scenery_wall.walljn32",
+            "rct2.scenery_wall.wallcz32",
+            "fidwell.v2.scenery_wall.wallcz32",
+            "rct2.scenery_wall.wallcy32",
+            "fidwell.v1.scenery_wall.wallcy32",
+            "rct2.scenery_wall.wallcw32",
+            "fidwell.v1.scenery_wall.wallcw32",
+            "rct2.scenery_wall.wallcx32",
+            "rct2.scenery_wall.wallu132",
+            "rct2.scenery_wall.wallu232",
+            "rct2.scenery_wall.wallsp32",
+            "fidwell.v1.scenery_wall.wallsp32",
+            "mamabear.scenery_wall.mg-prar",
+            "rct2.scenery_wall.wwtwa",
+            "fidwell.v1.scenery_wall.wwtwa",
+            "couger.scenery_wall.acwwf32",
+            "fidwell.v2.scenery_wall.acwwf32",
+            "couger.scenery_wall.acww33",
+            "fidwell.v2.scenery_wall.acww33",
+            "rct2.scenery_wall.wallwd8",
+            "rct2.scenery_wall.wallwd16",
+            "rct2.scenery_wall.wallwd32",
+            "rct2.scenery_wall.wallwd33",
+            "rct2ww.scenery_wall.wbambopc",
+            "rct2tt.scenery_wall.jailxx19",
+            "fidwell.v1.scenery_wall.jailxx19",
+            "rct2tt.scenery_wall.mspkwa01",
+            "fidwell.v1.scenery_wall.mspkwa01"
         ],
         "priority": 5
     },
