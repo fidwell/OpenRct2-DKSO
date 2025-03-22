@@ -1,11 +1,14 @@
 {
-    "id": "fidwell.v2.scenery_small.tg6",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "id": "fidwell.v1.scenery_small.tg1",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "sourceGame": "custom",
     "objectType": "scenery_small",
     "properties": {
-        "price": 13,
+        "price": 12,
         "removalPrice": 5,
         "cursor": "CURSOR_FLOWER_DOWN",
         "height": 8,
@@ -14,24 +17,24 @@
         "requiresFlatSurface": true,
         "canWither": true,
         "canBeWatered": true,
+        "isStackable": true,
         "hasPrimaryColour": true,
         "hasSecondaryColour": true,
-        "hasTertiaryColour": true,
-        "isStackable": true
+        "hasTertiaryColour": true
     },
     "images": [
-        { "path": "images/0.png", "x": -32, "y": -14 },
-        { "path": "images/0.png", "x": -32, "y": -14 },
-        { "path": "images/0.png", "x": -32, "y": -14 },
-        { "path": "images/0.png", "x": -32, "y": -14 },
-        { "path": "images/1.png", "x": -32, "y": -13 },
-        { "path": "images/1.png", "x": -32, "y": -13 },
-        { "path": "images/1.png", "x": -32, "y": -13 },
-        { "path": "images/1.png", "x": -32, "y": -13 },
-        { "path": "images/2.png", "x": -32, "y": -10 },
-        { "path": "images/2.png", "x": -32, "y": -10 },
-        { "path": "images/2.png", "x": -32, "y": -10 },
-        { "path": "images/2.png", "x": -32, "y": -10 }
+        { "path": "images/0.png", "x": -32, "y": -10 },
+        { "path": "images/0.png", "x": -32, "y": -10 },
+        { "path": "images/0.png", "x": -32, "y": -10 },
+        { "path": "images/0.png", "x": -32, "y": -10 },
+        { "path": "images/1.png", "x": -32, "y": -8 },
+        { "path": "images/1.png", "x": -32, "y": -8 },
+        { "path": "images/1.png", "x": -32, "y": -8 },
+        { "path": "images/1.png", "x": -32, "y": -8 },
+        { "path": "images/2.png", "x": -32, "y": -8 },
+        { "path": "images/2.png", "x": -32, "y": -8 },
+        { "path": "images/2.png", "x": -32, "y": -8 },
+        { "path": "images/2.png", "x": -32, "y": -8 }
     ],
     "strings": {
         "name": {
@@ -43,7 +46,7 @@
             "nl-NL": "Bloemen",
             "sv-SE": "Rabatter",
             "ko-KR": "꽃",
-            "zh-CN": "花园",
+            "zh-CN": "花园花园",
             "zh-TW": "花園",
             "pt-BR": "Jardins",
             "cs-CZ": "Zahrady",
