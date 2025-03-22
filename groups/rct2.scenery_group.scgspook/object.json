@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v2.scenery_group.spooky_dkso",
+    "id": "fidwell.v3.scenery_group.spooky_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -46,24 +46,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v2 Spooky Theming",
-            "fr-FR": "DKSO v2 Thème Terreur",
-            "de-DE": "DKSO v2 Spukthema",
-            "es-ES": "DKSO v2 Temática fantasmal",
-            "it-IT": "DKSO v2 Tema spettrale",
-            "nl-NL": "DKSO v2 Spookthema",
-            "sv-SE": "DKSO v2 Spöktema",
-            "ko-KR": "DKSO v2 으스스한 테마",
-            "zh-CN": "DKSO v2 幽灵主题",
-            "zh-TW": "DKSO v2 幽靈主題區",
-            "pt-BR": "DKSO v2 Temática Fantasmagórica",
-            "cs-CZ": "DKSO v2 Strašidelné kulisy",
-            "ja-JP": "DKSO v2 薄気味悪いテーマ",
-            "pl-PL": "DKSO v2 Wystrój straszliwy",
-            "ru-RU": "DKSO v2 Страшилки",
-            "eo-ZZ": "DKSO v2 Timigeta Temo",
-            "ca-ES": "DKSO v2 Temàtica fantasmagòrica",
-            "fi-FI": "DKSO v2 Aavemainen teemaus"
+            "en-GB": "DKSO v3 Spooky Theming",
+            "fr-FR": "DKSO v3 Thème Terreur",
+            "de-DE": "DKSO v3 Spukthema",
+            "es-ES": "DKSO v3 Temática fantasmal",
+            "it-IT": "DKSO v3 Tema spettrale",
+            "nl-NL": "DKSO v3 Spookthema",
+            "sv-SE": "DKSO v3 Spöktema",
+            "ko-KR": "DKSO v3 으스스한 테마",
+            "zh-CN": "DKSO v3 幽灵主题",
+            "zh-TW": "DKSO v3 幽靈主題區",
+            "pt-BR": "DKSO v3 Temática Fantasmagórica",
+            "cs-CZ": "DKSO v3 Strašidelné kulisy",
+            "ja-JP": "DKSO v3 薄気味悪いテーマ",
+            "pl-PL": "DKSO v3 Wystrój straszliwy",
+            "ru-RU": "DKSO v3 Страшилки",
+            "eo-ZZ": "DKSO v3 Timigeta Temo",
+            "ca-ES": "DKSO v3 Temàtica fantasmagòrica",
+            "fi-FI": "DKSO v3 Aavemainen teemaus"
         }
     }
 }

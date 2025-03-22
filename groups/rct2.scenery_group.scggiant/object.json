@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_group.ggarden_dkso",
+    "id": "fidwell.v3.scenery_group.ggarden_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -34,24 +34,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v1 Giant Garden Theming",
-            "fr-FR": "DKSO v1 Thème Jardin géant",
-            "de-DE": "DKSO v1 Riesengarten-Thema",
-            "es-ES": "DKSO v1 Temática jardín gigante",
-            "it-IT": "DKSO v1 Tema giardino gigante",
-            "nl-NL": "DKSO v1 Gigantische-tuin-thema",
-            "sv-SE": "DKSO v1 Gigantisk trädgård-tema",
-            "ko-KR": "DKSO v1 대형 정원 테마",
-            "zh-CN": "DKSO v1 巨大花园主题",
-            "zh-TW": "DKSO v1 巨大花園主題區",
-            "pt-BR": "DKSO v1 Temática de Jardim Gigante",
-            "cs-CZ": "DKSO v1 Kulisy obrovských zahrad",
-            "ja-JP": "DKSO v1 巨大花壇風のテーマ",
-            "pl-PL": "DKSO v1 Wystrój ogrodu olbrzymów",
-            "ru-RU": "DKSO v1 Гигантский Сад",
-            "eo-ZZ": "DKSO v1 Temo de Giganta Ĝardeno",
-            "ca-ES": "DKSO v1 Temàtica de jardí gegant",
-            "fi-FI": "DKSO v1 Jättipuutarhateemaus"
+            "en-GB": "DKSO v3 Giant Garden Theming",
+            "fr-FR": "DKSO v3 Thème Jardin géant",
+            "de-DE": "DKSO v3 Riesengarten-Thema",
+            "es-ES": "DKSO v3 Temática jardín gigante",
+            "it-IT": "DKSO v3 Tema giardino gigante",
+            "nl-NL": "DKSO v3 Gigantische-tuin-thema",
+            "sv-SE": "DKSO v3 Gigantisk trädgård-tema",
+            "ko-KR": "DKSO v3 대형 정원 테마",
+            "zh-CN": "DKSO v3 巨大花园主题",
+            "zh-TW": "DKSO v3 巨大花園主題區",
+            "pt-BR": "DKSO v3 Temática de Jardim Gigante",
+            "cs-CZ": "DKSO v3 Kulisy obrovských zahrad",
+            "ja-JP": "DKSO v3 巨大花壇風のテーマ",
+            "pl-PL": "DKSO v3 Wystrój ogrodu olbrzymów",
+            "ru-RU": "DKSO v3 Гигантский Сад",
+            "eo-ZZ": "DKSO v3 Temo de Giganta Ĝardeno",
+            "ca-ES": "DKSO v3 Temàtica de jardí gegant",
+            "fi-FI": "DKSO v3 Jättipuutarhateemaus"
         }
     }
 }

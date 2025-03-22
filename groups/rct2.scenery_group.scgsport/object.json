@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v2.scenery_group.sports_dkso",
+    "id": "fidwell.v3.scenery_group.sports_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -40,24 +40,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v2 Sports Theming",
-            "fr-FR": "DKSO v2 Thème Sports",
-            "de-DE": "DKSO v2 Sport-Thema",
-            "es-ES": "DKSO v2 Temática deportiva",
-            "it-IT": "DKSO v2 Tema sportivo",
-            "nl-NL": "DKSO v2 Sportthema",
-            "sv-SE": "DKSO v2 Sportstema",
-            "ko-KR": "DKSO v2 스포츠 테마",
-            "zh-CN": "DKSO v2 运动主题",
-            "zh-TW": "DKSO v2 運動主題區",
-            "pt-BR": "DKSO v2 Temática Esportiva",
-            "cs-CZ": "DKSO v2 Sportovní kulisy",
-            "ja-JP": "DKSO v2 スポーツ風のテーマ",
-            "pl-PL": "DKSO v2 Wystrój sportowy",
-            "ru-RU": "DKSO v2 Спорт",
-            "eo-ZZ": "DKSO v2 Temo de Sportoj",
-            "ca-ES": "DKSO v2 Temàtica esportiva",
-            "fi-FI": "DKSO v2 Urheiluteemaus"
+            "en-GB": "DKSO v3 Sports Theming",
+            "fr-FR": "DKSO v3 Thème Sports",
+            "de-DE": "DKSO v3 Sport-Thema",
+            "es-ES": "DKSO v3 Temática deportiva",
+            "it-IT": "DKSO v3 Tema sportivo",
+            "nl-NL": "DKSO v3 Sportthema",
+            "sv-SE": "DKSO v3 Sportstema",
+            "ko-KR": "DKSO v3 스포츠 테마",
+            "zh-CN": "DKSO v3 运动主题",
+            "zh-TW": "DKSO v3 運動主題區",
+            "pt-BR": "DKSO v3 Temática Esportiva",
+            "cs-CZ": "DKSO v3 Sportovní kulisy",
+            "ja-JP": "DKSO v3 スポーツ風のテーマ",
+            "pl-PL": "DKSO v3 Wystrój sportowy",
+            "ru-RU": "DKSO v3 Спорт",
+            "eo-ZZ": "DKSO v3 Temo de Sportoj",
+            "ca-ES": "DKSO v3 Temàtica esportiva",
+            "fi-FI": "DKSO v3 Urheiluteemaus"
         }
     }
 }

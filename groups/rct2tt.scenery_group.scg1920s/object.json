@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v2.scenery_group.twenties_dkso",
+    "id": "fidwell.v3.scenery_group.twenties_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -77,24 +77,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v2 Roaring Twenties Theming",
-            "fr-FR": "DKSO v2 Thème des années folles",
-            "de-DE": "DKSO v2 Wilde-Zwanziger-Thema",
-            "es-ES": "DKSO v2 Tema locos años veinte",
-            "it-IT": "DKSO v2 Tema Ruggenti Anni Venti",
-            "nl-NL": "DKSO v2 ‘Roaring Twenties’-thema",
-            "sv-SE": "DKSO v2 Glada tjugotalet-tema",
-            "ko-KR": "DKSO v2 광란의 20년대 테마",
-            "zh-TW": "DKSO v2 喧騰的20年代主題區",
-            "pt-BR": "DKSO v2 Temática Anos 20",
-            "cs-CZ": "DKSO v2 Bouřlivá 20. léta",
-            "pl-PL": "DKSO v2 Wystrój Ryczących Dwudziestek",
-            "ru-RU": "DKSO v2 Двадцатые Годы",
-            "ja-JP": "DKSO v2 1920時代のテーマ",
-            "eo-ZZ": "DKSO v2 Temo de Muĝadaj Dudekaj Jaroj",
-            "ca-ES": "DKSO v2 Temàtica dels esbojarrats anys vint",
-            "fi-FI": "DKSO v2 Kuohuva 20-luku -teemaus",
-            "zh-CN": "DKSO v2 咆哮20年代主题"
+            "en-GB": "DKSO v3 Roaring Twenties Theming",
+            "fr-FR": "DKSO v3 Thème des années folles",
+            "de-DE": "DKSO v3 Wilde-Zwanziger-Thema",
+            "es-ES": "DKSO v3 Tema locos años veinte",
+            "it-IT": "DKSO v3 Tema Ruggenti Anni Venti",
+            "nl-NL": "DKSO v3 ‘Roaring Twenties’-thema",
+            "sv-SE": "DKSO v3 Glada tjugotalet-tema",
+            "ko-KR": "DKSO v3 광란의 20년대 테마",
+            "zh-TW": "DKSO v3 喧騰的20年代主題區",
+            "pt-BR": "DKSO v3 Temática Anos 20",
+            "cs-CZ": "DKSO v3 Bouřlivá 20. léta",
+            "pl-PL": "DKSO v3 Wystrój Ryczących Dwudziestek",
+            "ru-RU": "DKSO v3 Двадцатые Годы",
+            "ja-JP": "DKSO v3 1920時代のテーマ",
+            "eo-ZZ": "DKSO v3 Temo de Muĝadaj Dudekaj Jaroj",
+            "ca-ES": "DKSO v3 Temàtica dels esbojarrats anys vint",
+            "fi-FI": "DKSO v3 Kuohuva 20-luku -teemaus",
+            "zh-CN": "DKSO v3 咆哮20年代主题"
         }
     }
 }

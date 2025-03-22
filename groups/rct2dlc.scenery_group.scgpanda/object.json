@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v2.scenery_group.panda_dkso",
+    "id": "fidwell.v3.scenery_group.panda_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -24,23 +24,23 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v2 Panda Theming",
-            "fr-FR": "DKSO v2 Thème Panda",
-            "de-DE": "DKSO v2 Pandathema",
-            "es-ES": "DKSO v2 Temática Panda",
-            "it-IT": "DKSO v2 Tema panda",
-            "nl-NL": "DKSO v2 Pandathema",
-            "sv-SE": "DKSO v2 Pandatema",
-            "ko-KR": "DKSO v2 판다 테마",
-            "zh-TW": "DKSO v2 熊貓主題區",
-            "pt-BR": "DKSO v2 Temática Panda",
-            "ar_EG": "DKSO v2 ثيم الباندا",
-            "ja-JP": "DKSO v2 パンダのテーマ",
-            "pl-PL": "DKSO v2 Wystrój pandowy",
-            "eo-ZZ": "DKSO v2 Pando-Temo",
-            "ca-ES": "DKSO v2 Temàtica amb óssos panda",
-            "fi-FI": "DKSO v2 Pandateemaus",
-            "zh-CN": "DKSO v2 熊猫主题"
+            "en-GB": "DKSO v3 Panda Theming",
+            "fr-FR": "DKSO v3 Thème Panda",
+            "de-DE": "DKSO v3 Pandathema",
+            "es-ES": "DKSO v3 Temática Panda",
+            "it-IT": "DKSO v3 Tema panda",
+            "nl-NL": "DKSO v3 Pandathema",
+            "sv-SE": "DKSO v3 Pandatema",
+            "ko-KR": "DKSO v3 판다 테마",
+            "zh-TW": "DKSO v3 熊貓主題區",
+            "pt-BR": "DKSO v3 Temática Panda",
+            "ar_EG": "DKSO v3 ثيم الباندا",
+            "ja-JP": "DKSO v3 パンダのテーマ",
+            "pl-PL": "DKSO v3 Wystrój pandowy",
+            "eo-ZZ": "DKSO v3 Pando-Temo",
+            "ca-ES": "DKSO v3 Temàtica amb óssos panda",
+            "fi-FI": "DKSO v3 Pandateemaus",
+            "zh-CN": "DKSO v3 熊猫主题"
         }
     }
 }

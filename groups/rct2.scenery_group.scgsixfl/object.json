@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_group.sixflags_dkso",
+    "id": "fidwell.v3.scenery_group.sixflags_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -30,24 +30,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v1 Six Flags Theming",
-            "fr-FR": "DKSO v1 Thème Six Flags",
-            "de-DE": "DKSO v1 Six-Flags-Thema",
-            "es-ES": "DKSO v1 Temática six flags",
-            "it-IT": "DKSO v1 Tema Six Flags",
-            "nl-NL": "DKSO v1 Six Flags-thema",
-            "sv-SE": "DKSO v1 Six Flags-tema",
-            "ko-KR": "DKSO v1 식스 플래그 테마",
-            "zh-CN": "DKSO v1 六旗游乐园主题",
-            "zh-TW": "DKSO v1 六旗主題區",
-            "pt-BR": "DKSO v1 Temática Six Flags",
-            "cs-CZ": "DKSO v1 Six Flags kulisy",
-            "ja-JP": "DKSO v1 シックスフラッグスのテーマ",
-            "pl-PL": "DKSO v1 Wystrój Sześciu Flag",
-            "ru-RU": "DKSO v1 Шесть Флагов",
-            "eo-ZZ": "DKSO v1 Temo de Six Flags",
-            "ca-ES": "DKSO v1 Temàtica Six Flags",
-            "fi-FI": "DKSO v1 Six Flags -teemaus"
+            "en-GB": "DKSO v3 Six Flags Theming",
+            "fr-FR": "DKSO v3 Thème Six Flags",
+            "de-DE": "DKSO v3 Six-Flags-Thema",
+            "es-ES": "DKSO v3 Temática six flags",
+            "it-IT": "DKSO v3 Tema Six Flags",
+            "nl-NL": "DKSO v3 Six Flags-thema",
+            "sv-SE": "DKSO v3 Six Flags-tema",
+            "ko-KR": "DKSO v3 식스 플래그 테마",
+            "zh-CN": "DKSO v3 六旗游乐园主题",
+            "zh-TW": "DKSO v3 六旗主題區",
+            "pt-BR": "DKSO v3 Temática Six Flags",
+            "cs-CZ": "DKSO v3 Six Flags kulisy",
+            "ja-JP": "DKSO v3 シックスフラッグスのテーマ",
+            "pl-PL": "DKSO v3 Wystrój Sześciu Flag",
+            "ru-RU": "DKSO v3 Шесть Флагов",
+            "eo-ZZ": "DKSO v3 Temo de Six Flags",
+            "ca-ES": "DKSO v3 Temàtica Six Flags",
+            "fi-FI": "DKSO v3 Six Flags -teemaus"
         }
     }
 }

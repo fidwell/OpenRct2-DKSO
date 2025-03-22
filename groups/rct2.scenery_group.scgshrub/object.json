@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_group.shrubs_dkso",
+    "id": "fidwell.v3.scenery_group.shrubs_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -89,24 +89,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v1 Shrubs and Ornaments",
-            "fr-FR": "DKSO v1 Arbustes et décorations",
-            "de-DE": "DKSO v1 Sträucher und Verzierungen",
-            "es-ES": "DKSO v1 Arbustos y ornamentos",
-            "it-IT": "DKSO v1 Arbusti e ornamenti",
-            "nl-NL": "DKSO v1 Struiken en ornamenten",
-            "sv-SE": "DKSO v1 Buskar och prydnader",
-            "ko-KR": "DKSO v1 관목과 장식품",
-            "zh-CN": "DKSO v1 灌木及装饰品",
-            "zh-TW": "DKSO v1 灌木及裝飾品",
-            "pt-BR": "DKSO v1 Arbustos e Ornamentos",
-            "cs-CZ": "DKSO v1 Keře a ornamenty",
-            "ja-JP": "DKSO v1 低木と装飾品",
-            "pl-PL": "DKSO v1 Krzewy i dekoracje",
-            "ru-RU": "DKSO v1 Кусты и Орнаменты",
-            "eo-ZZ": "DKSO v1 Arbetoj kaj Ornamaĵoj",
-            "ca-ES": "DKSO v1 Arbustos i ornaments",
-            "fi-FI": "DKSO v1 Puskat ja koristeet"
+            "en-GB": "DKSO v3 Shrubs and Ornaments",
+            "fr-FR": "DKSO v3 Arbustes et décorations",
+            "de-DE": "DKSO v3 Sträucher und Verzierungen",
+            "es-ES": "DKSO v3 Arbustos y ornamentos",
+            "it-IT": "DKSO v3 Arbusti e ornamenti",
+            "nl-NL": "DKSO v3 Struiken en ornamenten",
+            "sv-SE": "DKSO v3 Buskar och prydnader",
+            "ko-KR": "DKSO v3 관목과 장식품",
+            "zh-CN": "DKSO v3 灌木及装饰品",
+            "zh-TW": "DKSO v3 灌木及裝飾品",
+            "pt-BR": "DKSO v3 Arbustos e Ornamentos",
+            "cs-CZ": "DKSO v3 Keře a ornamenty",
+            "ja-JP": "DKSO v3 低木と装飾品",
+            "pl-PL": "DKSO v3 Krzewy i dekoracje",
+            "ru-RU": "DKSO v3 Кусты и Орнаменты",
+            "eo-ZZ": "DKSO v3 Arbetoj kaj Ornamaĵoj",
+            "ca-ES": "DKSO v3 Arbustos i ornaments",
+            "fi-FI": "DKSO v3 Puskat ja koristeet"
         }
     }
 }

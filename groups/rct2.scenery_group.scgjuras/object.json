@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_group.jurassic_dkso",
+    "id": "fidwell.v3.scenery_group.jurassic_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -42,24 +42,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v1 Jurassic Theming",
-            "fr-FR": "DKSO v1 Thème Jurassique",
-            "de-DE": "DKSO v1 Jurassic-Thema",
-            "es-ES": "DKSO v1 Temática jurásica",
-            "it-IT": "DKSO v1 Tema giurassico",
-            "nl-NL": "DKSO v1 Jurassisch thema",
-            "sv-SE": "DKSO v1 Dinosaurietema",
-            "ko-KR": "DKSO v1 쥐라기 테마",
-            "zh-CN": "DKSO v1 侏罗纪主题",
-            "zh-TW": "DKSO v1 侏羅紀主題區",
-            "pt-BR": "DKSO v1 Temática Jurássica",
-            "cs-CZ": "DKSO v1 Jurské kulisy",
-            "ja-JP": "DKSO v1 ジュラシック風のテーマ",
-            "pl-PL": "DKSO v1 Wystrój jurajski",
-            "ru-RU": "DKSO v1 Юрский Парк",
-            "eo-ZZ": "DKSO v1 Ĵurasa Temo",
-            "ca-ES": "DKSO v1 Temàtica juràssica",
-            "fi-FI": "DKSO v1 Jurassinen teemaus"
+            "en-GB": "DKSO v3 Jurassic Theming",
+            "fr-FR": "DKSO v3 Thème Jurassique",
+            "de-DE": "DKSO v3 Jurassic-Thema",
+            "es-ES": "DKSO v3 Temática jurásica",
+            "it-IT": "DKSO v3 Tema giurassico",
+            "nl-NL": "DKSO v3 Jurassisch thema",
+            "sv-SE": "DKSO v3 Dinosaurietema",
+            "ko-KR": "DKSO v3 쥐라기 테마",
+            "zh-CN": "DKSO v3 侏罗纪主题",
+            "zh-TW": "DKSO v3 侏羅紀主題區",
+            "pt-BR": "DKSO v3 Temática Jurássica",
+            "cs-CZ": "DKSO v3 Jurské kulisy",
+            "ja-JP": "DKSO v3 ジュラシック風のテーマ",
+            "pl-PL": "DKSO v3 Wystrój jurajski",
+            "ru-RU": "DKSO v3 Юрский Парк",
+            "eo-ZZ": "DKSO v3 Ĵurasa Temo",
+            "ca-ES": "DKSO v3 Temàtica juràssica",
+            "fi-FI": "DKSO v3 Jurassinen teemaus"
         }
     }
 }
