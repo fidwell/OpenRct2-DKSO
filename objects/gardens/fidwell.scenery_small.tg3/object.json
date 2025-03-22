@@ -1,6 +1,9 @@
 {
-    "id": "fidwell.v1.scenery_small.tg3a",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "id": "fidwell.v1.scenery_small.tg3",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "sourceGame": "custom",
     "objectType": "scenery_small",
@@ -14,23 +17,24 @@
         "requiresFlatSurface": true,
         "canWither": true,
         "canBeWatered": true,
+        "isStackable": true,
         "hasPrimaryColour": true,
         "hasSecondaryColour": true,
-        "isStackable": true
+        "hasTertiaryColour": true
     },
     "images": [
-      { "path": "images/00.png", "x": -32, "y": -9 },
-      { "path": "images/01.png", "x": -32, "y": -9 },
-      { "path": "images/02.png", "x": -32, "y": -9 },
-      { "path": "images/03.png", "x": -32, "y": -9 },
-      { "path": "images/04.png", "x": -32, "y": -8 },
-      { "path": "images/05.png", "x": -32, "y": -8 },
-      { "path": "images/06.png", "x": -32, "y": -8 },
-      { "path": "images/07.png", "x": -32, "y": -8 },
-      { "path": "images/08.png", "x": -32, "y": -8 },
-      { "path": "images/09.png", "x": -32, "y": -8 },
-      { "path": "images/10.png", "x": -32, "y": -8 },
-      { "path": "images/11.png", "x": -32, "y": -8 }
+        { "path": "images/0.png", "x": -32, "y": -9 },
+        { "path": "images/0.png", "x": -32, "y": -9 },
+        { "path": "images/0.png", "x": -32, "y": -9 },
+        { "path": "images/0.png", "x": -32, "y": -9 },
+        { "path": "images/1.png", "x": -32, "y": -8 },
+        { "path": "images/1.png", "x": -32, "y": -8 },
+        { "path": "images/1.png", "x": -32, "y": -8 },
+        { "path": "images/1.png", "x": -32, "y": -8 },
+        { "path": "images/2.png", "x": -32, "y": -8 },
+        { "path": "images/2.png", "x": -32, "y": -8 },
+        { "path": "images/2.png", "x": -32, "y": -8 },
+        { "path": "images/2.png", "x": -32, "y": -8 }
     ],
     "strings": {
         "name": {
@@ -51,7 +55,9 @@
             "ru-RU": "Клумба",
             "eo-ZZ": "Ĝardenoj",
             "ca-ES": "Jardins",
-            "fi-FI": "Kukkapenkki"
+            "fi-FI": "Kukkapenkki",
+            "hu-HU": "Kert",
+            "gl-ES": "Xardíns"
         }
     }
 }
