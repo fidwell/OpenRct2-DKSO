@@ -1,6 +1,13 @@
 9.0 (in development)
 ------------------------------------------------------------------------
 - Major update: v3 of bench.
+- All groups updated to v3 for convenience.
+- Stray pixels removed from many objects.
+- Trees, shrubs, walls, and fences groups now contain all objects to match vanilla groups more closely.
+- Major overhaul to Asia group (many objects converted).
+- Major overhaul to Europe group (many new walls added).
+- Many miscellaneous objects added or created.
+- A few redundant objects removed.
 
 8.0
 ------------------------------------------------------------------------
