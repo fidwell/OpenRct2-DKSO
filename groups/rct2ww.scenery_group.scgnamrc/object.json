@@ -30,6 +30,7 @@
             "rct2ww.scenery_wall.wlog06",
             "$DAT:0CBD0603|IRWLG06C",
             "rct2ww.scenery_large.1x2lgchm",
+            "fidwell.v1.scenery_large.1x2lgchm",
             "rct2ww.scenery_small.sb2sky01",
             "fidwell.v1.scenery_small.sb2sky01",
             "rct2ww.scenery_small.sbskys01",
@@ -212,11 +213,7 @@
             "rct2ww.scenery_large.1x4brg04",
             "rct2ww.scenery_large.1x4brg05"
         ],
-        "priority": 46,
-        "entertainerCostumes": [
-            "bandit",
-            "sheriff"
-        ]
+        "priority": 46
     },
     "images": [
         {

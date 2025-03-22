@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_large.romne2x1",
+    "id": "fidwell.v2.scenery_large.romne2x1",
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -17,14 +17,14 @@
                 "y": 0,
                 "clearance": 96,
                 "hasSupports": true,
-                "walls": 9
+                "walls": 11
             },
             {
                 "x": 32,
                 "y": 0,
                 "clearance": 96,
                 "hasSupports": true,
-                "walls": 3
+                "walls": 14
             }
         ]
     },

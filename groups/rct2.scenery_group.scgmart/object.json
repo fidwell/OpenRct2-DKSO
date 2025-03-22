@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v2.1.scenery_group.martian_dkso",
+    "id": "fidwell.v3.scenery_group.martian_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -23,8 +23,7 @@
             "fidwell.v3.scenery_wall.wmw",
             "rct2.footpath_item.lamp4"
         ],
-        "priority": 26,
-        "entertainerCostumes": "astronaut"
+        "priority": 26
     },
     "images": [
         {
@@ -36,24 +35,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v2.1 Martian Theming",
-            "fr-FR": "DKSO v2.1 Thème Alien",
-            "de-DE": "DKSO v2.1 Mars-Thema",
-            "es-ES": "DKSO v2.1 Temática marciana",
-            "it-IT": "DKSO v2.1 Tema marziano",
-            "nl-NL": "DKSO v2.1 Marsthema",
-            "sv-SE": "DKSO v2.1 Mars-tema",
-            "ko-KR": "DKSO v2.1 화성 테마",
-            "zh-CN": "DKSO v2.1 火星主题",
-            "zh-TW": "DKSO v2.1 火星人主題區",
-            "pt-BR": "DKSO v2.1 Temática Marciana",
-            "cs-CZ": "DKSO v2.1 Marťanské kulisy",
-            "ja-JP": "DKSO v2.1 火星人風のテーマ",
-            "pl-PL": "DKSO v2.1 Wystrój marsjański",
-            "ru-RU": "DKSO v2.1 Марс",
-            "eo-ZZ": "DKSO v2.1 Marsa Temo",
-            "ca-ES": "DKSO v2.1 Temàtica marciana",
-            "fi-FI": "DKSO v2.1 Marsilainen teemaus"
+            "en-GB": "DKSO v3 Martian Theming",
+            "fr-FR": "DKSO v3 Thème Alien",
+            "de-DE": "DKSO v3 Mars-Thema",
+            "es-ES": "DKSO v3 Temática marciana",
+            "it-IT": "DKSO v3 Tema marziano",
+            "nl-NL": "DKSO v3 Marsthema",
+            "sv-SE": "DKSO v3 Mars-tema",
+            "ko-KR": "DKSO v3 화성 테마",
+            "zh-CN": "DKSO v3 火星主题",
+            "zh-TW": "DKSO v3 火星人主題區",
+            "pt-BR": "DKSO v3 Temática Marciana",
+            "cs-CZ": "DKSO v3 Marťanské kulisy",
+            "ja-JP": "DKSO v3 火星人風のテーマ",
+            "pl-PL": "DKSO v3 Wystrój marsjański",
+            "ru-RU": "DKSO v3 Марс",
+            "eo-ZZ": "DKSO v3 Marsa Temo",
+            "ca-ES": "DKSO v3 Temàtica marciana",
+            "fi-FI": "DKSO v3 Marsilainen teemaus"
         }
     }
 }

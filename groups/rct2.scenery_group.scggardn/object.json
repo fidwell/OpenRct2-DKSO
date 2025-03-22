@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_group.gardens_dkso",
+    "id": "fidwell.v3.scenery_group.gardens_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -59,24 +59,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v1 Gardens",
-            "fr-FR": "DKSO v1 Jardins",
-            "de-DE": "DKSO v1 Beete",
-            "es-ES": "DKSO v1 Jardines",
-            "it-IT": "DKSO v1 Giardini",
-            "nl-NL": "DKSO v1 Bloemen",
-            "sv-SE": "DKSO v1 Rabatter",
-            "ko-KR": "DKSO v1 정원",
-            "zh-CN": "DKSO v1 花园",
-            "zh-TW": "DKSO v1 花園",
-            "pt-BR": "DKSO v1 Jardins",
-            "cs-CZ": "DKSO v1 Zahrady",
-            "ja-JP": "DKSO v1 花壇",
-            "pl-PL": "DKSO v1 Ogrody",
-            "ru-RU": "DKSO v1 Клумба",
-            "eo-ZZ": "DKSO v1 Ĝardenoj",
-            "ca-ES": "DKSO v1 Jardins",
-            "fi-FI": "DKSO v1 Kukkapenkit"
+            "en-GB": "DKSO v3 Gardens",
+            "fr-FR": "DKSO v3 Jardins",
+            "de-DE": "DKSO v3 Beete",
+            "es-ES": "DKSO v3 Jardines",
+            "it-IT": "DKSO v3 Giardini",
+            "nl-NL": "DKSO v3 Bloemen",
+            "sv-SE": "DKSO v3 Rabatter",
+            "ko-KR": "DKSO v3 정원",
+            "zh-CN": "DKSO v3 花园",
+            "zh-TW": "DKSO v3 花園",
+            "pt-BR": "DKSO v3 Jardins",
+            "cs-CZ": "DKSO v3 Zahrady",
+            "ja-JP": "DKSO v3 花壇",
+            "pl-PL": "DKSO v3 Ogrody",
+            "ru-RU": "DKSO v3 Клумба",
+            "eo-ZZ": "DKSO v3 Ĝardenoj",
+            "ca-ES": "DKSO v3 Jardins",
+            "fi-FI": "DKSO v3 Kukkapenkit"
         }
     }
 }

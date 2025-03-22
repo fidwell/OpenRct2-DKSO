@@ -1,0 +1,63 @@
+{
+    "id": "fidwell.v1.scenery_large.1x2lgchm",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 24,
+        "removalPrice": -20,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 80,
+                "walls": 11
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 80,
+                "walls": 14
+            }
+        ]
+    },
+    "images": [
+        { "path": "images/00.png", "x": -28, "y": 1 },
+        { "path": "images/01.png", "x": -32, "y": 1 },
+        { "path": "images/02.png", "x": -32, "y": 1 },
+        { "path": "images/03.png", "x": -27, "y": 2 },
+        { "path": "images/04.png", "x": 0, "y": -42 },
+        { "path": "images/05.png", "x": -32, "y": -58 },
+        { "path": "images/06.png", "x": -9, "y": -72 },
+        { "path": "images/07.png", "x": -9, "y": 6 },
+        { "path": "images/08.png", "x": -16, "y": -58 },
+        { "path": "images/09.png", "x": -9, "y": -41 },
+        { "path": "images/10.png", "x": 0, "y": 4 },
+        { "path": "images/11.png", "x": -32, "y": -72 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Log Cabin Side Chimney",
+            "fr-FR": "Cheminée de cabane en rondins",
+            "de-DE": "Holzhütte - Seitenkamin",
+            "es-ES": "Chimenea lateral de la cabaña de troncos",
+            "it-IT": "Comignolo laterale di capanna di tronchi",
+            "nl-NL": "Zijschoorsteen blokhut",
+            "sv-SE": "Sidoskorsten för timmerkoja",
+            "zh-CN": "原木舱边的烟囱",
+            "cs-CZ": "Důlní chatrč s postranním komínem",
+            "ko-KR": "통나무집 측면 굴뚝",
+            "pl-PL": "Boczny komin chaty z bali",
+            "ru-RU": "Сторонняя труба деревянной кабины",
+            "pt-BR": "Chaminé Lateral de Cabana de Troncos",
+            "ja-JP": "丸太のサイド煙突",
+            "eo-ZZ": "Flanka Fumtubo de Blokhaŭso",
+            "ca-ES": "Fumeral lateral de cabanya de fusta",
+            "fi-FI": "Hirsimökin savupiippu"
+        }
+    }
+}

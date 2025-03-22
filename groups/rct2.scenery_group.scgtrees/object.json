@@ -184,12 +184,7 @@
             "rct2ww.scenery_large.ovrgrwnt",
             "rct2ww.scenery_large.redwood"
         ],
-        "priority": 1,
-        "entertainerCostumes": [
-            "panda",
-            "tiger",
-            "elephant"
-        ]
+        "priority": 1
     },
     "images": [
         {

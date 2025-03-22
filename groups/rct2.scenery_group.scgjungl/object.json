@@ -51,8 +51,7 @@
             "fidwell.v1.scenery_small.roof14",
             "rct2.footpath_item.benchlog"
         ],
-        "priority": 24,
-        "entertainerCostumes": "gorilla"
+        "priority": 24
     },
     "images": [
         {

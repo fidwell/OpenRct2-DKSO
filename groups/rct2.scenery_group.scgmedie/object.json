@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v2.scenery_group.medieval_dkso",
+    "id": "fidwell.v3.scenery_group.medieval_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -59,8 +59,7 @@
             "rct2.scenery_wall.wallcfpc",
             "rct2.scenery_wall.wallcbpc"
         ],
-        "priority": 27,
-        "entertainerCostumes": "knight"
+        "priority": 27
     },
     "images": [
         {
@@ -72,24 +71,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v2 Medieval Theming",
-            "fr-FR": "DKSO v2 Thème Médiéval",
-            "de-DE": "DKSO v2 Mittelalterthema",
-            "es-ES": "DKSO v2 Temática medieval",
-            "it-IT": "DKSO v2 Tema medievale",
-            "nl-NL": "DKSO v2 Middeleeuws thema",
-            "sv-SE": "DKSO v2 Medeltidstema",
-            "ko-KR": "DKSO v2 중세 테마",
-            "zh-CN": "DKSO v2 中古世纪主题",
-            "zh-TW": "DKSO v2 中古世紀主題區",
-            "pt-BR": "DKSO v2 Temática Medieval",
-            "cs-CZ": "DKSO v2 Středověké kulisy",
-            "ja-JP": "DKSO v2 中世風のテーマ",
-            "pl-PL": "DKSO v2 Wystrój średniowieczny",
-            "ru-RU": "DKSO v2 Средневековье",
-            "eo-ZZ": "DKSO v2 Mezepoka Temo",
-            "ca-ES": "DKSO v2 Temàtica medieval",
-            "fi-FI": "DKSO v2 Keskiaikainen teemaus"
+            "en-GB": "DKSO v3 Medieval Theming",
+            "fr-FR": "DKSO v3 Thème Médiéval",
+            "de-DE": "DKSO v3 Mittelalterthema",
+            "es-ES": "DKSO v3 Temática medieval",
+            "it-IT": "DKSO v3 Tema medievale",
+            "nl-NL": "DKSO v3 Middeleeuws thema",
+            "sv-SE": "DKSO v3 Medeltidstema",
+            "ko-KR": "DKSO v3 중세 테마",
+            "zh-CN": "DKSO v3 中古世纪主题",
+            "zh-TW": "DKSO v3 中古世紀主題區",
+            "pt-BR": "DKSO v3 Temática Medieval",
+            "cs-CZ": "DKSO v3 Středověké kulisy",
+            "ja-JP": "DKSO v3 中世風のテーマ",
+            "pl-PL": "DKSO v3 Wystrój średniowieczny",
+            "ru-RU": "DKSO v3 Средневековье",
+            "eo-ZZ": "DKSO v3 Mezepoka Temo",
+            "ca-ES": "DKSO v3 Temàtica medieval",
+            "fi-FI": "DKSO v3 Keskiaikainen teemaus"
         }
     }
 }

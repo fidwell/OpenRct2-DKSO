@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v2.scenery_group.classical_dkso",
+    "id": "fidwell.v3.scenery_group.classical_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -18,8 +18,7 @@
             "fidwell.v1.scenery_small.trc",
             "rct2.scenery_small.tqf",
             "rct2.scenery_wall.wrw",
-            "fidwell.v1.scenery_wall.wrw1",
-            "fidwell.v1.scenery_wall.wrw2",
+            "fidwell.v1.scenery_wall.wrw",
             "rct2.scenery_wall.wrwa",
             "fidwell.v1.scenery_wall.wrwa",
             "rct2.scenery_small.romroof2",
@@ -30,8 +29,7 @@
             "fidwell.v1.scenery_small.romroof1",
             "rct2.footpath_banner.bn3"
         ],
-        "priority": 21,
-        "entertainerCostumes": "roman"
+        "priority": 21
     },
     "images": [
         {
@@ -43,24 +41,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v2 Classical/Roman Theming",
-            "fr-FR": "DKSO v2 Thème classique/romain",
-            "de-DE": "DKSO v2 Klassisches/römisches Thema",
-            "es-ES": "DKSO v2 Temática clásica/romana",
-            "it-IT": "DKSO v2 Tema romano/classico",
-            "nl-NL": "DKSO v2 Klassiek/Romeins thema",
-            "sv-SE": "DKSO v2 Klassiskt/romerskt tema",
-            "ko-KR": "DKSO v2 클래식/로마 테마",
-            "zh-CN": "DKSO v2 古典/古罗马主题",
-            "zh-TW": "DKSO v2 古典/古羅馬主題區",
-            "pt-BR": "DKSO v2 Temática Clássica/Romana",
-            "cs-CZ": "DKSO v2 Klasické/Římské kulisy",
-            "ja-JP": "DKSO v2 クラシック/ローマ風のテーマ",
-            "pl-PL": "DKSO v2 Wystrój klasyczny/rzymski",
-            "ru-RU": "DKSO v2 Рим",
-            "eo-ZZ": "DKSO v2 Klasika / Roma Temo",
-            "ca-ES": "DKSO v2 Temàtica clàssica i romana",
-            "fi-FI": "DKSO v2 Klassinen/roomalainen teemaus"
+            "en-GB": "DKSO v3 Classical/Roman Theming",
+            "fr-FR": "DKSO v3 Thème classique/romain",
+            "de-DE": "DKSO v3 Klassisches/römisches Thema",
+            "es-ES": "DKSO v3 Temática clásica/romana",
+            "it-IT": "DKSO v3 Tema romano/classico",
+            "nl-NL": "DKSO v3 Klassiek/Romeins thema",
+            "sv-SE": "DKSO v3 Klassiskt/romerskt tema",
+            "ko-KR": "DKSO v3 클래식/로마 테마",
+            "zh-CN": "DKSO v3 古典/古罗马主题",
+            "zh-TW": "DKSO v3 古典/古羅馬主題區",
+            "pt-BR": "DKSO v3 Temática Clássica/Romana",
+            "cs-CZ": "DKSO v3 Klasické/Římské kulisy",
+            "ja-JP": "DKSO v3 クラシック/ローマ風のテーマ",
+            "pl-PL": "DKSO v3 Wystrój klasyczny/rzymski",
+            "ru-RU": "DKSO v3 Рим",
+            "eo-ZZ": "DKSO v3 Klasika / Roma Temo",
+            "ca-ES": "DKSO v3 Temàtica clàssica i romana",
+            "fi-FI": "DKSO v3 Klassinen/roomalainen teemaus"
         }
     }
 }

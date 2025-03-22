@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_large.gdstaue2",
+    "id": "fidwell.v2.scenery_large.gdstaue2",
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -30,14 +30,14 @@
                 "y": 0,
                 "clearance": 178,
                 "hasSupports": true,
-                "walls": 8
+                "walls": 12
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 178,
                 "hasSupports": true,
-                "walls": 2
+                "walls": 6
             }
         ]
     },
