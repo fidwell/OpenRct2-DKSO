@@ -1,0 +1,54 @@
+{
+    "id": "fidwell.v1.scenery_small.hrbwal06",
+    "authors": [
+        "Frontier Studios"
+    ],
+    "version": "1.0",
+    "originalId": "",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -35 },
+        { "path": "images/1.png", "x": -32, "y": -40 },
+        { "path": "images/2.png", "x": -32, "y": -35 },
+        { "path": "images/3.png", "x": -32, "y": -35 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Harbour Wall with Moor",
+            "fr-FR": "Mur du port avec amarres",
+            "de-DE": "Hafenmauer mit Anlegeplatz",
+            "es-ES": "Muro del puerto con noray",
+            "it-IT": "Muro del porto con ormeggio",
+            "nl-NL": "Havenmuur met ankerpunt",
+            "sv-SE": "Hamnvägg med förtöjning",
+            "ko-KR": "항구 벽과 정박소",
+            "zh-TW": "港口牆面(含固定樁)",
+            "pt-BR": "Parede de Porto com Amarre",
+            "cs-CZ": "Přístav - stěna s vřesem",
+            "pl-PL": "Mur przystani z pomostem",
+            "ru-RU": "Стена гавани с причалом",
+            "ja-JP": "防波堤（係留付き）",
+            "eo-ZZ": "Muro de Haveno kun Alligejo",
+            "ca-ES": "Mur de port amb amarratge",
+            "fi-FI": "Sataman seinä pollarilla",
+            "zh-CN": "海港墙-栓船柱"
+        }
+    }
+}
