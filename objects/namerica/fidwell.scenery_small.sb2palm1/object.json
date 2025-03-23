@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.v1.scenery_small.sb2palm1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 60,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -80 },
+        { "path": "images/1.png", "x": -32, "y": -80 },
+        { "path": "images/2.png", "x": -32, "y": -74 },
+        { "path": "images/3.png", "x": -32, "y": -74 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Cabana Porch",
+            "fr-FR": "Auvent de hutte",
+            "de-DE": "Cabana-Vorbau",
+            "es-ES": "Porche de cabaña",
+            "it-IT": "Veranda di capanna da spiaggia",
+            "nl-NL": "Deur Hut",
+            "sv-SE": "Veranda till stuga",
+            "zh-CN": "小屋-门廊",
+            "cs-CZ": "Veranda",
+            "ko-KR": "탈의실 베란다",
+            "pl-PL": "Wejście do budki",
+            "ru-RU": "Крыльцо кабаны",
+            "pt-BR": "Varanda de Cabana",
+            "ja-JP": "小屋",
+            "eo-ZZ": "Portiko de Budo",
+            "ca-ES": "Porxo de cabanya",
+            "fi-FI": "Cabanan kuisti"
+        }
+    }
+}

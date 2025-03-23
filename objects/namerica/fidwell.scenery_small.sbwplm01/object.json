@@ -1,0 +1,49 @@
+{
+    "id": "fidwell.v1.scenery_small.sbwplm01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 30,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -22, "y": -20 },
+        { "path": "images/1.png", "x": -22, "y": -20 },
+        { "path": "images/2.png", "x": -22, "y": -19 },
+        { "path": "images/3.png", "x": -23, "y": -20 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Cabana Top",
+            "fr-FR": "Toit de hutte",
+            "de-DE": "Cabana-Spitze",
+            "es-ES": "Cima de cabaña",
+            "it-IT": "Tetto di capanna da spiaggia",
+            "nl-NL": "Bovenkant Hut",
+            "sv-SE": "Tak till koja",
+            "zh-CN": "小屋-顶部",
+            "cs-CZ": "Vršek chaty",
+            "ko-KR": "탈의실 파라솔",
+            "pl-PL": "Wierzch budki",
+            "ru-RU": "Верх кабаны",
+            "pt-BR": "Topo de Cabana",
+            "ja-JP": "小屋の上部",
+            "eo-ZZ": "Supro de Budo",
+            "ca-ES": "Part superior de cabanya",
+            "fi-FI": "Cabanan huippu"
+        }
+    }
+}
