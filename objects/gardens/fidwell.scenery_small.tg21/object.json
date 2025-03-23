@@ -19,18 +19,18 @@
         "isStackable": true
     },
     "images": [
-        { "path": "images/00.png", "x": -16, "y": -13 },
-        { "path": "images/01.png", "x": -16, "y": -13 },
-        { "path": "images/02.png", "x": -16, "y": -13 },
-        { "path": "images/03.png", "x": -16, "y": -13 },
-        { "path": "images/04.png", "x": -16, "y": -13 },
-        { "path": "images/05.png", "x": -16, "y": -13 },
-        { "path": "images/06.png", "x": -16, "y": -13 },
-        { "path": "images/07.png", "x": -16, "y": -13 },
-        { "path": "images/08.png", "x": -16, "y": -10 },
-        { "path": "images/09.png", "x": -16, "y": -10 },
-        { "path": "images/10.png", "x": -16, "y": -10 },
-        { "path": "images/11.png", "x": -16, "y": -10 }
+        { "path": "images/0.png", "x": -16, "y": -13 },
+        { "path": "images/0.png", "x": -16, "y": -13 },
+        { "path": "images/0.png", "x": -16, "y": -13 },
+        { "path": "images/0.png", "x": -16, "y": -13 },
+        { "path": "images/1.png", "x": -16, "y": -13 },
+        { "path": "images/1.png", "x": -16, "y": -13 },
+        { "path": "images/1.png", "x": -16, "y": -13 },
+        { "path": "images/1.png", "x": -16, "y": -13 },
+        { "path": "images/2.png", "x": -16, "y": -10 },
+        { "path": "images/2.png", "x": -16, "y": -10 },
+        { "path": "images/2.png", "x": -16, "y": -10 },
+        { "path": "images/2.png", "x": -16, "y": -10 }
     ],
     "strings": {
         "name": {
