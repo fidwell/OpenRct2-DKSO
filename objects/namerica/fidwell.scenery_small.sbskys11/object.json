@@ -1,0 +1,48 @@
+{
+    "id": "fidwell.v1.scenery_small.sbskys11",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 30,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -34 },
+        { "path": "images/1.png", "x": -1, "y": -35 },
+        { "path": "images/2.png", "x": -32, "y": -20 },
+        { "path": "images/3.png", "x": -32, "y": -35 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Skyscraper Concave Roof",
+            "fr-FR": "Toit concave de gratte-ciel",
+            "de-DE": "Wolkenkratzer - Konkaves Dach",
+            "es-ES": "Tejado cóncavo de rascacielos",
+            "it-IT": "Tetto concavo di grattacielo",
+            "nl-NL": "Concaaf dak voor wolkenkrabber",
+            "sv-SE": "Konkavt tak till skyskrapa",
+            "zh-CN": "摩天大楼凹面体屋顶",
+            "cs-CZ": "Konkávní střecha mrakodrapu",
+            "ko-KR": "마천루 오목한 지붕",
+            "pl-PL": "Drapacz chmur - dach wklęsły",
+            "ru-RU": "Вогнутая крыша небосркёба",
+            "pt-BR": "Telhado Côncavo do Arranha-céu",
+            "ja-JP": "高層ビル 凹型屋根",
+            "eo-ZZ": "Konkava Tegmento de Ĉielskrapanto",
+            "ca-ES": "Teulada còncava de gratacel",
+            "fi-FI": "Pilvenpiirtäjän kovera katto"
+        }
+    }
+}
