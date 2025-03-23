@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.v1.scenery_small.sb1hspb1",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 64,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -30, "y": -72 },
+        { "path": "images/1.png", "x": -30, "y": -72 },
+        { "path": "images/2.png", "x": -30, "y": -72 },
+        { "path": "images/3.png", "x": -30, "y": -72 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Suspension Bridge Base Piece",
+            "fr-FR": "Pièce de base de pont suspendu",
+            "de-DE": "Hängebrücke - Basisbauteil",
+            "es-ES": "Pieza de la base del puente suspendido",
+            "it-IT": "Pezzo della base di ponte sospeso",
+            "nl-NL": "Basisstuk hangbrug",
+            "sv-SE": "Basdel för hängbro",
+            "zh-CN": "吊桥基底一块",
+            "cs-CZ": "Zavěšený most",
+            "ko-KR": "현수교 기본 조각",
+            "pl-PL": "Most wiszący segment podstawy",
+            "ru-RU": "Основание подвесного моста",
+            "pt-BR": "Peça de Base da Ponte Suspensa",
+            "ja-JP": "吊り橋　土台部分",
+            "eo-ZZ": "Bazoparto de Pentoponto",
+            "ca-ES": "Part de base de pont penjant",
+            "fi-FI": "Riippusillan perusta"
+        }
+    }
+}
