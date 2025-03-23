@@ -8,7 +8,6 @@
         "isAllowedOnSlope": true,
         "height": 2,
         "price": 40,
-        "sceneryGroup": "fidwell.v1.scenery_group.fences_dkso",
         "hasPrimaryColour": true,
         "hasSecondaryColour": true
     },

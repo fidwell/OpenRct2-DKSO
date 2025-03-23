@@ -10,7 +10,6 @@
         "price": 48,
         "removalPrice": 36,
         "cursor": "CURSOR_TREE_DOWN",
-        "sceneryGroup": "fidwell.v2.scenery_group.scgtrees",
         "isTree": true,
         "hasPrimaryColour": true,
         "tiles": [

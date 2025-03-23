@@ -9,7 +9,6 @@
         "removalPrice": 15,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 104,
-        "sceneryGroup": "fidwell.v3.scenery_group.trees_dkso",
         "isTree": true,
         "shape": "4/4",
         "hasNoSupports": true,
