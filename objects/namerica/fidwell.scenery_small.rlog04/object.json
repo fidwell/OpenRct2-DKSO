@@ -1,0 +1,45 @@
+{
+    "id": "fidwell.v1.scenery_small.rlog04",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 30,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -32 },
+        { "path": "images/1.png", "x": -31, "y": -48 },
+        { "path": "images/2.png", "x": -32, "y": -46 },
+        { "path": "images/3.png", "x": -1, "y": -48 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Log Cabin Wall Piece",
+            "fr-FR": "Pan de mur de cabane en rondins",
+            "de-DE": "Holzhüttenwand-Bauteil",
+            "es-ES": "Pieza de pared de cabaña de troncos",
+            "it-IT": "Pezzo di parete di capanna di tronchi",
+            "nl-NL": "Stuk muur blokhut",
+            "sv-SE": "Väggdel till timmerkoja",
+            "zh-CN": "原木墙",
+            "cs-CZ": "Stěna důlní chatrče",
+            "ko-KR": "통나무집 벽 조각",
+            "pl-PL": "Chata z bali - segment ściany",
+            "ru-RU": "Стена деревянной кабины",
+            "pt-BR": "Peça de Parede de Cabana de Troncos",
+            "ja-JP": "丸太の",
+            "eo-ZZ": "Muroparto de Blokhaŭso",
+            "ca-ES": "Part de paret de cabanya de troncs",
+            "fi-FI": "Hirsimökin seinän osa"
+        }
+    }
+}
