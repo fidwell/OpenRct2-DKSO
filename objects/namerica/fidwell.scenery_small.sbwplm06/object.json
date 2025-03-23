@@ -1,0 +1,48 @@
+{
+    "id": "fidwell.v1.scenery_small.sbwplm06",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -21 },
+        { "path": "images/1.png", "x": -16, "y": -34 },
+        { "path": "images/2.png", "x": -32, "y": -27 },
+        { "path": "images/3.png", "x": 0, "y": -34 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Cabana Wall Piece",
+            "fr-FR": "Pan de mur de hutte",
+            "de-DE": "Cabanawand-Bauteil",
+            "es-ES": "Pieza de pared de cabaña",
+            "it-IT": "Pezzo di parete di capanna da spiaggia",
+            "nl-NL": "Stuk muur Hut",
+            "sv-SE": "Väggdel till stuga",
+            "zh-CN": "小屋-墙面",
+            "cs-CZ": "Stěna chaty",
+            "ko-KR": "탈의실 벽 조각",
+            "pl-PL": "Budka - segment ściany",
+            "ru-RU": "Стена кабаны",
+            "pt-BR": "Peça de Parede de Cabana",
+            "ja-JP": "小屋の壁",
+            "eo-ZZ": "Muroparto de Budo",
+            "ca-ES": "Part de paret de cabanya",
+            "fi-FI": "Cabanan seinän osa"
+        }
+    }
+}
