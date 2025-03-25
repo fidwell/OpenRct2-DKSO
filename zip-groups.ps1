@@ -88,11 +88,11 @@ for ($i = 0; $i -lt $scgroups.Length; ++$i) {
     try {
         $zip = [System.IO.Compression.ZipFile]::Open($outfile, [System.IO.Compression.ZipArchiveMode]::Create)
         foreach ($fname in $FullFilenames) {
-            $entryName = Split-Path $fname -Leaf
-            [System.IO.Compression.ZipFileExtensions]::CreateEntryFromFile($zip, $fname, $entryName, $compressionLevel)
+            $relativePath = $fname.Replace((Get-Location).Path + '\', '')
+            [System.IO.Compression.ZipFileExtensions]::CreateEntryFromFile($zip, $fname, $relativePath, $compressionLevel)
         }
     } finally {
-            if ($zip) { $zip.Dispose() }
+        if ($zip) { $zip.Dispose() }
     }
 
     $groupSuccess += 1

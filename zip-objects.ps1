@@ -51,14 +51,12 @@ foreach ($groupPath in $groupPaths) {
             $zip = [System.IO.Compression.ZipFile]::Open($outfile, [System.IO.Compression.ZipArchiveMode]::Create)
             # Write entries with relative paths as names
             foreach ($fname in $FullFilenames) {
-                $entryName = Split-Path $fname -Leaf
-                [System.IO.Compression.ZipFileExtensions]::CreateEntryFromFile($zip, $fname, $entryName, $compressionLevel)
+                $relativePath = $fname.Replace((Get-Location).Path + '\', '')
+                [System.IO.Compression.ZipFileExtensions]::CreateEntryFromFile($zip, $fname, $relativePath, $compressionLevel)
             }
         } finally {
+            if ($zip) { $zip.Dispose() }
         }
-
-        # Release zip file
-        $zip.Dispose()
 
         $objectSuccess += 1
 
