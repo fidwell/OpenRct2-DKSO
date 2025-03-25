@@ -1,4 +1,8 @@
-﻿$scgroups = "rct2.scenery_group.scgtrees", "rct2.scenery_group.scgshrub", "rct2.scenery_group.scggardn", "rct2.scenery_group.scgfence", "rct2.scenery_group.scgwalls", "rct2.scenery_group.scgpathx", "rct2.scenery_group.scgabstr", "rct2.scenery_group.scgclass", "rct2.scenery_group.scgegypt", "rct2.scenery_group.scghallo", "rct2.scenery_group.scgjungl", "rct2.scenery_group.scgjuras", "rct2.scenery_group.scgmart", "rct2.scenery_group.scgmedie", "rct2.scenery_group.scgmine", "rct2.scenery_group.scgorien", "rct2.scenery_group.scgsnow", "rct2.scenery_group.scgspace", "rct2.scenery_group.scgspook", "rct2.scenery_group.scgurban", "rct2.scenery_group.scgwond", "rct2.scenery_group.scgindus", "rct2.scenery_group.scggiant", "rct2.scenery_group.scgwater", "rct2.scenery_group.scgpirat", "rct2.scenery_group.scgsport", "rct2.scenery_group.scgwwest", "rct2.scenery_group.scgcandy", "rct2ww.scenery_group.scgafric", "rct2ww.scenery_group.scgartic", "rct2ww.scenery_group.scgasia", "rct2ww.scenery_group.scgaustr", "rct2ww.scenery_group.scgeurop", "rct2ww.scenery_group.scgnamrc", "rct2ww.scenery_group.scgsamer", "rct2tt.scenery_group.scgmediv", "rct2tt.scenery_group.scgfutur", "rct2tt.scenery_group.scgmytho", "rct2tt.scenery_group.scgjurra", "rct2tt.scenery_group.scg1920s", "rct2tt.scenery_group.scg1920w", "rct2tt.scenery_group.scg1960s", "rct2dlc.scenery_group.scgpanda", "rct2.scenery_group.scgsixfl"
+﻿Add-Type -AssemblyName System.IO.Compression
+Add-Type -AssemblyName System.IO.Compression.FileSystem
+[System.IO.Compression.CompressionLevel]$compressionLevel = [System.IO.Compression.CompressionLevel]::Optimal
+
+$scgroups = "rct2.scenery_group.scgtrees", "rct2.scenery_group.scgshrub", "rct2.scenery_group.scggardn", "rct2.scenery_group.scgfence", "rct2.scenery_group.scgwalls", "rct2.scenery_group.scgpathx", "rct2.scenery_group.scgabstr", "rct2.scenery_group.scgclass", "rct2.scenery_group.scgegypt", "rct2.scenery_group.scghallo", "rct2.scenery_group.scgjungl", "rct2.scenery_group.scgjuras", "rct2.scenery_group.scgmart", "rct2.scenery_group.scgmedie", "rct2.scenery_group.scgmine", "rct2.scenery_group.scgorien", "rct2.scenery_group.scgsnow", "rct2.scenery_group.scgspace", "rct2.scenery_group.scgspook", "rct2.scenery_group.scgurban", "rct2.scenery_group.scgwond", "rct2.scenery_group.scgindus", "rct2.scenery_group.scggiant", "rct2.scenery_group.scgwater", "rct2.scenery_group.scgpirat", "rct2.scenery_group.scgsport", "rct2.scenery_group.scgwwest", "rct2.scenery_group.scgcandy", "rct2ww.scenery_group.scgafric", "rct2ww.scenery_group.scgartic", "rct2ww.scenery_group.scgasia", "rct2ww.scenery_group.scgaustr", "rct2ww.scenery_group.scgeurop", "rct2ww.scenery_group.scgnamrc", "rct2ww.scenery_group.scgsamer", "rct2tt.scenery_group.scgmediv", "rct2tt.scenery_group.scgfutur", "rct2tt.scenery_group.scgmytho", "rct2tt.scenery_group.scgjurra", "rct2tt.scenery_group.scg1920s", "rct2tt.scenery_group.scg1920w", "rct2tt.scenery_group.scg1960s", "rct2dlc.scenery_group.scgpanda", "rct2.scenery_group.scgsixfl"
 $outnames = "fidwell.v3.scenery_group.trees_dkso",
             "fidwell.v3.scenery_group.shrubs_dkso",
             "fidwell.v3.scenery_group.gardens_dkso",
@@ -81,23 +85,15 @@ for ($i = 0; $i -lt $scgroups.Length; ++$i) {
     Write-Output "Zipping $scgroup..."
 
     #create zip file
-    Add-Type -AssemblyName System.IO.Compression
-    Add-Type -AssemblyName System.IO.Compression.FileSystem
-    $zip = [System.IO.Compression.ZipFile]::Open(($outfile),
-            [System.IO.Compression.ZipArchiveMode]::Create)
-
-    # write entries with relative paths as names
-    foreach ($fname in $FullFilenames) {
-        $rname = $(Resolve-Path -Path $fname -Relative) -replace '\.\\',''
-        $zentry = $zip.CreateEntry($rname)
-        $zentryWriter = New-Object -TypeName System.IO.BinaryWriter $zentry.Open()
-        $zentryWriter.Write([System.IO.File]::ReadAllBytes($fname))
-        $zentryWriter.Flush()
-        $zentryWriter.Close()
+    try {
+        $zip = [System.IO.Compression.ZipFile]::Open($outfile, [System.IO.Compression.ZipArchiveMode]::Create)
+        foreach ($fname in $FullFilenames) {
+            $entryName = Split-Path $fname -Leaf
+            [System.IO.Compression.ZipFileExtensions]::CreateEntryFromFile($zip, $fname, $entryName, $compressionLevel)
+        }
+    } finally {
+            if ($zip) { $zip.Dispose() }
     }
-
-    # release zip file
-    $zip.Dispose()
 
     $groupSuccess += 1
 }
