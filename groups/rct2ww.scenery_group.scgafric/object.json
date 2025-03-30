@@ -7,7 +7,7 @@
     "properties": {
         "entries": [
             "rct2ww.scenery_small.oilpump",
-            "$DAT:0CBD0301|IROILPUC",
+            "fidwell.v1.scenery_small.oilpump",
             "rct2ww.scenery_wall.wcorr01",
             "$DAT:0CBD0303|IRWCR01C",
             "rct2ww.scenery_wall.wcorr02",
