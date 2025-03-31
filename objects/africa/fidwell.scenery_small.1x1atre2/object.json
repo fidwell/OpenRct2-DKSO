@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_small.1x1atre2",
+    "id": "fidwell.v2.scenery_small.1x1atre2",
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -33,7 +33,7 @@
             "cs-CZ": "Vinná réva",
             "ko-KR": "덩굴",
             "pl-PL": "Drzewo z lianami",
-            "ru-RU": "Дерево",
+            "ru-RU": "Лозовое дерево",
             "pt-BR": "Videira",
             "ja-JP": "つるの木",
             "eo-ZZ": "Vitoarbo",
