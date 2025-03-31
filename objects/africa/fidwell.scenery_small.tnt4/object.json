@@ -1,8 +1,6 @@
 {
-    "id": "fidwell.v1.scenery_small.tnt4",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "id": "fidwell.v2.scenery_small.tnt4",
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "sourceGame": "custom",
     "objectType": "scenery_small",
@@ -36,7 +34,7 @@
             "cs-CZ": "Bedna dynamitu",
             "ko-KR": "TNT 상자",
             "pl-PL": "Skrzynie z dynamitem",
-            "ru-RU": "ТНТ",
+            "ru-RU": "Ящики TNT",
             "pt-BR": "Caixa de TNT",
             "ja-JP": "TNTの木枠",
             "eo-ZZ": "Kestoj da TNT",

@@ -1,8 +1,6 @@
 {
-    "id": "fidwell.v1.scenery_small.tnt1",
-    "authors": [
-        "Frontier Studios"
-    ],
+    "id": "fidwell.v2.scenery_small.tnt1",
+    "authors": ["Frontier Studios"],
     "version": "1.0",
     "sourceGame": "custom",
     "objectType": "scenery_small",
@@ -36,7 +34,7 @@
             "cs-CZ": "Dynamit",
             "ko-KR": "TNT 무더기",
             "pl-PL": "Stosik dynamitu",
-            "ru-RU": "Куча ТНТ",
+            "ru-RU": "Стек TNT",
             "pt-BR": "Pilha de TNT",
             "ja-JP": "TNTの束",
             "eo-ZZ": "Stako da TNT",
