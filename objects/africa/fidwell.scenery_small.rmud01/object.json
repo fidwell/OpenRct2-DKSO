@@ -1,0 +1,49 @@
+{
+    "id": "fidwell.v1.scenery_small.rmud01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -20 },
+        { "path": "images/1.png", "x": -13, "y": -35 },
+        { "path": "images/2.png", "x": -32, "y": -25 },
+        { "path": "images/3.png", "x": -2, "y": -35 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Curved Mud Wall Piece",
+            "fr-FR": "Pan de mur de terre arrondi",
+            "de-DE": "Gebogenes Schlammwand-Bauteil",
+            "es-ES": "Pieza de pared curvada de barro",
+            "it-IT": "Pezzo di parete di fango ricurva",
+            "nl-NL": "Gebogen stuk muur van Aarde",
+            "sv-SE": "Del av krökt jordvägg",
+            "zh-CN": "曲线泥墙",
+            "cs-CZ": "Zaoblená zeď z bahna",
+            "ko-KR": "곡선형 진흙 벽 조각",
+            "pl-PL": "Segment zakrzywionej ściany glinianej",
+            "ru-RU": "Наклонная стена из грязи",
+            "pt-BR": "Peça de Parede Curvada de Barro",
+            "ja-JP": "カーブした泥の壁",
+            "eo-ZZ": "Parto de Kurba Kotomuro",
+            "ca-ES": "Part de paret corbada de fang",
+            "fi-FI": "Kaareva mutakodan seinän osa"
+        }
+    }
+}
