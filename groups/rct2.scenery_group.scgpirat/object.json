@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_group.pirates_dkso",
+    "id": "fidwell.v3.scenery_group.pirates_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -47,8 +47,7 @@
             "fidwell.v1.scenery_wall.wallpr35",
             "mamabear.scenery_wall.mg-prar"
         ],
-        "priority": 38,
-        "entertainerCostumes": "pirate"
+        "priority": 38
     },
     "images": [
         {
@@ -60,24 +59,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v1 Pirates Theming",
-            "fr-FR": "DKSO v1 Thème Pirates",
-            "de-DE": "DKSO v1 Piratenthema",
-            "es-ES": "DKSO v1 Temática pirata",
-            "it-IT": "DKSO v1 Tema piratesco",
-            "nl-NL": "DKSO v1 Piratenthema",
-            "sv-SE": "DKSO v1 Pirattema",
-            "ko-KR": "DKSO v1 해적 테마",
-            "zh-CN": "DKSO v1 海盗主题馆",
-            "zh-TW": "DKSO v1 海盜主題館",
-            "pt-BR": "DKSO v1 Temática Pirata",
-            "cs-CZ": "DKSO v1 Pirátské kulisy",
-            "ja-JP": "DKSO v1 海賊風のテーマ",
-            "pl-PL": "DKSO v1 Wystrój piracki",
-            "ru-RU": "DKSO v1 Пираты",
-            "eo-ZZ": "DKSO v1 Pirato-Temo",
-            "ca-ES": "DKSO v1 Temàtica pirata",
-            "fi-FI": "DKSO v1 Merirosvoteemaus"
+            "en-GB": "DKSO v3 Pirates Theming",
+            "fr-FR": "DKSO v3 Thème Pirates",
+            "de-DE": "DKSO v3 Piratenthema",
+            "es-ES": "DKSO v3 Temática pirata",
+            "it-IT": "DKSO v3 Tema piratesco",
+            "nl-NL": "DKSO v3 Piratenthema",
+            "sv-SE": "DKSO v3 Pirattema",
+            "ko-KR": "DKSO v3 해적 테마",
+            "zh-CN": "DKSO v3 海盗主题馆",
+            "zh-TW": "DKSO v3 海盜主題館",
+            "pt-BR": "DKSO v3 Temática Pirata",
+            "cs-CZ": "DKSO v3 Pirátské kulisy",
+            "ja-JP": "DKSO v3 海賊風のテーマ",
+            "pl-PL": "DKSO v3 Wystrój piracki",
+            "ru-RU": "DKSO v3 Пираты",
+            "eo-ZZ": "DKSO v3 Pirato-Temo",
+            "ca-ES": "DKSO v3 Temàtica pirata",
+            "fi-FI": "DKSO v3 Merirosvoteemaus"
         }
     }
 }

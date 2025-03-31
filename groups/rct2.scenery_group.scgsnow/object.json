@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v2.scenery_group.snow_dkso",
+    "id": "fidwell.v3.scenery_group.snow_dkso",
     "authors": ["fidwell"],
     "version": "2.0",
     "sourceGame": "custom",
@@ -44,8 +44,7 @@
             "rct2.scenery_small.icecube",
             "fidwell.v1.scenery_small.icecube"
         ],
-        "priority": 30,
-        "entertainerCostumes": "snowman"
+        "priority": 30
     },
     "images": [
         {
@@ -57,24 +56,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v2 Snow and Ice Theming",
-            "fr-FR": "DKSO v2 Thème Neige et glace",
-            "de-DE": "DKSO v2 Schnee- und Eisthema",
-            "es-ES": "DKSO v2 Temática de nieve y hielo",
-            "it-IT": "DKSO v2 Tema nevoso/ghiacciato",
-            "nl-NL": "DKSO v2 Sneeuw- en ijsthema",
-            "sv-SE": "DKSO v2 Snö- och istema",
-            "ko-KR": "DKSO v2 눈과 얼음 테마",
-            "zh-CN": "DKSO v2 冰雪主题",
-            "zh-TW": "DKSO v2 冰雪主題區",
-            "pt-BR": "DKSO v2 Temática de Neve e Gelo",
-            "cs-CZ": "DKSO v2 Ledové a sněhové kulisy",
-            "ja-JP": "DKSO v2 雪と氷のテーマ",
-            "pl-PL": "DKSO v2 Wystrój zimowy",
-            "ru-RU": "DKSO v2 Снег и Лед",
-            "eo-ZZ": "DKSO v2 Temo de Neĝo kaj Glacio",
-            "ca-ES": "DKSO v2 Temàtica de neu i gel",
-            "fi-FI": "DKSO v2 Lumi- ja jääteemaus"
+            "en-GB": "DKSO v3 Snow and Ice Theming",
+            "fr-FR": "DKSO v3 Thème Neige et glace",
+            "de-DE": "DKSO v3 Schnee- und Eisthema",
+            "es-ES": "DKSO v3 Temática de nieve y hielo",
+            "it-IT": "DKSO v3 Tema nevoso/ghiacciato",
+            "nl-NL": "DKSO v3 Sneeuw- en ijsthema",
+            "sv-SE": "DKSO v3 Snö- och istema",
+            "ko-KR": "DKSO v3 눈과 얼음 테마",
+            "zh-CN": "DKSO v3 冰雪主题",
+            "zh-TW": "DKSO v3 冰雪主題區",
+            "pt-BR": "DKSO v3 Temática de Neve e Gelo",
+            "cs-CZ": "DKSO v3 Ledové a sněhové kulisy",
+            "ja-JP": "DKSO v3 雪と氷のテーマ",
+            "pl-PL": "DKSO v3 Wystrój zimowy",
+            "ru-RU": "DKSO v3 Снег и Лед",
+            "eo-ZZ": "DKSO v3 Temo de Neĝo kaj Glacio",
+            "ca-ES": "DKSO v3 Temàtica de neu i gel",
+            "fi-FI": "DKSO v3 Lumi- ja jääteemaus"
         }
     }
 }

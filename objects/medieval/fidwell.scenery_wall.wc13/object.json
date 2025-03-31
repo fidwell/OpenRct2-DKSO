@@ -10,8 +10,7 @@
         "hasTertiaryColour": true,
         "isAllowedOnSlope": true,
         "height": 5,
-        "price": 70,
-        "sceneryGroup": "fidwell.v2.scenery_group.fences_dkso"
+        "price": 70
     },
     "images": [
       { "path": "images/0.png", "x": -32, "y": -36 },

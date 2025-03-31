@@ -7,8 +7,7 @@
     "properties": {
         "hasPrimaryColour": true,
         "height": 3,
-        "price": 80,
-        "sceneryGroup": "fidwell.v1.scenery_group.walls_dkso"
+        "price": 80
     },
     "images": [
       { "path": "images/0.png", "x": -31, "y": -24 },

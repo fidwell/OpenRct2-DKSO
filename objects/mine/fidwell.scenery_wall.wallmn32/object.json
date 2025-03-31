@@ -8,7 +8,6 @@
         "isOpaque": true,
         "height": 4,
         "price": 80,
-        "sceneryGroup": "fidwell.v1.scenery_group.walls_dkso",
         "hasPrimaryColour": true
     },
     "images": [

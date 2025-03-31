@@ -9,7 +9,6 @@
         "removalPrice": -15,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 32,
-        "sceneryGroup": "fidwell.v1.scenery_group.walls_dkso",
         "shape": "4/4",
         "hasPrimaryColour": true,
         "hasSecondaryColour": true,

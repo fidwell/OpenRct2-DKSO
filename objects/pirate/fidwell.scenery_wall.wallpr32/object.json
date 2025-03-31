@@ -9,8 +9,7 @@
         "hasPrimaryColour": true,
         "hasSecondaryColour": true,
         "height": 4,
-        "price": 120,
-        "sceneryGroup": "fidwell.v1.scenery_group.fences_dkso"
+        "price": 120
     },
     "images": [
       { "path": "images/0.png", "x": -32, "y": -37 },

@@ -1,3 +1,7 @@
+Add-Type -AssemblyName System.IO.Compression
+Add-Type -AssemblyName System.IO.Compression.FileSystem
+[System.IO.Compression.CompressionLevel]$compressionLevel = [System.IO.Compression.CompressionLevel]::Optimal
+
 $verbose = $args.length -eq 1 -and $args[0] -eq '-v'
 
 $homepath = Get-Location
@@ -43,22 +47,16 @@ foreach ($groupPath in $groupPaths) {
         $FullFilenames = $files | ForEach-Object -Process {Write-Output -InputObject $_.FullName}
 
         # Create zip file
-        Add-Type -AssemblyName System.IO.Compression
-        Add-Type -AssemblyName System.IO.Compression.FileSystem
-        $zip = [System.IO.Compression.ZipFile]::Open(($outfile), [System.IO.Compression.ZipArchiveMode]::Create)
-
-        # Write entries with relative paths as names
-        foreach ($fname in $FullFilenames) {
-            $rname = $(Resolve-Path -Path $fname -Relative) -replace '\.\\',''
-            $zentry = $zip.CreateEntry($rname)
-            $zentryWriter = New-Object -TypeName System.IO.BinaryWriter $zentry.Open()
-            $zentryWriter.Write([System.IO.File]::ReadAllBytes($fname))
-            $zentryWriter.Flush()
-            $zentryWriter.Close()
+        try {
+            $zip = [System.IO.Compression.ZipFile]::Open($outfile, [System.IO.Compression.ZipArchiveMode]::Create)
+            # Write entries with relative paths as names
+            foreach ($fname in $FullFilenames) {
+                $relativePath = $fname.Replace((Get-Location).Path + '\', '')
+                [System.IO.Compression.ZipFileExtensions]::CreateEntryFromFile($zip, $fname, $relativePath, $compressionLevel)
+            }
+        } finally {
+            if ($zip) { $zip.Dispose() }
         }
-
-        # Release zip file
-        $zip.Dispose()
 
         $objectSuccess += 1
 

@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_group.water_dkso",
+    "id": "fidwell.v3.scenery_group.water_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -18,7 +18,7 @@
             "rct2.scenery_small.wdiag",
             "fidwell.v1.scenery_small.wdiag",
             "rct2.scenery_small.ttf",
-            "$DAT:00000001|CFOUNTAI"
+            "fidwell.v1.scenery_small.ttf"
         ],
         "priority": 37
     },
@@ -32,24 +32,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v1 Water Feature Theming",
-            "fr-FR": "DKSO v1 Thème Aquatique",
-            "de-DE": "DKSO v1 Wasserthema",
-            "es-ES": "DKSO v1 Temática acuática",
-            "it-IT": "DKSO v1 Tema acquatico",
-            "nl-NL": "DKSO v1 Waterthema",
-            "sv-SE": "DKSO v1 Vattentema",
-            "ko-KR": "DKSO v1 인공 폭포 테마",
-            "zh-CN": "DKSO v1 水世界主题",
-            "zh-TW": "DKSO v1 水世界",
-            "pt-BR": "DKSO v1 Temática Aquática",
-            "cs-CZ": "DKSO v1 Vodní kulisy",
-            "ja-JP": "DKSO v1 水を使用したテーマ",
-            "pl-PL": "DKSO v1 Wystrój wodny",
-            "ru-RU": "DKSO v1 Водная Тема",
-            "eo-ZZ": "DKSO v1 Akva Temo",
-            "ca-ES": "DKSO v1 Temàtica aquàtica",
-            "fi-FI": "DKSO v1 Suihkulähdeteemaus"
+            "en-GB": "DKSO v3 Water Feature Theming",
+            "fr-FR": "DKSO v3 Thème Aquatique",
+            "de-DE": "DKSO v3 Wasserthema",
+            "es-ES": "DKSO v3 Temática acuática",
+            "it-IT": "DKSO v3 Tema acquatico",
+            "nl-NL": "DKSO v3 Waterthema",
+            "sv-SE": "DKSO v3 Vattentema",
+            "ko-KR": "DKSO v3 인공 폭포 테마",
+            "zh-CN": "DKSO v3 水世界主题",
+            "zh-TW": "DKSO v3 水世界",
+            "pt-BR": "DKSO v3 Temática Aquática",
+            "cs-CZ": "DKSO v3 Vodní kulisy",
+            "ja-JP": "DKSO v3 水を使用したテーマ",
+            "pl-PL": "DKSO v3 Wystrój wodny",
+            "ru-RU": "DKSO v3 Водная Тема",
+            "eo-ZZ": "DKSO v3 Akva Temo",
+            "ca-ES": "DKSO v3 Temàtica aquàtica",
+            "fi-FI": "DKSO v3 Suihkulähdeteemaus"
         }
     }
 }

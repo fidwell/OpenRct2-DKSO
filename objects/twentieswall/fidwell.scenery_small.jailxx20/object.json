@@ -9,7 +9,6 @@
         "removalPrice": -6,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 32,
-        "sceneryGroup": "fidwell.v1.scenery_group.walls_dkso",
         "shape": "1/4+D",
         "requiresFlatSurface": true,
         "isRotatable": true,

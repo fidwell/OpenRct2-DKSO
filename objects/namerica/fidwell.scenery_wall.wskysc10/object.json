@@ -1,0 +1,43 @@
+{
+    "id": "fidwell.v1.scenery_wall.wskysc10",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -31, "y": -33 },
+        { "path": "images/1.png", "x": -1, "y": -32 },
+        { "path": "images/2.png", "x": -31, "y": -49 },
+        { "path": "images/3.png", "x": -1, "y": -48 },
+        { "path": "images/4.png", "x": -31, "y": -33 },
+        { "path": "images/5.png", "x": -1, "y": -32 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Stone Skyscraper Wall Piece",
+            "fr-FR": "Pan de mur de gratte-ciel de pierre",
+            "de-DE": "Steinwolkenkratzerwand-Bauteil",
+            "es-ES": "Pieza de pared de rascacielos de piedra",
+            "it-IT": "Pezzo di parete di grattacielo in pietra",
+            "nl-NL": "Stuk muur Stenen wolkenkrabber",
+            "sv-SE": "Väggdel till stenskrapa",
+            "zh-CN": "石制摩天大楼墙",
+            "cs-CZ": "Kamenný mrakodrap - stěna",
+            "ko-KR": "석재 마천루 벽 조각",
+            "pl-PL": "Kamienny wieżowiec - segment ściany",
+            "ru-RU": "Стена каменного небоскрёба",
+            "pt-BR": "Peça da Parede do Arranha-céu de Pedra",
+            "ja-JP": "石の超高層ビルの壁",
+            "eo-ZZ": "Muroparto de Ŝtona Ĉielskrapanto",
+            "ca-ES": "Part de paret de gratacel de pedra",
+            "fi-FI": "Kivipilvenpiirtäjän seinän osa"
+        }
+    }
+}

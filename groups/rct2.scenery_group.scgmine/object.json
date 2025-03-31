@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_group.mine_dkso",
+    "id": "fidwell.v3.scenery_group.mine_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -65,24 +65,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v1 Mine Theming",
-            "fr-FR": "DKSO v1 Thème Minier",
-            "de-DE": "DKSO v1 Bergwerksthema",
-            "es-ES": "DKSO v1 Temática minera",
-            "it-IT": "DKSO v1 Tema miniera",
-            "nl-NL": "DKSO v1 Mijnthema",
-            "sv-SE": "DKSO v1 Gruv-tema",
-            "ko-KR": "DKSO v1 광산 테마",
-            "zh-CN": "DKSO v1 小人国主题",
-            "zh-TW": "DKSO v1 小人國",
-            "pt-BR": "DKSO v1 Temática de Mina",
-            "cs-CZ": "DKSO v1 Důlní kulisy",
-            "ja-JP": "DKSO v1 鉱山風のテーマ",
-            "pl-PL": "DKSO v1 Wystrój górniczy",
-            "ru-RU": "DKSO v1 Рудник",
-            "eo-ZZ": "DKSO v1 Mintemo",
-            "ca-ES": "DKSO v1 Temàtica minera",
-            "fi-FI": "DKSO v1 Kaivosteemaus"
+            "en-GB": "DKSO v3 Mine Theming",
+            "fr-FR": "DKSO v3 Thème Minier",
+            "de-DE": "DKSO v3 Bergwerksthema",
+            "es-ES": "DKSO v3 Temática minera",
+            "it-IT": "DKSO v3 Tema miniera",
+            "nl-NL": "DKSO v3 Mijnthema",
+            "sv-SE": "DKSO v3 Gruv-tema",
+            "ko-KR": "DKSO v3 광산 테마",
+            "zh-CN": "DKSO v3 小人国主题",
+            "zh-TW": "DKSO v3 小人國",
+            "pt-BR": "DKSO v3 Temática de Mina",
+            "cs-CZ": "DKSO v3 Důlní kulisy",
+            "ja-JP": "DKSO v3 鉱山風のテーマ",
+            "pl-PL": "DKSO v3 Wystrój górniczy",
+            "ru-RU": "DKSO v3 Рудник",
+            "eo-ZZ": "DKSO v3 Mintemo",
+            "ca-ES": "DKSO v3 Temàtica minera",
+            "fi-FI": "DKSO v3 Kaivosteemaus"
         }
     }
 }

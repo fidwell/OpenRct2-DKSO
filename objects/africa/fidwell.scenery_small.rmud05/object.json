@@ -1,0 +1,50 @@
+{
+    "id": "fidwell.v1.scenery_small.rmud05",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 40,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -42 },
+        { "path": "images/1.png", "x": -17, "y": -26 },
+        { "path": "images/2.png", "x": -32, "y": -9 },
+        { "path": "images/3.png", "x": -32, "y": -26 }
+
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Wattle & Daub Roof",
+            "fr-FR": "Toit en clayonnage",
+            "de-DE": "Lehmflechtwerk-Dach",
+            "es-ES": "Tejado de entramado pintado",
+            "it-IT": "Tetto di canne e fango",
+            "nl-NL": "Vitselstekdak",
+            "sv-SE": "Flätverk, tak",
+            "zh-CN": "泥芭屋顶",
+            "cs-CZ": "Hliněná střecha",
+            "ko-KR": "초벽 지붕",
+            "pl-PL": "Dach z tynkowanej plecionki",
+            "ru-RU": "Крыша Wattle & Daub",
+            "pt-BR": "Telhado de Pau a Pique",
+            "ja-JP": "土壁の屋",
+            "eo-ZZ": "Tegmento el hurdoj kaj tero",
+            "ca-ES": "Teulada de fusta i fang",
+            "fi-FI": "Savitalon katto"
+        }
+    }
+}

@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_group.egyptian_dkso",
+    "id": "fidwell.v3.scenery_group.egyptian_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -40,24 +40,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v1 Egyptian Theming",
-            "fr-FR": "DKSO v1 Thème égyptien",
-            "de-DE": "DKSO v1 Ägyptisches Thema",
-            "es-ES": "DKSO v1 Temática egipcia",
-            "it-IT": "DKSO v1 Tema egiziano",
-            "nl-NL": "DKSO v1 Egyptisch thema",
-            "sv-SE": "DKSO v1 Egyptiskt tema",
-            "ko-KR": "DKSO v1 이집트 테마",
-            "zh-CN": "DKSO v1 埃及主题",
-            "zh-TW": "DKSO v1 埃及主題區",
-            "pt-BR": "DKSO v1 Temática Egípcia",
-            "cs-CZ": "DKSO v1 Egyptské motivy",
-            "ja-JP": "DKSO v1 エジプト風のテーマ",
-            "pl-PL": "DKSO v1 Wystrój egipski",
-            "ru-RU": "DKSO v1 Египет",
-            "eo-ZZ": "DKSO v1 Egipta Temo",
-            "ca-ES": "DKSO v1 Temàtica egípcia",
-            "fi-FI": "DKSO v1 Egyptiläisteemaus"
+            "en-GB": "DKSO v3 Egyptian Theming",
+            "fr-FR": "DKSO v3 Thème égyptien",
+            "de-DE": "DKSO v3 Ägyptisches Thema",
+            "es-ES": "DKSO v3 Temática egipcia",
+            "it-IT": "DKSO v3 Tema egiziano",
+            "nl-NL": "DKSO v3 Egyptisch thema",
+            "sv-SE": "DKSO v3 Egyptiskt tema",
+            "ko-KR": "DKSO v3 이집트 테마",
+            "zh-CN": "DKSO v3 埃及主题",
+            "zh-TW": "DKSO v3 埃及主題區",
+            "pt-BR": "DKSO v3 Temática Egípcia",
+            "cs-CZ": "DKSO v3 Egyptské motivy",
+            "ja-JP": "DKSO v3 エジプト風のテーマ",
+            "pl-PL": "DKSO v3 Wystrój egipski",
+            "ru-RU": "DKSO v3 Египет",
+            "eo-ZZ": "DKSO v3 Egipta Temo",
+            "ca-ES": "DKSO v3 Temàtica egípcia",
+            "fi-FI": "DKSO v3 Egyptiläisteemaus"
         }
     }
 }

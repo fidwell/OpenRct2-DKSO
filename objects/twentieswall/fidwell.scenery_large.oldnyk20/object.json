@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_large.oldnyk20",
+    "id": "fidwell.v2.scenery_large.oldnyk20",
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -10,19 +10,18 @@
         "removalPrice": -12,
         "cursor": "CURSOR_STATUE_DOWN",
         "isPhotogenic": true,
-        "sceneryGroup": "fidwell.v1.scenery_group.walls_dkso",
         "tiles": [
             {
                 "x": 0,
                 "y": 0,
                 "clearance": 8,
-                "walls": 9
+                "walls": 11
             },
             {
                 "x": 32,
                 "y": 0,
                 "clearance": 8,
-                "walls": 3
+                "walls": 14
             }
         ]
     },

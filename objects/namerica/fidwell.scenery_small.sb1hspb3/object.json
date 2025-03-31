@@ -1,0 +1,44 @@
+{
+    "id": "fidwell.v1.scenery_small.sb1hspb3",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -16, "y": -37 },
+        { "path": "images/1.png", "x": -16, "y": -37 },
+        { "path": "images/2.png", "x": -16, "y": -37 },
+        { "path": "images/3.png", "x": -16, "y": -37 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Suspension Bridge Mid Section Piece",
+            "fr-FR": "Pièce de section moyenne de pont suspendu",
+            "de-DE": "Hängebrücke - Mittelsektions-Bauteil",
+            "es-ES": "Pieza de la sección intermedia del puente suspendido",
+            "it-IT": "Pezzo di sezione centrale di ponte sospeso",
+            "nl-NL": "Hangbrug middenstuk",
+            "sv-SE": "Basmellandel för hängbro",
+            "zh-CN": "吊桥中央部份区域一块",
+            "cs-CZ": "Zavěšený most",
+            "ko-KR": "현수교 중간 섹션 조각",
+            "pl-PL": "Most wiszący segment środkowy",
+            "ru-RU": "Средняя секция подвесного моста",
+            "pt-BR": "Peça de Seção Intermediária da Ponte Suspensa",
+            "ja-JP": "吊り橋　中間部分",
+            "eo-ZZ": "Mezparto de Pentoponto",
+            "ca-ES": "Part central de pont penjant",
+            "fi-FI": "Riippusillan keskiosa"
+        }
+    }
+}

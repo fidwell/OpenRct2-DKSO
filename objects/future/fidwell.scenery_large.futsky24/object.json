@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_large.futsky24",
+    "id": "fidwell.v2.scenery_large.futsky24",
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -9,7 +9,6 @@
         "price": 10,
         "removalPrice": 6,
         "cursor": "CURSOR_STATUE_DOWN",
-        "sceneryGroup": "fidwell.v1.scenery_group.walls_dkso",
         "tiles": [
             {
                 "x": 0,
@@ -27,13 +26,13 @@
                 "x": 32,
                 "y": 0,
                 "clearance": 32,
-                "walls": 8
+                "walls": 12
             },
             {
                 "x": 32,
                 "y": 32,
                 "clearance": 32,
-                "walls": 2
+                "walls": 6
             }
         ]
     },

@@ -9,8 +9,7 @@
         "hasSecondaryColour": true,
         "height": 3,
         "price": 60,
-        "cursor": "CURSOR_TREE_DOWN",
-        "sceneryGroup": "fidwell.v1.scenery_group.fences_dkso"
+        "cursor": "CURSOR_TREE_DOWN"
     },
     "images": [
       { "path": "images/0.png", "x": -31, "y": -22 },

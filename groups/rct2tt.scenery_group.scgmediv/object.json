@@ -81,7 +81,7 @@
             "rct2tt.scenery_large.psntwl28",
             "$DAT:0E430502|ELLPW28C",
             "rct2tt.scenery_large.mcastl01",
-            "fidwell.v1.scenery_large.mcastl01",
+            "fidwell.v2.scenery_large.mcastl01",
             "rct2tt.scenery_small.mcastl02",
             "fidwell.v1.scenery_small.mcastl02",
             "rct2tt.scenery_small.mcastl03",
@@ -113,7 +113,7 @@
             "rct2tt.scenery_wall.mspkwa01",
             "fidwell.v1.scenery_wall.mspkwa01",
             "rct2tt.scenery_large.feastabl",
-            "fidwell.v1.scenery_large.feastabl",
+            "fidwell.v2.scenery_large.feastabl",
             "rct2tt.scenery_small.gldchest",
             "rct2tt.scenery_small.wepnrack",
             "rct2tt.scenery_large.hodshut1",
@@ -155,8 +155,7 @@
             "rct2tt.scenery_small.knfight2",
             "fidwell.v1.scenery_small.knfight2"
         ],
-        "priority": 53,
-        "entertainerCostumes": "knight"
+        "priority": 53
     },
     "images": [
         {

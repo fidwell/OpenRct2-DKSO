@@ -1,6 +1,6 @@
 # OpenRCT2 recolorable custom scenery
 
-![image](https://user-images.githubusercontent.com/5436387/229002397-5d46f153-5b96-4814-b9ef-11d324593e66.png)
+![image](https://github.com/user-attachments/assets/329eb870-a852-4d83-ba0b-8a79eaf71ce4)
 
 ## What is this?
 

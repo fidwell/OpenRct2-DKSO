@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_group.mechanical_dkso",
+    "id": "fidwell.v3.scenery_group.mechanical_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -45,24 +45,24 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v1 Mechanical Theming",
-            "fr-FR": "DKSO v1 Thème Mécanique",
-            "de-DE": "DKSO v1 Maschinenthema",
-            "es-ES": "DKSO v1 Temática mecánica",
-            "it-IT": "DKSO v1 Tema meccanico",
-            "nl-NL": "DKSO v1 Mechanisch thema",
-            "sv-SE": "DKSO v1 Mekaniktema",
-            "ko-KR": "DKSO v1 기계 테마",
-            "zh-CN": "DKSO v1 机械主题",
-            "zh-TW": "DKSO v1 機械主題區",
-            "pt-BR": "DKSO v1 Temática Mecânica",
-            "cs-CZ": "DKSO v1 Mechanické kulisy",
-            "ja-JP": "DKSO v1 機械風のテーマ",
-            "pl-PL": "DKSO v1 Wystrój mechaniczny",
-            "ru-RU": "DKSO v1 Техника",
-            "eo-ZZ": "DKSO v1 Mekanika Temo",
-            "ca-ES": "DKSO v1 Temàtica mecànica",
-            "fi-FI": "DKSO v1 Mekaaninen teemaus"
+            "en-GB": "DKSO v3 Mechanical Theming",
+            "fr-FR": "DKSO v3 Thème Mécanique",
+            "de-DE": "DKSO v3 Maschinenthema",
+            "es-ES": "DKSO v3 Temática mecánica",
+            "it-IT": "DKSO v3 Tema meccanico",
+            "nl-NL": "DKSO v3 Mechanisch thema",
+            "sv-SE": "DKSO v3 Mekaniktema",
+            "ko-KR": "DKSO v3 기계 테마",
+            "zh-CN": "DKSO v3 机械主题",
+            "zh-TW": "DKSO v3 機械主題區",
+            "pt-BR": "DKSO v3 Temática Mecânica",
+            "cs-CZ": "DKSO v3 Mechanické kulisy",
+            "ja-JP": "DKSO v3 機械風のテーマ",
+            "pl-PL": "DKSO v3 Wystrój mechaniczny",
+            "ru-RU": "DKSO v3 Техника",
+            "eo-ZZ": "DKSO v3 Mekanika Temo",
+            "ca-ES": "DKSO v3 Temàtica mecànica",
+            "fi-FI": "DKSO v3 Mekaaninen teemaus"
         }
     }
 }
