@@ -1,0 +1,68 @@
+{
+    "id": "fidwell.v1.scenery_large.mdsaent",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 20,
+        "removalPrice": -10,
+        "cursor": "CURSOR_ENTRANCE_DOWN",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 16,
+                "walls": 4,
+                "corners": 12
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 16,
+                "walls": 4,
+                "corners": 12
+            }
+        ]
+    },
+    "images": [
+        { "path": "images/00.png", "x": -32, "y": 33 },
+        { "path": "images/01.png", "x": -32, "y": 32 },
+        { "path": "images/02.png", "x": -32, "y": 33 },
+        { "path": "images/03.png", "x": -32, "y": 29 },
+        { "path": "images/04.png", "x": -2, "y": -13 },
+        { "path": "images/05.png", "x": 0, "y": 2 },
+        { "path": "images/06.png", "x": -32, "y": 1 },
+        { "path": "images/07.png", "x": -31, "y": -28 },
+        { "path": "images/08.png", "x": -32, "y": -28 },
+        { "path": "images/09.png", "x": -2, "y": 1 },
+        { "path": "images/10.png", "x": -31, "y": 2 },
+        { "path": "images/11.png", "x": 0, "y": -13 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "‘Medusa’ Sign",
+            "fr-FR": "Panneau « Medusa »",
+            "de-DE": "„Medusa“-Schild",
+            "es-ES": "Señal de medusa",
+            "it-IT": "Insegna della ‘Medusa’",
+            "nl-NL": "‘Medusa’-bord",
+            "sv-SE": "’Medusa’-skylt",
+            "ko-KR": "‘메두사’ 팻말",
+            "zh-CN": "「美杜莎」招牌",
+            "zh-TW": "「美杜莎」招牌",
+            "pt-BR": "Placa ‘Medusa’",
+            "cs-CZ": "‘Medúza’ cedule",
+            "ja-JP": "「メドゥーサ」看板",
+            "pl-PL": "Napis Meduza",
+            "ru-RU": "Знак «Медуза»",
+            "eo-ZZ": "‘Meduzo’ Afiŝo",
+            "ca-ES": "Senyal «Medusa»",
+            "fi-FI": "”Medusa”-kyltti",
+            "tr-TR": "‘Medusa’ Sign",
+            "gl-ES": "Signo ‘Medusa’"
+        }
+    }
+}

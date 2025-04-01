@@ -24,7 +24,7 @@ function ExtractSprites(
     {
         Write-Host "Extracting custom object..."
         $command = "$($openRct2com) sprite exportalldat $($customIdentifier.ToUpper()) $($imagePath) > $($imagesJson)"
-        $shouldRecolour = false
+        $shouldRecolour = $False
     }
     else
     {
