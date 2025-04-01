@@ -13,7 +13,7 @@
             "rct2.scenery_large.nitroent",
             "$DAT:0C58B202|IRNITROC",
             "rct2.scenery_wall.walltxgt",
-            "$DAT:00000003|IRTEXSN1",
+            "fidwell.v1.scenery_wall.walltxgt",
             "rct2.scenery_small.mment1",
             "rct2.scenery_small.mment2",
             "rct2.scenery_small.mment3"
