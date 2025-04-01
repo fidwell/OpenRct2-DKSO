@@ -1,0 +1,52 @@
+{
+    "id": "fidwell.v1.scenery_small.artdec06",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "sceneryGroup": "fidwell.v3.scenery_group.walls_dkso",
+        "shape": "2/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true,
+        "hasNoSupports": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -4, "y": -38 },
+        { "path": "images/1.png", "x": -4, "y": -26 },
+        { "path": "images/2.png", "x": -32, "y": -26 },
+        { "path": "images/3.png", "x": -32, "y": -38 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Art Deco Top Section",
+            "fr-FR": "Section haute art déco",
+            "de-DE": "Art Déco - oberer Abschnitt",
+            "es-ES": "Sección superior Art Decó",
+            "it-IT": "Sezione superiore in art decò",
+            "nl-NL": "Bovenstuk Art Deco",
+            "sv-SE": "Toppsektion, art déco",
+            "ko-KR": "아트 데코 상단 조각",
+            "zh-TW": "裝飾藝術頂部區段",
+            "pt-BR": "Seção de Topo de Art Déco",
+            "cs-CZ": "Art Deco vrchní část",
+            "pl-PL": "Część górna art deco",
+            "ru-RU": "Верхняя секция арт-деко",
+            "ja-JP": "アールデコ・壁上部",
+            "eo-ZZ": "Artdekora Supra Parto",
+            "ca-ES": "Secció superior Art Déco",
+            "fi-FI": "Art deco -rakennuksen yläosa",
+            "zh-CN": "装饰艺术-顶部"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "id": "fidwell.v1.scenery_large.jailxx17",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 58,
+        "removalPrice": -52,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "sceneryGroup": "fidwell.v3.scenery_group.walls_dkso",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 64,
+                "walls": 11
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 64,
+                "walls": 14
+            }
+        ]
+    },
+    "images": [
+        { "path": "images/00.png", "x": -31, "y": 1 },
+        { "path": "images/01.png", "x": -32, "y": 1 },
+        { "path": "images/02.png", "x": -28, "y": 1 },
+        { "path": "images/03.png", "x": -32, "y": 1 },
+        { "path": "images/04.png", "x": 0, "y": -52 },
+        { "path": "images/05.png", "x": -32, "y": -54 },
+        { "path": "images/06.png", "x": -32, "y": -83 },
+        { "path": "images/07.png", "x": -4, "y": -67 },
+        { "path": "images/08.png", "x": -4, "y": -54 },
+        { "path": "images/09.png", "x": -32, "y": -52 },
+        { "path": "images/10.png", "x": 0, "y": -67 },
+        { "path": "images/11.png", "x": -32, "y": -83 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Prison Door",
+            "fr-FR": "Porte de prison",
+            "de-DE": "Gefängnistür",
+            "es-ES": "Puerta de prisión",
+            "it-IT": "Porta della prigione",
+            "nl-NL": "Gevangenisdeur",
+            "sv-SE": "Dörr, fängelse",
+            "ko-KR": "감옥 문",
+            "zh-TW": "監獄門",
+            "pt-BR": "Porta de Prisão",
+            "cs-CZ": "Věznice - dveře",
+            "pl-PL": "Drzwi więzienne",
+            "ru-RU": "Тюремная дверь",
+            "ja-JP": "刑務所のドア",
+            "eo-ZZ": "Pordo de Malliberejo",
+            "ca-ES": "Porta de presó",
+            "fi-FI": "Vankilan ovi",
+            "zh-CN": "监狱-门"
+        }
+    }
+}
