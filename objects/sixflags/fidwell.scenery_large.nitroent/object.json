@@ -1,0 +1,69 @@
+{
+    "id": "fidwell.v1.scenery_large.nitroent",
+    "authors": ["Chris Sawyer", "Simon Foster"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 20,
+        "removalPrice": -10,
+        "cursor": "CURSOR_ENTRANCE_DOWN",
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 40,
+                "walls": 4,
+                "corners": 12
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 40,
+                "walls": 4,
+                "corners": 12
+            }
+        ]
+    },
+    "images": [
+        { "path": "images/00.png", "x": -32, "y": 12 },
+        { "path": "images/01.png", "x": -32, "y": 13 },
+        { "path": "images/02.png", "x": -32, "y": 13 },
+        { "path": "images/03.png", "x": -32, "y": 10 },
+        { "path": "images/04.png", "x": -2, "y": -36 },
+        { "path": "images/05.png", "x": 0, "y": -21 },
+        { "path": "images/06.png", "x": -32, "y": -25 },
+        { "path": "images/07.png", "x": -32, "y": -36 },
+        { "path": "images/08.png", "x": 0, "y": -36 },
+        { "path": "images/09.png", "x": -2, "y": -25 },
+        { "path": "images/10.png", "x": -32, "y": -20 },
+        { "path": "images/11.png", "x": -32, "y": -36 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "‘Nitro’ Sign",
+            "fr-FR": "Panneau « Nitro »",
+            "de-DE": "„Nitro“-Schild",
+            "es-ES": "Señal de nitro",
+            "it-IT": "Insegna della ‘Nitro’",
+            "nl-NL": "‘Nitro’-bord",
+            "sv-SE": "’Nitro’-skylt",
+            "ko-KR": "‘니트로’ 팻말",
+            "zh-CN": "尼特若」招牌",
+            "zh-TW": "尼特若」招牌",
+            "pt-BR": "Placa ‘Nitro’",
+            "cs-CZ": "‘Nitro’ cedule",
+            "ja-JP": "「ニトロ」看板",
+            "pl-PL": "Napis Nitro",
+            "ru-RU": "Знак «Нитро»",
+            "eo-ZZ": "‘Nitro’ Afiŝo",
+            "ca-ES": "Senyal «Nitro»",
+            "fi-FI": "”Nitro”-kyltti",
+            "tr-TR": "‘Nitro’ Sign",
+            "ar-EG": "علامة نيترو",
+            "gl-ES": "Sinal ‘Nitro’"
+        }
+    }
+}
