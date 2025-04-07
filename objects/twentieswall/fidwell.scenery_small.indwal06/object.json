@@ -1,0 +1,51 @@
+{
+    "id": "fidwell.v1.scenery_small.indwal06",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -14,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "3/4+D",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -39 },
+        { "path": "images/1.png", "x": -32, "y": -39 },
+        { "path": "images/2.png", "x": -32, "y": -21 },
+        { "path": "images/3.png", "x": -32, "y": -39 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Industrial Roof Corner Piece",
+            "fr-FR": "Coin de toit industriel",
+            "de-DE": "Industriedach-Eckstück",
+            "es-ES": "Sección de esquina de tejado industrial",
+            "it-IT": "Tratto di curva dei tetti di New York",
+            "nl-NL": "Dak Bochtstuk Industrie",
+            "sv-SE": "Industriell takhörndel",
+            "ko-KR": "산업 지붕 구석 조각",
+            "zh-TW": "工業屋頂轉角塊",
+            "pt-BR": "Peça de Canto de Telhado Industrial",
+            "cs-CZ": "Industriální střecha",
+            "pl-PL": "Narożnik dachu przemysłowego",
+            "ru-RU": "Угол индустриальной крыши",
+            "ja-JP": "工業的な屋根 コーナー部分",
+            "eo-ZZ": "Anguloparto de Industria Tegmento",
+            "ca-ES": "Part de cantonada de teulada industrial",
+            "fi-FI": "Teollisen katon kulmaosa",
+            "zh-CN": "工业-屋顶转角",
+            "gl-ES": "Peza de canto do tellado industrial"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "id": "fidwell.v1.scenery_small.indwal08",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 16,
+        "removalPrice": -10,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "2/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -3, "y": -34 },
+        { "path": "images/1.png", "x": -1, "y": -20 },
+        { "path": "images/2.png", "x": -32, "y": -20 },
+        { "path": "images/3.png", "x": -32, "y": -35 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Industrial Wall with Doorway",
+            "fr-FR": "Mur industriel avec porte",
+            "de-DE": "Industriemauer mit Eingang",
+            "es-ES": "Muro industrial con entrada",
+            "it-IT": "Muro industriale con entrata",
+            "nl-NL": "Muur met deuropening Industrie",
+            "sv-SE": "Industriell vägg med dörr",
+            "ko-KR": "출입구가 있는 산업 벽",
+            "zh-TW": "工業牆面(含門口)",
+            "pt-BR": "Parede Industrial com Vão de Porta",
+            "cs-CZ": "Industriální dveřní rám",
+            "pl-PL": "Mur przemysłowy z drzwiami",
+            "ru-RU": "Индустриальная стена с дверью",
+            "ja-JP": "工業的な壁（戸口付き）",
+            "eo-ZZ": "Industria Muro kun Pordo",
+            "ca-ES": "Paret industrial amb entrada",
+            "fi-FI": "Teollinen seinä oviaukolla",
+            "zh-CN": "工业-墙带门廊",
+            "gl-ES": "Muro industrial con porta"
+        }
+    }
+}
