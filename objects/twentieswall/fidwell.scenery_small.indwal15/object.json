@@ -16,8 +16,7 @@
         "isStackable": true,
         "prohibitWalls": true,
         "hasNoSupports": true,
-        "hasPrimaryColour": true,
-        "hasSecondaryColour": true
+        "hasPrimaryColour": true
     },
     "images": [
         { "path": "images/0.png", "x": -32, "y": -34 },
