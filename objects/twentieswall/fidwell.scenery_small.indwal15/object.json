@@ -1,0 +1,50 @@
+{
+    "id": "fidwell.v1.scenery_small.indwal15",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 16,
+        "removalPrice": -10,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 32,
+        "shape": "3/4+D",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -34 },
+        { "path": "images/1.png", "x": -2, "y": -34 },
+        { "path": "images/2.png", "x": -32, "y": -20 },
+        { "path": "images/3.png", "x": -32, "y": -35 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Industrial Wall Corner Piece",
+            "fr-FR": "Coin de mur industriel",
+            "de-DE": "Industriemauer-Eckstück",
+            "es-ES": "Sección de esquina de muro industrial",
+            "it-IT": "Tratto di curva del muro industriale",
+            "nl-NL": "Muur Bochtstuk Industrie",
+            "sv-SE": "Industriell vägghörndel",
+            "ko-KR": "산업 벽 구석 조각",
+            "zh-TW": "工業牆牆角塊",
+            "pt-BR": "Peça de Canto de Parede Industrial",
+            "cs-CZ": "Industriální roh",
+            "pl-PL": "Narożnik muru przemysłowego",
+            "ru-RU": "Угол индустриальной стены",
+            "ja-JP": "工業的な壁のコーナー部分",
+            "eo-ZZ": "Anguloparto de Industria Muro",
+            "ca-ES": "Part de cantonada de paret industrial",
+            "fi-FI": "Teollisen seinän kulmaosa",
+            "zh-CN": "工业-墙转角",
+            "gl-ES": "Peza de esquina de parede industrial"
+        }
+    }
+}

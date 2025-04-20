@@ -1,0 +1,52 @@
+{
+    "id": "fidwell.v1.scenery_small.oldnyk34",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 8,
+        "removalPrice": -6,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "shape": "1/4+D",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -16, "y": -45 },
+        { "path": "images/1.png", "x": -7, "y": -47 },
+        { "path": "images/2.png", "x": 1, "y": -45 },
+        { "path": "images/3.png", "x": -8, "y": -41 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "New York Wall Piece",
+            "fr-FR": "Section de mur de New York",
+            "de-DE": "New-York-Mauerstück",
+            "es-ES": "Sección de muro de Nueva York",
+            "it-IT": "Tratto di muro di New York",
+            "nl-NL": "Muurstuk New York",
+            "sv-SE": "Väggdel, New York",
+            "ko-KR": "뉴욕 벽 조각",
+            "zh-TW": "紐約牆面塊",
+            "pt-BR": "Peça de Parede de Nova York",
+            "cs-CZ": "New York stěna",
+            "pl-PL": "Segment ściany nowojorskiej",
+            "ru-RU": "Стена в стиле Нью-Йорка",
+            "ja-JP": "ニューヨーク　壁部分",
+            "eo-ZZ": "Novjorka Muroparto",
+            "ca-ES": "Part de paret novaiorquesa",
+            "fi-FI": "Newyorkilaisen seinän osa",
+            "zh-CN": "纽约-墙",
+            "hu-HU": "New York-i falelem",
+            "gl-ES": "Peza de Muro de Nova York"
+        }
+    }
+}
