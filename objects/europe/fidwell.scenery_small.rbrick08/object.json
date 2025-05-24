@@ -1,0 +1,48 @@
+{
+    "id": "fidwell.v1.scenery_small.rbrick08",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -48 },
+        { "path": "images/1.png", "x": -32, "y": -48 },
+        { "path": "images/2.png", "x": -32, "y": -32 },
+        { "path": "images/3.png", "x": -32, "y": -32 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Red Brick Roof Piece 1",
+            "fr-FR": "Pan de toit de brique rouge 1",
+            "de-DE": "Backsteindach-Bauteil 1",
+            "es-ES": "Pieza de tejado de ladrillo rojo 1",
+            "it-IT": "Pezzo di tetto di mattoni rossi 1",
+            "nl-NL": "Stuk dak van rode baksteen 1",
+            "sv-SE": "Röd tegeltakdel 1",
+            "cs-CZ": "Červená střecha 1",
+            "ko-KR": "붉은 벽돌 지붕 조각 1",
+            "pl-PL": "Czerwona cegła - segment dachu 1",
+            "ru-RU": "Часть красной кирпичной крыши 1",
+            "pt-BR": "Peça de Telhado de Tijolo Vermelho 1",
+            "ja-JP": "赤レンガの屋1",
+            "eo-ZZ": "Ruĝa Brika Tegmentoparto 1",
+            "ca-ES": "Part de teulada de maó roig 1",
+            "fi-FI": "Tiilitalon katon osa 1",
+            "zh-CN": "红砖屋顶1",
+            "gl-ES": "Peza de Teito de Ladrillo Vermello 1"
+        }
+    }
+}
