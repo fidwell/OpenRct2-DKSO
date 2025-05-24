@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.v1.scenery_small.wkreml01",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 64,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": 0, "y": -69 },
+        { "path": "images/1.png", "x": -32, "y": -51 },
+        { "path": "images/2.png", "x": -32, "y": -65 },
+        { "path": "images/3.png", "x": 0, "y": -81 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Kremlin Step-up Wall Piece 1",
+            "fr-FR": "Pan de mur de montée du Kremlin 1",
+            "de-DE": "Kreml - Treppen-Wandbauteil 1",
+            "es-ES": "Pieza de pared de sección de escaleras del Kremlin 1",
+            "it-IT": "Pezzo di muro di rialzo del Cremlino 1",
+            "nl-NL": "Uitspringend stuk muur Kremlin 1",
+            "sv-SE": "Trappa 1 till Kreml-mur",
+            "cs-CZ": "Kremlinská stěna - část 1",
+            "ko-KR": "크렘린 점진적 벽 조각 1",
+            "pl-PL": "Wznoszący się segment muru kremlowskiego 1",
+            "ru-RU": "Кремлёвская ступень 1",
+            "pt-BR": "Peça de Parede de Subida do Kremlim 1",
+            "ja-JP": "クレムリン　ステップアップの部分1",
+            "eo-ZZ": "Ŝtupo de Kremlo, Muroparto 1",
+            "ca-ES": "Part de paret amb escales del Kremlin 1",
+            "fi-FI": "Kremlinin nousevan seinän osa 1",
+            "zh-CN": "克里姆林宫-上升墙1",
+            "gl-ES": "Peza de Parede de Subida do Kremlin 1"
+        }
+    }
+}

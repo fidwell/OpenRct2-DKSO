@@ -1,0 +1,43 @@
+{
+    "id": "fidwell.v1.scenery_wall.wkreml08",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50,
+        "hasPrimaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -31, "y": -33 },
+        { "path": "images/1.png", "x": -1, "y": -32 },
+        { "path": "images/2.png", "x": -31, "y": -49 },
+        { "path": "images/3.png", "x": -1, "y": -48 },
+        { "path": "images/4.png", "x": -31, "y": -33 },
+        { "path": "images/5.png", "x": -1, "y": -32 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Kremlin Wall Piece 6",
+            "fr-FR": "Pan de mur du Kremlin 6",
+            "de-DE": "Kreml - Wandbauteil 6",
+            "es-ES": "Pieza de pared del Kremlin 6",
+            "it-IT": "Pezzo di muro del Cremlino 6",
+            "nl-NL": "Stuk muur Kremlin 6",
+            "sv-SE": "Kreml-mur del 6",
+            "cs-CZ": "Kremlinská stěna - část 6",
+            "ko-KR": "크렘린 벽 조각 6",
+            "pl-PL": "Segment muru kremlowskiego 6",
+            "ru-RU": "Кремлёвская стена 6",
+            "pt-BR": "Peça de Parede do Kremlin 6",
+            "ja-JP": "クレムリンの壁6",
+            "eo-ZZ": "Muro de Kremlo, Parto 6",
+            "ca-ES": "Part del mur del Kremlin 6",
+            "fi-FI": "Kremlinin seinän osa 6",
+            "zh-CN": "克里姆林宫-墙6",
+            "gl-ES": "Peza de Parede do Kremlin 6"
+        }
+    }
+}

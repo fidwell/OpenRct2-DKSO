@@ -1,0 +1,46 @@
+{
+    "id": "fidwell.v1.scenery_small.wkreml02",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 64,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": 0, "y": -49 },
+        { "path": "images/1.png", "x": -32, "y": -69 },
+        { "path": "images/2.png", "x": -32, "y": -81 },
+        { "path": "images/3.png", "x": 0, "y": -66 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Kremlin Step-up Wall Piece 2",
+            "fr-FR": "Pan de mur de montée du Kremlin 2",
+            "de-DE": "Kreml - Treppen-Wandbauteil 2",
+            "es-ES": "Pieza de pared de sección de escaleras del Kremlin 2",
+            "it-IT": "Pezzo di muro di rialzo del Cremlino 2",
+            "nl-NL": "Uitspringend stuk muur Kremlin 2",
+            "sv-SE": "Trappa 2 till Kreml-mur",
+            "cs-CZ": "Kremlinská stěna - část 2",
+            "ko-KR": "크렘린 점진적 벽 조각 2",
+            "pl-PL": "Wznoszący się segment muru kremlowskiego 2",
+            "ru-RU": "Кремлёвская ступень 2",
+            "pt-BR": "Peça de Parede de Subida do Kremlim 2",
+            "ja-JP": "クレムリン　ステップアップの部分2",
+            "eo-ZZ": "Ŝtupo de Kremlo, Muroparto 2",
+            "ca-ES": "Part de paret amb escales del Kremlin 2",
+            "fi-FI": "Kremlinin nousevan seinän osa 2",
+            "zh-CN": "克里姆林宫-上升墙2",
+            "gl-ES": "Peza de Parede de Subida do Kremlin 2"
+        }
+    }
+}

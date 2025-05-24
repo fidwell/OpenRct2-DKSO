@@ -1,0 +1,43 @@
+{
+    "id": "fidwell.v1.scenery_wall.wkreml07",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_wall",
+    "properties": {
+        "isAllowedOnSlope": true,
+        "height": 4,
+        "price": 50,
+        "hasPrimaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -31, "y": -33 },
+        { "path": "images/1.png", "x": -1, "y": -32 },
+        { "path": "images/2.png", "x": -31, "y": -49 },
+        { "path": "images/3.png", "x": -1, "y": -48 },
+        { "path": "images/4.png", "x": -31, "y": -33 },
+        { "path": "images/5.png", "x": -1, "y": -32 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Kremlin Wall Piece 5",
+            "fr-FR": "Pan de mur du Kremlin 5",
+            "de-DE": "Kreml - Wandbauteil 5",
+            "es-ES": "Pieza de pared del Kremlin 5",
+            "it-IT": "Pezzo di muro del Cremlino 5",
+            "nl-NL": "Stuk muur Kremlin 5",
+            "sv-SE": "Kreml-mur del 5",
+            "cs-CZ": "Kremlinská stěna - část 5",
+            "ko-KR": "크렘린 벽 조각 5",
+            "pl-PL": "Segment muru kremlowskiego 5",
+            "ru-RU": "Кремлёвская стена 5",
+            "pt-BR": "Peça de Parede do Kremlin 5",
+            "ja-JP": "クレムリンの壁5",
+            "eo-ZZ": "Muro de Kremlo, Parto 5",
+            "ca-ES": "Part del mur del Kremlin 5",
+            "fi-FI": "Kremlinin seinän osa 5",
+            "zh-CN": "克里姆林宫-墙5",
+            "gl-ES": "Peza de Parede do Kremlin 5"
+        }
+    }
+}
