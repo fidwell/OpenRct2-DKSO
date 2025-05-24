@@ -1,0 +1,51 @@
+{
+    "id": "fidwell.v1.scenery_small.runway06",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 8,
+        "shape": "3/4+D",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -7 },
+        { "path": "images/1.png", "x": -32, "y": -7 },
+        { "path": "images/2.png", "x": -32, "y": -7 },
+        { "path": "images/3.png", "x": -32, "y": -7 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Runway Inverted Corner Piece",
+            "fr-FR": "Coin inversé de piste d’atterrissage",
+            "de-DE": "Umgedrehtes Landebahn-Eckstück",
+            "es-ES": "Sección de esquina inversa de autopista",
+            "it-IT": "Tratto di curva invertita in salita",
+            "nl-NL": "Omgekeerd bochtstuk startbaan",
+            "sv-SE": "Omvänd hörndel till landningsbana",
+            "ko-KR": "반전된 활주로 구석 조각",
+            "zh-TW": "反向跑道牆角塊",
+            "pt-BR": "Peça de Canto Invertido de Pista de Decolagem",
+            "cs-CZ": "Ranvej",
+            "pl-PL": "Odwrócony narożnik bieżni",
+            "ru-RU": "Перевернутый угол шоссе",
+            "ja-JP": "滑走路　コーナーの内側部分",
+            "eo-ZZ": "Inversigita Anguloparto de Aviokurejo",
+            "ca-ES": "Part de cantonada inversa d’autopista",
+            "fi-FI": "Kiitoradan sisäkulmaosa",
+            "zh-CN": "跑道-内角",
+            "gl-ES": "Anaco de Rincón Invertido da Pista"
+        }
+    }
+}

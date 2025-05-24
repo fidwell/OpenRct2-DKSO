@@ -1,0 +1,51 @@
+{
+    "id": "fidwell.v1.scenery_small.runway04",
+    "authors": ["Frontier Studios"],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 18,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 8,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -32, "y": -7 },
+        { "path": "images/1.png", "x": -32, "y": -7 },
+        { "path": "images/2.png", "x": -32, "y": -7 },
+        { "path": "images/3.png", "x": -32, "y": -7 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Runway Edge Piece",
+            "fr-FR": "Section finale de piste d’atterrissage",
+            "de-DE": "Landebahn-Kantenstück",
+            "es-ES": "Sección de borde de autopista",
+            "it-IT": "Tratto del bordo in salita",
+            "nl-NL": "Randstuk startbaan",
+            "sv-SE": "Kantdel till landningsbana",
+            "ko-KR": "활주로 가장자리 조각",
+            "zh-TW": "跑到邊緣塊",
+            "pt-BR": "Peça de Borda de Pista de Decolagem",
+            "cs-CZ": "Ranvej",
+            "pl-PL": "Skraj bieżni",
+            "ru-RU": "Край шоссе",
+            "ja-JP": "滑走路　角部分",
+            "eo-ZZ": "Bordoparto de Aviokurejo",
+            "ca-ES": "Part de vora d’autopista",
+            "fi-FI": "Kiitoradan reunaosa",
+            "zh-CN": "跑道-边缘",
+            "gl-ES": "Anaco de Bordo da Pista"
+        }
+    }
+}
