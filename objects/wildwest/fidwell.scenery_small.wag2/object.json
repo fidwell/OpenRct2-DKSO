@@ -1,0 +1,49 @@
+{
+    "id": "fidwell.v1.scenery_small.wag2",
+    "authors": [ "Chris Sawyer", "Simon Foster" ],
+    "version": "1.0",
+    "sourceGame": "custom",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 19,
+        "removalPrice": -12,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "shape": "4/4",
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "hasPrimaryColour": true,
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true,
+        "isStackable": true
+    },
+    "images": [
+        { "path": "images/0.png", "x": -23, "y": -43 },
+        { "path": "images/1.png", "x": -23, "y": -43 },
+        { "path": "images/2.png", "x": -23, "y": -43 },
+        { "path": "images/3.png", "x": -23, "y": -43 }
+    ],
+    "strings": {
+        "name": {
+            "en-GB": "Wagon",
+            "de-DE": "Wagen",
+            "es-ES": "Furgón",
+            "it-IT": "Vagone",
+            "sv-SE": "Vagn",
+            "ko-KR": "마차",
+            "zh-CN": "马车",
+            "zh-TW": "馬車",
+            "pt-BR": "Carroça",
+            "cs-CZ": "Vagón",
+            "ja-JP": "ワゴン",
+            "nl-NL": "Huifkar",
+            "pl-PL": "Wóz",
+            "ru-RU": "Фургон",
+            "fr-FR": "Chariot",
+            "eo-ZZ": "Ĉarego",
+            "ca-ES": "Carro",
+            "fi-FI": "Vankkurit",
+            "gl-ES": "Vagón"
+        }
+    }
+}
