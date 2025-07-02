@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_small.artdec11",
+    "id": "fidwell.v2.scenery_small.artdec11",
     "authors": ["Frontier Studios"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -17,7 +17,8 @@
         "prohibitWalls": true,
         "hasNoSupports": true,
         "hasPrimaryColour": true,
-        "hasSecondaryColour": true
+        "hasSecondaryColour": true,
+        "hasTertiaryColour": true
     },
     "images": [
         { "path": "images/0.png", "x": -32, "y": -27 },
