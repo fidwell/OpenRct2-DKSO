@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_wall.wbr1",
+    "id": "fidwell.v2.scenery_wall.wbr1",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -12,12 +12,12 @@
         "price": 50
     },
     "images": [
-      { "path": "images/0.png", "x": -31, "y": -22 },
-      { "path": "images/1.png", "x": -1, "y": -21 },
-      { "path": "images/2.png", "x": -31, "y": -35 },
-      { "path": "images/3.png", "x": -1, "y": -35 },
-      { "path": "images/4.png", "x": -31, "y": -20 },
-      { "path": "images/5.png", "x": -1, "y": -23 }
+        { "path": "images/0.png", "x": -31, "y": -22 },
+        { "path": "images/1.png", "x": -1, "y": -21 },
+        { "path": "images/2.png", "x": -31, "y": -38 },
+        { "path": "images/3.png", "x": -1, "y": -37 },
+        { "path": "images/4.png", "x": -31, "y": -22 },
+        { "path": "images/5.png", "x": -1, "y": -21 }
     ],
     "strings": {
         "name": {
@@ -35,10 +35,12 @@
             "cs-CZ": "Cihlová stěna",
             "ja-JP": "レンガの壁",
             "pl-PL": "Ściana ceglana",
-            "ru-RU": "Стена",
+            "ru-RU": "Кирпичная стена",
             "eo-ZZ": "Brika Muro",
             "ca-ES": "Paret de maons",
-            "fi-FI": "Tiiliseinä"
+            "fi-FI": "Tiiliseinä",
+            "gl-ES": "Muro de ladrillo",
+            "hu-HU": "Téglafal"
         }
     }
 }
