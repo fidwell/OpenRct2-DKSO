@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v1.scenery_wall.wc17",
+    "id": "fidwell.v2.scenery_wall.wc17",
     "authors": ["Chris Sawyer", "Simon Foster"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -12,12 +12,12 @@
         "price": 40
     },
     "images": [
-      { "path": "images/0.png", "x": -31, "y": -18 },
-      { "path": "images/1.png", "x": -1, "y": -17 },
-      { "path": "images/2.png", "x": -31, "y": -31 },
-      { "path": "images/3.png", "x": -1, "y": -31 },
-      { "path": "images/4.png", "x": -31, "y": -17 },
-      { "path": "images/5.png", "x": -1, "y": -19 }
+        { "path": "images/0.png", "x": -31, "y": -18 },
+        { "path": "images/1.png", "x": -1, "y": -17 },
+        { "path": "images/2.png", "x": -31, "y": -35 },
+        { "path": "images/3.png", "x": -1, "y": -34 },
+        { "path": "images/4.png", "x": -31, "y": -18 },
+        { "path": "images/5.png", "x": -1, "y": -17 }
     ],
     "strings": {
         "name": {
@@ -35,10 +35,12 @@
             "cs-CZ": "Dřevěný plot",
             "ja-JP": "木製のフェンス",
             "pl-PL": "Płot drewniany",
-            "ru-RU": "Забор",
+            "ru-RU": "Деревянный забор",
             "eo-ZZ": "Ligna Barilo",
             "ca-ES": "Tanca de fusta",
-            "fi-FI": "Puinen aita"
+            "fi-FI": "Puinen aita",
+            "gl-ES": "Cerca de madeira",
+            "hu-HU": "Fakerítés"
         }
     }
 }
