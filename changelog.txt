@@ -1,4 +1,11 @@
-9.0 (in development)
+9.1
+------------------------------------------------------------------------
+- v3.1 of bench.
+- Replaced several two-color tree objects with new three-color versions, made by Maji.
+- Fixed bad pixellation in a couple of old wall objects.
+- Fixed missing recolor in chimney object.
+
+9.0
 ------------------------------------------------------------------------
 - Major update: v3 of bench.
 - All groups updated to v3 for convenience.
