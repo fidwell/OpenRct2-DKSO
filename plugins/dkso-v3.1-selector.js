@@ -1,10 +1,10 @@
 "use strict";
 
 const dksoGroups = [
-    "fidwell.v3.scenery_group.trees_dkso",
+    "fidwell.v3.1.scenery_group.trees_dkso",
     "fidwell.v3.scenery_group.shrubs_dkso",
     "fidwell.v3.scenery_group.gardens_dkso",
-    "fidwell.v3.scenery_group.fences_dkso",
+    "fidwell.v3.1.scenery_group.fences_dkso",
     "fidwell.v3.scenery_group.walls_dkso",
     "rct2.scenery_group.scgpathx",
     "fidwell.v3.scenery_group.abstract_dkso",
@@ -17,7 +17,7 @@ const dksoGroups = [
     "fidwell.v3.scenery_group.medieval_dkso",
     "fidwell.v3.scenery_group.mine_dkso",
     "fidwell.v3.scenery_group.pagoda_dkso",
-    "fidwell.v3.scenery_group.snow_dkso",
+    "fidwell.v3.1.scenery_group.snow_dkso",
     "fidwell.v3.scenery_group.space_dkso",
     "fidwell.v3.scenery_group.spooky_dkso",
     "rct2.scenery_group.scgurban",
@@ -34,8 +34,8 @@ const dksoGroups = [
     "fidwell.v3.scenery_group.asia_dkso",
     "fidwell.v3.scenery_group.australasia_dkso",
     "fidwell.v3.scenery_group.europe_dkso",
-    "fidwell.v3.scenery_group.namerica_dkso",
-    "fidwell.v3.scenery_group.samerica_dkso",
+    "fidwell.v3.1.scenery_group.namerica_dkso",
+    "fidwell.v3.1.scenery_group.samerica_dkso",
     "fidwell.v3.scenery_group.darkage_dkso",
     "fidwell.v3.scenery_group.future_dkso",
     "fidwell.v3.scenery_group.mythological_dkso",
@@ -76,6 +76,6 @@ registerPlugin({
     licence: "MIT",
     targetApiVersion: 108,
     main: function () {
-        ui.registerMenuItem("DKSO v3 Selector", select);
+        ui.registerMenuItem("DKSO v3.1 Selector", select);
     }
 });

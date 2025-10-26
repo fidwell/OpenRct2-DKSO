@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v3.scenery_group.samerica_dkso",
+    "id": "fidwell.v3.1.scenery_group.samerica_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -202,23 +202,23 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v3 South America Theming",
-            "fr-FR": "DKSO v3 Thème Amérique du Sud",
-            "de-DE": "DKSO v3 Südamerika-Thema",
-            "es-ES": "DKSO v3 Temática sudamericana",
-            "it-IT": "DKSO v3 Tema sudamericano",
-            "nl-NL": "DKSO v3 Zuid-Amerikaans thema",
-            "sv-SE": "DKSO v3 Sydamerikanskt tema",
-            "cs-CZ": "DKSO v3 Jižní Amerika",
-            "ko-KR": "DKSO v3 남아메리카 테마",
-            "pl-PL": "DKSO v3 Wystrój południowoamerykański",
-            "ru-RU": "DKSO v3 Тема Северной Америки",
-            "pt-BR": "DKSO v3 Temática Sul-americana",
-            "ja-JP": "DKSO v3 南アメリカのテーマ",
-            "eo-ZZ": "DKSO v3 Sudamerika Temo",
-            "ca-ES": "DKSO v3 Temàtica sud-americana",
-            "fi-FI": "DKSO v3 Eteläamerikkalaisteemaus",
-            "zh-CN": "DKSO v3 南美洲主题"
+            "en-GB": "DKSO v3.1 South America Theming",
+            "fr-FR": "DKSO v3.1 Thème Amérique du Sud",
+            "de-DE": "DKSO v3.1 Südamerika-Thema",
+            "es-ES": "DKSO v3.1 Temática sudamericana",
+            "it-IT": "DKSO v3.1 Tema sudamericano",
+            "nl-NL": "DKSO v3.1 Zuid-Amerikaans thema",
+            "sv-SE": "DKSO v3.1 Sydamerikanskt tema",
+            "cs-CZ": "DKSO v3.1 Jižní Amerika",
+            "ko-KR": "DKSO v3.1 남아메리카 테마",
+            "pl-PL": "DKSO v3.1 Wystrój południowoamerykański",
+            "ru-RU": "DKSO v3.1 Тема Северной Америки",
+            "pt-BR": "DKSO v3.1 Temática Sul-americana",
+            "ja-JP": "DKSO v3.1 南アメリカのテーマ",
+            "eo-ZZ": "DKSO v3.1 Sudamerika Temo",
+            "ca-ES": "DKSO v3.1 Temàtica sud-americana",
+            "fi-FI": "DKSO v3.1 Eteläamerikkalaisteemaus",
+            "zh-CN": "DKSO v3.1 南美洲主题"
         }
     }
 }
