@@ -1,5 +1,5 @@
 {
-    "id": "fidwell.v3.scenery_group.namerica_dkso",
+    "id": "fidwell.v3.1.scenery_group.namerica_dkso",
     "authors": ["fidwell"],
     "version": "1.0",
     "sourceGame": "custom",
@@ -30,7 +30,7 @@
             "rct2ww.scenery_wall.wlog06",
             "fidwell.v1.scenery_wall.wlog06",
             "rct2ww.scenery_large.1x2lgchm",
-            "fidwell.v1.scenery_large.1x2lgchm",
+            "fidwell.v2.scenery_large.1x2lgchm",
             "rct2ww.scenery_small.sb2sky01",
             "fidwell.v1.scenery_small.sb2sky01",
             "rct2ww.scenery_small.sbskys01",
@@ -225,23 +225,23 @@
     ],
     "strings": {
         "name": {
-            "en-GB": "DKSO v3 North America Theming",
-            "fr-FR": "DKSO v3 Thème Amérique du Nord",
-            "de-DE": "DKSO v3 Nordamerika-Thema",
-            "es-ES": "DKSO v3 Temática norteamericana",
-            "it-IT": "DKSO v3 Tema nordamericano",
-            "nl-NL": "DKSO v3 Noord-Amerikaans thema",
-            "sv-SE": "DKSO v3 Nordamerikanskt tema",
-            "cs-CZ": "DKSO v3 Severní Amerika",
-            "ko-KR": "DKSO v3 북아메리카 테마",
-            "pl-PL": "DKSO v3 Wystrój północnoamerykański",
-            "ru-RU": "DKSO v3 Тема Северной Америки",
-            "pt-BR": "DKSO v3 Temática Norte-americana",
-            "ja-JP": "DKSO v3 北アメリカのテーマ",
-            "eo-ZZ": "DKSO v3 Nordamerika Temo",
-            "ca-ES": "DKSO v3 Temàtica nord-americana",
-            "fi-FI": "DKSO v3 Pohjoisamerikkalaisteemaus",
-            "zh-CN": "DKSO v3 北美洲主题"
+            "en-GB": "DKSO v3.1 North America Theming",
+            "fr-FR": "DKSO v3.1 Thème Amérique du Nord",
+            "de-DE": "DKSO v3.1 Nordamerika-Thema",
+            "es-ES": "DKSO v3.1 Temática norteamericana",
+            "it-IT": "DKSO v3.1 Tema nordamericano",
+            "nl-NL": "DKSO v3.1 Noord-Amerikaans thema",
+            "sv-SE": "DKSO v3.1 Nordamerikanskt tema",
+            "cs-CZ": "DKSO v3.1 Severní Amerika",
+            "ko-KR": "DKSO v3.1 북아메리카 테마",
+            "pl-PL": "DKSO v3.1 Wystrój północnoamerykański",
+            "ru-RU": "DKSO v3.1 Тема Северной Америки",
+            "pt-BR": "DKSO v3.1 Temática Norte-americana",
+            "ja-JP": "DKSO v3.1 北アメリカのテーマ",
+            "eo-ZZ": "DKSO v3.1 Nordamerika Temo",
+            "ca-ES": "DKSO v3.1 Temàtica nord-americana",
+            "fi-FI": "DKSO v3.1 Pohjoisamerikkalaisteemaus",
+            "zh-CN": "DKSO v3.1 北美洲主题"
         }
     }
 }
